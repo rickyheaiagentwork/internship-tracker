@@ -220,9 +220,10 @@ function renderCards() {
         <div class="card-footer">
           <div class="card-links">
             ${e.posting_link ? `<a href="${escAttr(e.posting_link)}" target="_blank" rel="noopener">Posting ↗</a>` : ''}
-            ${e.application_link ? `<a href="${escAttr(e.application_link)}" target="_blank" rel="noopener">Apply ↗</a>` : ''}
+            ${e.application_link ? `<a href="${escAttr(e.application_link)}" target="_blank" rel="noopener">Portal ↗</a>` : ''}
           </div>
           <div class="card-actions">
+            ${e.posting_link ? `<a href="${escAttr(e.posting_link)}" target="_blank" rel="noopener" class="apply-now-btn">🎯 Apply Now</a>` : ''}
             <button class="btn btn-ghost btn-sm" onclick="editEntry('${e.id}')">✏️ Edit</button>
           </div>
         </div>

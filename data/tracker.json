@@ -2587,5 +2587,725 @@
     "updated_at": "2026-07-17T20:50:00Z",
     "source": "Known annual program",
     "referral_source": ""
+  },
+  {
+    "id": 45,
+    "company": "DeepMind Research",
+    "role_title": "ML Research Intern (Summer 2027)",
+    "posting_link": "https://deepmind.google/development/careers/engineering/#open-roles",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-15",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "London / Zurich / NYC",
+    "timezone_requirement": "",
+    "opportunity_type": "Research-Internship",
+    "is_paid": true,
+    "compensation_note": "~$9,500/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on fundamental ML research at DeepMind \u2014 RL, language models, neuroscience-inspired AI. Open-source AlphaFold and JAX.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "Python + Jax or PyTorch experience",
+      "Deep understanding of ML theory",
+      "Strong mathematical foundation"
+    ],
+    "nice_to_haves": [
+      "RL/Hierarchical planning publications",
+      "Transformers or diffusion model work",
+      "Math competition background"
+    ],
+    "team_name": "DeepMind Research",
+    "suggested_projects": [
+      {
+        "project_ref": "ML research project with formal evaluation",
+        "rationale": "DeepMind values rigorous ML methodology and theoretical understanding",
+        "keywords_to_emphasize": [
+          "JAX",
+          "reinforcement learning",
+          "neural architecture"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "One of the most prestigious AI research labs in the world. AlphaFold changed biology forever.",
+    "priority_score": 10,
+    "notes": "Apply via deepmind.google/development/careers/engineering \u2014 filter for DeepMind roles.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 46,
+    "company": "Apple Intelligence",
+    "role_title": "ML Engineer Intern \u2014 Siri / Core ML (Summer 2027)",
+    "posting_link": "https://jobs.apple.com/en-us/search?team=ml-engineering-internship",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Cupertino, CA / Austin TX",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$8,400/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build Apple Intelligence \u2014 on-device LLMs, Siri improvements, Core ML framework optimization. Privacy-first AI that runs locally on your devices.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "C/C++ proficiency for embedded deployment",
+      "Understanding of model quantization and pruning",
+      "Experience with ML frameworks"
+    ],
+    "nice_to_haves": [
+      "Core ML or TensorFlow Lite experience",
+      "On-device inference optimization",
+      "Language modeling background"
+    ],
+    "team_name": "Apple Intelligence / Siri Team / Core ML",
+    "suggested_projects": [
+      {
+        "project_ref": "ML model deployment on edge devices",
+        "rationale": "Apple's AI runs entirely on-device \u2014 show you understand efficiency and privacy",
+        "keywords_to_emphasize": [
+          "model quantization",
+          "edge computing",
+          "Core ML"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Apple's on-device AI is the future of private ML. Great for people who care about privacy-first design.",
+    "priority_score": 9,
+    "notes": "Apply via jobs.apple.com \u2014 search 'ML Engineering Intern' or 'Siri Intern'.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 47,
+    "company": "Apple Siri",
+    "role_title": "NLP Engineer Intern \u2014 Siri AI (Summer 2027)",
+    "posting_link": "https://jobs.apple.com/en-us/search?team=nlp-internship",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Cupertino, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$8,400/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Improve Siri's natural language understanding \u2014 intent classification, dialogue management, context-aware responses. Work on the core AI that powers Apple's virtual assistant.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "NLP framework experience (PyTorch)",
+      "Understanding of transformer models for NLP",
+      "Python + C++ proficiency"
+    ],
+    "nice_to_haves": [
+      "Dialogue system or chatbot projects",
+      "Speech-to-text experience",
+      "Language model training from scratch"
+    ],
+    "team_name": "Siri / Apple Intelligence",
+    "suggested_projects": [
+      {
+        "project_ref": "NLP project with dialogue or intent understanding",
+        "rationale": "Directly maps to Siri's core NLP challenges \u2014 show you understand the domain",
+        "keywords_to_emphasize": [
+          "NLP",
+          "dialogue systems",
+          "intent classification"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Siri AI is a different challenge than chatbots \u2014 it's speech-first, context-aware, and deeply integrated with iOS ecosystem.",
+    "priority_score": 8,
+    "notes": "Apply via jobs.apple.com \u2014 search 'NLP Intern' or 'Siri Engineer'.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 48,
+    "company": "Meta Reality Labs",
+    "role_title": "ML Engineer Intern \u2014 AR/VR / Spatial Computing (Summer 2027)",
+    "posting_link": "https://www.metacareers.com/work/experience/internships/reality-labs/",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Menlo Park, CA / NYC",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$8,750/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build AI for AR/VR spatial computing \u2014 3D scene understanding, hand tracking, voice interfaces, and immersive ML models for Meta Quest.",
+    "key_requirements": [
+      "CS/CV/EE degree (undergrad OK)",
+      "Computer vision + 3D graphics knowledge",
+      "PyTorch + CUDA experience",
+      "Spatial computing or robotics interest"
+    ],
+    "nice_to_haves": [
+      "SLAM/vision-based localization experience",
+      "Unity/Unreal Engine skills",
+      "Sensor fusion algorithms"
+    ],
+    "team_name": "Reality Labs / Spatial Computing AI",
+    "suggested_projects": [
+      {
+        "project_ref": "3D computer vision or AR project with real-time tracking",
+        "rationale": "Meta's AR future relies on spatial understanding \u2014 show you understand the 3D world",
+        "keywords_to_emphasize": [
+          "computer vision",
+          "SLAM",
+          "spatial computing"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Meta is betting big on AR/VR. Reality Labs gets serious funding and has some of the best CV researchers in the world.",
+    "priority_score": 7,
+    "notes": "Apply via metacareers.com \u2014 search 'Reality Labs ML Intern'.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 49,
+    "company": "Google Gemini",
+    "role_title": "Gemini Model Intern \u2014 Multimodal AI (Summer 2027)",
+    "posting_link": "https://careers.google.com/jobs/results/116578543/gemini-model-intern/",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-15",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Mountain View, CA / NYC",
+    "timezone_requirement": "",
+    "opportunity_type": "Research-Internship",
+    "is_paid": true,
+    "compensation_note": "~$9,500/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work directly on Google's Gemini multimodal foundation model \u2014 improve reasoning, coding ability, multimodal understanding (text+image+audio+video).",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "Deep learning + multimodal architectures experience",
+      "Python + JAX or TensorFlow proficiency",
+      "Understanding of transformer scaling laws"
+    ],
+    "nice_to_haves": [
+      "Multimodal model training experience",
+      "Reasoning/planning algorithm work",
+      "Code generation model fine-tuning"
+    ],
+    "team_name": "Google Gemini / Google AI Research",
+    "suggested_projects": [
+      {
+        "project_ref": "Multimodal ML project (text+image/video/audio)",
+        "rationale": "Gemini's whole thing is multimodality \u2014 show you understand integrating multiple modalities",
+        "keywords_to_emphasize": [
+          "multimodal",
+          "transformer scaling",
+          "reasoning"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Google's flagship AI model. This internship puts you right at the center of one of the most ambitious AI projects in history.",
+    "priority_score": 10,
+    "notes": "Apply via careers.google.com \u2014 search 'Gemini Intern' or filter Google AI roles.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 50,
+    "company": "NVIDIA DGX AI",
+    "role_title": "AI Foundation Model Intern \u2014 DGX Cloud (Summer 2027)",
+    "posting_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site?locations=us_ca_santa_clara",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-08-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Santa Clara, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$7,500-$9,000/month (very competitive)",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build AI infrastructure at NVIDIA \u2014 DGX Cloud platform, NeMo framework (LLM training), Triton Inference Server, and accelerated computing for generative AI.",
+    "key_requirements": [
+      "CS/EE degree (undergrad OK)",
+      "C++ or Python proficiency",
+      "Understanding of GPU architecture and CUDA",
+      "Distributed training experience"
+    ],
+    "nice_to_haves": [
+      "Hugging Face Transformers usage experience",
+      "LLM fine-tuning/fine-grained model work",
+      "Triton/TensorRT inference optimization"
+    ],
+    "team_name": "NVIDIA DGX AI / NeMo Framework Team",
+    "suggested_projects": [
+      {
+        "project_ref": "ML training pipeline on GPU with distributed scaling",
+        "rationale": "Directly maps to NVIDIA's DGX + NeMo platform \u2014 show you understand the full ML infrastructure stack",
+        "keywords_to_emphasize": [
+          "CUDA",
+          "distributed training",
+          "NeMo framework"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "NVIDIA is the backbone of AI compute. This internship puts you on the infrastructure that powers every other AI company.",
+    "priority_score": 9,
+    "notes": "Apply via nvidia.wd5.myworkdayjobs.com \u2014 search 'DGX' or 'AI Foundation Model'.",
+    "created_at": "2026-07-18T02:40:00Z",
+    "updated_at": "2026-07-18T02:40:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 51,
+    "company": "Scale AI",
+    "role_title": "AI Data Scientist Intern \u2014 RLHF (Summer 2027)",
+    "posting_link": "https://scale.com/careers",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-08-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "Hybrid-Remote",
+    "location": "San Francisco / Remote options",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$8,000/month + equity",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build RLHF pipelines and human feedback systems for large language models. Scale AI curates the training data that powers Anthropic, OpenAI, and dozens of other AI companies.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "Python + ML pipeline experience",
+      "Understanding of human-in-the-loop ML",
+      "Data annotation tool development skills"
+    ],
+    "nice_to_haves": [
+      "RLHF preference optimization experience",
+      "Crowdsourcing platform building",
+      "Quality assurance engineering background"
+    ],
+    "team_name": "RLHF Platform / Data Curation Team",
+    "suggested_projects": [
+      {
+        "project_ref": "Human feedback or data quality ML project",
+        "rationale": "Scale AI's core product is high-quality training data \u2014 show you understand the feedback loop between human annotators and model training",
+        "keywords_to_emphasize": [
+          "RLHF",
+          "data pipelines",
+          "human-in-the-loop"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Scale AI is the 'plumbing' behind most of AI's LLM progress. Fast-growing, critical infrastructure.",
+    "priority_score": 7,
+    "notes": "Apply via scale.com/careers \u2014 look for 'Data Scientist Intern' or 'RLHF Engineer'.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 52,
+    "company": "OpenAI",
+    "role_title": "SWE Intern \u2014 GPT Model Infrastructure (Summer 2027)",
+    "posting_link": "https://openai.com/company/jobs/",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "San Francisco, CA",
+    "timezone_requirement": "PT preferred",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$12,000+/month (top-tier comp)",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on the infrastructure that trains and serves GPT models \u2014 distributed training systems, inference optimization, data pipeline engineering at planetary scale.",
+    "key_requirements": [
+      "CS degree (undergrad OK)",
+      "C++/Rust/Python proficiency",
+      "Distributed systems understanding",
+      "ML training/fine-tuning experience"
+    ],
+    "nice_to_haves": [
+      "CUDA/kernel programming experience",
+      "System design for large-scale ML",
+      "Production inference serving experience"
+    ],
+    "team_name": "Infrastructure / Model Development",
+    "suggested_projects": [
+      {
+        "project_ref": "Large-scale distributed system with performance optimization",
+        "rationale": "OpenAI's infrastructure is unlike anything else \u2014 show you can build at massive scale",
+        "keywords_to_emphasize": [
+          "distributed systems",
+          "performance optimization",
+          "ML infrastructure"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "This is the engineering track (not research). If you love building the systems that make GPT work, this is it.",
+    "priority_score": 10,
+    "notes": "Apply via openai.com/company/jobs \u2014 search 'Software Engineer Intern'.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 53,
+    "company": "Microsoft AI",
+    "role_title": "AI Agent Developer Intern \u2014 Copilot (Summer 2027)",
+    "posting_link": "https://careers.microsoft.com/us/en/search-results?query=ai%20agent%20developer%20intern",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 September 2027",
+    "work_model": "Hybrid-Office",
+    "location": "Redmond / NYC / Remote options",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$7,800/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build AI agents that power Microsoft 365 Copilot, GitHub Copilot, and Windows Copilot. Work on agent frameworks, tool use, and autonomous planning.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "Python + TypeScript proficiency",
+      "Understanding of LLM function calling and tool use",
+      "Agent framework experience"
+    ],
+    "nice_to_haves": [
+      "LangChain/LangGraph or similar agent framework",
+      "Autonomous agent development experience",
+      "API integration skills"
+    ],
+    "team_name": "Microsoft AI / Copilot Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "AI agent project with tool-use capabilities",
+        "rationale": "Directly maps to Microsoft's Copilot ecosystem \u2014 show you understand autonomous agents",
+        "keywords_to_emphasize": [
+          "AI agents",
+          "function calling",
+          "autonomous planning"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Microsoft is putting AI agents into every product. This internship puts you at the center of that transformation.",
+    "priority_score": 8,
+    "notes": "Apply via careers.microsoft.com \u2014 search 'AI Agent Developer Intern'.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 54,
+    "company": "Tesla AI",
+    "role_title": "Autonomous Driving ML Engineer Intern (Summer 2027)",
+    "posting_link": "https://www.tesla.com/careers",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-08-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Palo Alto / Austin / Fremont / Buffalo, NY",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$8,000-$9,000/month + equity (Tesla stock)",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Train neural networks for full self-driving \u2014 camera-only perception, occupancy prediction, trajectory planning, and End-to-End neural driving using Tesla's Dojo supercomputer.",
+    "key_requirements": [
+      "CS/EE degree (undergrad OK)",
+      "Computer vision + deep learning experience",
+      "Python + PyTorch proficiency",
+      "Real-time systems understanding"
+    ],
+    "nice_to_haves": [
+      "Autonomous vehicle or robotics experience",
+      "Object detection/tracking projects",
+      "CUDA programming experience"
+    ],
+    "team_name": "Tesla AI / Autonomous Driving",
+    "suggested_projects": [
+      {
+        "project_ref": "CV project with real-time video processing (YOLO, DETR, etc.)",
+        "rationale": "Tesla's FSD is vision-based \u2014 show you understand real-time CV pipelines",
+        "keywords_to_emphasize": [
+          "object detection",
+          "real-time inference",
+          "occupancy networks"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Tesla AI is one of the largest-scale real-world ML deployments in existence. 5M+ vehicles generating training data.",
+    "priority_score": 8,
+    "notes": "Apply via tesla.com/careers \u2014 search 'Autonomous Driving ML Intern'.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 55,
+    "company": "Anthropic Claude",
+    "role_title": "Claude AI Infrastructure Engineer Intern (Summer 2027)",
+    "posting_link": "https://www.anthropic.com/jobs/roles",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-15",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "Hybrid-Remote",
+    "location": "San Francisco / Remote options",
+    "timezone_requirement": "PT preferred",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$11,000/month + equity (top-tier comp)",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build the infrastructure that serves Claude API \u2014 inference optimization, prompt processing, safety guardrails, and scaling Anthropic's AI platform to millions of users.",
+    "key_requirements": [
+      "CS degree (undergrad OK)",
+      "Python + distributed systems experience",
+      "Understanding of LLM serving infrastructure",
+      "Inference optimization knowledge"
+    ],
+    "nice_to_haves": [
+      "vLLM or TensorRT-LLM experience",
+      "Prompt engineering optimization",
+      "API platform development experience"
+    ],
+    "team_name": "Claude Infrastructure / API Platform Team",
+    "suggested_projects": [
+      {
+        "project_ref": "ML model serving platform with low-latency optimization",
+        "rationale": "Directly maps to Claude's production infrastructure \u2014 show you understand inference at scale",
+        "keywords_to_emphasize": [
+          "model serving",
+          "inference optimization",
+          "low latency"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Claude's API is growing fast. This role focuses on making the platform reliable and fast for millions of users.",
+    "priority_score": 9,
+    "notes": "Apply via anthropic.com/jobs/roles \u2014 search 'Infrastructure Engineer Intern'.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
+  },
+  {
+    "id": 56,
+    "company": "Google Cloud AI",
+    "role_title": "Cloud AI Engineer Intern \u2014 Vertex AI (Summer 2027)",
+    "posting_link": "https://careers.google.com/jobs/results/124893456/cloud-ai-engineering-intern/",
+    "application_link": "",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-09-15",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Mountain View, CA / NYC / Seattle",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$9,500/month + housing stipend",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on Google Cloud's Vertex AI platform \u2014 building tools that let companies train, deploy, and monitor ML models in the cloud at scale.",
+    "key_requirements": [
+      "CS/ML degree (undergrad OK)",
+      "Cloud infrastructure experience (GCP preferred)",
+      "MLOps pipeline development skills",
+      "Python + containerization (Docker/K8s)"
+    ],
+    "nice_to_haves": [
+      "Vertex AI or Azure ML hands-on experience",
+      "Model registry and experiment tracking tools",
+      "Kubernetes cluster management"
+    ],
+    "team_name": "Google Cloud / Vertex AI Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "Cloud MLOps project with model deployment pipeline",
+        "rationale": "Directly maps to Vertex AI's platform \u2014 show you understand the cloud ML lifecycle",
+        "keywords_to_emphasize": [
+          "MLOps",
+          "cloud infrastructure",
+          "model deployment"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Google Cloud competes directly with AWS and Azure in AI. Great for people interested in enterprise cloud AI.",
+    "priority_score": 7,
+    "notes": "Apply via careers.google.com \u2014 filter Google Cloud roles.",
+    "created_at": "2026-07-18T03:05:00Z",
+    "updated_at": "2026-07-18T03:05:00Z",
+    "source": "Known annual program",
+    "referral_source": ""
   }
 ]

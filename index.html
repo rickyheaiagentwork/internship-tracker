@@ -239,6 +239,22 @@ button, select, input, textarea {
 .card-actions { display: flex; gap: 4px; }
 .card-links { font-size: 0.75rem; color: var(--text-muted); }
 .card-links a { margin-right: 8px; color: var(--accent-blue); }
+.apply-now-btn {
+  display: inline-block; padding: 6px 16px;
+  background: linear-gradient(135deg, #3fb950, #2ea043);
+  color: white !important; border-radius: 20px; font-size: 0.82rem;
+  font-weight: 600; text-decoration: none; cursor: pointer;
+  transition: all var(--transition); border: none; white-space: nowrap;
+}
+.apply-now-btn:hover {
+  background: linear-gradient(135deg, #5ee05e, #3fb950);
+  transform: scale(1.05); box-shadow: 0 2px 8px rgba(63,185,80,0.4);
+}
+.deadline-urgent .card { border-color: #f85149; border-width: 2px; animation: pulse-urgent 2s infinite; }
+@keyframes pulse-urgent {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(248,81,73,0.3); }
+  50% { box-shadow: 0 0 0 6px rgba(248,81,73,0); }
+}
 
 /* ========== DROPDOWN MENU ========== */
 .dropdown-menu {
