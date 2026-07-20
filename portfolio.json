@@ -1,0 +1,115 @@
+{
+  "created_at": "2026-07-20T18:50:00Z",
+  "updated_at": "2026-07-20T18:50:00Z",
+  "watchlist": {
+    "low_risk_long_term": [
+      {
+        "ticker": "NXST",
+        "name": "Nexstar Media Group",
+        "type": "dividend_growth",
+        "yield": "4.1%",
+        "price_per_share": 182.18,
+        "sector": "Media / Broadcasting",
+        "notes": "12yr dividend growth streak, acquiring Tegna"
+      },
+      {
+        "ticker": "VCTR",
+        "name": "Victory Capital Holdings",
+        "type": "dividend_growth",
+        "yield": "3.1%",
+        "price_per_share": 63.34,
+        "sector": "Asset Management",
+        "notes": "Doubled dividend since 2022, payout ratio 49.7%"
+      },
+      {
+        "ticker": "MTB",
+        "name": "M&T Bank Corporation",
+        "type": "dividend_growth",
+        "yield": "3.2%",
+        "price_per_share": 186.96,
+        "sector": "Banking",
+        "notes": "Sub-40% payout ratio, 8yr dividend growth, conservative lending"
+      },
+      {
+        "ticker": "PECO",
+        "name": "Phillips Edison & Company",
+        "type": "monthly_dividend_reit",
+        "yield": "3.6%",
+        "price_per_share": 34.65,
+        "sector": "Real Estate (grocery-anchored)",
+        "notes": "Monthly dividends, grocery REIT, investment-grade balance sheet"
+      },
+      {
+        "ticker": "DOC",
+        "name": "Healthpeak Properties",
+        "type": "monthly_dividend_reit",
+        "yield": "7.0%",
+        "price_per_share": 17.35,
+        "sector": "Real Estate (medical office)",
+        "notes": "Highest yield in list, monthly dividends — watch for dividend cuts"
+      }
+    ],
+    "high_risk_short_term": [
+      {
+        "ticker": "SMR",
+        "name": "NuScale Power Corporation",
+        "type": "small_cap_momentum",
+        "sector": "Nuclear / Clean Energy",
+        "notes": "Early-stage SMR developer, high volatility, catalyst-driven"
+      },
+      {
+        "ticker": "EOSE",
+        "name": "Eos Energy Enterprises",
+        "type": "micro_cap_momentum",
+        "sector": "Battery / Clean Energy Storage",
+        "notes": "Micro-cap battery play, extremely volatile, low liquidity"
+      },
+      {
+        "ticker": "ZETA",
+        "name": "Zeta Global",
+        "type": "small_cap_growth",
+        "sector": "AI / Tech SaaS",
+        "notes": "Small-cap growth riding AI momentum"
+      },
+      {
+        "ticker": "RKLB",
+        "name": "Rocket Lab USA",
+        "type": "growth_stock",
+        "sector": "Aerospace / Defense",
+        "notes": "Space plays with Neutron rocket program, moving to revenue phase"
+      }
+    ]
+  },
+  "positions": {
+    "current": [
+      {
+        "ticker": "MUU",
+        "name": "Direxion Daily MU Bull 2X Shares",
+        "type": "leveraged_etf",
+        "shares_held": 30,
+        "cost_basis_per_share": 30.99,
+        "total_cost": 929.70,
+        "notes": "2x leveraged on Micron — high decay risk for long-term holding"
+      },
+      {
+        "ticker": "SOXL",
+        "name": "Direxion Daily Semiconductor Bull 3X Shares",
+        "type": "leveraged_etf",
+        "shares_held": 3,
+        "cost_basis_per_share": 148.48,
+        "total_cost": 445.44,
+        "notes": "3x leveraged semiconductors — beta 7.64, extreme volatility"
+      }
+    ],
+    "alerts": [
+      {
+        "ticker": "SOXL",
+        "message": "Bought near peak — YTD up 222% but cost basis $148 vs current ~$135"
+      },
+      {
+        "ticker": "MUU",
+        "message": "Slightly underwater at entry ($30.99 vs $30.10)"
+      }
+    ]
+  }
+}
