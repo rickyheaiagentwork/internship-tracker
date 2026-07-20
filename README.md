@@ -29,6 +29,14 @@ Filter your targets by:
 - **Status:** All stages from Discovered → Accepted
 - **Work Model:** Remote / Hybrid / Onsite
 
+## 📂 Detailed Category Guides
+
+For a cleaner, focused view by domain, check these dedicated guides:
+
+- **[🤖 AI / ML Internships](README-AI-ML.md)** — 21 pure AI/ML roles (LLM, CV, NLP, robotics, research)
+- **[📊 Data Science & Infrastructure](README-DATA-SCIENCE.md)** — 28 data/platform/engineering/fellowship roles
+- **[🧬 Bio + AI Internships](README-BIO-AI.md)** — 7 biotech/healthcare AI / drug discovery roles
+
 ## 📋 Categories
 
 ### 🤖 AI/ML (Priority Targets)
