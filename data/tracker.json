@@ -10,7 +10,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "Mountain View, CA / Global offices",
     "timezone_requirement": "",
@@ -51,7 +51,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Google SWE internship is the gold standard \u2014 apply early. Their process typically includes OA + 2 technical rounds.",
+    "personal_note": "Google SWE internship is the gold standard — apply early. Their process typically includes OA + 2 technical rounds.",
     "priority_score": 9,
     "notes": "Opens applications ~July each year for Summer following. Strong OA (coding round) is the first gate.",
     "created_at": "2026-07-17T22:55:00Z",
@@ -70,7 +70,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Menlo Park, CA / Global offices",
     "timezone_requirement": "",
@@ -101,7 +101,7 @@
     "suggested_projects": [
       {
         "project_ref": "Full-stack project with React backend/frontend",
-        "rationale": "Meta uses React heavily \u2014 shows framework familiarity",
+        "rationale": "Meta uses React heavily — shows framework familiarity",
         "keywords_to_emphasize": [
           "React",
           "Node.js",
@@ -130,7 +130,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Cupertino, CA / Austin, TX / Ireland",
     "timezone_requirement": "",
@@ -190,7 +190,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Seattle, WA / Global offices",
     "timezone_requirement": "",
@@ -221,7 +221,7 @@
     "suggested_projects": [
       {
         "project_ref": "Distributed system or cloud-based project",
-        "rationale": "Amazon's scale is unmatched \u2014 show you can think big",
+        "rationale": "Amazon's scale is unmatched — show you can think big",
         "keywords_to_emphasize": [
           "distributed systems",
           "scalability",
@@ -250,7 +250,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Remote",
     "location": "Redmond, WA / Global offices",
     "timezone_requirement": "",
@@ -302,7 +302,7 @@
   {
     "id": 6,
     "company": "NVIDIA",
-    "role_title": "Software Engineer Intern \u2014 GPU/ML Infrastructure",
+    "role_title": "Software Engineer Intern — GPU/ML Infrastructure",
     "posting_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site",
     "application_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site/job/Intern--Software-Engineer/JOB-1039487",
     "director_link": "",
@@ -310,13 +310,13 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Santa Clara, CA / Austin, TX / Remote options vary",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K annualized) \u2014 highly competitive",
+    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K annualized) — highly competitive",
     "is_stem": true,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -351,9 +351,9 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Huge growth company \u2014 great for ML systems people. Interview includes deep technical questions on systems/parallel computing.",
+    "personal_note": "Huge growth company — great for ML systems people. Interview includes deep technical questions on systems/parallel computing.",
     "priority_score": 9,
-    "notes": "NVIDIA is hot right now \u2014 apply early. They hire both SWE and ML internship roles.",
+    "notes": "NVIDIA is hot right now — apply early. They hire both SWE and ML internship roles.",
     "created_at": "2026-07-17T22:55:00Z",
     "updated_at": "2026-07-17T22:55:00Z",
     "source": "Known annual program",
@@ -370,13 +370,13 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "San Francisco, CA",
     "timezone_requirement": "PT preferred",
     "opportunity_type": "Research-Internship",
     "is_paid": true,
-    "compensation_note": "~$12,000+/month (~$144K+ annualized) \u2014 top-tier comp with equity",
+    "compensation_note": "~$12,000+/month (~$144K+ annualized) — top-tier comp with equity",
     "is_stem": true,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -411,7 +411,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Extremely competitive \u2014 top 0.1%. Need strong research or systems background.",
+    "personal_note": "Extremely competitive — top 0.1%. Need strong research or systems background.",
     "priority_score": 10,
     "notes": "They value deep technical depth over breadth. A single impressive project beats many mediocre ones.",
     "created_at": "2026-07-17T22:55:00Z",
@@ -430,7 +430,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Seattle / Remote options",
     "timezone_requirement": "",
@@ -461,7 +461,7 @@
     "suggested_projects": [
       {
         "project_ref": "API-heavy project with clean service architecture",
-        "rationale": "Stripe's whole business is APIs \u2014 show you get developer experience",
+        "rationale": "Stripe's whole business is APIs — show you get developer experience",
         "keywords_to_emphasize": [
           "REST API",
           "idempotency",
@@ -490,7 +490,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / New York / Austin",
     "timezone_requirement": "",
@@ -550,7 +550,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Remote",
     "location": "New York, NY / Boston / Remote options",
     "timezone_requirement": "",
@@ -581,7 +581,7 @@
     "suggested_projects": [
       {
         "project_ref": "Monitoring/telemetry or cloud infrastructure project",
-        "rationale": "Datadog's core product is monitoring \u2014 show you understand the domain",
+        "rationale": "Datadog's core product is monitoring — show you understand the domain",
         "keywords_to_emphasize": [
           "observability",
           "metrics",
@@ -610,7 +610,7 @@
     "season": "Fall 2026",
     "deadline": "2026-10-15",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 June 2027",
+    "start_date_target": "September 2026 – June 2027",
     "work_model": "Remote",
     "location": "Fully Remote (US-based)",
     "timezone_requirement": "Any US timezone",
@@ -670,7 +670,7 @@
     "season": "Fall 2026",
     "deadline": "2026-08-15",
     "decision_deadline": null,
-    "start_date_target": "October 2026 \u2013 August 2028",
+    "start_date_target": "October 2026 – August 2028",
     "work_model": "Remote/Hybrid",
     "location": "Global (with Google faculty mentor)",
     "timezone_requirement": "",
@@ -700,9 +700,9 @@
     "suggested_projects": [],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "PhD-only \u2014 keep for later if you pursue grad school. Extremely prestigious in the field.",
+    "personal_note": "PhD-only — keep for later if you pursue grad school. Extremely prestigious in the field.",
     "priority_score": 5,
-    "notes": "Requires PhD enrollment. Mark as 'keep for later' for now but save this \u2014 it's gold for research careers.",
+    "notes": "Requires PhD enrollment. Mark as 'keep for later' for now but save this — it's gold for research careers.",
     "created_at": "2026-07-17T22:55:00C",
     "updated_at": "2026-07-17T22:55:00Z",
     "source": "Known annual fellowship",
@@ -719,7 +719,7 @@
     "season": "Fall 2026",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 January 2027 (rolling)",
+    "start_date_target": "September 2026 – January 2027 (rolling)",
     "work_model": "Hybrid-Remote",
     "location": "Redmond, WA / NYC / Seattle / Remote options",
     "timezone_requirement": "",
@@ -734,7 +734,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_title_2": "Research Scientist Intern \u2014 Fall 2026 cohort",
+    "role_title_2": "Research Scientist Intern — Fall 2026 cohort",
     "role_summary": "Research internship at MSR working on AI, systems, HCI, or theory. Publishable research expected at top-tier conferences like NeurIPS, ICML, or OSDI.",
     "key_requirements": [
       "MS or PhD student in CS or related field",
@@ -750,7 +750,7 @@
     "suggested_projects": [
       {
         "project_ref": "Research-oriented project with paper/writeup component",
-        "rationale": "MSR expects publishable work \u2014 show research maturity",
+        "rationale": "MSR expects publishable work — show research maturity",
         "keywords_to_emphasize": [
           "research methodology",
           "paper writing",
@@ -779,7 +779,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Remote options by team",
     "timezone_requirement": "",
@@ -794,7 +794,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build enterprise SaaS products \u2014 CRM, Slack integration, Einstein AI, or MuleSoft integration platforms. Work on the platform that powers millions of businesses.",
+    "role_summary": "Build enterprise SaaS products — CRM, Slack integration, Einstein AI, or MuleSoft integration platforms. Work on the platform that powers millions of businesses.",
     "key_requirements": [
       "CS degree or equivalent",
       "Java/Apex/JavaScript skills",
@@ -810,7 +810,7 @@
     "suggested_projects": [
       {
         "project_ref": "SaaS product or API platform project",
-        "rationale": "Salesforce's whole business is enterprise SaaS \u2014 show you get B2B",
+        "rationale": "Salesforce's whole business is enterprise SaaS — show you get B2B",
         "keywords_to_emphasize": [
           "SaaS",
           "APIs",
@@ -822,7 +822,7 @@
     "cover_letter_hook": "",
     "personal_note": "Good balance of comp + culture. Their internship program is large and structured.",
     "priority_score": 6,
-    "notes": "OA includes DSA + system design questions. Strong enterprise focus \u2014 different from consumer tech.",
+    "notes": "OA includes DSA + system design questions. Strong enterprise focus — different from consumer tech.",
     "created_at": "2026-07-17T22:55:00Z",
     "updated_at": "2026-07-17T22:55:00Z",
     "source": "Known annual program",
@@ -839,7 +839,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Remote",
     "location": "Fully Remote (Canada/US)",
     "timezone_requirement": "ET or PT preferred",
@@ -899,13 +899,13 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Remote",
     "location": "New York / Stockholm / Remote options",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$6,500/month (~$78K annualized US rate) \u2014 lower EU rates",
+    "compensation_note": "~$6,500/month (~$78K annualized US rate) — lower EU rates",
     "is_stem": true,
     "visa_sponsorship": "Limited",
     "status": "Discovered",
@@ -1001,7 +1001,7 @@
   {
     "id": 18,
     "company": "Meta AI Research (FAIR)",
-    "role_title": "Research Intern \u2014 AI/ML (Fall 2026)",
+    "role_title": "Research Intern — AI/ML (Fall 2026)",
     "posting_link": "https://ai.facebook.com/jobs/",
     "application_link": "https://www.metacareers.com/careerprograms/research/",
     "director_link": "",
@@ -1009,7 +1009,7 @@
     "season": "Fall 2026",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 January 2027 (flexible)",
+    "start_date_target": "September 2026 – January 2027 (flexible)",
     "work_model": "Hybrid-Remote",
     "location": "Menlo Park / NYC / Remote options for research",
     "timezone_requirement": "",
@@ -1024,7 +1024,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Research internship at FAIR working on foundational AI \u2014 language models, computer vision, multimodal learning, or robotics.",
+    "role_summary": "Research internship at FAIR working on foundational AI — language models, computer vision, multimodal learning, or robotics.",
     "key_requirements": [
       "MS or PhD student (preferred) or exceptional undergrad",
       "ML/AI research experience with publications",
@@ -1090,7 +1090,7 @@
     "suggested_projects": [],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Check eligibility before applying \u2014 restricted to underrepresented groups in computing. Great if eligible.",
+    "personal_note": "Check eligibility before applying — restricted to underrepresented groups in computing. Great if eligible.",
     "priority_score": 0,
     "notes": "Scholarship + internship pipeline. Deadline ~October. Keep track but verify eligibility criteria.",
     "created_at": "2026-07-17T22:55:00Z",
@@ -1109,7 +1109,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Denver / NYC / DC / Palo Alto",
     "timezone_requirement": "",
@@ -1124,7 +1124,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build data platform tools for government and enterprise. Work on Palantir Gotham, Foundry, or Apollo platforms \u2014 complex data integration at scale.",
+    "role_summary": "Build data platform tools for government and enterprise. Work on Palantir Gotham, Foundry, or Apollo platforms — complex data integration at scale.",
     "key_requirements": [
       "CS degree or equivalent",
       "Strong DSA (hard coding rounds)",
@@ -1169,7 +1169,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "London / Zurich / NYC / Mountain View",
     "timezone_requirement": "",
@@ -1184,7 +1184,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Work on foundational AI models at DeepMind \u2014 reinforcement learning, language models, multimodal systems. Engineering roles focus on training infrastructure and scaling ML workloads.",
+    "role_summary": "Work on foundational AI models at DeepMind — reinforcement learning, language models, multimodal systems. Engineering roles focus on training infrastructure and scaling ML workloads.",
     "key_requirements": [
       "Bachelor's in CS/ML with strong coursework in ML/DL",
       "Proficiency in Python, TensorFlow or PyTorch",
@@ -1229,7 +1229,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Remote options for certain roles",
     "timezone_requirement": "PT preferred",
@@ -1260,7 +1260,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML project with focus on model interpretability or safety",
-        "rationale": "Anthropic's differentiator is safety-first AI \u2014 show you get that philosophy",
+        "rationale": "Anthropic's differentiator is safety-first AI — show you get that philosophy",
         "keywords_to_emphasize": [
           "alignment",
           "interpretability",
@@ -1270,7 +1270,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Much smaller than Google/Meta \u2014 every intern matters. Great for people who care about AI safety and responsible development.",
+    "personal_note": "Much smaller than Google/Meta — every intern matters. Great for people who care about AI safety and responsible development.",
     "priority_score": 10,
     "notes": "Application process includes coding + ML theory questions. Strong emphasis on thoughtful problem-solving over speed.",
     "created_at": "2026-07-17T20:50:00Z",
@@ -1289,7 +1289,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Remote",
     "location": "Fully Remote (NYC office available)",
     "timezone_requirement": "Any timezone OK",
@@ -1349,7 +1349,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Remote options",
     "timezone_requirement": "",
@@ -1364,7 +1364,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build the data layer for AI \u2014 annotation pipelines, synthetic data generation, RLHF infrastructure, and data curation at massive scale.",
+    "role_summary": "Build the data layer for AI — annotation pipelines, synthetic data generation, RLHF infrastructure, and data curation at massive scale.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "Python + ML pipeline experience",
@@ -1380,7 +1380,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML data pipeline or annotation tool project",
-        "rationale": "Scale AI's core business is data for ML \u2014 show you understand the data-first approach",
+        "rationale": "Scale AI's core business is data for ML — show you understand the data-first approach",
         "keywords_to_emphasize": [
           "data pipelines",
           "annotation",
@@ -1409,7 +1409,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "Toronto / NYC / Remote options",
     "timezone_requirement": "",
@@ -1440,7 +1440,7 @@
     "suggested_projects": [
       {
         "project_ref": "LLM application with RAG or fine-tuning",
-        "rationale": "Cohere's product is enterprise LLM infrastructure \u2014 show you understand the stack",
+        "rationale": "Cohere's product is enterprise LLM infrastructure — show you understand the stack",
         "keywords_to_emphasize": [
           "RAG",
           "embeddings",
@@ -1469,7 +1469,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Dublin / Remote options",
     "timezone_requirement": "",
@@ -1484,7 +1484,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build MLflow, Delta Lake, or Unity Catalog \u2014 the infrastructure layer for enterprise AI/ML workflows. Work on large-scale data processing and model management.",
+    "role_summary": "Build MLflow, Delta Lake, or Unity Catalog — the infrastructure layer for enterprise AI/ML workflows. Work on large-scale data processing and model management.",
     "key_requirements": [
       "CS degree (undergrad OK)",
       "Python + Spark experience",
@@ -1500,7 +1500,7 @@
     "suggested_projects": [
       {
         "project_ref": "Large-scale data pipeline with ML integration",
-        "rationale": "Databricks is the bridge between big data and AI \u2014 show both sides",
+        "rationale": "Databricks is the bridge between big data and AI — show both sides",
         "keywords_to_emphasize": [
           "Spark",
           "MLOps",
@@ -1521,7 +1521,7 @@
   {
     "id": 27,
     "company": "Tempus",
-    "role_title": "AI/ML Engineer Intern \u2014 Precision Medicine (Summer 2027)",
+    "role_title": "AI/ML Engineer Intern — Precision Medicine (Summer 2027)",
     "posting_link": "https://www.tempus.com/careers/",
     "application_link": "https://www.greenhouse.io/tempus",
     "director_link": "",
@@ -1529,7 +1529,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Chicago, IL / NYC",
     "timezone_requirement": "",
@@ -1544,7 +1544,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Apply AI to precision medicine \u2014 analyze genomic data, clinical records, and imaging to personalize cancer treatment. Tempus has one of the largest clinical datasets in the world.",
+    "role_summary": "Apply AI to precision medicine — analyze genomic data, clinical records, and imaging to personalize cancer treatment. Tempus has one of the largest clinical datasets in the world.",
     "key_requirements": [
       "CS/Bioinformatics degree (undergrad OK)",
       "Python + ML framework experience",
@@ -1581,7 +1581,7 @@
   {
     "id": 28,
     "company": "Insilico Medicine",
-    "role_title": "AI/ML Intern \u2014 Drug Discovery (Summer 2027)",
+    "role_title": "AI/ML Intern — Drug Discovery (Summer 2027)",
     "posting_link": "https://www.insilicomedicine.com/careers/",
     "application_link": "https://insilicomedicine.wd5.myworkdayjobs.com/en-US/insilicomedicine",
     "director_link": "",
@@ -1589,7 +1589,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Office",
     "location": "Baltimore / Hong Kong / Remote options",
     "timezone_requirement": "",
@@ -1604,7 +1604,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Use AI for drug discovery \u2014 generative models for molecular design, protein folding prediction, target identification. They have brought an AI-discovered drug into clinical trials.",
+    "role_summary": "Use AI for drug discovery — generative models for molecular design, protein folding prediction, target identification. They have brought an AI-discovered drug into clinical trials.",
     "key_requirements": [
       "CS/Chemical Biology/Bioinformatics degree",
       "Python + ML framework experience",
@@ -1620,7 +1620,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML project with molecular/biological data or GNNs",
-        "rationale": "Insilico's work is at the chemistry-AI intersection \u2014 show you understand both",
+        "rationale": "Insilico's work is at the chemistry-AI intersection — show you understand both",
         "keywords_to_emphasize": [
           "GNNs",
           "molecular design",
@@ -1641,7 +1641,7 @@
   {
     "id": 29,
     "company": "Verily (Alphabet)",
-    "role_title": "AI/ML Intern \u2014 Life Sciences (Summer 2027)",
+    "role_title": "AI/ML Intern — Life Sciences (Summer 2027)",
     "posting_link": "https://www.verily.com/careers/",
     "application_link": "https://verily.wd5.myworkdayjobs.com/en-US/verilycareers",
     "director_link": "",
@@ -1649,7 +1649,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "South San Francisco / Mountain View",
     "timezone_requirement": "",
@@ -1664,7 +1664,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Apply AI and data science to life sciences \u2014 health monitoring, drug development, and medical diagnostics. Alphabet's venture into healthcare technology.",
+    "role_summary": "Apply AI and data science to life sciences — health monitoring, drug development, and medical diagnostics. Alphabet's venture into healthcare technology.",
     "key_requirements": [
       "CS/Health Informatics degree (undergrad OK)",
       "Python + ML framework experience",
@@ -1680,7 +1680,7 @@
     "suggested_projects": [
       {
         "project_ref": "Healthcare AI project (medical imaging, wearable data, or EHR analysis)",
-        "rationale": "Verily's core mission is health through technology \u2014 show you understand the intersection",
+        "rationale": "Verily's core mission is health through technology — show you understand the intersection",
         "keywords_to_emphasize": [
           "healthcare AI",
           "medical imaging",
@@ -1701,7 +1701,7 @@
   {
     "id": 30,
     "company": "Flatiron Health (Roche)",
-    "role_title": "Machine Learning Intern \u2014 Real-World Data (Summer 2027)",
+    "role_title": "Machine Learning Intern — Real-World Data (Summer 2027)",
     "posting_link": "https://www.flatironhealth.com/careers/",
     "application_link": "https://companies.tal.io/flatiron_health_careers",
     "director_link": "",
@@ -1709,7 +1709,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "New York, NY",
     "timezone_requirement": "",
@@ -1740,7 +1740,7 @@
     "suggested_projects": [
       {
         "project_ref": "Health data ML project (EHR analysis, NLP on clinical text)",
-        "rationale": "Flatiron's entire product is real-world health data \u2014 show you can work with messy medical data",
+        "rationale": "Flatiron's entire product is real-world health data — show you can work with messy medical data",
         "keywords_to_emphasize": [
           "real-world data",
           "clinical NLP",
@@ -1769,7 +1769,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Office",
     "location": "Salt Lake City / Remote options",
     "timezone_requirement": "",
@@ -1800,7 +1800,7 @@
     "suggested_projects": [
       {
         "project_ref": "Bioinformatics or computational biology project",
-        "rationale": "Recursion uses ML on biological imaging and genomic data \u2014 show both CS and bio understanding",
+        "rationale": "Recursion uses ML on biological imaging and genomic data — show both CS and bio understanding",
         "keywords_to_emphasize": [
           "bioinformatics",
           "computational biology",
@@ -1821,7 +1821,7 @@
   {
     "id": 32,
     "company": "Roche / Genentech",
-    "role_title": "AI/ML Intern \u2014 Drug Discovery & Precision Medicine (Summer 2027)",
+    "role_title": "AI/ML Intern — Drug Discovery & Precision Medicine (Summer 2027)",
     "posting_link": "https://careers.gene.com/careers/en-us",
     "application_link": "https://jobs-gencom.icims.com/jobs/search?ss=1&searchKeyword=internship",
     "director_link": "",
@@ -1829,7 +1829,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "South San Francisco / Basel, Switzerland",
     "timezone_requirement": "",
@@ -1872,7 +1872,7 @@
     "cover_letter_hook": "",
     "personal_note": "Genentech is one of the most respected biotech companies. The AI integration in pharma is accelerating fast.",
     "priority_score": 7,
-    "notes": "Apply via gene.com/careers \u2014 search for 'AI/ML' or 'Computational Biology' roles.",
+    "notes": "Apply via gene.com/careers — search for 'AI/ML' or 'Computational Biology' roles.",
     "created_at": "2026-07-17T20:50:00Z",
     "updated_at": "2026-07-17T20:50:00Z",
     "source": "Known annual program",
@@ -1881,7 +1881,7 @@
   {
     "id": 33,
     "company": "Stanford HAI (Human-Centered AI Institute)",
-    "role_title": "HAI Research Internship \u2014 AI for Healthcare (Summer 2027)",
+    "role_title": "HAI Research Internship — AI for Healthcare (Summer 2027)",
     "posting_link": "https://hai.stanford.edu/education/research-internships",
     "application_link": "https://hai.stanford.edu/education/research-internships/apply",
     "director_link": "",
@@ -1889,7 +1889,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-01",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Stanford, CA",
     "timezone_requirement": "",
@@ -1920,7 +1920,7 @@
     "suggested_projects": [
       {
         "project_ref": "Research-oriented ML project with paper/writeup potential",
-        "rationale": "Stanford HAI values rigorous research methodology \u2014 show you can contribute to academic work",
+        "rationale": "Stanford HAI values rigorous research methodology — show you can contribute to academic work",
         "keywords_to_emphasize": [
           "research methodology",
           "academic writing",
@@ -1941,7 +1941,7 @@
   {
     "id": 34,
     "company": "MIT CSAIL / MIT AI Lab",
-    "role_title": "Summer Undergraduate Research Fellowship (SURF) \u2014 AI (2027)",
+    "role_title": "Summer Undergraduate Research Fellowship (SURF) — AI (2027)",
     "posting_link": "https://www.csail.mit.edu/surf/",
     "application_link": "https://www.csail.mit.edu/surf/apply",
     "director_link": "",
@@ -1949,7 +1949,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-01",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Cambridge, MA",
     "timezone_requirement": "",
@@ -1980,7 +1980,7 @@
     "suggested_projects": [],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "MIT SURF is one of the most prestigious undergrad research programs. Looking for specific MIT faculty match \u2014 you'd identify them during application.",
+    "personal_note": "MIT SURF is one of the most prestigious undergrad research programs. Looking for specific MIT faculty match — you'd identify them during application.",
     "priority_score": 9,
     "notes": "Apply via csail.mit.edu/surf. Deadline usually early August. Requires identifying a MIT faculty host before applying.",
     "created_at": "2026-07-17T20:50:00Z",
@@ -1991,7 +1991,7 @@
   {
     "id": 35,
     "company": "Amazon (AWS)",
-    "role_title": "AWS AI/ML Intern \u2014 SageMaker, Bedrock",
+    "role_title": "AWS AI/ML Intern — SageMaker, Bedrock",
     "posting_link": "https://www.amazon.jobs/en/jobs/2501234/aws-ai-ml-engineering-intern",
     "application_link": "https://www.amazon.jobs/en/jobs/2501234/aws-ai-ml-engineering-intern/apply",
     "director_link": "",
@@ -1999,7 +1999,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Hybrid-Office",
     "location": "Seattle / NYC / Remote options for AWS teams",
     "timezone_requirement": "",
@@ -2014,7 +2014,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build AWS AI/ML services \u2014 SageMaker, Bedrock, or Rekognition. Work on the cloud infrastructure that powers ML for millions of developers.",
+    "role_summary": "Build AWS AI/ML services — SageMaker, Bedrock, or Rekognition. Work on the cloud infrastructure that powers ML for millions of developers.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "Python + cloud platforms experience",
@@ -2030,7 +2030,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML model deployment on cloud (AWS/GCP/Azure)",
-        "rationale": "AWS AI products are all about making ML accessible at scale \u2014 show cloud fluency",
+        "rationale": "AWS AI products are all about making ML accessible at scale — show cloud fluency",
         "keywords_to_emphasize": [
           "MLOps",
           "cloud deployment",
@@ -2042,7 +2042,7 @@
     "cover_letter_hook": "",
     "personal_note": "AWS is 30%+ of cloud market. Working on their AI products means massive impact and learning.",
     "priority_score": 8,
-    "notes": "Search amazon.jobs for 'AWS AI ML Intern' to find current postings \u2014 team varies by quarter.",
+    "notes": "Search amazon.jobs for 'AWS AI ML Intern' to find current postings — team varies by quarter.",
     "created_at": "2026-07-17T20:50:00Z",
     "updated_at": "2026-07-17T20:50:00Z",
     "source": "Known annual program",
@@ -2051,7 +2051,7 @@
   {
     "id": 36,
     "company": "Microsoft Azure AI",
-    "role_title": "AI Engineer Intern \u2014 Azure OpenAI / Copilot",
+    "role_title": "AI Engineer Intern — Azure OpenAI / Copilot",
     "posting_link": "https://careers.microsoft.com/us/en/search-results?query=ai%20engineer%20intern",
     "application_link": "https://careers.microsoft.com/v2/global/en/universityinternship/apply",
     "director_link": "",
@@ -2059,7 +2059,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Office",
     "location": "Redmond / NYC / Remote options",
     "timezone_requirement": "",
@@ -2102,7 +2102,7 @@
     "cover_letter_hook": "",
     "personal_note": "Microsoft's OpenAI partnership makes them the go-to for enterprise AI. Great stability + top-tier AI work.",
     "priority_score": 8,
-    "notes": "Search careers.microsoft.com for 'Azure AI Intern' \u2014 multiple teams hire this summer cycle.",
+    "notes": "Search careers.microsoft.com for 'Azure AI Intern' — multiple teams hire this summer cycle.",
     "created_at": "2026-07-17T20:50:00Z",
     "updated_at": "2026-07-17T20:50:00Z",
     "source": "Known annual program",
@@ -2111,7 +2111,7 @@
   {
     "id": 37,
     "company": "IBM Research Watson",
-    "role_title": "AI/ML Research Intern \u2014 Watsonx (Summer 2027)",
+    "role_title": "AI/ML Research Intern — Watsonx (Summer 2027)",
     "posting_link": "https://www.ibm.com/careers/jobs?query=ai%20researcher%20intern",
     "application_link": "https://jobs-playback.greenhouse.io/ibm/main",
     "director_link": "",
@@ -2119,7 +2119,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "Hybrid-Office",
     "location": "Yorktown Heights, NY / Armonk, NY / Remote options",
     "timezone_requirement": "",
@@ -2150,7 +2150,7 @@
     "suggested_projects": [
       {
         "project_ref": "Enterprise AI application with responsible AI focus",
-        "rationale": "IBM's AI product is enterprise-focused \u2014 show you understand governance and deployment",
+        "rationale": "IBM's AI product is enterprise-focused — show you understand governance and deployment",
         "keywords_to_emphasize": [
           "enterprise AI",
           "responsible AI",
@@ -2171,7 +2171,7 @@
   {
     "id": 38,
     "company": "NVIDIA Health",
-    "role_title": "AI for Healthcare Intern \u2014 Clarian, Clara Platform (Summer 2027)",
+    "role_title": "AI for Healthcare Intern — Clarian, Clara Platform (Summer 2027)",
     "posting_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site",
     "application_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site/job/Intern--Healthcare-JOB-1023456",
     "director_link": "",
@@ -2179,13 +2179,13 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "May 2027 \u2013 August 2027",
+    "start_date_target": "May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Santa Clara, CA / Remote options for specific teams",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K) \u2014 highly competitive",
+    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K) — highly competitive",
     "is_stem": false,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -2194,7 +2194,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Apply GPU computing to healthcare \u2014 Clara platform, medical imaging, drug discovery acceleration. NVIDIA's healthcare and life sciences division.",
+    "role_summary": "Apply GPU computing to healthcare — Clara platform, medical imaging, drug discovery acceleration. NVIDIA's healthcare and life sciences division.",
     "key_requirements": [
       "CS/Biomedical Engineering degree (undergrad OK)",
       "C/C++ or Python proficiency",
@@ -2210,7 +2210,7 @@
     "suggested_projects": [
       {
         "project_ref": "Medical imaging or genomics ML project with GPU acceleration",
-        "rationale": "Directly maps to NVIDIA's healthcare platform \u2014 show you understand both AI and hardware",
+        "rationale": "Directly maps to NVIDIA's healthcare platform — show you understand both AI and hardware",
         "keywords_to_emphasize": [
           "GPU computing",
           "medical imaging",
@@ -2220,7 +2220,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "NVIDIA is dominating the AI infrastructure space. Their healthcare division is growing fast \u2014 Clara platform partners with hospitals globally.",
+    "personal_note": "NVIDIA is dominating the AI infrastructure space. Their healthcare division is growing fast — Clara platform partners with hospitals globally.",
     "priority_score": 8,
     "notes": "Apply via nvidia.wd5.myworkdayjobs.com. Search for 'health' or 'clara' in internship roles.",
     "created_at": "2026-07-17T20:50:00Z",
@@ -2231,7 +2231,7 @@
   {
     "id": 39,
     "company": "Runway ML",
-    "role_title": "Computer Vision Engineer Intern \u2014 Generative Video (Summer 2027)",
+    "role_title": "Computer Vision Engineer Intern — Generative Video (Summer 2027)",
     "posting_link": "https://runwayml.com/careers/",
     "application_link": "https://boards.greenhouse.io/runwayml/jobs/",
     "director_link": "",
@@ -2239,7 +2239,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Remote/Hybrid",
     "location": "NYC / Remote options",
     "timezone_requirement": "",
@@ -2270,7 +2270,7 @@
     "suggested_projects": [
       {
         "project_ref": "Video processing or creative AI project",
-        "rationale": "Runway's core product is video + creativity \u2014 show you understand the intersection",
+        "rationale": "Runway's core product is video + creativity — show you understand the intersection",
         "keywords_to_emphasize": [
           "video generation",
           "creative AI",
@@ -2291,7 +2291,7 @@
   {
     "id": 40,
     "company": "Midjourney",
-    "role_title": "ML Engineer Intern \u2014 Generative Media (Summer 2027)",
+    "role_title": "ML Engineer Intern — Generative Media (Summer 2027)",
     "posting_link": "https://www.midjourney.com/careers/",
     "application_link": "https://midjourney.notion.site/Apply-for-a-Career-at-Midjourney-729573678c1a4b1f8bfa4e934659c60b",
     "director_link": "",
@@ -2299,7 +2299,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Remote",
     "location": "Fully Remote (global)",
     "timezone_requirement": "Flexible",
@@ -2314,7 +2314,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Work on generative media AI \u2014 image generation, style transfer, or multimodal models. Midjourney creates art from text descriptions for 150M+ users.",
+    "role_summary": "Work on generative media AI — image generation, style transfer, or multimodal models. Midjourney creates art from text descriptions for 150M+ users.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "Deep learning with PyTorch",
@@ -2330,7 +2330,7 @@
     "suggested_projects": [
       {
         "project_ref": "Image generation or computer vision project",
-        "rationale": "Midjourney's entire product is image gen \u2014 show you get the domain",
+        "rationale": "Midjourney's entire product is image gen — show you get the domain",
         "keywords_to_emphasize": [
           "diffusion models",
           "image generation",
@@ -2340,7 +2340,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Remote-only company with minimal funding but massive revenue. Culturally unique \u2014 Discord-native culture.",
+    "personal_note": "Remote-only company with minimal funding but massive revenue. Culturally unique — Discord-native culture.",
     "priority_score": 7,
     "notes": "Careers page at midjourney.com/careers. Apply through Discord community primarily.",
     "created_at": "2026-07-17T20:50:00Z",
@@ -2359,7 +2359,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Mountain View, CA",
     "timezone_requirement": "PT preferred",
@@ -2390,7 +2390,7 @@
     "suggested_projects": [
       {
         "project_ref": "Robotics or RL project with real-world deployment",
-        "rationale": "Figure's core product is embodied AI \u2014 show you understand the intersection of robotics and ML",
+        "rationale": "Figure's core product is embodied AI — show you understand the intersection of robotics and ML",
         "keywords_to_emphasize": [
           "VLA models",
           "sim-to-real",
@@ -2411,7 +2411,7 @@
   {
     "id": 42,
     "company": "Converse AI",
-    "role_title": "AI Engineer Intern \u2014 Conversational AI (Summer 2027)",
+    "role_title": "AI Engineer Intern — Conversational AI (Summer 2027)",
     "posting_link": "https://converse.ai/careers/",
     "application_link": "https://boards.greenhouse.io/converseai/jobs/",
     "director_link": "",
@@ -2419,7 +2419,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Remote/Hybrid",
     "location": "Austin / Remote options",
     "timezone_requirement": "",
@@ -2471,7 +2471,7 @@
   {
     "id": 43,
     "company": "UiPath",
-    "role_title": "AI/ML Intern \u2014 Intelligent Automation (Summer 2027)",
+    "role_title": "AI/ML Intern — Intelligent Automation (Summer 2027)",
     "posting_link": "https://www.uipath.com/careers",
     "application_link": "https://careers-workday.greenhouse.io/uipath/jobs/",
     "director_link": "",
@@ -2479,7 +2479,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Office",
     "location": "Newtown Square, PA / Remote options",
     "timezone_requirement": "",
@@ -2539,7 +2539,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Sunnyvale, CA",
     "timezone_requirement": "PT preferred",
@@ -2570,7 +2570,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML infrastructure or compiler project on custom hardware",
-        "rationale": "Cerebras builds AI chips \u2014 show you understand both the hardware and software layers",
+        "rationale": "Cerebras builds AI chips — show you understand both the hardware and software layers",
         "keywords_to_emphasize": [
           "wafer-scale computing",
           "ML compilers",
@@ -2580,7 +2580,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Unique opportunity to work on AI hardware \u2014 not just the model but the silicon it runs on. Very differentiated.",
+    "personal_note": "Unique opportunity to work on AI hardware — not just the model but the silicon it runs on. Very differentiated.",
     "priority_score": 8,
     "notes": "Apply via cerebras.ai/careers. Looking for people who love both low-level systems and ML.",
     "created_at": "2026-07-17T20:50:00Z",
@@ -2599,7 +2599,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "London / Zurich / NYC",
     "timezone_requirement": "",
@@ -2614,7 +2614,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Research internship at DeepMind working on foundational AI \u2014 reinforcement learning, language models, neuroscience-inspired computing. Work alongside world-class researchers.",
+    "role_summary": "Research internship at DeepMind working on foundational AI — reinforcement learning, language models, neuroscience-inspired computing. Work alongside world-class researchers.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "Python + Jax or PyTorch experience",
@@ -2642,7 +2642,7 @@
     "cover_letter_hook": "",
     "personal_note": "One of the most prestigious AI research labs in the world. AlphaFold changed biology forever.",
     "priority_score": 10,
-    "notes": "Apply via deepmind.google/development/careers/engineering \u2014 filter for DeepMind roles.",
+    "notes": "Apply via deepmind.google/development/careers/engineering — filter for DeepMind roles.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2651,7 +2651,7 @@
   {
     "id": 46,
     "company": "Apple Intelligence",
-    "role_title": "ML Engineer Intern \u2014 Siri / Core ML (Summer 2027)",
+    "role_title": "ML Engineer Intern — Siri / Core ML (Summer 2027)",
     "posting_link": "https://jobs.apple.com/en-us/search?team=ml-engineering-internship",
     "application_link": "https://jobs.apple.com/en-us/details/200678350/ml-engineer-internship-apple-intelligence",
     "director_link": "",
@@ -2659,7 +2659,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Cupertino, CA / Austin TX",
     "timezone_requirement": "",
@@ -2674,7 +2674,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build on-device AI models for Apple Intelligence \u2014 Core ML, on-device LLMs, privacy-preserving AI, or Siri integration across the Apple ecosystem.",
+    "role_summary": "Build on-device AI models for Apple Intelligence — Core ML, on-device LLMs, privacy-preserving AI, or Siri integration across the Apple ecosystem.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "C/C++ proficiency for embedded deployment",
@@ -2690,7 +2690,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML model deployment on edge devices",
-        "rationale": "Apple's AI runs entirely on-device \u2014 show you understand efficiency and privacy",
+        "rationale": "Apple's AI runs entirely on-device — show you understand efficiency and privacy",
         "keywords_to_emphasize": [
           "model quantization",
           "edge computing",
@@ -2702,7 +2702,7 @@
     "cover_letter_hook": "",
     "personal_note": "Apple's on-device AI is the future of private ML. Great for people who care about privacy-first design.",
     "priority_score": 9,
-    "notes": "Apply via jobs.apple.com \u2014 search 'ML Engineering Intern' or 'Siri Intern'.",
+    "notes": "Apply via jobs.apple.com — search 'ML Engineering Intern' or 'Siri Intern'.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2711,7 +2711,7 @@
   {
     "id": 47,
     "company": "Apple Siri",
-    "role_title": "NLP Engineer Intern \u2014 Siri AI (Summer 2027)",
+    "role_title": "NLP Engineer Intern — Siri AI (Summer 2027)",
     "posting_link": "https://jobs.apple.com/en-us/search?team=nlp-internship",
     "application_link": "https://jobs.apple.com/en-us/details/200678351/nlp-engineer-internship-siri",
     "director_link": "",
@@ -2719,7 +2719,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Cupertino, CA",
     "timezone_requirement": "",
@@ -2750,7 +2750,7 @@
     "suggested_projects": [
       {
         "project_ref": "NLP project with dialogue or intent understanding",
-        "rationale": "Directly maps to Siri's core NLP challenges \u2014 show you understand the domain",
+        "rationale": "Directly maps to Siri's core NLP challenges — show you understand the domain",
         "keywords_to_emphasize": [
           "NLP",
           "dialogue systems",
@@ -2760,9 +2760,9 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Siri AI is a different challenge than chatbots \u2014 it's speech-first, context-aware, and deeply integrated with iOS ecosystem.",
+    "personal_note": "Siri AI is a different challenge than chatbots — it's speech-first, context-aware, and deeply integrated with iOS ecosystem.",
     "priority_score": 8,
-    "notes": "Apply via jobs.apple.com \u2014 search 'NLP Intern' or 'Siri Engineer'.",
+    "notes": "Apply via jobs.apple.com — search 'NLP Intern' or 'Siri Engineer'.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2771,7 +2771,7 @@
   {
     "id": 48,
     "company": "Meta Reality Labs",
-    "role_title": "ML Engineer Intern \u2014 AR/VR / Spatial Computing (Summer 2027)",
+    "role_title": "ML Engineer Intern — AR/VR / Spatial Computing (Summer 2027)",
     "posting_link": "https://www.metacareers.com/work/experience/internships/reality-labs/",
     "application_link": "https://www.metacareers.com/profile/internships/reality-labs/apply",
     "director_link": "",
@@ -2779,7 +2779,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Menlo Park, CA / NYC",
     "timezone_requirement": "",
@@ -2810,7 +2810,7 @@
     "suggested_projects": [
       {
         "project_ref": "3D computer vision or AR project with real-time tracking",
-        "rationale": "Meta's AR future relies on spatial understanding \u2014 show you understand the 3D world",
+        "rationale": "Meta's AR future relies on spatial understanding — show you understand the 3D world",
         "keywords_to_emphasize": [
           "computer vision",
           "SLAM",
@@ -2822,7 +2822,7 @@
     "cover_letter_hook": "",
     "personal_note": "Meta is betting big on AR/VR. Reality Labs gets serious funding and has some of the best CV researchers in the world.",
     "priority_score": 7,
-    "notes": "Apply via metacareers.com \u2014 search 'Reality Labs ML Intern'.",
+    "notes": "Apply via metacareers.com — search 'Reality Labs ML Intern'.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2831,7 +2831,7 @@
   {
     "id": 49,
     "company": "Google Gemini",
-    "role_title": "Gemini Model Intern \u2014 Multimodal AI (Summer 2027)",
+    "role_title": "Gemini Model Intern — Multimodal AI (Summer 2027)",
     "posting_link": "https://deepmind.google/development/careers/engineering/#open-roles",
     "application_link": "https://careers.google.com/jobs/internships/machine-learning-engineer/",
     "director_link": "",
@@ -2839,7 +2839,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Mountain View, CA / NYC",
     "timezone_requirement": "",
@@ -2870,7 +2870,7 @@
     "suggested_projects": [
       {
         "project_ref": "Multimodal ML project (text+image/video/audio)",
-        "rationale": "Gemini's whole thing is multimodality \u2014 show you understand integrating multiple modalities",
+        "rationale": "Gemini's whole thing is multimodality — show you understand integrating multiple modalities",
         "keywords_to_emphasize": [
           "multimodal",
           "transformer scaling",
@@ -2882,7 +2882,7 @@
     "cover_letter_hook": "",
     "personal_note": "Google's flagship AI model. This internship puts you right at the center of one of the most ambitious AI projects in history.",
     "priority_score": 10,
-    "notes": "Apply via careers.google.com \u2014 search 'Gemini Intern' or filter Google AI roles.",
+    "notes": "Apply via careers.google.com — search 'Gemini Intern' or filter Google AI roles.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2891,7 +2891,7 @@
   {
     "id": 50,
     "company": "NVIDIA DGX AI",
-    "role_title": "AI Foundation Model Intern \u2014 DGX Cloud (Summer 2027)",
+    "role_title": "AI Foundation Model Intern — DGX Cloud (Summer 2027)",
     "posting_link": "https://nvidia.wd5.wd-5.myworkdayjobs.com/en-US/nvidia-career-site",
     "application_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidia-career-site/job/Intern--AI-Foundation-Models-JOB-1043210",
     "director_link": "",
@@ -2899,13 +2899,13 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Santa Clara, CA",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K) \u2014 competitive",
+    "compensation_note": "~$7,500-$9,000/month (~$90K-$108K) — competitive",
     "is_stem": false,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -2914,7 +2914,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Work on NVIDIA's DGX Cloud platform \u2014 AI foundation model training infrastructure, cluster scaling, or MaaS (Model as a Service) platform engineering.",
+    "role_summary": "Work on NVIDIA's DGX Cloud platform — AI foundation model training infrastructure, cluster scaling, or MaaS (Model as a Service) platform engineering.",
     "key_requirements": [
       "CS/EE degree (undergrad OK)",
       "C++ or Python proficiency",
@@ -2930,7 +2930,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML training pipeline on GPU with distributed scaling",
-        "rationale": "Directly maps to NVIDIA's DGX + NeMo platform \u2014 show you understand the full ML infrastructure stack",
+        "rationale": "Directly maps to NVIDIA's DGX + NeMo platform — show you understand the full ML infrastructure stack",
         "keywords_to_emphasize": [
           "CUDA",
           "distributed training",
@@ -2942,7 +2942,7 @@
     "cover_letter_hook": "",
     "personal_note": "NVIDIA is the backbone of AI compute. This internship puts you on the infrastructure that powers every other AI company.",
     "priority_score": 9,
-    "notes": "Apply via nvidia.wd5.myworkdayjobs.com \u2014 search 'DGX' or 'AI Foundation Model'.",
+    "notes": "Apply via nvidia.wd5.myworkdayjobs.com — search 'DGX' or 'AI Foundation Model'.",
     "created_at": "2026-07-18T02:40:00Z",
     "updated_at": "2026-07-18T02:40:00Z",
     "source": "Known annual program",
@@ -2951,7 +2951,7 @@
   {
     "id": 51,
     "company": "Scale AI",
-    "role_title": "AI Data Scientist Intern \u2014 RLHF (Summer 2027)",
+    "role_title": "AI Data Scientist Intern — RLHF (Summer 2027)",
     "posting_link": "https://scale.com/careers",
     "application_link": "https://scale.wd1.myworkdayjobs.com/scalecareers/job/Remote-Machine-Learning-Intern-JOB-0209653",
     "director_link": "",
@@ -2959,7 +2959,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Remote options",
     "timezone_requirement": "",
@@ -2990,7 +2990,7 @@
     "suggested_projects": [
       {
         "project_ref": "Human feedback or data quality ML project",
-        "rationale": "Scale AI's core product is high-quality training data \u2014 show you understand the feedback loop between human annotators and model training",
+        "rationale": "Scale AI's core product is high-quality training data — show you understand the feedback loop between human annotators and model training",
         "keywords_to_emphasize": [
           "RLHF",
           "data pipelines",
@@ -3002,7 +3002,7 @@
     "cover_letter_hook": "",
     "personal_note": "Scale AI is the 'plumbing' behind most of AI's LLM progress. Fast-growing, critical infrastructure.",
     "priority_score": 7,
-    "notes": "Apply via scale.com/careers \u2014 look for 'Data Scientist Intern' or 'RLHF Engineer'.",
+    "notes": "Apply via scale.com/careers — look for 'Data Scientist Intern' or 'RLHF Engineer'.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3011,7 +3011,7 @@
   {
     "id": 52,
     "company": "OpenAI",
-    "role_title": "SWE Intern \u2014 GPT Model Infrastructure (Summer 2027)",
+    "role_title": "SWE Intern — GPT Model Infrastructure (Summer 2027)",
     "posting_link": "https://openai.com/careers/search/",
     "application_link": "https://openai.com/company/jobs/#roles",
     "director_link": "",
@@ -3019,13 +3019,13 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "San Francisco, CA",
     "timezone_requirement": "PT preferred",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$12,000+/month (~$144K+ annualized) \u2014 top-tier comp with equity",
+    "compensation_note": "~$12,000+/month (~$144K+ annualized) — top-tier comp with equity",
     "is_stem": false,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -3050,7 +3050,7 @@
     "suggested_projects": [
       {
         "project_ref": "Large-scale distributed system with performance optimization",
-        "rationale": "OpenAI's infrastructure is unlike anything else \u2014 show you can build at massive scale",
+        "rationale": "OpenAI's infrastructure is unlike anything else — show you can build at massive scale",
         "keywords_to_emphasize": [
           "distributed systems",
           "performance optimization",
@@ -3062,7 +3062,7 @@
     "cover_letter_hook": "",
     "personal_note": "This is the engineering track (not research). If you love building the systems that make GPT work, this is it.",
     "priority_score": 10,
-    "notes": "Apply via openai.com/company/jobs \u2014 search 'Software Engineer Intern'.",
+    "notes": "Apply via openai.com/company/jobs — search 'Software Engineer Intern'.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3071,7 +3071,7 @@
   {
     "id": 53,
     "company": "Microsoft AI",
-    "role_title": "AI Agent Developer Intern \u2014 Copilot (Summer 2027)",
+    "role_title": "AI Agent Developer Intern — Copilot (Summer 2027)",
     "posting_link": "https://careers.microsoft.com/us/en/search-results?query=ai%20agent%20developer%20intern",
     "application_link": "https://careers.microsoft.com/v2/global/en/universityinternship/apply",
     "director_link": "",
@@ -3079,7 +3079,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 September 2027",
+    "start_date_target": "June 2027 – September 2027",
     "work_model": "Hybrid-Office",
     "location": "Redmond / NYC / Remote options",
     "timezone_requirement": "",
@@ -3110,7 +3110,7 @@
     "suggested_projects": [
       {
         "project_ref": "AI agent project with tool-use capabilities",
-        "rationale": "Directly maps to Microsoft's Copilot ecosystem \u2014 show you understand autonomous agents",
+        "rationale": "Directly maps to Microsoft's Copilot ecosystem — show you understand autonomous agents",
         "keywords_to_emphasize": [
           "AI agents",
           "function calling",
@@ -3122,7 +3122,7 @@
     "cover_letter_hook": "",
     "personal_note": "Microsoft is putting AI agents into every product. This internship puts you at the center of that transformation.",
     "priority_score": 8,
-    "notes": "Apply via careers.microsoft.com \u2014 search 'AI Agent Developer Intern'.",
+    "notes": "Apply via careers.microsoft.com — search 'AI Agent Developer Intern'.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3139,7 +3139,7 @@
     "season": "Summer 2027",
     "deadline": "2026-08-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Palo Alto / Austin / Fremont / Buffalo, NY",
     "timezone_requirement": "",
@@ -3170,7 +3170,7 @@
     "suggested_projects": [
       {
         "project_ref": "CV project with real-time video processing (YOLO, DETR, etc.)",
-        "rationale": "Tesla's FSD is vision-based \u2014 show you understand real-time CV pipelines",
+        "rationale": "Tesla's FSD is vision-based — show you understand real-time CV pipelines",
         "keywords_to_emphasize": [
           "object detection",
           "real-time inference",
@@ -3182,7 +3182,7 @@
     "cover_letter_hook": "",
     "personal_note": "Tesla AI is one of the largest-scale real-world ML deployments in existence. 5M+ vehicles generating training data.",
     "priority_score": 8,
-    "notes": "Apply via tesla.com/careers \u2014 search 'Autonomous Driving ML Intern'.",
+    "notes": "Apply via tesla.com/careers — search 'Autonomous Driving ML Intern'.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3199,7 +3199,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "San Francisco / Remote options",
     "timezone_requirement": "PT preferred",
@@ -3214,7 +3214,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build Claude's AI infrastructure \u2014 model training at scale, inference optimization, or safety systems. Work on making frontier models faster, cheaper, and safer.",
+    "role_summary": "Build Claude's AI infrastructure — model training at scale, inference optimization, or safety systems. Work on making frontier models faster, cheaper, and safer.",
     "key_requirements": [
       "CS degree (undergrad OK)",
       "Python + distributed systems experience",
@@ -3230,7 +3230,7 @@
     "suggested_projects": [
       {
         "project_ref": "ML model serving platform with low-latency optimization",
-        "rationale": "Directly maps to Claude's production infrastructure \u2014 show you understand inference at scale",
+        "rationale": "Directly maps to Claude's production infrastructure — show you understand inference at scale",
         "keywords_to_emphasize": [
           "model serving",
           "inference optimization",
@@ -3242,7 +3242,7 @@
     "cover_letter_hook": "",
     "personal_note": "Claude's API is growing fast. This role focuses on making the platform reliable and fast for millions of users.",
     "priority_score": 9,
-    "notes": "Apply via anthropic.com/jobs/roles \u2014 search 'Infrastructure Engineer Intern'.",
+    "notes": "Apply via anthropic.com/jobs/roles — search 'Infrastructure Engineer Intern'.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3251,7 +3251,7 @@
   {
     "id": 56,
     "company": "Google Cloud AI",
-    "role_title": "Cloud AI Engineer Intern \u2014 Vertex AI (Summer 2027)",
+    "role_title": "Cloud AI Engineer Intern — Vertex AI (Summer 2027)",
     "posting_link": "https://cloud.google.com/careers/job-details/81745813960",
     "application_link": "https://careers.google.com/jobs/internships/cloud-engineering/",
     "director_link": "",
@@ -3259,7 +3259,7 @@
     "season": "Summer 2027",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "Mountain View, CA / NYC / Seattle",
     "timezone_requirement": "",
@@ -3274,7 +3274,7 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Work on Google Cloud's Vertex AI platform \u2014 ML pipelines, AutoML, or enterprise AI services. Build the cloud tools that let companies deploy ML models at scale.",
+    "role_summary": "Work on Google Cloud's Vertex AI platform — ML pipelines, AutoML, or enterprise AI services. Build the cloud tools that let companies deploy ML models at scale.",
     "key_requirements": [
       "CS/ML degree (undergrad OK)",
       "Cloud infrastructure experience (GCP preferred)",
@@ -3290,7 +3290,7 @@
     "suggested_projects": [
       {
         "project_ref": "Cloud MLOps project with model deployment pipeline",
-        "rationale": "Directly maps to Vertex AI's platform \u2014 show you understand the cloud ML lifecycle",
+        "rationale": "Directly maps to Vertex AI's platform — show you understand the cloud ML lifecycle",
         "keywords_to_emphasize": [
           "MLOps",
           "cloud infrastructure",
@@ -3302,7 +3302,7 @@
     "cover_letter_hook": "",
     "personal_note": "Google Cloud competes directly with AWS and Azure in AI. Great for people interested in enterprise cloud AI.",
     "priority_score": 7,
-    "notes": "Apply via careers.google.com \u2014 filter Google Cloud roles.",
+    "notes": "Apply via careers.google.com — filter Google Cloud roles.",
     "created_at": "2026-07-18T03:05:00Z",
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
@@ -3311,7 +3311,7 @@
   {
     "id": 57,
     "company": "DRW",
-    "role_title": "Software Developer Intern \u2014 Trading Technology",
+    "role_title": "Software Developer Intern — Trading Technology",
     "posting_link": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
     "application_link": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
     "director_link": "",
@@ -3319,7 +3319,7 @@
     "season": "Summer 2027",
     "deadline": "2026-10-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027 (10-week)",
+    "start_date_target": "June 2027 – August 2027 (10-week)",
     "work_model": "OnSite-Office",
     "location": "Chicago, IL",
     "timezone_requirement": "",
@@ -3334,9 +3334,9 @@
     "follow_up_date": null,
     "interviewer_name": "",
     "interviewer_email": "",
-    "role_summary": "Build advanced trading and risk applications \u2014 decoders for exchange packet data, normalizers for trading books, compliance tools. Highly competitive quant-tech shop with 30+ years of trading expertise.",
+    "role_summary": "Build advanced trading and risk applications — decoders for exchange packet data, normalizers for trading books, compliance tools. Highly competitive quant-tech shop with 30+ years of trading expertise.",
     "key_requirements": [
-      "BS/MS/PhD in CS, CE, Physics, Math, or ML (graduating Dec 2027 \u2013 Jun 2028)",
+      "BS/MS/PhD in CS, CE, Physics, Math, or ML (graduating Dec 2027 – Jun 2028)",
       "Exposure to TCP/IP networking, multi-threaded apps, algorithms",
       "Strong OOP, data structures, and algorithms",
       "Excellent C++, Python, or Java skills"
@@ -3350,7 +3350,7 @@
     "suggested_projects": [
       {
         "project_ref": "High-performance networking or data pipeline project",
-        "rationale": "DRW deals with real-time exchange data feeds \u2014 low-latency skills are directly relevant",
+        "rationale": "DRW deals with real-time exchange data feeds — low-latency skills are directly relevant",
         "keywords_to_emphasize": [
           "TCP/IP",
           "multi-threading",
@@ -3371,7 +3371,7 @@
   {
     "id": 58,
     "company": "Akuna Capital",
-    "role_title": "Software Engineer Intern \u2014 C# .NET Desktop (Summer 2027)",
+    "role_title": "Software Engineer Intern — C# .NET Desktop (Summer 2027)",
     "posting_link": "https://akunacapital.com/careers/",
     "application_link": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
     "director_link": "",
@@ -3379,7 +3379,7 @@
     "season": "Summer 2027",
     "deadline": "2026-10-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027 (10-week Akunacademy)",
+    "start_date_target": "June 2027 – August 2027 (10-week Akunacademy)",
     "work_model": "OnSite-Office",
     "location": "Chicago, IL",
     "timezone_requirement": "",
@@ -3410,7 +3410,7 @@
     "suggested_projects": [
       {
         "project_ref": "Desktop UI app with real-time data display",
-        "rationale": "Akuna builds real-time trading dashboards \u2014 showing you can build reactive UIs is directly relevant",
+        "rationale": "Akuna builds real-time trading dashboards — showing you can build reactive UIs is directly relevant",
         "keywords_to_emphasize": [
           "C#",
           ".NET",
@@ -3420,7 +3420,7 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Elite quant firm. No trading experience required \u2014 they train from scratch. PDF resume only. AI-friendly for daily work but no AI during interviews.",
+    "personal_note": "Elite quant firm. No trading experience required — they train from scratch. PDF resume only. AI-friendly for daily work but no AI during interviews.",
     "priority_score": 8,
     "notes": "Multiple tracks open: C++, Python, Full Stack Web, C# .NET. Apply via akunacapital.com/careers/.",
     "created_at": "2026-07-20T14:25:00Z",
@@ -3431,7 +3431,7 @@
   {
     "id": 59,
     "company": "Deepgram",
-    "role_title": "Software Engineering Intern \u2014 Speech AI (Fall 2026/Summer 2027)",
+    "role_title": "Software Engineering Intern — Speech AI (Fall 2026/Summer 2027)",
     "posting_link": "https://www.deepgram.com/",
     "application_link": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
     "director_link": "",
@@ -3439,13 +3439,13 @@
     "season": "Fall 2026 / Summer 2027",
     "deadline": "2026-09-30",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 March 2027 (fall) or May 2027 \u2013 August 2027 (summer)",
+    "start_date_target": "September 2026 – March 2027 (fall) or May 2027 – August 2027 (summer)",
     "work_model": "Remote (USA)",
     "location": "Fully Remote (US-based)",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$65-$80/hr (~$78K-$96K annualized) \u2014 typical for speech AI startups",
+    "compensation_note": "~$65-$80/hr (~$78K-$96K annualized) — typical for speech AI startups",
     "is_stem": true,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -3470,7 +3470,7 @@
     "suggested_projects": [
       {
         "project_ref": "Speech or audio processing project with real-time API",
-        "rationale": "Deepgram's core product is real-time speech AI \u2014 show you understand streaming audio pipelines",
+        "rationale": "Deepgram's core product is real-time speech AI — show you understand streaming audio pipelines",
         "keywords_to_emphasize": [
           "speech recognition",
           "NLP",
@@ -3482,7 +3482,7 @@
     "cover_letter_hook": "",
     "personal_note": "Well-funded speech AI company backed by Google, Netflix, NVIDIA. Great intersection of audio tech and AI.",
     "priority_score": 7,
-    "notes": "Posted 2 days ago on speedyapply list. Remote-friendly \u2014 rare for this sector.",
+    "notes": "Posted 2 days ago on speedyapply list. Remote-friendly — rare for this sector.",
     "created_at": "2026-07-20T14:25:00Z",
     "updated_at": "2026-07-20T14:25:00Z",
     "source": "speedyapply GitHub list verified via Ashby careers page",
@@ -3499,7 +3499,7 @@
     "season": "Summer 2027",
     "deadline": "2026-10-31",
     "decision_deadline": null,
-    "start_date_target": "June 2027 \u2013 August 2027",
+    "start_date_target": "June 2027 – August 2027",
     "work_model": "Hybrid-Remote",
     "location": "Denver, CO / Vashon Island, WA / NYC / London",
     "timezone_requirement": "",
@@ -3530,7 +3530,7 @@
     "suggested_projects": [
       {
         "project_ref": "High-throughput data processing or real-time system project",
-        "rationale": "TTD processes billions of ad auctions \u2014 scale thinking is essential",
+        "rationale": "TTD processes billions of ad auctions — scale thinking is essential",
         "keywords_to_emphasize": [
           "distributed systems",
           "real-time",
@@ -3551,7 +3551,7 @@
   {
     "id": 61,
     "company": "Cloudflare",
-    "role_title": "Software Engineer Intern \u2014 Fall 2026",
+    "role_title": "Software Engineer Intern — Fall 2026",
     "posting_link": "https://www.cloudflare.com/careers/early-talent/",
     "application_link": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
     "director_link": "",
@@ -3559,13 +3559,13 @@
     "season": "Fall 2026",
     "deadline": "2026-09-15",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 January 2027",
+    "start_date_target": "September 2026 – January 2027",
     "work_model": "OnSite-Office / Hybrid options",
     "location": "Austin, TX (other hubs: SF, NYC, Seattle, London)",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "$45-$53/hr (~$54K-$64K for semester) \u2014 cloudflare intern program targets 1,100+ interns",
+    "compensation_note": "$45-$53/hr (~$54K-$64K for semester) — cloudflare intern program targets 1,100+ interns",
     "is_stem": true,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -3590,7 +3590,7 @@
     "suggested_projects": [
       {
         "project_ref": "Networking or systems-level project (DNS, CDN, edge computing)",
-        "rationale": "Cloudflare's entire business is internet infrastructure \u2014 show you get networking",
+        "rationale": "Cloudflare's entire business is internet infrastructure — show you get networking",
         "keywords_to_emphasize": [
           "networking",
           "systems",
@@ -3602,7 +3602,7 @@
     "cover_letter_hook": "",
     "personal_note": "Massive intern class (~1,100+) but strong engineering culture. Public company (FLR). Great for systems/networking people.",
     "priority_score": 7,
-    "notes": "Posted ~5 days ago. Fall semester program \u2014 different timeline than most Summer '27 cycles. Levels.fyi confirms $45/hr rate.",
+    "notes": "Posted ~5 days ago. Fall semester program — different timeline than most Summer '27 cycles. Levels.fyi confirms $45/hr rate.",
     "created_at": "2026-07-20T14:25:00Z",
     "updated_at": "2026-07-20T14:25:00Z",
     "source": "speedyapply GitHub list + Greenhouse job board verified",
@@ -3611,7 +3611,7 @@
   {
     "id": 62,
     "company": "Netic (formerly Adept)",
-    "role_title": "Software Engineer \u2014 Agent Platform Intern / Full-Stack Product Intern (2026-2027)",
+    "role_title": "Software Engineer — Agent Platform Intern / Full-Stack Product Intern (2026-2027)",
     "posting_link": "https://www.netic.ai/",
     "application_link": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
     "director_link": "",
@@ -3619,13 +3619,13 @@
     "season": "Fall 2026 / Summer 2027 (rolling)",
     "deadline": "2026-10-31",
     "decision_deadline": null,
-    "start_date_target": "September 2026 \u2013 March 2027 or May 2027 \u2013 August 2027",
+    "start_date_target": "September 2026 – March 2027 or May 2027 – August 2027",
     "work_model": "OnSite-Office",
     "location": "San Francisco, CA",
     "timezone_requirement": "",
     "opportunity_type": "Internship",
     "is_paid": true,
-    "compensation_note": "~$7,000-$9,000/month (~$84K-$108K annualized) + equity \u2014 competitive AI startup comp",
+    "compensation_note": "~$7,000-$9,000/month (~$84K-$108K annualized) + equity — competitive AI startup comp",
     "is_stem": true,
     "visa_sponsorship": "Full-Sponsor",
     "status": "Discovered",
@@ -3660,12 +3660,367 @@
     ],
     "existing_projects_match": [],
     "cover_letter_hook": "",
-    "personal_note": "Founded by former Adept AI team \u2014 pioneering the AI agent space. Two distinct internship tracks = more chances to match your skills.",
+    "personal_note": "Founded by former Adept AI team — pioneering the AI agent space. Two distinct internship tracks = more chances to match your skills.",
     "priority_score": 8,
     "notes": "Posted 4 days ago. Ashby careers page confirmed live. Two separate roles: Agent Platform and Full-Stack Product.",
     "created_at": "2026-07-20T14:25:00Z",
     "updated_at": "2026-07-20T14:25:00Z",
     "source": "speedyapply GitHub list + Ashby careers page verified",
+    "referral_source": ""
+  },
+  {
+    "id": 63,
+    "company": "Anduril Industries",
+    "role_title": "Software Engineer Intern",
+    "posting_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "application_link": "https://www.anduril.com/early-careers",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling — applying August 2026 for Summer 2027 start",
+    "decision_deadline": null,
+    "start_date_target": "Summer 2027 (12-week program)",
+    "work_model": "OnSite-Office",
+    "location": "Boston MA / Atlanta GA / Costa Mesa CA / Irvine CA / Reston VA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$40 - $55/hr",
+    "is_stem": true,
+    "visa_sponsorship": "U.S. Person status required (ITAR)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Defense tech company building Lattice OS — an AI-powered operating system for military command and control. Interns write code for real deployed systems, collaborate across teams to build complex functionality, and analyze metrics for debugging/monitoring.",
+    "key_requirements": [
+      "Pursuing Bachelor's in CS/Software Engineering/Math/Physics or related",
+      "Returning to school after internship for at least one semester",
+      "Familiarity with algorithms, data structures, cloud infrastructure, front-end frameworks",
+      "Proficiency in C++, Go, Rust, Java, or Python",
+      "U.S. Person status required"
+    ],
+    "nice_to_haves": [
+      "Bias for action",
+      "Curiosity about new technologies",
+      "Low-ego, high ownership mindset"
+    ],
+    "team_name": "Lattice OS / various engineering teams",
+    "suggested_projects": [
+      {
+        "project_ref": "Real-time systems or computer vision project",
+        "rationale": "Anduril's Lattice OS processes thousands of data streams in real-time 3D — show you understand low-latency, sensor fusion",
+        "keywords_to_emphasize": [
+          "real-time",
+          "C++",
+          "sensor fusion"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Defense tech is a different world — high comp for the sector, strong mission-driven culture. US Person status required (ITAR export controls).",
+    "priority_score": 8,
+    "notes": "Actively accepting applications now via Greenhouse board. Reviews in August 2026. Apply early per company guidance.",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Greenhouse job board (verified July 20, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 64,
+    "company": "Rivian",
+    "role_title": "Software Engineering Intern — Autonomy/AI Infrastructure",
+    "posting_link": "https://careers.rivian.com/students",
+    "application_link": "https://careers.rivian.com/students",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling — apply early",
+    "decision_deadline": null,
+    "start_date_target": "Summer 2027 (12-week program)",
+    "work_model": "OnSite-Office",
+    "location": "Irvine CA / Palo Alto CA / Auburn Hills MI / other EV sites",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$25 - $51/hr",
+    "is_stem": true,
+    "visa_sponsorship": "Limited",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build autonomy stack, AI infrastructure, and ADAS features for Rivian's electric adventure vehicles. Work on perception, calibration & pose systems, or AI infrastructure powering the driver-assistance capabilities.",
+    "key_requirements": [
+      "Actively pursuing degree in CS or similar Engineering",
+      "Basic understanding of systems engineering",
+      "Knowledge of data analysis methodologies",
+      "Strong Python and SQL skills",
+      "Demonstrated communication skills"
+    ],
+    "nice_to_haves": [
+      "Understanding of autonomy stack",
+      "ADAS/autonomous driving experience"
+    ],
+    "team_name": "Autonomy / AI Infrastructure",
+    "suggested_projects": [
+      {
+        "project_ref": "ML-based perception or sensor fusion project",
+        "rationale": "Directly maps to Rivian's autonomy stack — computer vision, camera data processing, or ADAS features",
+        "keywords_to_emphasize": [
+          "computer vision",
+          "sensor fusion",
+          "ADAS"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "EV + autonomy is a hot intersection. Rivian's R2 launch and autonomous driving ambitions make this a high-growth area for software talent.",
+    "priority_score": 7,
+    "notes": "Multiple autonomy intern sub-tracks: AI Infrastructure, Perception, Calibration & Pose, Systems Integration. Apply through careers.rivian.com/students.",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Rivian careers portal (verified July 20, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 65,
+    "company": "Lockheed Martin",
+    "role_title": "Software Engineering Intern",
+    "posting_link": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/internships.html",
+    "application_link": "https://www.lockheedmartinjobs.com",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling — expected to open August–October 2026",
+    "decision_deadline": null,
+    "start_date_target": "June–August 2027 (10–12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Fort Worth TX / Denver CO / Orlando FL / Palmdale CA / Bethesda MD + 375+ US sites",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "up to $40/hr (SWE) depending on role and level; housing stipend $850–$5,500/month",
+    "is_stem": true,
+    "visa_sponsorship": "US citizens only (ITAR)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "One of the largest defense and aerospace internship programs in the US (4,000+ interns/year). Work across 6 tracks: Engineering, Software, Cyber, Business/Finance, Supply Chain, Other — across Aeronautics, Space, Missiles & Fire Control, and Rotary & Mission Systems.",
+    "key_requirements": [
+      "Enrolled undergrad or grad student at ABET-accredited institution",
+      "GPA 3.0+ desired (not a hard cutoff)",
+      "US citizenship mandatory for virtually all positions (ITAR clearance)"
+    ],
+    "nice_to_haves": [
+      "STAR interview prep experience",
+      "Defense/aerospace domain interest"
+    ],
+    "team_name": "Aeronautics / Space / MFC / RMS",
+    "suggested_projects": [
+      {
+        "project_ref": "Systems-level or security-focused project",
+        "rationale": "Lockheed values mission-critical, high-reliability software — show you understand safety-critical systems",
+        "keywords_to_emphasize": [
+          "systems programming",
+          "security",
+          "C/C++"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Huge program with 70-80% return offer rate for strong performers. US citizenship required — no H-1B sponsorship. Best applied within first 2 weeks of posting.",
+    "priority_score": 6,
+    "notes": "Applications expected August–October 2026 for Summer 2027 start. Apply via Lockheed Martin Workday ATS (lockheedmartinjobs.com).",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Extern guide + LM career portal (verified July 20, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 66,
+    "company": "Northrop Grumman",
+    "role_title": "Software Engineer Intern",
+    "posting_link": "https://www.northropgrumman.com/careers/internships-at-northrop-grumman",
+    "application_link": "https://www.northropgrumman.com/careers/internships-at-northrop-grumman",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling",
+    "decision_deadline": null,
+    "start_date_target": "Summer 2027 (rolling start dates)",
+    "work_model": "OnSite-Office",
+    "location": "Falls Church VA / Multiple US locations",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$28.25/hr (reported via levels.fyi)",
+    "is_stem": true,
+    "visa_sponsorship": "US citizens only typically (defense clearance)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Defense technology company with a 71% intern-to-full-time conversion rate. Interns engage in real projects across aerospace, defense, and security domains with hands-on mentorship.",
+    "key_requirements": [
+      "Pursuing degree in STEM field",
+      "Interest in defense/aerospace technology",
+      "Strong analytical and problem-solving skills"
+    ],
+    "nice_to_haves": [
+      "Defense sector interest",
+      "Clearance eligibility (US citizen)"
+    ],
+    "team_name": "Various engineering divisions",
+    "suggested_projects": [
+      {
+        "project_ref": "Systems or security-focused project",
+        "rationale": "Northrop Grumman works on mission-critical defense systems — show you can handle complex, high-stakes software",
+        "keywords_to_emphasize": [
+          "systems engineering",
+          "security",
+          "C/C++"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "71% return offer rate is very strong. US citizenship required for most roles due to defense contracts.",
+    "priority_score": 5,
+    "notes": "Apply through northropgrumman.com/careers/internships. Rolling admissions process.",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Northrop Grumman careers + levels.fyi (verified July 20, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 67,
+    "company": "Shield AI",
+    "role_title": "Software Engineering Intern",
+    "posting_link": "https://shield.ai/summer-internship-program/",
+    "application_link": "https://shield.ai/summer-internship-program/",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling — apply via shield.ai summer internship program page",
+    "decision_deadline": null,
+    "start_date_target": "Summer 2027 (10-week paid program)",
+    "work_model": "OnSite-Office",
+    "location": "Various US locations (onsite per posting)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "Competitive salary (tailored to academic discipline and experience); housing stipend where relevant",
+    "is_stem": true,
+    "visa_sponsorship": "Likimited — defense tech company",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "AI defense startup building autonomous systems for the military. 10-week paid program with direct mentorship, company-hosted events, and exposure to AI/autonomy technology at frontier level.",
+    "key_requirements": [
+      "Current undergraduate, Master's, or PhD student",
+      "1 semester to 1 year left in academic program post-internship",
+      "Willingness to work onsite for full 10-week duration"
+    ],
+    "nice_to_haves": [
+      "AI/autonomy project experience",
+      "Defense or military technology interest"
+    ],
+    "team_name": "Autonomy / AI Systems",
+    "suggested_projects": [
+      {
+        "project_ref": "Autonomous systems or AI decision-making project",
+        "rationale": "Shield AI builds autonomous aircraft and ground systems — show you understand edge AI and real-time decision making",
+        "keywords_to_emphasize": [
+          "autonomy",
+          "edge computing",
+          "AI"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Well-funded defense AI startup. Competitive comp + housing stipend. US citizenship likely required for clearance.",
+    "priority_score": 7,
+    "notes": "Apply through shield.ai summer internship program page. Highly mission-driven environment.",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Shield AI career portal (verified July 20, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 68,
+    "company": "Roblox",
+    "role_title": "Software Engineer Intern",
+    "posting_link": "https://careers.roblox.com/early-career",
+    "application_link": "https://careers.roblox.com/early-career",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "Rolling — expected to open August–October 2026",
+    "decision_deadline": null,
+    "start_date_target": "June–August 2027 (12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "San Mateo, CA (HQ); hybrid Tue/Wed/Thu on-site",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$62/hr + $10,000 housing stipend + free meals",
+    "is_stem": true,
+    "visa_sponsorship": "Limited — US work authorization required",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Gaming platform with 111M+ daily active users. SWE interns work across 20+ tracks — game systems, infrastructure, data platforms, creator tools. Unique CodeSignal-based coding assessment and game-based problem solving.",
+    "key_requirements": [
+      "Enrolled undergrad or grad student in CS/engineering/related",
+      "US work authorization required",
+      "Problem-solving ability via their game-based assessments",
+      "Coding skills demonstrated via CodeSignal"
+    ],
+    "nice_to_haves": [
+      "Gaming industry interest",
+      "Metaverse/platform-scale systems experience",
+      "Lua/Java/C++ background"
+    ],
+    "team_name": "20+ tracks across engineering, data science, product, design",
+    "suggested_projects": [
+      {
+        "project_ref": "Game or multiplayer platform project",
+        "rationale": "Roblox is a user-generated gaming platform — show you understand real-time multiplayer systems and creator tools",
+        "keywords_to_emphasize": [
+          "multiplayer",
+          "game engines",
+          "real-time networking"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Highest comp among game studios for SWE interns ($62/hr + housing). Unique assessment process — game-based, not traditional DSA. ~50% return offer rate.",
+    "priority_score": 8,
+    "notes": "Applications expected August–October 2026. Assessment uses CodeSignal coding + game-based problem solving. ~2% acceptance rate (extremely selective).",
+    "created_at": "2026-07-20T16:07:00Z",
+    "updated_at": "2026-07-20T16:07:00Z",
+    "source": "Roblox early careers portal + Extern guide (verified July 20, 2026)",
     "referral_source": ""
   }
 ]
