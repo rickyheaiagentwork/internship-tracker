@@ -3307,5 +3307,365 @@
     "updated_at": "2026-07-18T03:05:00Z",
     "source": "Known annual program",
     "referral_source": ""
+  },
+  {
+    "id": 57,
+    "company": "DRW",
+    "role_title": "Software Developer Intern \u2014 Trading Technology",
+    "posting_link": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+    "application_link": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (10-week)",
+    "work_model": "OnSite-Office",
+    "location": "Chicago, IL",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$225K annualized base (pro-rated ~$18.75K/week) + discretionary bonus + furnished housing provided",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build advanced trading and risk applications \u2014 decoders for exchange packet data, normalizers for trading books, compliance tools. Highly competitive quant-tech shop with 30+ years of trading expertise.",
+    "key_requirements": [
+      "BS/MS/PhD in CS, CE, Physics, Math, or ML (graduating Dec 2027 \u2013 Jun 2028)",
+      "Exposure to TCP/IP networking, multi-threaded apps, algorithms",
+      "Strong OOP, data structures, and algorithms",
+      "Excellent C++, Python, or Java skills"
+    ],
+    "nice_to_haves": [
+      "Real-time programming experience",
+      "GUI programming",
+      "Quantitative finance interest"
+    ],
+    "team_name": "Software Development / Trading Technology",
+    "suggested_projects": [
+      {
+        "project_ref": "High-performance networking or data pipeline project",
+        "rationale": "DRW deals with real-time exchange data feeds \u2014 low-latency skills are directly relevant",
+        "keywords_to_emphasize": [
+          "TCP/IP",
+          "multi-threading",
+          "low latency"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Top-tier quant firm with unmatched comp (~$225K annualized). Rolling review, apply early. Furnished housing in Chicago is a major perk.",
+    "priority_score": 9,
+    "notes": "Rolling applications for Summer 2027. Opened July 12, 2026. Extremely selective quant shop.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "speedyapply GitHub list + DRW careers page verified",
+    "referral_source": ""
+  },
+  {
+    "id": 58,
+    "company": "Akuna Capital",
+    "role_title": "Software Engineer Intern \u2014 C# .NET Desktop (Summer 2027)",
+    "posting_link": "https://akunacapital.com/careers/",
+    "application_link": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (10-week Akunacademy)",
+    "work_model": "OnSite-Office",
+    "location": "Chicago, IL",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$145K+ annualized minimum (per IL Equal Pay Act) + discretionary bonus",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (F-1 OPT/STEM)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Design and build real-time trading desktop applications (C# .NET/WinForms/WPF) alongside traders and quants. Full ownership of a project with presentation at program end.",
+    "key_requirements": [
+      "BS/MS/PhD in technical field, graduating by Aug 2028",
+      "Major GPA 3.5+",
+      "C# .NET familiarity preferred",
+      "OOP and design patterns understanding"
+    ],
+    "nice_to_haves": [
+      "WinForm/WPF experience",
+      "Git version control",
+      "Unit testing frameworks (NUnit)"
+    ],
+    "team_name": "User Interface Team / Trading Applications",
+    "suggested_projects": [
+      {
+        "project_ref": "Desktop UI app with real-time data display",
+        "rationale": "Akuna builds real-time trading dashboards \u2014 showing you can build reactive UIs is directly relevant",
+        "keywords_to_emphasize": [
+          "C#",
+          ".NET",
+          "desktop GUI"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Elite quant firm. No trading experience required \u2014 they train from scratch. PDF resume only. AI-friendly for daily work but no AI during interviews.",
+    "priority_score": 8,
+    "notes": "Multiple tracks open: C++, Python, Full Stack Web, C# .NET. Apply via akunacapital.com/careers/.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "Akuna Capital careers page + LinkedIn listing verified",
+    "referral_source": ""
+  },
+  {
+    "id": 59,
+    "company": "Deepgram",
+    "role_title": "Software Engineering Intern \u2014 Speech AI (Fall 2026/Summer 2027)",
+    "posting_link": "https://www.deepgram.com/",
+    "application_link": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Fall 2026 / Summer 2027",
+    "deadline": "2026-09-30",
+    "decision_deadline": null,
+    "start_date_target": "September 2026 \u2013 March 2027 (fall) or May 2027 \u2013 August 2027 (summer)",
+    "work_model": "Remote (USA)",
+    "location": "Fully Remote (US-based)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$65-$80/hr (~$78K-$96K annualized) \u2014 typical for speech AI startups",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build speech recognition and natural language AI infrastructure. Deepgram provides real-time voice-to-text APIs used by thousands of developers. Work on transcription pipelines, noise cancellation, or speaker identification.",
+    "key_requirements": [
+      "CS degree (undergrad OK)",
+      "Python proficiency + backend development",
+      "Interest in speech processing / NLP / AI",
+      "Strong DSA fundamentals"
+    ],
+    "nice_to_haves": [
+      "Speech/audio processing experience",
+      "Real-time streaming API development",
+      "Open source contributions"
+    ],
+    "team_name": "Core Platform / Developer Experience",
+    "suggested_projects": [
+      {
+        "project_ref": "Speech or audio processing project with real-time API",
+        "rationale": "Deepgram's core product is real-time speech AI \u2014 show you understand streaming audio pipelines",
+        "keywords_to_emphasize": [
+          "speech recognition",
+          "NLP",
+          "real-time API"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Well-funded speech AI company backed by Google, Netflix, NVIDIA. Great intersection of audio tech and AI.",
+    "priority_score": 7,
+    "notes": "Posted 2 days ago on speedyapply list. Remote-friendly \u2014 rare for this sector.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "speedyapply GitHub list verified via Ashby careers page",
+    "referral_source": ""
+  },
+  {
+    "id": 60,
+    "company": "The Trade Desk",
+    "role_title": "2027 North America Software Engineering Intern",
+    "posting_link": "https://www.thetradedesk.com/careers",
+    "application_link": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "Hybrid-Remote",
+    "location": "Denver, CO / Vashon Island, WA / NYC / London",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$7,500-$8,500/month (~$90K-$102K annualized) + equity",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build the world's largest independent ad tech platform. Work on DSP infrastructure, real-time bidding systems, or data analytics that process billions of ad auctions daily.",
+    "key_requirements": [
+      "CS degree or equivalent",
+      "Strong DSA skills (LC Medium/Hard)",
+      "Proficiency in Java, Python, or Go",
+      "Interest in large-scale distributed systems"
+    ],
+    "nice_to_haves": [
+      "Ad tech / real-time bidding knowledge",
+      "Spark or data pipeline experience",
+      "Kafka or message queue frameworks"
+    ],
+    "team_name": "Core Engineering / Data Platform / Ads Infrastructure",
+    "suggested_projects": [
+      {
+        "project_ref": "High-throughput data processing or real-time system project",
+        "rationale": "TTD processes billions of ad auctions \u2014 scale thinking is essential",
+        "keywords_to_emphasize": [
+          "distributed systems",
+          "real-time",
+          "high throughput"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Public company (NASDAQ: TTD) with strong engineering culture. Unique ad-tech focus vs. consumer tech.",
+    "priority_score": 7,
+    "notes": "Posted 4 days ago on speedyapply list. Greenhouse job board confirmed live.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "speedyapply GitHub list + Greenhouse job board verified",
+    "referral_source": ""
+  },
+  {
+    "id": 61,
+    "company": "Cloudflare",
+    "role_title": "Software Engineer Intern \u2014 Fall 2026",
+    "posting_link": "https://www.cloudflare.com/careers/early-talent/",
+    "application_link": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Fall 2026",
+    "deadline": "2026-09-15",
+    "decision_deadline": null,
+    "start_date_target": "September 2026 \u2013 January 2027",
+    "work_model": "OnSite-Office / Hybrid options",
+    "location": "Austin, TX (other hubs: SF, NYC, Seattle, London)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$45-$53/hr (~$54K-$64K for semester) \u2014 cloudflare intern program targets 1,100+ interns",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on the global internet infrastructure that protects and accelerates millions of websites. Build networking tools, CDN optimization, edge computing features, or security systems at a planetary scale.",
+    "key_requirements": [
+      "CS/CE degree (undergrad OK)",
+      "C/C++ proficiency preferred (core Cloudflare tech stack)",
+      "Understanding of networking (TCP/IP, DNS, HTTP)",
+      "Strong DSA fundamentals"
+    ],
+    "nice_to_haves": [
+      "Networking protocol knowledge",
+      "Rust programming experience",
+      "Open source contributions to infra projects"
+    ],
+    "team_name": "Core Infrastructure / Edge Computing / Developer Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "Networking or systems-level project (DNS, CDN, edge computing)",
+        "rationale": "Cloudflare's entire business is internet infrastructure \u2014 show you get networking",
+        "keywords_to_emphasize": [
+          "networking",
+          "systems",
+          "edge computing"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Massive intern class (~1,100+) but strong engineering culture. Public company (FLR). Great for systems/networking people.",
+    "priority_score": 7,
+    "notes": "Posted ~5 days ago. Fall semester program \u2014 different timeline than most Summer '27 cycles. Levels.fyi confirms $45/hr rate.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "speedyapply GitHub list + Greenhouse job board verified",
+    "referral_source": ""
+  },
+  {
+    "id": 62,
+    "company": "Netic (formerly Adept)",
+    "role_title": "Software Engineer \u2014 Agent Platform Intern / Full-Stack Product Intern (2026-2027)",
+    "posting_link": "https://www.netic.ai/",
+    "application_link": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
+    "director_link": "",
+    "posted_date": "2026-07-20",
+    "season": "Fall 2026 / Summer 2027 (rolling)",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "September 2026 \u2013 March 2027 or May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "San Francisco, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$7,000-$9,000/month (~$84K-$108K annualized) + equity \u2014 competitive AI startup comp",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build AI agent platforms that automate complex workflows across enterprise tools. Two tracks: Agent Platform (backend/AI infra) and Product (full-stack). Cutting-edge AI agent technology from the former Adept team.",
+    "key_requirements": [
+      "CS degree (undergrad OK)",
+      "Python/JavaScript proficiency",
+      "Interest in AI agents / LLM applications",
+      "Strong DSA fundamentals"
+    ],
+    "nice_to_haves": [
+      "LLM fine-tuning experience",
+      "LangChain or agent framework knowledge",
+      "Full-stack project portfolio"
+    ],
+    "team_name": "Agent Platform / Product Engineering",
+    "suggested_projects": [
+      {
+        "project_ref": "AI agent or LLM-powered automation project",
+        "rationale": "Directly maps to Netic's core product of AI agents for enterprise workflows",
+        "keywords_to_emphasize": [
+          "AI agents",
+          "LLM",
+          "automation"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Founded by former Adept AI team \u2014 pioneering the AI agent space. Two distinct internship tracks = more chances to match your skills.",
+    "priority_score": 8,
+    "notes": "Posted 4 days ago. Ashby careers page confirmed live. Two separate roles: Agent Platform and Full-Stack Product.",
+    "created_at": "2026-07-20T14:25:00Z",
+    "updated_at": "2026-07-20T14:25:00Z",
+    "source": "speedyapply GitHub list + Ashby careers page verified",
+    "referral_source": ""
   }
 ]
