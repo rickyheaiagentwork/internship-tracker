@@ -7584,5 +7584,245 @@
     "updated_at": "2026-07-21T01:09:52.709556Z",
     "source": "Bank of America careers page, verified July 2026",
     "referral_source": ""
+  },
+  {
+    "id": 73,
+    "company": "Jump Trading",
+    "role_title": "Software Engineer Intern — Summer 2027",
+    "posting_link": "https://jumptrading.com/careers/students-new-grads.html",
+    "application_link": "https://www.jumptrading.com/careers/internships.html",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling — mid-2026 posting window; apply as soon as roles appear",
+    "decision_deadline": null,
+    "start_date_target": "May/June 2027 – August 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Chicago (HQ) / London / Singapore / New York",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$120/hour + $20K sign-on bonus + corporate housing (Levels.fyi, Summer 2026 data)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on algorithmic and high-frequency trading systems. Build predictive models, low-latency infrastructure, and quantitative tools across futures, options, crypto, and equities. Jump is one of the most technically demanding prop trading firms with a culture that hires for raw problem-solving ability over domain experience.",
+    "key_requirements": [
+      "Undergrad or grad student in CS, Math, Physics, or Engineering",
+      "Strong C++ programming skills",
+      "Competitive programming or algorithms background",
+      "Probability and statistics knowledge"
+    ],
+    "nice_to_haves": [
+      "Low-latency systems or trading simulator projects",
+      "Quantitative finance interest",
+      "GPU/HFT experience"
+    ],
+    "team_name": "Software Engineering / Quantitative Research / FPGA/Hardware",
+    "suggested_projects": [
+      {
+        "project_ref": "Low-latency order matching engine or trading simulator",
+        "rationale": "Directly demonstrates systems skills relevant to HFT infrastructure",
+        "keywords_to_emphasize": [
+          "C++",
+          "low-latency",
+          "performance-critical"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Sub-5% acceptance rate. $120/hr is the highest intern pay among prop trading firms outside Jane Street. No finance experience needed for QT/QR tracks.",
+    "priority_score": 9,
+    "notes": "Posting window: mid-2026 for summer 2027 (consistent with past cycles). Apply early — rolling review, no published deadlines. Verified via Jump Trading careers site and Levels.fyi ($120/hr) and Extern guide.",
+    "created_at": "2026-07-21T13:01:00Z",
+    "updated_at": "2026-07-21T13:01:00Z",
+    "source": "Jump Trading careers page, verified July 2026",
+    "referral_source": ""
+  },
+  {
+    "id": 74,
+    "company": "BAE Systems",
+    "role_title": "Software Engineering Intern III — Summer 2027",
+    "posting_link": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
+    "application_link": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling — defense posting, apply early due to clearance processing",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 – August 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Nashua, NH",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$50K-$69K/yr range (Glassdoor employer-provided for this posting)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Design and develop software for defense systems including radar, missile guidance, command-and-control platforms. BAE Systems has I-SEED (Intelligent Systems Engineering & Exploration Division) teams working on ML/AI for autonomous systems, target recognition, and predictive maintenance.",
+    "key_requirements": [
+      "Completed 3rd year of college (for Intern III level)",
+      "US citizenship required (defense contractor)",
+      "Strong CS fundamentals and programming skills",
+      "Interest in defense/aerospace technology"
+    ],
+    "nice_to_haves": [
+      "ML/AI coursework or projects",
+      "Embedded systems experience",
+      "C++ or Python proficiency"
+    ],
+    "team_name": "I-SEED / Mission Systems / Defense Technology",
+    "suggested_projects": [
+      {
+        "project_ref": "Computer vision or autonomous systems project",
+        "rationale": "Maps to BAE's I-SEED AI/ML defense applications",
+        "keywords_to_emphasize": [
+          "computer vision",
+          "autonomous",
+          "real-time systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "US citizenship required for defense roles. Good entry point into defense tech — BAE is the #1 defense contractor in the US. Clearing process adds time, so apply early.",
+    "priority_score": 7,
+    "notes": "Posting confirmed live at jobs.baesystems.com (verified July 2026). Multiple internship levels available (I through IV depending on year completed). Glassdoor shows $50K-$69K/yr range. US citizenship mandatory.",
+    "created_at": "2026-07-21T13:01:00Z",
+    "updated_at": "2026-07-21T13:01:00Z",
+    "source": "BAE Systems careers page, verified July 2026",
+    "referral_source": ""
+  },
+  {
+    "id": 75,
+    "company": "Lockheed Martin",
+    "role_title": "Engineering/Software Intern — Summer 2027",
+    "posting_link": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/internships/engineering-internships.html",
+    "application_link": "https://www.lockheedmartinjobs.com/",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling — expected Aug-Oct 2026 posting window; apply within first 5-30 days of posting",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 – August 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Multiple US sites — Fort Worth TX / Denver CO / Orlando FL / Palmdale CA / Bethesda MD",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$22-$40/hour depending on role; SWE interns up to $40/hr + housing stipend $850-$5,500/month",
+    "is_stem": true,
+    "visa_sponsorship": "Limited — US citizenship required for virtually all roles (ITAR)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on defense and aerospace programs including the F-35 fighter jet, GPS III satellites, missile defense systems, and next-generation combat aircraft. Software interns work on flight control software, simulation systems, cybersecurity, and AI-driven predictive maintenance.",
+    "key_requirements": [
+      "US citizenship mandatory (ITAR/export control)",
+      "Pursuing Bachelor's or Master's in Engineering/CS",
+      "ABET-accredited institution",
+      "Engineering internship eligibility"
+    ],
+    "nice_to_haves": [
+      "Voted #1 ideal employer for engineering students (Universum 2024)",
+      "Systems engineering or cybersecurity interest",
+      "Clearance eligibility"
+    ],
+    "team_name": "Aeronautics / Space / Missiles & Fire Control / Rotary & Mission Systems",
+    "suggested_projects": [
+      {
+        "project_ref": "Cybersecurity, embedded systems, or simulation project",
+        "rationale": "Maps to Lockheed's core defense software domains",
+        "keywords_to_emphasize": [
+          "systems engineering",
+          "cybersecurity",
+          "simulation"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "4.4/5 Glassdoor rating, 96% recommend to a friend. Massive employer (4,000+ interns/year). US citizenship is the key filter — no ITAR work for non-citizens.",
+    "priority_score": 7,
+    "notes": "Applications expected Aug-Oct 2026 (documented multi-year pattern). Uses Workday ATS. 70-80% return offer rate for strong performers per community consensus. $22-$40/hr compensation verified via Extern guide.",
+    "created_at": "2026-07-21T13:01:00Z",
+    "updated_at": "2026-07-21T13:01:00Z",
+    "source": "Lockheed Martin careers page + Extern guide, verified July 2026",
+    "referral_source": ""
+  },
+  {
+    "id": 76,
+    "company": "Micron",
+    "role_title": "Software Engineering / AI Intern — Summer 2027",
+    "posting_link": "https://www.micron.com/careers",
+    "application_link": "https://careers.micron.com/",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling — expected Aug 2026 through Jan 2027; most roles filled by end of January",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 – August 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Boise ID (HQ) / Manassas VA / Clay NY / San Jose CA / Longmont CO / Richardson TX / Atlanta GA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$28-$50/hour depending on role and education level; SSD firmware interns in CA/CO earn $43-$50/hr + corporate housing for all interns",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (CPT/H-1B)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Join the world's largest US-based memory chipmaker. Work on DRAM/NAND flash development, SSD firmware, AI-powered smart manufacturing, process engineering, and semiconductor design verification. Micron has 12+ internship tracks spanning hardware, software, data science, and IT.",
+    "key_requirements": [
+      "Enrolled in accredited Bachelor's/Master's/PhD at US university",
+      "Must not graduate before internship ends",
+      "Engineering or CS background",
+      "Interest in semiconductors, AI, or manufacturing"
+    ],
+    "nice_to_haves": [
+      "$6.4B CHIPS Act expansion pipeline — growing headcount",
+      "Ranked among top 100 US internship programs",
+      "Experience with embedded systems, ML, or data science"
+    ],
+    "team_name": "Semiconductor / AI & Smart Manufacturing / SSD Firmware / Design Verification",
+    "suggested_projects": [
+      {
+        "project_ref": "Embedded systems, ML for manufacturing, or data pipeline project",
+        "rationale": "Maps to Micron's core semiconductor + AI intersection",
+        "keywords_to_emphasize": [
+          "embedded systems",
+          "data science",
+          "ML pipeline"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "$6.4B CHIPS Act investment means massive growth. Top 100 internship program with corporate housing for all interns — rare perk in semiconductors.",
+    "priority_score": 7,
+    "notes": "Applications expected Aug 2026 (prior cycle pattern). Uses Eightfold AI resume screening — keyword alignment matters. Apply by Oct 2026 for best visibility. Verified via Extern guide (Jul 12, 2026) and careers.micron.com.",
+    "created_at": "2026-07-21T13:01:00Z",
+    "updated_at": "2026-07-21T13:01:00Z",
+    "source": "Micron careers page + Extern guide, verified July 2026",
+    "referral_source": ""
   }
 ]
