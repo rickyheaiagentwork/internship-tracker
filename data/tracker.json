@@ -8609,5 +8609,722 @@
     "updated_at": "2026-07-22T13:10:08Z",
     "source": "f5.com/company/careers/early-careers (verified July 22, 2026)",
     "referral_source": ""
+  },
+  {
+    "id": 29,
+    "company": "Anduril Industries",
+    "role_title": "Software Engineer Intern \u2014 Defense Tech (Summer 2027)",
+    "posting_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "application_link": "https://www.anduril.com/early-careers",
+    "director_link": "",
+    "posted_date": "2026-06-15",
+    "season": "Summer 2027",
+    "deadline": "2026-08-31 (rolling, applications open August 2026)",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027 (12 weeks)",
+    "work_model": "OnSite",
+    "location": "Various (DC area, CA, WA)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$40-$55/hr base salary (estimates)",
+    "is_stem": true,
+    "visa_sponsorship": "U.S. Person required (export-controlled data access)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Support software solutions deployed to military customers via Anduril's Lattice OS. Write code for AI-powered defense systems in C++, Go, Rust, Java, or Python.",
+    "key_requirements": [
+      "Pursuing Bachelor's in CS/Software Engineering/Math/Physics",
+      "Returning to school after internship (1+ semester)",
+      "Familiarity with algorithms, DSA, cloud infrastructure, front-end frameworks",
+      "Proficiency in C++, Go, Rust, Java, or Python",
+      "U.S. Person status required"
+    ],
+    "nice_to_haves": [
+      "Bias for action, curiosity, mission-oriented mindset",
+      "Low-ego, high-ownership work style"
+    ],
+    "team_name": "Lattice OS / Software Engineering",
+    "suggested_projects": [
+      {
+        "project_ref": "Systems-level project with C++ or Rust",
+        "rationale": "Directly maps to Anduril's defense tech stack",
+        "keywords_to_emphasize": [
+          "C++",
+          "systems programming",
+          "real-time systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Defense tech is one of the hottest sectors right now. Anduril values mission-driven engineers who want real-world impact.",
+    "priority_score": 8,
+    "notes": "High-growth defense startup ($5B+ valuation). Applications open August 2026. Compensation listed as range; equity only for FTE. Verification date: July 22, 2026.",
+    "created_at": "2026-07-22T13:12:00Z",
+    "updated_at": "2026-07-22T13:12:00Z",
+    "source": "job-boards.greenhouse.io/andurilindustries (verified July 22, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 30,
+    "company": "Hudson River Trading (HRT)",
+    "role_title": "Algorithm Development (Quant Research & Trading) Intern \u2014 Summer 2027",
+    "posting_link": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/",
+    "application_link": "https://www.hudsonrivertrading.com/student-opportunities/",
+    "director_link": "",
+    "posted_date": "2026-07-01",
+    "season": "Summer 2027",
+    "deadline": "Early July \u2013 October 2026 (rolling)",
+    "decision_deadline": null,
+    "start_date_target": "Late May 2027 \u2013 Mid August 2027 (10-12 weeks)",
+    "work_model": "OnSite",
+    "location": "New York City / London / Singapore",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$5,800/week + $25,000 signing bonus + company-paid housing",
+    "is_stem": true,
+    "visa_sponsorship": "Full H-1B and green card; CPT supported",
+    "status": "Discovered",
+    "application_stage_note": "Rolling; first weeks have best odds",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Research and implementation of automated trading strategies. Rotate between HFT, multi-frequency trading, and ML teams.",
+    "key_requirements": [
+      "Full-time undergrad in CS, math, physics, or quantitative field",
+      "Exceptional problem-solving and coding skills",
+      "Interest in quantitative analysis and market dynamics"
+    ],
+    "nice_to_haves": [
+      "Math competition experience (Putnam, IMO)",
+      "Competitive programming (Codeforces, ICPC)",
+      "No finance background required"
+    ],
+    "team_name": "Algorithm Development",
+    "suggested_projects": [
+      {
+        "project_ref": "Quantitative research or competitive programming project",
+        "rationale": "HRT values raw problem-solving above domain knowledge",
+        "keywords_to_emphasize": [
+          "algorithmic thinking",
+          "optimization",
+          "probability"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "One of the most elite quant firms with <2% acceptance rate. Compensation is among the highest in any internship market.",
+    "priority_score": 10,
+    "notes": "Applications open early July 2026 for summer 2027. Golden window: mid-July through August. Also offers SWE track and PhD track. Verification date: July 22, 2026.",
+    "created_at": "2026-07-22T13:12:00Z",
+    "updated_at": "2026-07-22T13:12:00Z",
+    "source": "hudsonrivertrading.com (verified July 22, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 31,
+    "company": "Two Sigma",
+    "role_title": "Quantitative Researcher - Intern [2027 Summer]",
+    "posting_link": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945",
+    "application_link": "https://www.twosigma.com/careers/internships/",
+    "director_link": "",
+    "posted_date": "2026-07-06",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31 (rolling)",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (10 weeks)",
+    "work_model": "Hybrid",
+    "location": "New York, NY (SoHo office)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$4,900/Week (Bachelors), $5,000/Week (Masters), $5,500/Week (PhD)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Use the scientific method to develop investment models. Apply ML to vast datasets. Partner with engineers on complex investment ideas.",
+    "key_requirements": [
+      "Pursuing degree in statistics, math, physics, EE, or CS (1+ year remaining)",
+      "Intermediate skills in C, C++, Java, or Python",
+      "In-depth research project examining real-world data",
+      "Independent thinker who can communicate complex ideas"
+    ],
+    "nice_to_haves": [
+      "Finance background (nice but not required; >50% from outside finance)",
+      "ML/statistics coursework",
+      "Academic conference presentations"
+    ],
+    "team_name": "Quantitative Research",
+    "suggested_projects": [
+      {
+        "project_ref": "Data science research project with real-world datasets",
+        "rationale": "Two Sigma values research rigor over finance knowledge",
+        "keywords_to_emphasize": [
+          "statistical modeling",
+          "data analysis",
+          "research methodology"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Top-tier quant firm with exceptional comp. No finance background needed.",
+    "priority_score": 9,
+    "notes": "Posting confirmed on careers.twosigma.com July 6, 2026. Hybrid policy with home office budget. Perks include onsite gyms with laundry. Verification date: July 22, 2026.",
+    "created_at": "2026-07-22T13:12:00Z",
+    "updated_at": "2026-07-22T13:12:00Z",
+    "source": "careers.twosigma.com (verified July 22, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 32,
+    "company": "Riot Games",
+    "role_title": "Software Engineering Intern \u2014 Summer 2027",
+    "posting_link": "https://www.riotgames.com/en/student-internships",
+    "application_link": "https://www.riotgames.com/en/university-programs",
+    "director_link": "",
+    "posted_date": "2026-09-01 (expected)",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31 (SWE track; other tracks until January 2027)",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027 (12 weeks, fully remote within US + 1 week LA)",
+    "work_model": "Fully Remote (US) + 1 mandatory week at LA HQ",
+    "location": "Remote (US-based) / Los Angeles for studio week",
+    "timezone_requirement": "Any US timezone",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$56.59/hr",
+    "is_stem": true,
+    "visa_sponsorship": "Limited (US-based only)",
+    "status": "Discovered",
+    "application_stage_note": "Applications open September 2026; SWE closes late October",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work directly on Riot products (League of Legends, Valorant) \u2014 build player-facing features, matchmaking systems, anti-cheat infrastructure, or game services at massive scale.",
+    "key_requirements": [
+      "CS degree or equivalent",
+      "Strong DSA and systems fundamentals",
+      "Passion for gaming and player experience",
+      "Returning to school after internship"
+    ],
+    "nice_to_haves": [
+      "Game development or engine experience (Unreal, C++)",
+      "Multiplayer/networking systems knowledge",
+      "Gaming industry interest demonstrated through projects"
+    ],
+    "team_name": "Various engineering teams (Services, Client, Engine, etc.)",
+    "suggested_projects": [
+      {
+        "project_ref": "Multiplayer or game-related project with networking",
+        "rationale": "Riot's engineers value player-focused solutions and multiplayer systems knowledge",
+        "keywords_to_emphasize": [
+          "networking",
+          "multiplayer",
+          "systems design"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Gaming studio with top-tier engineering. Full-time pay all summer, remote within US.",
+    "priority_score": 8,
+    "notes": "Applications open September 2026 (typical calendar). 12-week program with LA studio week. Compensation confirmed at $56.59/hr via Levels.fyi summer 2026 data. Verification date: July 22, 2026.",
+    "created_at": "2026-07-22T13:12:00Z",
+    "updated_at": "2026-07-22T13:12:00Z",
+    "source": "riotgames.com/student-internships + levels.fyi (verified July 22, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 33,
+    "company": "AMD",
+    "role_title": "Software Engineering / AI Intern \u2014 Semiconductor (Summer 2027)",
+    "posting_link": "https://careers.amd.com/students/jobs",
+    "application_link": "https://careers.amd.com/students/jobs",
+    "director_link": "",
+    "posted_date": "2026-08-01 (expected)",
+    "season": "Summer 2027",
+    "deadline": "2026-11-30 (rolling; most positions close by late November)",
+    "decision_deadline": null,
+    "start_date_target": "May/Jun 2027 \u2013 Aug/Sep 2027 (12 weeks)",
+    "work_model": "OnSite",
+    "location": "Austin TX / Santa Clara CA / Fort Collins CO / Markham ON",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$38-$42/hr undergrad, $45-$55/hr MS, $52-$60+/hr PhD (technical) + $3K-$4.5K housing stipend",
+    "is_stem": true,
+    "visa_sponsorship": "CPT accepted; no H-1B for interns",
+    "status": "Discovered",
+    "application_stage_note": "2 rounds: recruiter phone + technical/behavioral video interview; no standardized OA",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on production silicon design cycles for Ryzen, EPYC, Radeon, and Instinct AI products. Write RTL, debug firmware, optimize compilers, or train ML models that ship in actual products.",
+    "key_requirements": [
+      "Enrolled undergrad or grad student with 1+ semester remaining after internship",
+      "Technical degree (CS, EE, Computer Engineering)",
+      "Interest in semiconductor/hardware engineering"
+    ],
+    "nice_to_haves": [
+      "Repeat internship experience (improves return offer odds significantly)",
+      "RTL/FPGA design experience",
+      "ML/AI coursework or projects"
+    ],
+    "team_name": "Various (AI Accelerators, CPU/GPU Architecture, Compiler Engineering)",
+    "suggested_projects": [
+      {
+        "project_ref": "Systems programming or hardware description language project (Verilog/VHDL)",
+        "rationale": "Directly maps to AMD's silicon design workflow",
+        "keywords_to_emphasize": [
+          "RTL",
+          "FPGA",
+          "systems-level"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Semiconductor is a critical sector. AMD's 40-50% technical return offer rate is strong.",
+    "priority_score": 7,
+    "notes": "Acceptance rate below 2%. Austin and Santa Clara roles fill fastest (late October). Verification date: July 22, 2026.",
+    "created_at": "2026-07-22T13:12:00Z",
+    "updated_at": "2026-07-22T13:12:00Z",
+    "source": "careers.amd.com/students/jobs + extern.com guide (verified July 22, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 86,
+    "company": "IMC Trading",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.imc.com/us/careers/jobs/4823924101",
+    "application_link": "https://www.imc.com/us/careers/jobs/4823924101/apply",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling (apply early)",
+    "decision_deadline": "",
+    "start_date_target": "~10-week internship, Summer 2027",
+    "work_model": "OnSite-Office",
+    "location": "Chicago / Amsterdam / Singapore / Sydney (global offices)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "highly competitive compensation package with accommodations included; salary range not explicitly listed on posting",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (global offices)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "10-week paid software engineering internship at a global proprietary trading firm. Build real trading systems with mentors overseeing development. High bar for talent; top performers get graduate position offers.",
+    "key_requirements": [
+      "Pursuing Bachelor's, Master's, or PhD in CS/Engineering",
+      "Graduating Sept 2027 - July 2028",
+      "Strong coding fundamentals (C++, Python, Java)",
+      "Interest in trading/quantitative systems"
+    ],
+    "nice_to_haves": [
+      "Competitive programming background",
+      "Mathematics or statistics coursework",
+      "Previous internship at a trading firm"
+    ],
+    "team_name": "Trading Technology / Infrastructure",
+    "suggested_projects": [
+      {
+        "project_ref": "Low-latency C++ system or quantitative analysis tool",
+        "rationale": "IMC values performance engineering and quantitative thinking",
+        "keywords_to_emphasize": [
+          "C++",
+          "low-latency",
+          "performance"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "One of the top prop trading firms globally. Comp is known to be in the $200K+ total package range for FTE, among the highest for SWE interns.",
+    "priority_score": 9,
+    "notes": "Apply early \u2014 rolling review with high bar. Interns who meet expectations get graduate position offers.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "IMC careers page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 87,
+    "company": "Anduril Industries",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "application_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling \u2014 begins reviewing in August 2026",
+    "decision_deadline": "",
+    "start_date_target": "Summer 2027 (12-week paid, in-person internship)",
+    "work_model": "OnSite-Office",
+    "location": "Irvine, CA / Austin, TX / Washington DC (multiple US locations)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$40 - $55 USD/hr",
+    "is_stem": true,
+    "visa_sponsorship": "U.S. Person status required (export-controlled data access)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "12-week paid software engineering internship at defense tech company building AI-powered military systems (Lattice OS). Work on real deployments to customers. Must be a U.S. Person due to export-controlled data access.",
+    "key_requirements": [
+      "Pursuing Bachelor's in CS, Computer/Software Engineering, Math, Physics, or related",
+      "Returning to school after internship",
+      "Proficiency in C++, Go, Rust, Java, Python",
+      "U.S. Person status required"
+    ],
+    "nice_to_haves": [
+      "Algorithm and data structures knowledge",
+      "Cloud infrastructure experience",
+      "Front-end framework familiarity"
+    ],
+    "team_name": "Software Engineering / Lattice OS Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "Systems-level project (C++/Rust) with real-world deployment",
+        "rationale": "Anduril builds physical systems \u2014 show you can ship production code",
+        "keywords_to_emphasize": [
+          "systems programming",
+          "deployment",
+          "reliability"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Defense tech is a rapidly growing sector. High mission impact, clear security clearance requirement (U.S. Person). Anduril has raised $2.6B+ and values engineering excellence.",
+    "priority_score": 8,
+    "notes": "Applications reviewed starting August 2026. Must be U.S. Person. Rolling review \u2014 apply early.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "Greenhouse board (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 88,
+    "company": "Optiver",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027 (Chicago)",
+    "posting_link": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "application_link": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling (apply early)",
+    "decision_deadline": "",
+    "start_date_target": "Summer 2027, ~10-12 weeks",
+    "work_model": "OnSite-Office",
+    "location": "Chicago / Austin (also available in Austin office)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "highly competitive internship compensation package; flights and living accommodations covered by Optiver",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (US immigration sponsorship stated)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Software engineering internship at a leading global options market maker. Build real-world trading applications with mentor support. Work on projects solving actual trading problems and improving performance/reliability of trading systems.",
+    "key_requirements": [
+      "Pursuing Bachelor's, Master's, or PhD in CS/Computer Engineering",
+      "Graduating Dec 2027 - June 2028 (junior standing+)",
+      "Proficient in C++, Python, or Java",
+      "Strong engineering instincts and CS fundamentals"
+    ],
+    "nice_to_haves": [
+      "Interest in financial markets and trading",
+      "Problem-solving competition background",
+      "Entrepreneurial mindset"
+    ],
+    "team_name": "Trading Technology / AI-enabled Tools",
+    "suggested_projects": [
+      {
+        "project_ref": "Real-time system or performance-critical application",
+        "rationale": "Optiver builds ultra-low-latency trading infrastructure \u2014 show you understand performance",
+        "keywords_to_emphasize": [
+          "performance",
+          "real-time systems",
+          "C++"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Optiver is one of the world's largest options market makers. Known for rigorous interviews and exceptional compensation. Their AI-powered trading tools push cutting-edge tech.",
+    "priority_score": 9,
+    "notes": "Also available in Austin office. Rolling applications \u2014 apply early. Optiver also has a global re-apply policy for technology intern/grad roles.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "Optiver careers page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 89,
+    "company": "D. E. Shaw",
+    "role_title": "Quantitative Analyst Intern \u2014 Summer 2027",
+    "posting_link": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "application_link": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling (apply early)",
+    "decision_deadline": "",
+    "start_date_target": "June - August 2027 (12-week program)",
+    "work_model": "OnSite-Office",
+    "location": "New York, NY",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (salary determined based on experience and background)",
+    "is_stem": true,
+    "visa_sponsorship": "Likely Full-Sponsor (DE Shaw sponsors for quant roles)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "12-week quantitative analyst internship at one of the most prestigious quant hedge funds. Work on research projects involving statistical modeling and financial data analysis alongside a mentor in a quant research group.",
+    "key_requirements": [
+      "Impressive academic record (quantitative background)",
+      "Strong mathematical/statistical skills",
+      "Programming ability for data analysis",
+      "Interest in quantitative finance"
+    ],
+    "nice_to_haves": [
+      "Competition math or programming background",
+      "Research experience",
+      "Statistical modeling coursework"
+    ],
+    "team_name": "Quantitative Research Groups",
+    "suggested_projects": [
+      {
+        "project_ref": "Statistical modeling project with real data",
+        "rationale": "DE Shaw values deep quantitative analysis and statistical rigor",
+        "keywords_to_emphasize": [
+          "statistical modeling",
+          "data analysis",
+          "quantitative methods"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "D. E. Shaw is arguably the most prestigious quant firm. They seek 'talented individuals with impressive records of academic achievement.' Comp for FTE is among the highest in finance (~$300K+ total).",
+    "priority_score": 10,
+    "notes": "Apply via deshaw.com/careers. Highly selective \u2014 they look for top academic performers across math, physics, CS, and other quantitative disciplines.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "DE Shaw careers page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 90,
+    "company": "Jane Street",
+    "role_title": "Internship \u2014 Various Tracks (Quant Trading / ML / Software Engineering / Quant Research)",
+    "posting_link": "https://www.janestreet.com/join-jane-street/internships/",
+    "application_link": "https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=all-locations",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027 (also off-cycle available)",
+    "deadline": "rolling \u2014 apply to open roles",
+    "decision_deadline": "",
+    "start_date_target": "10-12 weeks, May - September 2027 (or off-cycle based on academic schedule)",
+    "work_model": "OnSite-Office",
+    "location": "New York / London / Hong Kong",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "highly competitive (breakfast buffet, lunch buffet, and extensive perks listed; specific salary not stated on page)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (global offices)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Jane Street internship program with tracks in quant trading, machine learning, software engineering, quant research, strategy and product. Includes daily classes (OCaml, ML, poker), mentor-guided projects, and mock trading.",
+    "key_requirements": [
+      "Inquisitive mind and creative problem solving",
+      "Any background \u2014 they don't require finance experience",
+      "Strong academic record in quantitative fields",
+      "Interest in technology and collaborative work"
+    ],
+    "nice_to_haves": [
+      "Mathematics or competitive programming background",
+      "ML/AI coursework or projects",
+      "OCaml familiarity (but not required)"
+    ],
+    "team_name": "Trading / Engineering / ML Research / Strategy & Product",
+    "suggested_projects": [
+      {
+        "project_ref": "Quantitative modeling or performance-critical software project",
+        "rationale": "Jane Street values both deep technical skills and creative problem-solving across any domain",
+        "keywords_to_emphasize": [
+          "performance",
+          "quantitative analysis",
+          "OCaml/Camlpse"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Jane Street is one of the most prestigious proprietary trading firms. Their tech stack uses OCaml heavily. Interns come from 103+ colleges globally. Top comp among all finance roles.",
+    "priority_score": 10,
+    "notes": "Explore open roles at janestreet.com/join-jane-street/open-roles/?type=internship. Also offers off-cycle internships based on academic schedules.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "Jane Street careers page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 91,
+    "company": "Jump Trading",
+    "role_title": "Campus Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.jumptrading.com/hr/students-new-grads",
+    "application_link": "https://www.jumptrading.com/hr/students-new-grads",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling \u2014 US roles opening now, other regions to follow",
+    "decision_deadline": "",
+    "start_date_target": "Summer 2027",
+    "work_model": "OnSite-Office",
+    "location": "Chicago / New York (US)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say",
+    "is_stem": true,
+    "visa_sponsorship": "Likely Full-Sponsor for US roles",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Campus software engineering internship at a leading quantitative trading firm. Open roles by region starting with US. Also has Campus AI Research Engineer role in Deep Learning.",
+    "key_requirements": [
+      "Student or recent grad track",
+      "Strong programming fundamentals",
+      "Interest in quantitative finance or ML"
+    ],
+    "nice_to_haves": [
+      "Competitive programming background",
+      "ML/AI coursework or projects",
+      "Systems programming experience"
+    ],
+    "team_name": "Trading Technology / AI Research",
+    "suggested_projects": [
+      {
+        "project_ref": "Low-latency C++ system or deep learning project",
+        "rationale": "Jump Trading values both trading infrastructure and AI research depth",
+        "keywords_to_emphasize": [
+          "C++",
+          "low-latency",
+          "deep learning"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "One of the oldest and most respected proprietary trading firms. Also has AI Research Engineer intern role \u2014 dual track option for ML-focused candidates.",
+    "priority_score": 9,
+    "notes": "2027 roles opening by region, starting with US. Hold off if planning to apply to another region. Check open roles directly on the page.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "Jump Trading students page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 92,
+    "company": "Coinbase",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.coinbase.com/careers/internships",
+    "application_link": "https://www.coinbase.com/careers/internships",
+    "director_link": "",
+    "posted_date": "2026-07-22",
+    "season": "Summer 2027",
+    "deadline": "rolling (apply early)",
+    "decision_deadline": "",
+    "start_date_target": "Summer 2027 (~10-12 weeks)",
+    "work_model": "Hybrid-Remote",
+    "location": "San Francisco / Remote options by team",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$60.00/hr (per levels.fyi)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Software engineering internship at the leading cryptocurrency exchange. Interns lead priority projects (not slides). Work on blockchain infrastructure, trading systems, wallet products, or developer tools.",
+    "key_requirements": [
+      "Pursuing CS or related degree",
+      "Strong coding fundamentals (Go, TypeScript, Python)",
+      "Interest in crypto/web3 technology",
+      "Leadership mindset \u2014 interns lead real projects"
+    ],
+    "nice_to_haves": [
+      "Blockchain/crypto project experience",
+      "Distributed systems knowledge",
+      "Web3 developer platform familiarity"
+    ],
+    "team_name": "Engineering (various product teams)",
+    "suggested_projects": [
+      {
+        "project_ref": "Blockchain/web3 project or high-scale distributed system",
+        "rationale": "Coinbase values builders who understand both crypto and scalable systems",
+        "keywords_to_emphasize": [
+          "blockchain",
+          "distributed systems",
+          "Go"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "levels.fyi confirms $60/hr for SWE interns. Coinbase's culture emphasizes leading real projects over making presentations. Strong crypto-native company.",
+    "priority_score": 8,
+    "notes": "Apply via coinbase.com/careers/internships. Crypto-forward and crypto-curious encouraged to apply.",
+    "created_at": "2026-07-22T13:23:00Z",
+    "updated_at": "2026-07-22T13:23:00Z",
+    "source": "Coinbase careers + levels.fyi ($60/hr confirmed)",
+    "referral_source": ""
   }
 ]
