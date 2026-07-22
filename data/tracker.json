@@ -8075,5 +8075,302 @@
     "updated_at": "2026-07-21T16:00:00Z",
     "source": "Extern guide + Boeing internships page (verified July 2026)",
     "referral_source": ""
+  },
+  {
+    "id": 77,
+    "company": "CTGT",
+    "role_title": "Software Engineering Intern (Summer 2027)",
+    "posting_link": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
+    "application_link": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling",
+    "decision_deadline": null,
+    "start_date_target": "May/June 2027 – August/September 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "San Francisco, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$8K-$12K/month",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (US visas)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build deterministic governance layer for AI workflows. Born from Stanford research, CTGT provides a control plane that enforces policy, prevents model drift, and produces auditable decisions for Fortune 500 institutions deploying generative AI. Interns own meaningful end-to-end work on the Policy Engine and platform.",
+    "key_requirements": [
+      "Pursuing a Bachelor's degree in Computer Science or related technical field",
+      "Strong programming fundamentals with fluency in Python and JavaScript",
+      "Comfortable with Git and basic cloud workflows (AWS or GCP)",
+      "Able to explain technical ideas clearly"
+    ],
+    "nice_to_haves": [
+      "Experience with ambiguous problem-solving",
+      "Self-directed work ability",
+      "AI/governance domain interest"
+    ],
+    "team_name": "Policy Engine / Core Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "Full-stack project demonstrating correctness under load",
+        "rationale": "CTGT needs engineers who write clean code and reason about the whole system, not just their piece",
+        "keywords_to_emphasize": [
+          "correctness",
+          "systems thinking",
+          "full-stack"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "CTGT's policy engine outperformed Gemini 3 Pro, Claude 4.5 Opus and Sonnet on HaluEval benchmarks at drastically lower compute",
+    "personal_note": "YC-backed (Gradient Ventures, General Catalyst). High-trust culture — you are expected to form strong technical opinions and execute on them. Very selective for a pre-Series A startup.",
+    "priority_score": 8,
+    "notes": "Apply via YC job board or ashbyhq link. Backed by Google's Gradient Ventures and General Catalyst.",
+    "created_at": "2026-07-22T01:05:00Z",
+    "updated_at": "2026-07-22T01:05:00Z",
+    "source": "YC job board + LinkedIn (verified July 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 78,
+    "company": "D. E. Shaw Research",
+    "role_title": "Research Intern — ML for Drug Discovery (Summer 2027)",
+    "posting_link": "https://www.deshawresearch.com/joining_summerinternships.html",
+    "application_link": "https://www.deshawresearch.com/current-opportunities.html",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "September 2026 (applications open Sept 2026)",
+    "decision_deadline": null,
+    "start_date_target": "Flexible, 12-15 weeks during summer 2027",
+    "work_model": "OnSite-Office",
+    "location": "New York City",
+    "timezone_requirement": "",
+    "opportunity_type": "Research-Internship",
+    "is_paid": true,
+    "compensation_note": "$11,700-$20,600/month + generous housing allowance",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Applications open September 2026 from the same page",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Apply ML (including large language models) to drug discovery. Work on building and deploying AI-powered systems, developing scientific software, or advancing computational biology goals. Interns spend 12-15 weeks in a challenging project alongside the computer science and ML team.",
+    "key_requirements": [
+      "Pursuing degrees in scientific/technical disciplines: ML, CS, electrical/computer engineering, applied math, physics, chemistry, or biomolecular engineering",
+      "Programming experience in Python or C/C++ required",
+      "Linux systems experience"
+    ],
+    "nice_to_haves": [
+      "High-performance computing experience",
+      "PyTorch experience",
+      "CUDA experience"
+    ],
+    "team_name": "Computer Science and Machine Learning Team",
+    "suggested_projects": [
+      {
+        "project_ref": "ML applied to scientific/biomedical problem",
+        "rationale": "Directly maps to D.E. Shaw Research's mission of applying computation to drug discovery",
+        "keywords_to_emphasize": [
+          "computational biology",
+          "scientific computing",
+          "ML for science"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "Distinct from D.E. Shaw Group — this is the computational biology/physics research arm applying ML to drug discovery, not quantitative finance.",
+    "personal_note": "Separate legal entity from D.E. Shaw Group (quant finance). Focuses on physics-based simulation and computational chemistry for drug discovery. The compensation range is wide ($11.7K-$20.6K) based on prior experience — PhD students get the higher end.",
+    "priority_score": 8,
+    "notes": "Applications open September 2026 (not currently open). Set a reminder to apply then. Very interdisciplinary — welcomes applicants from physics, chemistry, and biology backgrounds alongside CS.",
+    "created_at": "2026-07-22T01:05:00Z",
+    "updated_at": "2026-07-22T01:05:00Z",
+    "source": "deshawresearch.com/joining_summerinternships.html (verified July 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 79,
+    "company": "Output Biosciences",
+    "role_title": "Research Intern (PhD), Machine Learning — Biology AI (Summer/Fall 2026)",
+    "posting_link": "https://www.linkedin.com/jobs/view/research-intern-phd-machine-learning-at-output-biosciences-4440158912",
+    "application_link": "https://www.linkedin.com/jobs/view/research-intern-phd-machine-learning-at-output-biosciences-4440158912",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Fall 2026",
+    "deadline": "Rolling",
+    "decision_deadline": null,
+    "start_date_target": "Fall 2026 (flexible start)",
+    "work_model": "Hybrid-Office",
+    "location": "New York, NY",
+    "timezone_requirement": "",
+    "opportunity_type": "Research-Internship",
+    "is_paid": true,
+    "compensation_note": "$3,500-$11,500/month",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Recently posted (within 24 hours of scan date)",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Work on Output's biological reasoning model that understands biology at the scale and complexity of natural systems. Apply ML to understand cellular behavior, protein function, or disease pathways — a fundamentally new approach to computational biology.",
+    "key_requirements": [
+      "PhD student (preferred) in CS, ML, computational biology, or related field",
+      "Strong machine learning background",
+      "Understanding of biological systems or prior biology research helpful"
+    ],
+    "nice_to_haves": [
+      "Generative models experience for biology",
+      "Protein structure prediction work",
+      "Single-cell analysis expertise"
+    ],
+    "team_name": "Core AI / Biological Reasoning Models",
+    "suggested_projects": [
+      {
+        "project_ref": "ML project with biological/genetic data",
+        "rationale": "Output's differentiator is a biological reasoning model — show any intersection of ML and life sciences",
+        "keywords_to_emphasize": [
+          "generative AI",
+          "computational biology",
+          "protein modeling"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "New startup building a biological reasoning model — one of the hottest areas in AI+biology intersection right now.",
+    "personal_note": "Output Biosciences is building a foundational model for biology. The comp range ($3.5K-$11.5K) reflects PhD-level pay scaling. Very early-stage — high risk/high reward opportunity to be among the first hires in a potentially transformative company.",
+    "priority_score": 7,
+    "notes": "Apply via LinkedIn. This is an ultra-new posting (<24 hours old as of scan). Watch for updates on their careers page.",
+    "created_at": "2026-07-22T01:05:00Z",
+    "updated_at": "2026-07-22T01:05:00Z",
+    "source": "LinkedIn (verified July 21, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 80,
+    "company": "Mistral AI",
+    "role_title": "AI Research Scientist Internship [2027 Summer] / Machine Learning Research Engineer Intern (Summer 2027)",
+    "posting_link": "https://www.linkedin.com/jobs/view/ai-research-scientist-internship-2027-summer-at-two-sigma-4434591061",
+    "application_link": "https://mistral.ai/careers/ or https://jobs.ashbyhq.com/mistral.ai",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Summer 2027",
+    "deadline": "Rolling",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 – August 2027",
+    "work_model": "OnSite-Office",
+    "location": "New York / San Francisco / Paris",
+    "timezone_requirement": "",
+    "opportunity_type": "Research-Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (LinkedIn listing did not display compensation range; check careers page)",
+    "is_stem": false,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Researcher roles in Paris and London also available per company site",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build cutting-edge open-source AI models, products, and solutions at Mistral. Work on frontier AI research — language models, multimodal systems, or the platform that brings AI to millions of developers worldwide. Mistral is one of the most ambitious independent AI platforms globally.",
+    "key_requirements": [
+      "Strong ML/AI background with deep learning expertise",
+      "Research publication track record preferred",
+      "Proficiency in PyTorch and distributed training"
+    ],
+    "nice_to_haves": [
+      "Transformer architecture experience",
+      "Open-source contributions to AI projects",
+      "Multimodal model training experience"
+    ],
+    "team_name": "Science / Product and Engineering",
+    "suggested_projects": [
+      {
+        "project_ref": "Open-source LLM or multimodal ML project",
+        "rationale": "Mistral is an open-source-first AI company — OSS contributions are highly valued",
+        "keywords_to_emphasize": [
+          "open-source",
+          "LLMs",
+          "multimodal"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "Independent AI company (not backed by FAANG), building open-source frontier models. Flat structure with high autonomy.",
+    "personal_note": "900+ employees, 30+ nationalities, 50% female leaders. They value audacity and rigor equally. Apply through jobs.ashbyhq.com/mistral.ai or Lever.",
+    "priority_score": 8,
+    "notes": "Careers page at mistral.ai/careers. Research roles also available in Paris and London. Compensation not displayed on LinkedIn — reach out to recruiter for details.",
+    "created_at": "2026-07-22T01:05:00Z",
+    "updated_at": "2026-07-22T01:05:00Z",
+    "source": "LinkedIn job posting + mistral.ai/careers (verified July 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 81,
+    "company": "Rippling",
+    "role_title": "Machine Learning Software Engineer Intern - Winter 2027",
+    "posting_link": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-intern-winter-2027-at-rippling-4425105258",
+    "application_link": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-intern-winter-2027-at-rippling-4425105258",
+    "director_link": "",
+    "posted_date": "2026-07-21",
+    "season": "Winter 2027",
+    "deadline": "Rolling",
+    "decision_deadline": null,
+    "start_date_target": "January 2027 – April 2027",
+    "work_model": "OnSite-Office",
+    "location": "San Francisco, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (LinkedIn listing did not display compensation range)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Recently posted; Rippling doubled its 2026 internship program and continues expanding",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Join the Machine Learning Team at Rippling (HR/IT/Finance platform) as an Engineering Intern for Winter 2027. Develop robust, well-designed ML products that power one of the fastest-growing enterprise SaaS platforms. Work on recommendation systems, predictive models, or intelligent automation.",
+    "key_requirements": [
+      "Strong engineering fundamentals",
+      "ML/AI coursework or project experience",
+      "Python proficiency",
+      "Interest in building ML products at scale"
+    ],
+    "nice_to_haves": [
+      "Previous ML internship experience",
+      "Production model deployment experience",
+      "Enterprise SaaS understanding"
+    ],
+    "team_name": "Machine Learning Team",
+    "suggested_projects": [
+      {
+        "project_ref": "ML product project with real-world impact",
+        "rationale": "Rippling builds ML products used by enterprises — show you understand the product side of ML",
+        "keywords_to_emphasize": [
+          "ML product",
+          "recommendation systems",
+          "enterprise SaaS"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "Rippling doubled its 2026 internship program — Winter 2027 ML intern role signals continued aggressive expansion.",
+    "personal_note": "Rippling is a fast-growing enterprise SaaS company (HR + IT + Finance unified platform). The ML internship offers exposure to building products at scale with real business impact. Apply via LinkedIn.",
+    "priority_score": 7,
+    "notes": "Also has Full-Stack Software Engineer Intern - Winter 2027 roles. Rippling is known for strong engineering culture and rapid growth.",
+    "created_at": "2026-07-22T01:05:00Z",
+    "updated_at": "2026-07-22T01:05:00Z",
+    "source": "LinkedIn job posting (verified July 2026)",
+    "referral_source": ""
   }
 ]
