@@ -9326,5 +9326,364 @@
     "updated_at": "2026-07-22T13:23:00Z",
     "source": "Coinbase careers + levels.fyi ($60/hr confirmed)",
     "referral_source": ""
+  },
+  {
+    "id": 93,
+    "company": "Anduril Industries",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "application_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "director_link": "",
+    "posted_date": "2026-07-17",
+    "season": "Summer 2027",
+    "deadline": "2026-11-30",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Atlanta, GA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "0 - 5 USD/hour",
+    "is_stem": true,
+    "visa_sponsorship": "None \u2014 U.S. Person status required",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Defense technology company building AI-powered command and control (Lattice OS). Interns write code to improve mission-critical products, collaborate across teams, build monitoring tooling, and triage production issues on systems deployed to military customers.",
+    "key_requirements": [
+      "Bachelor's in CS/Software Eng/Math/Physics",
+      "Proficiency in C++, Go, Rust, Java, Python",
+      "U.S. Person status required (export-controlled data)",
+      "Returning to school after internship"
+    ],
+    "nice_to_haves": [
+      "Bias for action",
+      "Curiosity about tools used",
+      "Low-ego, high ownership mindset"
+    ],
+    "team_name": "Various SWE teams (Lattice OS platform)",
+    "suggested_projects": [
+      {
+        "project_ref": "Security tooling or monitoring dashboard project",
+        "rationale": "Anduril values mission-driven builders who understand real-world impact of code",
+        "keywords_to_emphasize": [
+          "security",
+          "reliability",
+          "systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Defense tech hot sector. High-growth defense company (Series G+). U.S. Person requirement means no visa sponsorship \u2014 check eligibility.",
+    "priority_score": 7,
+    "notes": "Applications reviewed starting Aug 2026 for Summer 2027. Encourages early application. Defense industry = requires ITAR compliance.",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "Anduril careers (Greenhouse board, verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 94,
+    "company": "Optiver",
+    "role_title": "Quantitative Intern \u2014 Summer 2027",
+    "posting_link": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
+    "application_link": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Chicago, IL (also NYC, Austin, Amsterdam)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "0,000\u20138,000 base salary range for internship + sign-on bonus; Optiver-covered flights, living accommodations, commuting stipends",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (US)",
+    "status": "Discovered",
+    "application_stage_note": "May be considered for Quant Trading or Quant Research based on interview assessment",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Leading market-making firm. Interns work alongside traders/researchers/engineers to solve problems in global financial markets using quantitative research, data, and AI-enabled tools. Includes structured education, market simulations, and live trading exposure.",
+    "key_requirements": [
+      "Bachelor's or Master's in STEM field",
+      "Expected graduation Dec 2027\u2013June 2029 (soph standing+)",
+      "Available Summer 2027",
+      "Strong quant/math/probability/statistics foundation",
+      "Programming in Python or similar"
+    ],
+    "nice_to_haves": [
+      "Interest in financial markets",
+      "Fast-paced collaborative environment fit"
+    ],
+    "team_name": "Quant Trading / Quant Research (determined by assessment)",
+    "suggested_projects": [
+      {
+        "project_ref": "Quantitative analysis project with Python + statistical modeling",
+        "rationale": "Shows quant intuition and programming ability \u2014 core to Optiver's selection process",
+        "keywords_to_emphasize": [
+          "probability",
+          "statistical modeling",
+          "optimization"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Workplace covers flights + housing. If you have math competition or competitive programming background, this is a natural fit.",
+    "priority_score": 7,
+    "notes": "8-month cool-off period if you've applied in past 8 months. Apply early \u2014 recruitment takes 5-10 weeks from OA to offer.",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "Optiver careers page (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 95,
+    "company": "Flow Traders",
+    "role_title": "Quantitative Trading Intern \u2014 Summer 2027",
+    "posting_link": "https://openquant.co/job/quantitative-trading-intern-summer-2027-flow-traders/3727",
+    "application_link": "https://openquant.co/job/quantitative-trading-intern-summer-2027-flow-traders/3727",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-10-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (9 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "New York, NY (also Amsterdam and Hong Kong for EU/APAC students)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "50,000 prorated base salary (NYC Salary Transparency Law)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (US)",
+    "status": "Discovered",
+    "application_stage_note": "Final round is superday format; rolling process takes 5-10 weeks",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Global market-maker offering a trading internship on the NY floor. Immersion in arbitrage opportunities, team optimization of desks. Includes structured courses, trading simulations, project-based work with traders/quant researchers.",
+    "key_requirements": [
+      "Class of 2028 preferred",
+      "Major: Finance, STEM, Math, Statistics, CS, Economics or related",
+      "Demonstrable interest in trading/financial markets",
+      "Excellent mental math and analytical skills",
+      "Proficiency in Excel + affinity for scientific programming"
+    ],
+    "nice_to_haves": [
+      "Entrepreneurial/competitive mindset",
+      "Fast-paced team fit"
+    ],
+    "team_name": "New York Trading Floor",
+    "suggested_projects": [
+      {
+        "project_ref": "Algorithmic trading simulation or market microstructure research project",
+        "rationale": "Shows quantitative thinking and market awareness \u2014 directly relevant to flow trading",
+        "keywords_to_emphasize": [
+          "market microstructure",
+          "arbitrage",
+          "quantitative analysis"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "50K prorated base for an internship is exceptional. Flow Traders is one of the world's largest market makers in ETFs and options.",
+    "priority_score": 8,
+    "notes": "Housing/accommodations assisted. Positions fill on rolling basis \u2014 apply early. US university enrollment required.",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "OpenQuant listing + Flow Traders careers (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 96,
+    "company": "Nuro",
+    "role_title": "Software Engineer Intern, AI Platform \u2014 Summer 2027",
+    "posting_link": "https://www.nuro.ai/early-career",
+    "application_link": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "director_link": "",
+    "posted_date": "2026-07-16",
+    "season": "Summer 2027",
+    "deadline": "2026-11-30",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Mountain View, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Level 4 autonomous driving company. Interns contribute to Data Platform, Onboard Systems, ML Infrastructure, Simulation, or Technical Infrastructure teams. Work spans distributed systems, data pipelines, ML compilers, simulation frameworks, and cloud infrastructure at petabyte scale.",
+    "key_requirements": [
+      "Current BS/MS in CS/EE/Robotics or related",
+      "Graduating Dec 2026 or later",
+      "Experience with C++ and Python",
+      "Backend API design, distributed systems, data storage/processing"
+    ],
+    "nice_to_haves": [
+      "ML frameworks experience",
+      "Multithreading/x86 architecture knowledge",
+      "Robotics software frameworks",
+      "GPU/FPGA compute modalities"
+    ],
+    "team_name": "AI Platform (Data Platform, Onboard Systems, ML Infra, Simulation, Tech Infra)",
+    "suggested_projects": [
+      {
+        "project_ref": "Distributed systems project or ML pipeline with C++/Python",
+        "rationale": "Directly maps to Nuro's stack \u2014 data platform + ML infra are core to their autonomy pipeline",
+        "keywords_to_emphasize": [
+          "distributed systems",
+          "C++",
+          "ML infrastructure"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Physical AI domain at the intersection of robotics, computer vision, and autonomous driving. B+ raised from Uber, NVIDIA, Google.",
+    "priority_score": 7,
+    "notes": "Pathfinders Internship Program with mentor pairing + hackathon component. Apply via nuro.ai/early-career.",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "Nuro early career + careersite (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 97,
+    "company": "Roblox",
+    "role_title": "Software Engineering Intern \u2014 Summer 2027",
+    "posting_link": "https://careers.roblox.com/early-career",
+    "application_link": "https://careers.roblox.com/jobs?types=internship&page=1&pageSize=9",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2026-11-30",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "San Mateo, CA / Global offices",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "0\u20134/hour (per Levels.fyi)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Unique game-based problem-solving assessment + CodeSignal coding test + decision-making scenarios",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Gaming platform with hundreds of millions of daily users. Interns work on Generative AI, 3D foundation models, infrastructure at massive scale. Roblox uses game-based assessments rather than traditional resume screening.",
+    "key_requirements": [
+      "Enrolled in university (bachelor's/master'/doctoral)",
+      "Coding ability demonstrated through CodeSignal",
+      "Problem-solving and analytical communication skills"
+    ],
+    "nice_to_haves": [
+      "Gaming industry interest",
+      "3D graphics or game engine experience",
+      "Generative AI project experience"
+    ],
+    "team_name": "Various (Engineering, Data & Insights, Infrastructure)",
+    "suggested_projects": [
+      {
+        "project_ref": "Game engine project, 3D rendering, or GenAI demo",
+        "rationale": "Roblox values builders who understand gaming/3D/real-time systems at scale",
+        "keywords_to_emphasize": [
+          "Lua/Luau",
+          "game development",
+          "real-time systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Unique hiring approach: game-based assessments instead of resume black hole. Strong engineering culture in gaming space.",
+    "priority_score": 7,
+    "notes": "Assessment takes ~1 week to complete. Rolling basis from mid-August to March. Apply via careers.roblox.com/jobs with types=internship.",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "Roblox early-career + careers site (verified 200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 98,
+    "company": "Netflix",
+    "role_title": "Software Engineering Intern \u2014 Summer 2027",
+    "posting_link": "https://jobs.netflix.com/careers/internships",
+    "application_link": "https://jobs.netflix.com/jobs?category=internship-program-2937865182&type=full-time-596411087",
+    "director_link": "",
+    "posted_date": "2026-07-15",
+    "season": "Summer 2027",
+    "deadline": "2027-03-31",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (12-week summer)",
+    "work_model": "OnSite-Office / Hybrid",
+    "location": "Los Gatos, CA / Netflix offices globally; also hiring in India, Poland, Japan",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say on posting",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "Take-home assessment + 2-3 interview rounds. Evaluates technical, role-specific, and behavioral skills.",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Streaming giant with global entertainment reach. Engineering interns build the tech that entertains the world \u2014 recommendation systems, video infrastructure, GenAI, content platforms. Netflix hires ~100-150 interns globally.",
+    "key_requirements": [
+      "Enrolled in university (bachelor's/master'/doctoral)",
+      "Technical skills relevant to role",
+      "Cultural fit with Netflix freedom + responsibility ethos"
+    ],
+    "nice_to_haves": [
+      "Recommendation systems experience",
+      "Video processing/AI background",
+      "Open source contributions"
+    ],
+    "team_name": "Engineering, Data & Insights, Content, Finance & Strategy",
+    "suggested_projects": [
+      {
+        "project_ref": "Recommendation system or content discovery project",
+        "rationale": "Netflix's core product depends on ML-driven personalization \u2014 show you understand the space",
+        "keywords_to_emphasize": [
+          "recommendations",
+          "personalization",
+          "scalability"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Netflix's culture memo is legendary reading. Be prepared to discuss which memos resonate with you during interviews.",
+    "priority_score": 7,
+    "notes": "Roles posted rolling mid-Aug\u2013early Sep. Recruiting runs through March 2027. Very competitive (~100-150 spots globally).",
+    "created_at": "2026-07-22T16:00:00Z",
+    "updated_at": "2026-07-22T16:00:00Z",
+    "source": "Netflix careers/internships (verified 200 OK)",
+    "referral_source": ""
   }
 ]
