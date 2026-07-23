@@ -9927,5 +9927,485 @@
     "updated_at": "2026-07-23T01:04:06.123053+00:00",
     "source": "Verified: liveramp.wd5.myworkdayjobs.com + linkedin.com",
     "referral_source": ""
+  },
+  {
+    "id": 104,
+    "company": "Anduril Industries",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.linkedin.com/jobs/view/2027-software-engineer-intern-at-anduril-industries-4427140818",
+    "application_link": "https://www.anduril.com/early-careers",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Costa Mesa, CA / Seattle, WA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "~$50/hr (Levels.fyi); ~$42.78/hr average per Indeed",
+    "is_stem": true,
+    "visa_sponsorship": "Limited",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Defense tech startup building autonomous systems and border security infrastructure. Software engineers work on real-time systems, computer vision pipelines, and mission-critical deployed software. Summer 2027 internship is a paid, in-person, 12-week role.",
+    "key_requirements": [
+      "Pursuing BS/MS in CS or related engineering field",
+      "Strong coding skills in C++, Python, or Java",
+      "Understanding of data structures and algorithms",
+      "Willingness to work on classified/sensitive systems"
+    ],
+    "nice_to_haves": [
+      "Experience with computer vision or robotics",
+      "C++/systems programming background",
+      "Defense/security interest"
+    ],
+    "team_name": "Software Engineering (various teams)",
+    "suggested_projects": [
+      {
+        "project_ref": "Real-time systems or computer vision project",
+        "rationale": "Anduril's products rely on real-time sensor fusion and autonomous decision-making",
+        "keywords_to_emphasize": [
+          "real-time systems",
+          "computer vision",
+          "C++"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "High-growth defense tech. Apply early \u2014 rolling review with no hard deadline.",
+    "priority_score": 7,
+    "notes": "Verified via LinkedIn job posting (July 2026). Rolling applications starting August 2026. Competitive defense sector with unique mission-driven culture.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "LinkedIn verified + Levels.fyi + Indeed",
+    "referral_source": ""
+  },
+  {
+    "id": 105,
+    "company": "Jane Street",
+    "role_title": "Software Engineer / Quantitative Trader Intern \u2014 Summer 2027",
+    "posting_link": "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads",
+    "application_link": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "May 2027 \u2013 September 2027",
+    "work_model": "OnSite-Office",
+    "location": "New York, NY / London / Hong Kong",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$300,000 annualized base (~$25k/month); $144.23/hr per Levels.fyi",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Proprietary trading firm with the highest-paid engineers in the industry. Summer 2027 SWE and QT postings are LIVE as of July 2026. Hires ~250 interns from 50k+ applications. No finance background required for most tracks.",
+    "key_requirements": [
+      "Pursuing degree in CS, math, physics, or related quantitative field",
+      "Strong analytical and problem-solving ability",
+      "Comfort with probability and mathematical reasoning",
+      "No formal GPA cutoff; all tenures welcome"
+    ],
+    "nice_to_haves": [
+      "Competitive programming experience",
+      "Probability/statistics coursework",
+      "Caml/OCaml or functional programming experience"
+    ],
+    "team_name": "Quantitative Trading / Software Engineering / QR / ML Research / Strategy & Product",
+    "suggested_projects": [
+      {
+        "project_ref": "Competitive programming portfolio + probability projects",
+        "rationale": "Jane Street interviews heavily test mathematical reasoning and live coding under pressure",
+        "keywords_to_emphasize": [
+          "probability",
+          "algorithms",
+          "functional programming"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Top 0.1% comp in industry. Apply immediately \u2014 summer 2027 postings verified live July 12, 2026.",
+    "priority_score": 10,
+    "notes": "Summer 2027 SWE/QT postings confirmed live via extern.com (July 12, 2026). No hard deadline; rolling review. Interview process includes live C++ coding and probability brainteasers.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: janestreet.com + extern.com (July 12, 2026) + levels.fyi",
+    "referral_source": ""
+  },
+  {
+    "id": 106,
+    "company": "Jump Trading",
+    "role_title": "Campus Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.jumptrading.com/hr/students-new-grads",
+    "application_link": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply week 1 roles open)",
+    "decision_deadline": "",
+    "start_date_target": "May/June 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Chicago, IL (HQ) / London / Singapore / New York",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$120/hr in Chicago + $20K sign-on bonus + corporate housing",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (CPT/OPT eligible)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Proprietary trading firm with ~2,100 employees. Software engineer interns build low-latency trading platforms and infrastructure. Sub-5% acceptance rate. Five intern tracks: QT, QR, SWE, FPGA/Hardware, Tech Ops.",
+    "key_requirements": [
+      "Pursuing degree in CS, math, physics, or engineering",
+      "Strong C++ / systems programming skills",
+      "Understanding of algorithms and low-latency design",
+      "Mathematical reasoning ability"
+    ],
+    "nice_to_haves": [
+      "Competitive programming (ICPC, etc.)",
+      "Low-latency or trading simulator projects",
+      "HFT infrastructure interest"
+    ],
+    "team_name": "Technology / Trading Platforms (5 tracks available)",
+    "suggested_projects": [
+      {
+        "project_ref": "Low-latency C++ project or trading simulator",
+        "rationale": "Demonstrates systems skills Jump values; shows you can build performant infrastructure",
+        "keywords_to_emphasize": [
+          "C++",
+          "low-latency",
+          "systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Top-tier quant comp. Roles opening mid-2027 for summer 2027 \u2014 apply first week they appear. Set a calendar alert.",
+    "priority_score": 10,
+    "notes": "Verified via jumptrading.com/hr/students-new-grads (July 2026) + extern.com guide. Summer 2028 roles expected mid-2027. For Summer 2027: roles posted mid-2026; check regularly.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: jumptrading.com + extern.com (July 2026) + levels.fyi",
+    "referral_source": ""
+  },
+  {
+    "id": 107,
+    "company": "Citadel / Citadel Securities",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.citadel.com/careers/internships/",
+    "application_link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (no stated deadlines)",
+    "decision_deadline": "",
+    "start_date_target": "June 2027 \u2013 August 2027 (11 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "New York, NY / Miami; Greenwich and Houston for some teams",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$4,500\u2013$5,800/week base + sign-on bonus + ~$15K housing stipend or corporate housing",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Top hedge fund/market maker with 0.36% acceptance rate (115k apps / 350 interns). Summer 2027 postings are LIVE as of July 6, 2026. Two separate applications: citadel.com (hedge fund) and citadelsecurities.com (market maker). Interns work on live quantitative problems.",
+    "key_requirements": [
+      "BS/MS/PhD in CS, applied math, physics, statistics, or engineering",
+      "Strong coding ability (C++, Python, Java)",
+      "Mathematical reasoning and probability skills",
+      "No formal GPA cutoff"
+    ],
+    "nice_to_haves": [
+      "Competitive programming experience",
+      "Quantitative finance interest",
+      "Systems design projects"
+    ],
+    "team_name": "Equities Engineering / Quantitative Research / Trading (various teams across Citadel + Citadel Securities)",
+    "suggested_projects": [
+      {
+        "project_ref": "High-performance algorithm or quantitative modeling project",
+        "rationale": "Shows ability to handle the intense technical bar at Citadel",
+        "keywords_to_emphasize": [
+          "performance",
+          "algorithms",
+          "math"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Highest comp in finance. Apply immediately via both citadel.com AND citadelsecurities.com. Community reports ~75-80% return offer rate.",
+    "priority_score": 10,
+    "notes": "Verified: extern.com guide (July 6, 2026). Summer 2027 postings confirmed live. Apply week 1 \u2014 rolling review with no deadlines.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: citadel.com/careers/internships + extern.com (July 6, 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 108,
+    "company": "IMC Trading",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "posting_link": "https://www.imc.com/us/careers/jobs/4823924101",
+    "application_link": "https://www.imc.com/us/careers/jobs/4823924101",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "June 2027 \u2013 August 2027 (10 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Chicago, IL / Amsterdam / London / Sydney / Bangalore",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "Highly competitive compensation package with accommodations included (exact figure not specified in posting)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Global trading firm since 1989 offering a 10-week paid internship with educational trainings and mentorship. Interns build real trading systems. High bar for talent; successful interns get graduate position opportunities.",
+    "key_requirements": [
+      "Pursuing degree in CS, math, physics, or related field",
+      "Strong coding skills (C++/Python)",
+      "Interest in quantitative finance / market structure",
+      "Graduating Sept 2027 - July 2028"
+    ],
+    "nice_to_haves": [
+      "Competitive programming experience",
+      "Interest in financial markets",
+      "Systems design background"
+    ],
+    "team_name": "Technology (various trading desks)",
+    "suggested_projects": [
+      {
+        "project_ref": "Low-latency or performance-critical systems project",
+        "rationale": "IMC values engineers who can build high-performance trading infrastructure",
+        "keywords_to_emphasize": [
+          "C++",
+          "performance",
+          "systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Verified job posting (URL works). One application per role per year \u2014 apply to your best fit immediately.",
+    "priority_score": 9,
+    "notes": "Verified: imc.com/us/careers/jobs URL returned 200 with full job description. Confirmed live posting for Summer 2027 SWE intern.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: imc.com direct job posting (200 OK)",
+    "referral_source": ""
+  },
+  {
+    "id": 109,
+    "company": "Neuralink",
+    "role_title": "Software Engineer Intern \u2014 Internal Apps / Implant / Robotics",
+    "posting_link": "https://www.linkedin.com/jobs/view/software-engineer-intern-internal-apps-at-neuralink-4416593239",
+    "application_link": "https://www.linkedin.com/jobs/view/software-engineer-intern-internal-apps-at-neuralink-4416593239",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "OnSite-Office",
+    "location": "Austin, TX",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (posting did not list compensation)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Bio-AI / neurotechnology company building brain-machine interfaces. Multiple intern openings: Internal Apps, Implant systems, and Robotics software engineering. Working on cutting-edge hardware-software integration at the intersection of CS and neuroscience.",
+    "key_requirements": [
+      "Pursuing BS/MS in CS, robotics, or related field",
+      "Strong C++/Python skills",
+      "Interest in real-time systems, embedded software, or computer vision",
+      "Willingness to work on mission-critical medical devices"
+    ],
+    "nice_to_haves": [
+      "Embedded systems experience",
+      "Computer vision / robotics background",
+      "Biomedical engineering interest"
+    ],
+    "team_name": "Internal Apps / Implant Systems / Robotics (multiple teams)",
+    "suggested_projects": [
+      {
+        "project_ref": "Real-time embedded or computer vision project",
+        "rationale": "Neuralink's products combine hardware and software in real-time; show you can build for constrained systems",
+        "keywords_to_emphasize": [
+          "embedded",
+          "real-time",
+          "computer vision"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Unique bio-AI opportunity. Multiple openings confirmed on LinkedIn (Internal Apps, Implant, Robotics \u2014 all Austin TX). Apply through LinkedIn.",
+    "priority_score": 9,
+    "notes": "Verified: LinkedIn listing active July 2026. Three distinct roles: Internal Apps, Implant, and Robotics software engineering intern.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: linkedin.com job posting (July 2026)",
+    "referral_source": ""
+  },
+  {
+    "id": 110,
+    "company": "Capital One",
+    "role_title": "Data Science Intern \u2014 Summer 2027 (Current Master's)",
+    "posting_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1",
+    "application_link": "https://www.capitalonecareers.com/job/mclean/current-master-s-data-science-internship-summer-2027/31238/98043168880",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "June 2027 \u2013 August 2027 (10 weeks)",
+    "work_model": "Hybrid-Remote",
+    "location": "McLean, VA; multiple US offices",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$45/hr (Glassdoor est. for Data Science Intern)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Financial technology company offering a full-time paid Data Science internship for current Master's students. Work on ML models, analytics pipelines, and data-driven product decisions across Capital One's massive customer base.",
+    "key_requirements": [
+      "Current Master's student in data science, statistics, CS, or quantitative field",
+      "Python/R + SQL proficiency",
+      "Machine learning / statistical modeling experience",
+      "Strong analytical communication skills"
+    ],
+    "nice_to_haves": [
+      "Previous data science internship",
+      "Cloud platform experience (AWS/GCP)",
+      "Experience with large-scale ML pipelines"
+    ],
+    "team_name": "Data Science / Machine Learning (various business units)",
+    "suggested_projects": [
+      {
+        "project_ref": "ML pipeline or predictive modeling project with business impact",
+        "rationale": "Capital One values data scientists who can translate models to business value",
+        "keywords_to_emphasize": [
+          "predictive modeling",
+          "AWS",
+          "business impact"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Strong tech bank with massive ML workloads. Capital One recently dropped 5 new Summer 2027 internship postings (Instagram confirmation July 7, 2026).",
+    "priority_score": 7,
+    "notes": "Verified: capitalone.wd12.myworkdayjobs.com + linkedin.com. Confirmed live posting for Summer 2027 Data Science Internship.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: capitalone.wd12.myworkdayjobs.com + linkedin.com",
+    "referral_source": ""
+  },
+  {
+    "id": 111,
+    "company": "Ramp",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027 (All tracks)",
+    "posting_link": "https://ramp.com/emerging-talent",
+    "application_link": "https://ramp.com/careers",
+    "director_link": "",
+    "posted_date": "2026-07-23",
+    "season": "Summer 2027",
+    "deadline": "Rolling (apply ASAP)",
+    "decision_deadline": "",
+    "start_date_target": "June 2027 \u2013 August 2027 (10 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "New York, NY (HQ)",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "$67.50/hr + housing stipend; some sources report $11,700/month for certain tracks",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor (for internship track)",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Fintech startup building smart infrastructure for finance teams. Openings across SWE (Backend, Android), Product Design, Data, Legal, and Brand Design. Interns own real customer-facing projects with full mentorship. In-person NYC-focused.",
+    "key_requirements": [
+      "Pursuing degree at accredited 4-year university",
+      "Strong coding skills relevant to track",
+      "Ownership mindset and growth orientation",
+      "Graduation between 2026-2028"
+    ],
+    "nice_to_haves": [
+      "Previous internship experience",
+      "Fintech interest",
+      "Full-stack or systems background"
+    ],
+    "team_name": "Engineering (Backend, Android), Product Design, Data",
+    "suggested_projects": [
+      {
+        "project_ref": "Full-stack project with clear user impact",
+        "rationale": "Ramp values engineers who can ship end-to-end features that affect real customers",
+        "keywords_to_emphasize": [
+          "ownership",
+          "shipping",
+          "full-stack"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Top fintech startup with exceptional comp. CTF-style interview challenge. Applying early is critical.",
+    "priority_score": 8,
+    "notes": "Verified: ramp.com/emerging-talent (200 OK, detailed content). LinkedIn posting active July 2026 for SWE Android internship.",
+    "created_at": "2026-07-23T16:10:11.668602+00:00",
+    "updated_at": "2026-07-23T16:10:11.668602+00:00",
+    "source": "Verified: ramp.com/emerging-talent + linkedin.com",
+    "referral_source": ""
   }
 ]
