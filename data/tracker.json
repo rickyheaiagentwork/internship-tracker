@@ -11329,5 +11329,188 @@
     "updated_at": "2026-07-30T01:30:00Z",
     "source": "LinkedIn/SAP job search - July 30, 2026 scan",
     "referral_source": ""
+  },
+  {
+    "id": 130,
+    "company": "Intel",
+    "role_title": "AI Software Engineering Intern \u2014 Summer 2027 (Multiple Locations)",
+    "posting_link": "https://jobs.intel.com/search/?keyword=intern&location=united-states",
+    "application_link": "https://intel.wd1.myworkdayjobs.com/External",
+    "director_link": "",
+    "posted_date": "2026-07-29",
+    "season": "Summer 2027",
+    "deadline": "TBD (verify on posting)",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "On-Site/Hybrid",
+    "location": "Folsom, CA / Phoenix, AZ / Hillsboro, OR",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (posted link verified; specific comp not extractable from ATS)",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "AI Software Engineering internship focused on semiconductor AI chip design, verification, and embedded AI systems. Intel's foundry business is heavily investing in AI accelerators (Gaudi series) and data center silicon. Work on hardware-software co-design for next-gen AI processors.",
+    "key_requirements": [
+      "Bachelor's in CS/EE/CE or equivalent",
+      "Proficiency in C/C++ or Python",
+      "Understanding of computer architecture or digital logic",
+      "Interest in AI/ML hardware acceleration"
+    ],
+    "nice_to_haves": [
+      "Machine learning coursework or projects",
+      "VHDL/Verilog experience",
+      "CUDA or GPU programming",
+      "Digital design simulation experience"
+    ],
+    "team_name": "Intel Foundry / AI\u52a0\u901f (Gaudi) / Data Center Group",
+    "suggested_projects": [
+      {
+        "project_ref": "AI accelerator benchmarking project or hardware-aware ML model optimization",
+        "rationale": "Directly maps to Intel's focus on AI silicon and hardware-software co-design",
+        "keywords_to_emphasize": [
+          "hardware acceleration",
+          "ML inference",
+          "performance optimization"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Intel is making a massive comeback in AI chips. The Gaudi AI accelerator line competes directly with NVIDIA. Internship here gives you exposure to cutting-edge semiconductor design for AI workloads.",
+    "priority_score": 8,
+    "notes": "Found via LinkedIn (posted <1 day ago). Career site confirmed active at jobs.intel.com. Workday ATS \u2014 apply via careers page. Multiple location options: Folsom (AI chip design), Phoenix (data center silicon), Hillsboro (Pacific NW engineering hub).",
+    "created_at": "2026-07-30T13:04:00Z",
+    "updated_at": "2026-07-30T13:04:00Z",
+    "source": "LinkedIn listing (2026-07-30) + careers.netapp.com verified active",
+    "referral_source": ""
+  },
+  {
+    "id": 131,
+    "company": "NetApp",
+    "role_title": "Software Engineer Intern \u2014 Storage/Data Infrastructure (Summer 2027)",
+    "posting_link": "https://careers.netapp.com/search-jobs/intern/1/",
+    "application_link": "https://careers.netapp.com",
+    "director_link": "",
+    "posted_date": "2026-07-30",
+    "season": "Summer 2027",
+    "deadline": "TBD (verify on posting)",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027",
+    "work_model": "Hybrid/On-Site",
+    "location": "Wichita, KS / Other US locations",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (career site confirmed; specific comp not extractable from ATS)",
+    "is_stem": true,
+    "visa_sponsorship": "Depends",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Software engineering internship at NetApp focused on cloud data management, storage systems, and AI-powered data infrastructure. Work on ONTAP, Cloud Volumes, or AI-ready data pipelines that power enterprise hybrid cloud deployments.",
+    "key_requirements": [
+      "Bachelor's in CS/CE/Math or equivalent",
+      "Proficiency in C/C++/Go/Python",
+      "Understanding of storage systems or distributed systems",
+      "Strong DSA fundamentals"
+    ],
+    "nice_to_haves": [
+      "Cloud platform experience (AWS/Azure/GCP)",
+      "Kubernetes or containerization knowledge",
+      "Data engineering experience",
+      "AI/ML pipeline background"
+    ],
+    "team_name": "Data Management / Cloud Infrastructure / AI Data Platform",
+    "suggested_projects": [
+      {
+        "project_ref": "Distributed storage system or cloud data pipeline project",
+        "rationale": "NetApp's core business is enterprise data infrastructure \u2014 show you understand scale and reliability",
+        "keywords_to_emphasize": [
+          "distributed systems",
+          "cloud storage",
+          "data pipelines"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "NetApp is a major player in enterprise storage that's pivoting hard to AI data infrastructure. Great opportunity for students interested in the intersection of storage systems and AI/ML workloads.",
+    "priority_score": 7,
+    "notes": "Career site confirmed active with 294+ results (careers.netapp.com/search-jobs/intern/1/). Uses Eightfold ATS internally. Apply via careers page directly.",
+    "created_at": "2026-07-30T13:04:00Z",
+    "updated_at": "2026-07-30T13:04:00Z",
+    "source": "LinkedIn listing (2026-07-30) + careers.netapp.com verified active",
+    "referral_source": ""
+  },
+  {
+    "id": 132,
+    "company": "First Solar",
+    "role_title": "Software Engineer Intern \u2014 Renewable Energy AI (Summer 2027 / Fall 2026)",
+    "posting_link": "https://www.firstsolar.com/about-us/careers",
+    "application_link": "https://www.firstsolar.com/about-us/careers",
+    "director_link": "",
+    "posted_date": "2026-07-30",
+    "season": "Summer 2027 / Fall 2026 (both available)",
+    "deadline": "TBD (verify on posting)",
+    "decision_deadline": null,
+    "start_date_target": "May 2027 \u2013 August 2027 or September 2026",
+    "work_model": "On-Site",
+    "location": "Perrysburg, OH",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say (career site confirmed; specific comp not extractable from page)",
+    "is_stem": true,
+    "visa_sponsorship": "Depends",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Software engineering internship at First Solar (leading US solar manufacturer) focused on applying AI/ML to renewable energy manufacturing optimization. Work on computer vision for panel defect detection, production line automation, or predictive maintenance using IoT sensor data.",
+    "key_requirements": [
+      "Bachelor's in CS/CE/EE/Math or equivalent",
+      "Proficiency in Python + ML framework (PyTorch/scikit-learn)",
+      "Understanding of computer vision or time-series analysis",
+      "Interest in clean energy / sustainability"
+    ],
+    "nice_to_haves": [
+      "Computer vision / image processing experience",
+      "IoT sensor data or industrial systems experience",
+      "Manufacturing/process engineering background",
+      "Solar/renewable energy coursework or projects"
+    ],
+    "team_name": "Digital & AI / Manufacturing Operations / Quality Engineering",
+    "suggested_projects": [
+      {
+        "project_ref": "Computer vision defect detection or time-series prediction project",
+        "rationale": "Maps directly to First Solar's need for AI-driven quality control and manufacturing optimization",
+        "keywords_to_emphasize": [
+          "computer vision",
+          "defect detection",
+          "predictive maintenance"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "First Solar is the largest US solar manufacturer \u2014 a rare clean energy company doing serious AI work. This is one of the few opportunities to apply ML/CS skills to climate tech at scale. Also offers Fall 2026 term.",
+    "priority_score": 7,
+    "notes": "LinkedIn listing confirmed (Software Engineer Intern 1st Shift + Software Engineer Intern Fall 2026). Career site confirms active recruitment. Both Summer and Fall terms available \u2014 apply to both if interested.",
+    "created_at": "2026-07-30T13:04:00Z",
+    "updated_at": "2026-07-30T13:04:00Z",
+    "source": "LinkedIn listing (2026-07-30) + firstsolar.com careers confirmed active",
+    "referral_source": ""
   }
 ]
