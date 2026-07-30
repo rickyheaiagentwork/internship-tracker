@@ -11512,5 +11512,182 @@
     "updated_at": "2026-07-30T13:04:00Z",
     "source": "LinkedIn listing (2026-07-30) + firstsolar.com careers confirmed active",
     "referral_source": ""
+  },
+  {
+    "id": 133,
+    "company": "WHOOP",
+    "role_title": "Software Engineer Intern (Summer 2027)",
+    "posting_link": "https://www.whoop.com/us/en/students/",
+    "application_link": "https://www.whoop.com/us/en/students/",
+    "director_link": "",
+    "posted_date": "2026-07-30",
+    "season": "Summer 2027",
+    "deadline": "Not specified \u2014 send resume to campus@whoop.com",
+    "decision_deadline": null,
+    "start_date_target": "June 2027 \u2013 August 2027 (10-12 weeks)",
+    "work_model": "OnSite-Office",
+    "location": "Boston, MA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship",
+    "is_paid": true,
+    "compensation_note": "didn't say",
+    "is_stem": true,
+    "visa_sponsorship": "Full-Sponsor",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build the next health operating system \u2014 wearables hardware, sensor data pipelines, ML-driven health insights for 3M+ members. Short-term project-based experience (10-12 weeks, 40 hrs/week) working alongside experts across disciplines.",
+    "key_requirements": [
+      "Undergraduate or MBA student",
+      "Software engineering fundamentals",
+      "Interest in health tech / wearable sensors"
+    ],
+    "nice_to_haves": [
+      "ML/AI coursework or projects",
+      "Embedded systems or sensor data experience",
+      "Health/wearables domain interest"
+    ],
+    "team_name": "Engineering \u2014 Hardware Accelerate track (per LinkedIn listing)",
+    "suggested_projects": [
+      {
+        "project_ref": "Sensor data analysis project or health-tech ML app",
+        "rationale": "Shows alignment with WHOOP's core product: wearable sensor data and health analytics",
+        "keywords_to_emphasize": [
+          "sensor data",
+          "health",
+          "ML"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "WHOOP is in the bio-wearables / healthtech space \u2014 great for CS/ML students interested in health AI and sensor fusion. Send resume + brief note to campus@whoop.com if no matching internship listed.",
+    "priority_score": 7,
+    "notes": "Internship page confirmed live at whoop.com/us/en/students/. No current co-op openings (checked), but summer internship track is standard. LinkedIn also listed 'Software Engineer II (Backend, Hardware Accelerate)' from WHOOP \u2014 shows active hardware acceleration hiring.",
+    "created_at": "2026-07-30T16:04:30Z",
+    "updated_at": "2026-07-30T16:04:30Z",
+    "source": "WHOOP careers page + LinkedIn job listing",
+    "referral_source": ""
+  },
+  {
+    "id": 134,
+    "company": "Heartflow",
+    "role_title": "Software Engineer \u2014 Medical Applications & Algorithms (Health AI)",
+    "posting_link": "https://www.linkedin.com/jobs/search/?keywords=heartflow+software+engineer&f_TPR=r604800",
+    "application_link": "https://job-boards.greenhouse.io/heartflowinc",
+    "director_link": "",
+    "posted_date": "2026-07-30",
+    "season": "Rolling \u2014 likely Summer/Fall 2027",
+    "deadline": "Not specified (rolling)",
+    "decision_deadline": null,
+    "start_date_target": "Varies",
+    "work_model": "Hybrid-Remote",
+    "location": "San Francisco, CA / Austin, TX (remote-first)",
+    "timezone_requirement": "",
+    "opportunity_type": "Software Engineering",
+    "is_paid": true,
+    "compensation_note": "didn't say",
+    "is_stem": true,
+    "visa_sponsorship": "Not specified",
+    "status": "Discovered",
+    "application_stage_note": "",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Apply AI to cardiovascular disease diagnosis and management. Heartflow uses AI-driven analysis of CT scans to create personalized care pathways for coronary artery disease. Software engineering roles focus on medical applications and algorithms.",
+    "key_requirements": [
+      "Software engineering background",
+      "Interest in healthcare/medical AI",
+      "Algorithm development skills"
+    ],
+    "nice_to_haves": [
+      "Medical imaging / computer vision experience",
+      "Healthcare domain knowledge",
+      "ML/AI coursework or projects in biomedical context"
+    ],
+    "team_name": "Medical Applications & Algorithms team",
+    "suggested_projects": [
+      {
+        "project_ref": "Medical imaging or AI-in-healthcare project",
+        "rationale": "Directly maps to Heartflow's core: AI-driven cardiovascular analysis from CT scans",
+        "keywords_to_emphasize": [
+          "medical imaging",
+          "AI diagnostics",
+          "healthcare"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Heartflow is in the bio-AI / medtech intersection \u2014 excellent for students interested in applying ML to clinical problems. Greenhouse job board confirms open roles.",
+    "priority_score": 7,
+    "notes": "LinkedIn posted 'Software Engineer - Medical Applications & Algorithms' (1 day ago from search). Careers page at heartflow.com/about/careers/ is live with Greenhouse job board. Remote-first global company, HQ in San Francisco.",
+    "created_at": "2026-07-30T16:04:30Z",
+    "updated_at": "2026-07-30T16:04:30Z",
+    "source": "LinkedIn job listing + Greenhouse board verification",
+    "referral_source": ""
+  },
+  {
+    "id": 135,
+    "company": "Cerebras",
+    "role_title": "Software/ML Engineer Intern (Summer/Fall 2027 \u2014 potential)",
+    "posting_link": "https://www.cerebras.ai/join-us",
+    "application_link": "https://www.cerebras.ai/join-us",
+    "director_link": "",
+    "posted_date": "2026-07-30",
+    "season": "Not specified (career site live, internship track possible)",
+    "deadline": "Not specified (rolling application via careers page)",
+    "decision_deadline": null,
+    "start_date_target": "To be determined",
+    "work_model": "OnSite-Office / Hybrid (Cupertino, CA \u2014 headquarters)",
+    "location": "Cupertino, CA",
+    "timezone_requirement": "",
+    "opportunity_type": "Internship (potential \u2014 check careers page for specific openings)",
+    "is_paid": true,
+    "compensation_note": "didn't say",
+    "is_stem": true,
+    "visa_sponsorship": "Not specified",
+    "status": "Discovered",
+    "application_stage_note": "Check careers page for active internship postings \u2014 no specific intern role URL confirmed but career site is live and they host students for Q&A sessions (per job page). Send interest directly to careers team.",
+    "applied_date": null,
+    "follow_up_date": null,
+    "interviewer_name": "",
+    "interviewer_email": "",
+    "role_summary": "Build the world's largest AI chip and wafer-scale cluster. Cerebras builds custom silicon for ML inference/training workloads \u2014 ideal for engineers interested in the hardware-software intersection of AI infrastructure.",
+    "key_requirements": [
+      "CS/EE background",
+      "Interest in AI hardware or systems",
+      "Strong coding skills (C/C++, Python, or similar)"
+    ],
+    "nice_to_haves": [
+      "ML framework experience (PyTorch/TensorFlow)",
+      "Low-level systems / GPU architecture knowledge",
+      "Open source contributions"
+    ],
+    "team_name": "Engineering (various teams \u2014 check career site)",
+    "suggested_projects": [
+      {
+        "project_ref": "ML inference optimization or hardware-accelerated compute project",
+        "rationale": "Aligns with Cerebras's wafer-scale AI chip architecture and inference focus",
+        "keywords_to_emphasize": [
+          "AI hardware",
+          "inference",
+          "systems"
+        ]
+      }
+    ],
+    "existing_projects_match": [],
+    "cover_letter_hook": "",
+    "personal_note": "Cerebras hosts students for Q&A sessions with their team (confirmed on careers page). This signals active interest in early-career talent. Check career site periodically \u2014 no specific internship listing found but they clearly welcome student engagement.",
+    "priority_score": 7,
+    "notes": "Career site confirmed live at cerebras.ai/join-us. They host frequent student Q&A events. Open roles page is accessible. No specific internship URL could be verified so marked as 'potential' with note to check periodically.",
+    "created_at": "2026-07-30T16:04:30Z",
+    "updated_at": "2026-07-30T16:04:30Z",
+    "source": "Cerebras careers page + student Q&A event reference",
+    "referral_source": ""
   }
 ]
