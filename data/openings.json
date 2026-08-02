@@ -1,0 +1,375 @@
+[
+  {
+    "id": "amazon-sde-2027",
+    "company": "Amazon",
+    "role_title": "2027 Software Dev Engineer Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS",
+      "MS",
+      "PhD"
+    ],
+    "location": "US (multiple)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "3- or 6-month internship options. Rolling.",
+    "application_url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
+  },
+  {
+    "id": "amazon-sde-fall-2026",
+    "company": "Amazon",
+    "role_title": "Software Development Engineer Internship \u2014 Fall 2026 (US)",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS",
+      "MS",
+      "PhD"
+    ],
+    "location": "US (multiple)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Fall term currently recruiting.",
+    "application_url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us"
+  },
+  {
+    "id": "amazon-aws-data-fall-2026",
+    "company": "Amazon (AWS)",
+    "role_title": "SDE Intern, AWS Data Services \u2014 Fall 2026",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS",
+      "MS"
+    ],
+    "location": "US",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Aug/Sep 2026 start, 12 weeks.",
+    "application_url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"
+  },
+  {
+    "id": "amazon-as-llm-fall-2026",
+    "company": "Amazon",
+    "role_title": "Fall 2026 Applied Science Intern \u2014 Gen AI & LLMs (PhD)",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "US (Bellevue, Boston, NYC, Santa Clara, Seattle, \u2026)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "PhD science recruiting track.",
+    "application_url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "amazon-as-cv-fall-2026",
+    "company": "Amazon",
+    "role_title": "Fall 2026 Applied Science Intern \u2014 Computer Vision (PhD)",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "US",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "",
+    "application_url": "https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "amazon-as-rl-fall-2026",
+    "company": "Amazon",
+    "role_title": "Fall 2026 Applied Science Intern \u2014 RL & Optimization (PhD)",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "US",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "",
+    "application_url": "https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "amazon-as-nlp-fall-2026",
+    "company": "Amazon",
+    "role_title": "Fall 2026 Applied Science Intern \u2014 NLP & Speech (PhD)",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "US",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "",
+    "application_url": "https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "apple-ml-ai-undergrad",
+    "company": "Apple",
+    "role_title": "Machine Learning & AI Undergrad Internships",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "US (various)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "General undergrad ML/AI pipeline; rolling. Confirm term on application.",
+    "application_url": "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships"
+  },
+  {
+    "id": "apple-ml-ai-masters",
+    "company": "Apple",
+    "role_title": "Machine Learning & AI Masters Internships",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "MS"
+    ],
+    "location": "US (various)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Rolling masters ML/AI pipeline.",
+    "application_url": "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships"
+  },
+  {
+    "id": "apple-ml-ai-phd",
+    "company": "Apple",
+    "role_title": "Machine Learning & AI PhD Internships",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "US (various)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Rolling PhD ML/AI pipeline.",
+    "application_url": "https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships"
+  },
+  {
+    "id": "apple-swe-undergrad",
+    "company": "Apple",
+    "role_title": "Software Undergrad Engineering Internships",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "US (various)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "General undergrad SWE pipeline; rolling.",
+    "application_url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
+  },
+  {
+    "id": "apple-general-fy27",
+    "company": "Apple",
+    "role_title": "Intern Opportunities at Apple (General) \u2014 Oct 2026 to Sep 2027",
+    "season": "Rolling",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.apple.com/en-us/details/200598147/intern-opportunities-at-apple-general-october-2026-to-september-2027",
+    "tier": 1,
+    "category": "General",
+    "degree_level": [
+      "BS",
+      "MS",
+      "PhD"
+    ],
+    "location": "Various (incl. Shanghai listing surface)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Catch-all FY intern requisition. Verify location/team fit before applying.",
+    "application_url": "https://jobs.apple.com/en-us/details/200598147/intern-opportunities-at-apple-general-october-2026-to-september-2027"
+  },
+  {
+    "id": "nvidia-adl-rl-llm-fall-2026",
+    "company": "NVIDIA",
+    "role_title": "Applied Deep Learning PhD Research Intern, RL for LLMs \u2014 Fall 2026",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "PhD"
+    ],
+    "location": "Santa Clara, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Fall 2026 research intern. Summer 2027 SWE/ML wave expected Aug\u2013Oct 2026.",
+    "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
+  },
+  {
+    "id": "nvidia-applied-research-nlp-fall-2026",
+    "company": "NVIDIA",
+    "role_title": "Applied Research Intern, NLP \u2014 Fall 2026",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "MS",
+      "PhD"
+    ],
+    "location": "Santa Clara, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "",
+    "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488"
+  },
+  {
+    "id": "samsung-ml-nlp-fall-2026",
+    "company": "Samsung Research America",
+    "role_title": "2026 Fall Intern, ML/NLP Research",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "MS",
+      "PhD"
+    ],
+    "location": "US (SRA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Sep\u2013Dec 2026 flexible 3-month window.",
+    "application_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002"
+  },
+  {
+    "id": "scale-ai-builder-intern",
+    "company": "Scale AI",
+    "role_title": "AI Builder Intern",
+    "season": "Rolling",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS",
+      "MS"
+    ],
+    "location": "Check posting",
+    "work_model": "Check posting",
+    "application_status": "Not started",
+    "notes": "Live Greenhouse posting verified. Confirm season/term on page before applying.",
+    "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005"
+  },
+  {
+    "id": "anthropic-fellows",
+    "company": "Anthropic",
+    "role_title": "Anthropic Fellows Program",
+    "season": "Rolling",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+    "tier": 2,
+    "category": "Fellowship",
+    "degree_level": [
+      "Any"
+    ],
+    "location": "Check posting",
+    "work_model": "Check posting",
+    "application_status": "Not started",
+    "notes": "This is a fellowship, NOT a Summer 2027 internship. Tracks also exist for AI Safety, AI Security, ML Systems, RL, Economics & Policy.",
+    "application_url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008"
+  },
+  {
+    "id": "figure-firmware-fall-2026",
+    "company": "Figure AI",
+    "role_title": "Firmware Intern [Fall 2026]",
+    "season": "Fall 2026",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+    "tier": 2,
+    "category": "Hardware/Robotics",
+    "degree_level": [
+      "BS",
+      "MS"
+    ],
+    "location": "Check posting",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Robotics/hardware track. Related Fall 2026 roles: EE, Mechanical, Validation, Special Projects.",
+    "application_url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006"
+  },
+  {
+    "id": "databricks-pm-summer-2027",
+    "company": "Databricks",
+    "role_title": "Product Management Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
+    "tier": 2,
+    "category": "PM",
+    "degree_level": [
+      "BS",
+      "MS"
+    ],
+    "location": "San Francisco, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "PM track. Watch university page for SWE/ML Summer 2027.",
+    "application_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002"
+  }
+]

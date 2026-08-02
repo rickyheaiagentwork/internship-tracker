@@ -1,0 +1,23 @@
+{
+  "repo": "internship-search",
+  "purpose": "Verified internship & fellowship tracker for Ricky He. Only live, checked postings go in openings.json. Target companies without a live posting go in watchlist.json.",
+  "last_full_verify": "2026-08-02",
+  "target_seasons": ["Fall 2026", "Summer 2027"],
+  "tiers": {
+    "1": ["NVIDIA", "Google", "DeepMind", "Microsoft", "Amazon", "Meta"],
+    "2": ["OpenAI", "Anthropic", "Cohere", "Mistral", "Hugging Face", "Scale AI", "Weights & Biases", "Runway", "Midjourney", "YC startups"],
+    "3": ["BioNeMo / NVIDIA Health", "Verily", "Insitro", "Recursion", "Schrödinger", "Atomwise", "Generate Biomedicines", "Deep Genomics", "Genesis Therapeutics", "BenchSci", "10x Genomics"]
+  },
+  "rules": [
+    "Never invent a role title or deadline for a company that has no live posting.",
+    "listing_status=open requires a posting_url that returns a real job page on verify day.",
+    "listing_status=watch is for priority targets not yet posted (expected window + careers URL only).",
+    "Fellowships/residencies may be open even when Summer internship postings are not.",
+    "Eternity scans must re-verify URLs before promoting watch -> open."
+  ],
+  "sources_priority": [
+    "Company careers / Greenhouse / Workday / Lever / Ashby",
+    "LinkedIn / Handshake",
+    "Community aggregators (cross-check only, never sole source)"
+  ]
+}
