@@ -1,25 +1,8 @@
 [
   {
-    "id": "amazon-sde-2027",
-    "company": "Amazon",
-    "role_title": "2027 Software Dev Engineer Intern",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-    "application_url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-    "tier": 1,
-    "category": "SWE",
-    "degree_level": ["BS"],
-    "location": "United States (multiple)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "US undergrad-eligible (Bachelor's enrolled). 3- or 6-month options. Rolling."
-  },
-  {
     "id": "amazon-sde-fall-2026",
     "company": "Amazon",
-    "role_title": "Software Development Engineer Internship — Fall 2026 (US)",
+    "role_title": "Software Development Engineer Internship \u2014 Fall 2026 (US)",
     "season": "Fall 2026",
     "listing_status": "open",
     "verified_at": "2026-08-02",
@@ -27,7 +10,9 @@
     "application_url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (multiple)",
     "work_model": "Onsite",
     "application_status": "Not started",
@@ -36,7 +21,7 @@
   {
     "id": "amazon-aws-data-fall-2026",
     "company": "Amazon (AWS)",
-    "role_title": "SDE Intern, AWS Data Services — Fall 2026",
+    "role_title": "SDE Intern, AWS Data Services \u2014 Fall 2026",
     "season": "Fall 2026",
     "listing_status": "open",
     "verified_at": "2026-08-02",
@@ -44,7 +29,9 @@
     "application_url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
@@ -61,7 +48,9 @@
     "application_url": "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
     "tier": 1,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (various)",
     "work_model": "Onsite",
     "application_status": "Not started",
@@ -78,7 +67,9 @@
     "application_url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (various)",
     "work_model": "Onsite",
     "application_status": "Not started",
@@ -95,11 +86,13 @@
     "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (San Francisco, CA; New York, NY; Seattle area)",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "US locations. Undergraduate mentioned on posting — confirm eligibility on apply."
+    "notes": "US locations. Undergraduate mentioned on posting \u2014 confirm eligibility on apply."
   },
   {
     "id": "figure-firmware-fall-2026",
@@ -112,7 +105,9 @@
     "application_url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
     "tier": 2,
     "category": "Hardware/Robotics",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (San Jose, CA)",
     "work_model": "Onsite",
     "application_status": "Not started",
@@ -129,7 +124,9 @@
     "application_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
     "tier": 2,
     "category": "PM",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States (San Francisco, CA)",
     "work_model": "Onsite",
     "application_status": "Not started",

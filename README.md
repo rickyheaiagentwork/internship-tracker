@@ -14,7 +14,6 @@ Verified **2026-08-02**. Open = live apply link. Watch = not posted yet (don’t
 | Company | Role | Season | Category | Apply |
 |---------|------|--------|----------|-------|
 
-| Amazon | 2027 Software Dev Engineer Intern | Summer 2027 | SWE | [Apply](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) |
 | Amazon | Software Development Engineer Internship — Fall 2026 (US) | Fall 2026 | SWE | [Apply](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) |
 | Amazon (AWS) | SDE Intern, AWS Data Services — Fall 2026 | Fall 2026 | SWE | [Apply](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) |
 | Apple | Machine Learning & AI Undergrad Internships | Summer 2027 | AI/ML | [Apply](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) |
@@ -30,6 +29,7 @@ Verified **2026-08-02**. Open = live apply link. Watch = not posted yet (don’t
 | Company | Target | Expected open | Page |
 |---------|--------|---------------|------|
 
+| Amazon | Software Development Engineer Intern — Undergraduate (Summer 2027, US) | Aug–Sep 2026 (US posting not live yet; Ireland 10418355 is NOT US) | [Careers](https://www.amazon.jobs/en/teams/internships-for-students) |
 | Google | Software Engineering Intern, BS (Summer 2027, US) | Mid-Oct 2026 typical window (often only 2–4 weeks) | [Careers](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineering%20Intern) |
 | Google DeepMind | Engineering Intern — Undergraduate / BS-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://deepmind.google/careers/) |
 | Meta | Software Engineer Intern — Undergraduate (Summer 2027, US) | Early Sep 2026 (typical) | [Careers](https://www.metacareers.com/careerprograms/students) |
