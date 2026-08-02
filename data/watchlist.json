@@ -1,29 +1,49 @@
 [
   {
+    "id": "watch-amazon-sde-s27",
+    "company": "Amazon",
+    "target_role": "Software Development Engineer Intern \u2014 Undergraduate (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Sep 2026 (US posting not live yet; Ireland 10418355 is NOT US)",
+    "careers_url": "https://www.amazon.jobs/en/teams/internships-for-students",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Job 10418355 is Dublin/Ireland \u2014 do not list as US. Wait for Amazon.com Services LLC / United States Summer 2027 SDE intern."
+  },
+  {
     "id": "watch-microsoft-s27",
     "company": "Microsoft",
-    "target_role": "Software Engineering Intern — Undergraduate (Summer 2027, US)",
+    "target_role": "Software Engineering Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Mid-Aug 2026 (typical; check now)",
     "careers_url": "https://careers.microsoft.com/students/us/en",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US undergrad only. Skip Explore-only if not a fit; prefer SWE intern US."
   },
   {
     "id": "watch-meta-s27",
     "company": "Meta",
-    "target_role": "Software Engineer Intern — Undergraduate (Summer 2027, US)",
+    "target_role": "Software Engineer Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Early Sep 2026 (typical)",
     "careers_url": "https://www.metacareers.com/careerprograms/students",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US undergrad SWE. Skip FAIR PhD research tracks."
   },
@@ -33,151 +53,173 @@
     "target_role": "Software Engineering Intern, BS (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Mid-Oct 2026 typical window (often only 2–4 weeks)",
+    "expected_open": "Mid-Oct 2026 typical window (often only 2\u20134 weeks)",
     "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineering%20Intern",
     "tier": 1,
     "category": "SWE",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
-    "notes": "US BS track only — skip MS/PhD-only reqs."
+    "notes": "US BS track only \u2014 skip MS/PhD-only reqs."
   },
   {
     "id": "watch-deepmind-s27",
     "company": "Google DeepMind",
-    "target_role": "Engineering Intern — Undergraduate / BS-eligible (Summer 2027, US)",
+    "target_role": "Engineering Intern \u2014 Undergraduate / BS-eligible (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Fall 2026",
     "careers_url": "https://deepmind.google/careers/",
     "tier": 1,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
-    "notes": "Many DeepMind roles are research/PhD — only add if undergrad/BS-eligible and US."
+    "notes": "Many DeepMind roles are research/PhD \u2014 only add if undergrad/BS-eligible and US."
   },
   {
     "id": "watch-nvidia-s27",
     "company": "NVIDIA",
-    "target_role": "SWE / ML Intern — Undergraduate (Summer 2027, US)",
+    "target_role": "SWE / ML Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Aug–Oct 2026",
+    "expected_open": "Aug\u2013Oct 2026",
     "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
     "tier": 1,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "Skip PhD Fall research reqs. Prefer US undergrad SWE/ML / Ignite if eligible."
   },
   {
     "id": "watch-openai-intern-s27",
     "company": "OpenAI",
-    "target_role": "SWE / Applied Intern — Undergraduate-eligible (Summer 2027, US)",
+    "target_role": "SWE / Applied Intern \u2014 Undergraduate-eligible (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Sep–Nov 2026 (projected)",
+    "expected_open": "Sep\u2013Nov 2026 (projected)",
     "careers_url": "https://openai.com/careers",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US only. Skip PhD-only research postings."
   },
   {
     "id": "watch-anthropic-intern-s27",
     "company": "Anthropic",
-    "target_role": "Software / Research Intern — Undergraduate-eligible (Summer 2027, US)",
+    "target_role": "Software / Research Intern \u2014 Undergraduate-eligible (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Sep–Nov 2026 (projected)",
+    "expected_open": "Sep\u2013Nov 2026 (projected)",
     "careers_url": "https://www.anthropic.com/careers",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "Do not treat Fellows as undergrad internship unless explicitly undergrad-eligible + US."
   },
   {
     "id": "watch-cohere-s27",
     "company": "Cohere",
-    "target_role": "ML Intern — Undergraduate-eligible (Summer 2027, US)",
+    "target_role": "ML Intern \u2014 Undergraduate-eligible (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Fall 2026",
     "careers_url": "https://cohere.com/careers",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US location required."
   },
   {
     "id": "watch-hf-s27",
     "company": "Hugging Face",
-    "target_role": "ML Intern — Undergraduate-eligible (Summer 2027, US)",
+    "target_role": "ML Intern \u2014 Undergraduate-eligible (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Fall 2026",
     "careers_url": "https://huggingface.co/jobs",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US only (skip EU/remote-non-US if not US-based)."
   },
   {
     "id": "watch-mistral-s27",
     "company": "Mistral AI",
-    "target_role": "ML Intern — Undergraduate-eligible (Summer 2027, US if offered)",
+    "target_role": "ML Intern \u2014 Undergraduate-eligible (Summer 2027, US if offered)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Fall 2026",
     "careers_url": "https://mistral.ai/careers",
     "tier": 2,
     "category": "AI/ML",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
-    "notes": "Often EU-based — only promote if a US undergrad role appears."
+    "notes": "Often EU-based \u2014 only promote if a US undergrad role appears."
   },
   {
     "id": "watch-recursion-s27",
     "company": "Recursion Pharmaceuticals",
-    "target_role": "ML / Comp Bio Intern — Undergraduate (Summer 2027, US)",
+    "target_role": "ML / Comp Bio Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Fall 2026 – Spring 2027",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
     "careers_url": "https://www.recursion.com/careers",
     "tier": 3,
     "category": "Bio-AI",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US undergrad Bio-AI."
   },
   {
     "id": "watch-insitro-s27",
     "company": "Insitro",
-    "target_role": "ML / Comp Bio Intern — Undergraduate (Summer 2027, US)",
+    "target_role": "ML / Comp Bio Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Fall 2026 – Spring 2027",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
     "careers_url": "https://www.insitro.com/careers/",
     "tier": 3,
     "category": "Bio-AI",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US undergrad Bio-AI."
   },
   {
     "id": "watch-schrodinger-s27",
-    "company": "Schrödinger",
-    "target_role": "Software / Comp Chem Intern — Undergraduate (Summer 2027, US)",
+    "company": "Schr\u00f6dinger",
+    "target_role": "Software / Comp Chem Intern \u2014 Undergraduate (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
-    "expected_open": "Fall 2026 – Spring 2027",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
     "careers_url": "https://www.schrodinger.com/careers/",
     "tier": 3,
     "category": "Bio-AI",
-    "degree_level": ["BS"],
+    "degree_level": [
+      "BS"
+    ],
     "location": "United States",
     "notes": "US undergrad."
   }
