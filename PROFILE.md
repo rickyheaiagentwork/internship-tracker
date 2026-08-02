@@ -1,6 +1,11 @@
 # Ricky — internship fit profile
 
-Eternity uses this when ranking LinkedIn / careers hits. Update when Ricky’s goals change.
+Eternity uses this when ranking LinkedIn / careers hits.
+
+## Hard requirements (always)
+
+- **United States only** — onsite/hybrid/remote must be US-based. Skip Canada/UK/EU/China/etc.
+- **Undergraduate (BS) only** — must be undergrad-eligible. Skip MS-only, PhD-only, and postgrad research tracks.
 
 ## Target seasons
 
@@ -11,9 +16,8 @@ Eternity uses this when ranking LinkedIn / careers hits. Update when Ricky’s g
 
 - AI/ML: LLMs, NLP, RL, multimodal, applied ML, ML infra / GPU
 - SWE with ML flavor (platform, inference, data for ML)
-- Bio-AI / computational biology / drug discovery ML
-- Research intern / fellowship tracks at frontier labs (when degree level fits)
-- US roles (onsite / hybrid OK); remote OK if strong fit
+- Bio-AI / computational biology / drug discovery ML (undergrad-eligible)
+- US undergrad fellowships only if explicitly undergrad + US
 
 ## Priority companies
 
@@ -23,24 +27,23 @@ Eternity uses this when ranking LinkedIn / careers hits. Update when Ricky’s g
 
 ## Soft filters
 
-- Prefer roles with a **direct apply URL** (Greenhouse / Workday / Lever / company careers)
-- Skip pure non-tech (ops, sales, marketing) unless Ricky asks
-- PhD-only postings: keep if research-track interesting, tag `degree_level: ["PhD"]` so undergrad/MS aren’t confused
-- Fellowships (e.g. Anthropic Fellows) are valid — label as Fellowship, not “Summer intern”
+- Prefer direct apply URLs (Greenhouse / Workday / Lever / company careers)
+- Skip pure non-tech unless Ricky asks
+- Tag `degree_level: ["BS"]` and `location` starting with `United States`
 
-## Hard no (unless Ricky overrides)
+## Hard no
 
 - Invented / unverified postings
+- MS-only or PhD-only roles
+- Non-US locations
 - Auto-submitting applications
-- Treating a careers homepage as an open internship
+- Careers homepage treated as an open internship
 
 ## LinkedIn search seeds
 
-Use variations of:
+- `internship "Summer 2027" (software OR "machine learning") "United States"`
+- `internship "Fall 2026" (software OR ML) "United States" undergraduate`
+- `intern undergrad (Amazon OR Apple OR Meta OR Google OR Microsoft OR NVIDIA) United States`
+- `internship undergraduate (biotech OR "computational biology") "United States"`
 
-- `internship "Summer 2027" (software OR "machine learning" OR "research")`
-- `internship "Fall 2026" (ML OR LLM OR "applied science")`
-- `intern (Anthropic OR OpenAI OR NVIDIA OR DeepMind OR "Scale AI")`
-- `internship (biotech OR "computational biology" OR "drug discovery") machine learning`
-
-Then verify each hit on the company apply page before adding to `openings.json`.
+Always verify location = US and degree = undergraduate on the company apply page before adding to `openings.json`.
