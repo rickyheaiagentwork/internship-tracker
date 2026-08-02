@@ -5,20 +5,19 @@ GitHub: https://github.com/rickyheaiagentwork/internship-tracker
 
 Ricky browses via **README.md** (click Apply). Keep that file current — he should not need to run the HTML app.
 
-## Seasons in scope
+## Season in scope
 
-- **Fall 2026** — active now
-- **Summer 2027** — applications opening Jul–Nov 2026
+- **Summer 2027 only**
 
 ## Fit criteria
 
 Read [`PROFILE.md`](./PROFILE.md) every scan.
 
-**Non-negotiable:** United States only + Undergraduate (BS) only. Drop MS-only, PhD-only, and non-US roles.
+**Non-negotiable:** Summer 2027 + United States + Undergraduate (BS). Drop Fall/off-season, MS/PhD-only, and non-US roles.
 
 ## Hard rules
 
-1. **US + undergrad only.** Skip everything else.
+1. **Summer 2027 + US + undergrad only.** Skip everything else.
 2. **No invented openings.** No live posting → `watchlist.json` only (`expected_open` + `careers_url`).
 3. **`open` needs `application_url`** that loads a real job/apply page (not a careers homepage).
 4. **Never submit applications** for Ricky.
@@ -33,10 +32,10 @@ When TOAA or Ricky asks for a scan (or on cron):
 
 Search seeds from `PROFILE.md`, e.g.:
 
-- `internship "Summer 2027" (software OR "machine learning" OR research)`
-- `internship "Fall 2026" (ML OR LLM OR "applied science")`
-- `intern (Anthropic OR OpenAI OR NVIDIA OR DeepMind OR "Scale AI")`
-- `internship ("computational biology" OR biotech) "machine learning"`
+- `internship "Summer 2027" (software OR "machine learning") "United States"`
+- `intern "Summer 2027" undergrad (Amazon OR Apple OR Meta OR Google OR Microsoft OR NVIDIA)`
+- `internship "Summer 2027" (Anthropic OR OpenAI OR NVIDIA OR DeepMind OR "Scale AI")`
+- `internship "Summer 2027" ("computational biology" OR biotech) "United States"`
 
 For each promising hit, extract: company, title, location, LinkedIn URL, and **Easy Apply vs external apply**. Prefer external company apply URLs when available.
 

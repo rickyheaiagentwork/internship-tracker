@@ -1,20 +1,54 @@
 {
   "repo": "internship-tracker",
-  "purpose": "Verified US undergraduate internship tracker for Ricky He. Open = live apply URL. Watch = not posted yet.",
+  "purpose": "Verified US undergraduate Summer 2027 internship tracker for Ricky He.",
   "last_full_verify": "2026-08-02",
-  "target_seasons": ["Fall 2026", "Summer 2027"],
+  "target_seasons": [
+    "Summer 2027"
+  ],
   "constraints": {
     "location": "United States only",
-    "degree_level": "Undergraduate (BS) only"
+    "degree_level": "Undergraduate (BS) only",
+    "season": "Summer 2027 only"
   },
   "tiers": {
-    "1": ["NVIDIA", "Google", "DeepMind", "Microsoft", "Amazon", "Meta"],
-    "2": ["OpenAI", "Anthropic", "Cohere", "Mistral", "Hugging Face", "Scale AI", "Weights & Biases", "Runway", "Midjourney", "YC startups"],
-    "3": ["BioNeMo / NVIDIA Health", "Verily", "Insitro", "Recursion", "Schrödinger", "Atomwise", "Generate Biomedicines", "Deep Genomics", "Genesis Therapeutics", "BenchSci", "10x Genomics"]
+    "1": [
+      "NVIDIA",
+      "Google",
+      "DeepMind",
+      "Microsoft",
+      "Amazon",
+      "Meta"
+    ],
+    "2": [
+      "OpenAI",
+      "Anthropic",
+      "Cohere",
+      "Mistral",
+      "Hugging Face",
+      "Scale AI",
+      "Weights & Biases",
+      "Runway",
+      "Midjourney",
+      "YC startups"
+    ],
+    "3": [
+      "BioNeMo / NVIDIA Health",
+      "Verily",
+      "Insitro",
+      "Recursion",
+      "Schr\u00f6dinger",
+      "Atomwise",
+      "Generate Biomedicines",
+      "Deep Genomics",
+      "Genesis Therapeutics",
+      "BenchSci",
+      "10x Genomics"
+    ]
   },
   "rules": [
-    "United States only — skip non-US locations.",
-    "Undergraduate (BS) only — skip MS-only and PhD-only.",
+    "Summer 2027 only \u2014 skip Fall/Spring/Winter/Rolling unless it is explicitly Summer 2027.",
+    "United States only \u2014 skip non-US locations.",
+    "Undergraduate (BS) only \u2014 skip MS-only and PhD-only.",
     "Never invent a role title or deadline for a company that has no live posting.",
     "listing_status=open requires application_url that returns a real job page on verify day.",
     "listing_status=watch is for priority targets not yet posted (expected window + careers URL only).",
