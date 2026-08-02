@@ -12,13 +12,15 @@ Ricky browses via **README.md** (click Apply). Keep that file current — he sho
 
 ## Fit criteria
 
-Read [`PROFILE.md`](./PROFILE.md) every scan. Rank hits for AI/ML, SWE+ML, Bio-AI, and priority companies.
+Read [`PROFILE.md`](./PROFILE.md) every scan.
+
+**Non-negotiable:** United States only + Undergraduate (BS) only. Drop MS-only, PhD-only, and non-US roles.
 
 ## Hard rules
 
-1. **No invented openings.** No live posting → `watchlist.json` only (`expected_open` + `careers_url`).
-2. **`open` needs `application_url`** that loads a real job/apply page (not a careers homepage).
-3. **Fellowships ≠ internships** — label correctly.
+1. **US + undergrad only.** Skip everything else.
+2. **No invented openings.** No live posting → `watchlist.json` only (`expected_open` + `careers_url`).
+3. **`open` needs `application_url`** that loads a real job/apply page (not a careers homepage).
 4. **Never submit applications** for Ricky.
 5. If network is blocked, **add nothing**.
 6. After any data change: `python3 scripts/sync_readme.py` so README Apply links stay in sync.
