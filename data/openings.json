@@ -16,7 +16,7 @@
     "location": "United States (various)",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Explicit undergrad ML/AI pipeline. Confirm US team/location on apply."
+    "notes": "Explicit undergrad ML/AI pipeline."
   },
   {
     "id": "apple-swe-undergrad",
@@ -35,7 +35,273 @@
     "location": "United States (various)",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Explicit undergrad SWE pipeline. Confirm US team/location on apply."
+    "notes": "Explicit undergrad SWE pipeline."
+  },
+  {
+    "id": "anduril-swe-2027",
+    "company": "Anduril",
+    "role_title": "2027 Software Engineer Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "application_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (multiple, incl. CA / Boston)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Defense tech. Bachelor's in CS/CE required."
+  },
+  {
+    "id": "western-digital-swe-s27",
+    "company": "Western Digital",
+    "role_title": "Software Engineering Internship (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
+    "application_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's/Master's posting \u2014 undergrad-eligible."
+  },
+  {
+    "id": "trade-desk-swe-s27",
+    "company": "The Trade Desk",
+    "role_title": "2027 North America Software Engineering Internship",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+    "application_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Denver / NYC / Seattle and more)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Ad-tech. Bachelor's or Master's \u2014 undergrad-eligible."
+  },
+  {
+    "id": "hrt-swe-s27",
+    "company": "Hudson River Trading",
+    "role_title": "Software Engineering Internship (C++ or Python) \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "application_url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY / Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Open to undergraduates, graduating seniors, masters, or PhD."
+  },
+  {
+    "id": "optiver-swe-chicago-s27",
+    "company": "Optiver",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027 (Chicago)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "application_url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Also has Austin Summer 2027 SWE intern posting."
+  },
+  {
+    "id": "pdt-swe-s27",
+    "company": "PDT Partners",
+    "role_title": "Summer 2027 Software Engineering Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+    "application_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Quant trading tech. Undergrad-eligible."
+  },
+  {
+    "id": "five-rings-swe-s27",
+    "company": "Five Rings",
+    "role_title": "Summer Intern 2027 \u2014 Software Developer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "application_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Trading firm. Bachelor's option on application."
+  },
+  {
+    "id": "akuna-swe-python-s27",
+    "company": "Akuna Capital",
+    "role_title": "Software Engineer Intern \u2014 Python (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "application_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Also posts C++ / Full Stack / C# .NET Summer 2027 SWE interns."
+  },
+  {
+    "id": "aquatic-swe-s27",
+    "company": "Aquatic Capital Management",
+    "role_title": "Software Engineer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+    "application_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Grad window typically Fall 2027\u2013Summer 2028; Bachelor's option."
+  },
+  {
+    "id": "old-mission-swe-s27",
+    "company": "Old Mission",
+    "role_title": "Software Engineer \u2014 2027 Internship Program (June Start)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "application_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's-eligible trading-tech intern."
+  },
+  {
+    "id": "imc-swe-s27",
+    "company": "IMC Trading",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "application_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "US Chicago posting on IMC campus board."
+  },
+  {
+    "id": "deshaw-swe-s27",
+    "company": "D. E. Shaw",
+    "role_title": "Software Developer Intern (New York) \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "application_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Student internship \u2014 undergrad-eligible track."
+  },
+  {
+    "id": "castleton-ml-s27",
+    "company": "Castleton Commodities International",
+    "role_title": "Data Science Machine Learning Internship (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+    "application_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Stamford, CT / Houston, TX / New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's or higher; ML/time-series focus."
+  },
+  {
+    "id": "bae-swe-s27",
+    "company": "BAE Systems",
+    "role_title": "Software Engineering Intern I (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Nashua, NH)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "US undergrad CS/CE program."
   },
   {
     "id": "databricks-pm-summer-2027",
@@ -54,6 +320,6 @@
     "location": "United States (San Francisco, CA)",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "US SF. Undergrad-eligible PM track. Prefer SWE/ML when those US undergrad reqs open."
+    "notes": "PM track; watch for SWE/ML Summer 2027 US undergrad reqs."
   }
 ]
