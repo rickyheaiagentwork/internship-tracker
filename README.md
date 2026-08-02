@@ -4,7 +4,7 @@
 
 Verified **2026-08-02**. Open = live apply link. Watch = not posted yet (don’t invent roles).
 
-**Filters:** United States only · Undergraduate (BS) only · AI/ML · SWE · Bio-AI · Fall 2026 / Summer 2027  
+**Filters:** Summer 2027 only · United States only · Undergraduate (BS) only
 **Agent rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
@@ -14,13 +14,9 @@ Verified **2026-08-02**. Open = live apply link. Watch = not posted yet (don’t
 | Company | Role | Season | Category | Apply |
 |---------|------|--------|----------|-------|
 
-| Amazon | Software Development Engineer Internship — Fall 2026 (US) | Fall 2026 | SWE | [Apply](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) |
-| Amazon (AWS) | SDE Intern, AWS Data Services — Fall 2026 | Fall 2026 | SWE | [Apply](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) |
 | Apple | Machine Learning & AI Undergrad Internships | Summer 2027 | AI/ML | [Apply](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) |
 | Apple | Software Undergrad Engineering Internships | Summer 2027 | SWE | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
 | Databricks | Product Management Intern (Summer 2027) | Summer 2027 | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
-| Figure AI | Firmware Intern [Fall 2026] | Fall 2026 | Hardware/Robotics | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
-| Scale AI | AI Builder Intern | Rolling | AI/ML | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) |
 
 ---
 

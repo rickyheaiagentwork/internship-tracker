@@ -14,7 +14,7 @@ HEADER = """# Internship Tracker — Ricky He
 
 Verified **{verified}**. Open = live apply link. Watch = not posted yet (don’t invent roles).
 
-**Filters:** United States only · Undergraduate (BS) only · AI/ML · SWE · Bio-AI · Fall 2026 / Summer 2027  
+**Filters:** Summer 2027 only · United States only · Undergraduate (BS) only
 **Agent rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
