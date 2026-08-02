@@ -16,7 +16,21 @@ Verified **2026-08-02**. Open = live apply link. Watch = not posted yet (don’t
 
 | Apple | Machine Learning & AI Undergrad Internships | Summer 2027 | AI/ML | [Apply](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) |
 | Apple | Software Undergrad Engineering Internships | Summer 2027 | SWE | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
+| Akuna Capital | Software Engineer Intern — Python (Summer 2027) | Summer 2027 | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| Anduril | 2027 Software Engineer Intern | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
+| Aquatic Capital Management | Software Engineer Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
+| Castleton Commodities International | Data Science Machine Learning Internship (Summer 2027) | Summer 2027 | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
+| D. E. Shaw | Software Developer Intern (New York) — Summer 2027 | Summer 2027 | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | Databricks | Product Management Intern (Summer 2027) | Summer 2027 | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
+| Five Rings | Summer Intern 2027 — Software Developer | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| Hudson River Trading | Software Engineering Internship (C++ or Python) — Summer 2027 | Summer 2027 | SWE | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) |
+| IMC Trading | Software Engineer Intern — Summer 2027 | Summer 2027 | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| Old Mission | Software Engineer — 2027 Internship Program (June Start) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) |
+| Optiver | Software Engineer Intern — Summer 2027 (Chicago) | Summer 2027 | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
+| PDT Partners | Summer 2027 Software Engineering Intern | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| The Trade Desk | 2027 North America Software Engineering Internship | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
+| Western Digital | Software Engineering Internship (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
+| BAE Systems | Software Engineering Intern I (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 
 ---
 
