@@ -402,7 +402,7 @@
   {
     "id": "watch-pfizer-s27",
     "company": "Pfizer",
-    "target_role": "AI / Data Science / Digital Intern \u2014 R&D (Summer 2027, US)",
+    "target_role": "AI / Data Science / Medical & R&D Analytics Intern (Summer 2027, US)",
     "season": "Summer 2027",
     "listing_status": "watch",
     "expected_open": "Fall 2026 \u2013 Spring 2027",
@@ -413,7 +413,7 @@
       "BS"
     ],
     "location": "United States",
-    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+    "notes": "Medical / R&D data analysis + AI-ML. US undergrad only."
   },
   {
     "id": "watch-merck-s27",
@@ -542,5 +542,213 @@
     ],
     "location": "United States",
     "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-jpmorgan-chase-s27",
+    "company": "JPMorgan Chase",
+    "target_role": "Data Analytics / AI-ML / Investment Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026 (typical campus window)",
+    "careers_url": "https://careers.jpmorgan.com/us/en/students/programs",
+    "tier": 2,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-goldman-sachs-s27",
+    "company": "Goldman Sachs",
+    "target_role": "Data Analytics / Engineering / Markets Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026",
+    "careers_url": "https://www.goldmansachs.com/careers/students",
+    "tier": 2,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-morgan-stanley-s27",
+    "company": "Morgan Stanley",
+    "target_role": "Data Analytics / Technology / Investment Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026",
+    "careers_url": "https://www.morganstanley.com/careers/career-opportunities-search",
+    "tier": 2,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-blackrock-s27",
+    "company": "BlackRock",
+    "target_role": "Data Science / Aladdin Analytics / AI Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026",
+    "careers_url": "https://careers.blackrock.com/students",
+    "tier": 2,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-fidelity-investments-s27",
+    "company": "Fidelity Investments",
+    "target_role": "Data Analytics / AI Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026",
+    "careers_url": "https://jobs.fidelity.com/students-and-graduates/",
+    "tier": 3,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-bank-of-america-s27",
+    "company": "Bank of America",
+    "target_role": "Data Analytics / Global Technology Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026",
+    "careers_url": "https://campus.bankofamerica.com/",
+    "tier": 3,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-citi-s27",
+    "company": "Citi",
+    "target_role": "Data Analytics / Technology Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Aug\u2013Oct 2026",
+    "careers_url": "https://www.citigroup.com/global/careers/students-and-graduates",
+    "tier": 3,
+    "category": "Finance",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-johnson-and-johnson-s27",
+    "company": "Johnson & Johnson",
+    "target_role": "Data Science / AI / Medical Analytics Intern \u2014 Janssen R&D (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.careers.jnj.com/students",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-eli-lilly-s27",
+    "company": "Eli Lilly",
+    "target_role": "Data Science / AI / Clinical Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.lilly.com/us/en/students",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-astrazeneca-s27",
+    "company": "AstraZeneca",
+    "target_role": "Data Science / Bioinformatics / AI Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.astrazeneca.com/students",
+    "tier": 3,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-novartis-s27",
+    "company": "Novartis",
+    "target_role": "Data Science / Biomedical Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.novartis.com/careers/students",
+    "tier": 3,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-bristol-myers-squibb-s27",
+    "company": "Bristol Myers Squibb",
+    "target_role": "Data Science / Translational Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.bms.com/students",
+    "tier": 3,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
+  },
+  {
+    "id": "watch-abbvie-s27",
+    "company": "AbbVie",
+    "target_role": "Data Science / R&D Analytics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.abbvie.com/students",
+    "tier": 3,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Prefer data analytics / AI-ML / medical or investment analytics \u2014 not prop trading."
   }
 ]

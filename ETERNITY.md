@@ -15,8 +15,8 @@ Read [`PROFILE.md`](./PROFILE.md) every scan.
 
 **Non-negotiable:** Summer 2027 + United States + Undergraduate (BS). Drop Fall/off-season, MS/PhD-only, and non-US roles.
 
-**Prefer first:** AI/ML, biomedical data analytics, AI in medicine / pharma / drug discovery (see `PROFILE.md`).  
-**Never add** Quant / trading finance roles.  
+**Prefer first:** AI/ML, biomedical / pharma medical data analysis, financial & investment analytics (JPMorgan etc.), then SWE (see `PROFILE.md`).  
+**Skip** prop-trading / market-making Quant desks.  
 **Background:** always consult [`PORTFOLIO.md`](./PORTFOLIO.md) + live site https://ricky-s-portfolio-olive.vercel.app/ (+ `/resume.pdf`).
 
 ## Hard rules

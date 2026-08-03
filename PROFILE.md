@@ -8,7 +8,7 @@ Eternity / cron use this when ranking LinkedIn / careers / seed-list hits.
 - **Resume:** https://ricky-s-portfolio-olive.vercel.app/resume.pdf  
 - **Local snapshot:** [`PORTFOLIO.md`](./PORTFOLIO.md) (refresh from live site if stale)
 
-Ricky is a **Data Analytics (Biomedical & Public Health)** undergrad at OSU ’28 doing PhysioNet / AIMed Lab cognitive-decline ML — **not** a trading/quant candidate.
+Ricky is a **Data Analytics (Biomedical & Public Health)** undergrad at OSU ’28 (AIMed Lab / PhysioNet, healthcare viz, medical imaging AI). Strong fit for **AI/ML**, **medical / pharma data analysis**, and **financial / investment analytics** — not prop-trading Quant.
 
 ## Hard requirements (always)
 
@@ -27,21 +27,29 @@ Ricky is a **Data Analytics (Biomedical & Public Health)** undergrad at OSU ’2
 ### 2. Bio-AI / medicine / pharma / biomedical data
 
 - AI in medicine / healthcare / clinical (imaging, clinical ML, digital health, EHR/NLP)
-- AI in pharma / drug discovery
-- Biomedical data analytics: bioinformatics, computational biology, genomics, biomarker / RWE analytics
-- Roles that match his PhysioNet, DataFest health, and medical-imaging project experience
+- Medical / clinical **data analysis** & real-world evidence analytics
+- AI in pharma / drug discovery / R&D informatics
+- Biomedical data analytics: bioinformatics, computational biology, genomics, biomarker analytics
+- Roles matching PhysioNet, DataFest health, doctor-in-the-loop imaging
 
-### 3. Related SWE / data science (secondary)
+### 3. Financial / investment analytics (yes)
 
-- Strong SWE or data-science internships at priority tech companies
-- **Do not add** pure trading / quantitative finance / market-making roles (no Quant track)
+- **Financial analytics**, investment analytics, risk analytics, portfolio analytics
+- Markets / wealth / asset-management **data science** or **data analytics** (not desk trading)
+- Examples: JPMorgan Chase, Goldman Sachs, Morgan Stanley, BlackRock, Fidelity, Capital One (analytics/DS tracks)
+- Prefer titles with: data analytics, data science, AI/ML, quantitative analytics *for business/risk/investments* when undergrad-eligible
+
+### 4. Related SWE / data science (secondary)
+
+- Strong SWE or general data-science internships at priority tech companies
 
 ## Priority companies
 
 1. **Big tech AI:** NVIDIA, Google / DeepMind, Microsoft, Amazon, Meta, Apple  
 2. **Frontier AI labs:** OpenAI, Anthropic, Cohere, Mistral, Hugging Face, Scale AI, W&B  
 3. **Bio-AI / biotech:** Recursion, Insitro, Schrödinger, Atomwise, Generate Biomedicines, Deep Genomics, Genesis Therapeutics, Isomorphic Labs, BenchSci, PathAI, Owkin, Tempus, Flatiron Health, Verily, Illumina, 10x Genomics  
-4. **Pharma / medicine AI:** Moderna, Genentech / Roche, Amgen, Gilead, Pfizer, Merck, Novartis, AbbVie, Biogen, Bristol Myers Squibb, IQVIA, Natera, Guardant Health  
+4. **Pharma / medicine data + AI:** Pfizer, **Johnson & Johnson / Janssen**, **Eli Lilly**, Moderna, Genentech / Roche, Amgen, Gilead, Merck, Novartis, AbbVie, Biogen, Bristol Myers Squibb, IQVIA, Natera, Guardant Health  
+5. **Finance analytics:** JPMorgan Chase, Goldman Sachs, Morgan Stanley, BlackRock, Fidelity, Bank of America, Citi (analytics / DS / AI tracks only)
 
 ## Hard no
 
@@ -51,14 +59,15 @@ Ricky is a **Data Analytics (Biomedical & Public Health)** undergrad at OSU ’2
 - Non-US locations
 - Auto-submitting applications
 - Pure ops / audit / HR / marketing / industrial BA
-- **Quant trading / quantitative research / market-making finance** (wrong fit vs portfolio)
+- **Prop trading / market-making / “Quant Trading Intern”** at HRT, Citadel Securities, Optiver trading desks, etc. (different from bank financial analytics)
 
 ## LinkedIn / search seeds
 
 - `internship "Summer 2027" ("machine learning" OR "artificial intelligence" OR "data science") "United States"`
-- `intern "Summer 2027" undergrad (NVIDIA OR Google OR Meta OR Microsoft OR Apple OR Amazon)`
+- `internship "Summer 2027" ("data analytics" OR "financial analytics" OR "investment analytics") (JPMorgan OR "Goldman Sachs" OR "Morgan Stanley" OR BlackRock) "United States"`
+- `internship "Summer 2027" ("data science" OR "machine learning" OR analytics) (Pfizer OR "Johnson & Johnson" OR "Eli Lilly" OR Merck OR Amgen) "United States"`
 - `internship "Summer 2027" (biotech OR pharmaceutical OR "computational biology" OR bioinformatics OR genomics) "United States"`
 - `internship "Summer 2027" ("machine learning" OR "data science" OR AI) (pharma OR medical OR clinical OR biomedical OR healthcare) "United States"`
-- `intern "Summer 2027" (Recursion OR Insitro OR Tempus OR Illumina OR "10x Genomics" OR Schrödinger OR PathAI)`
+- `intern "Summer 2027" (Recursion OR Insitro OR Tempus OR Illumina OR PathAI OR Janssen)`
 
 Verify season = Summer 2027, location = US, degree = undergraduate before adding to `openings.json`.

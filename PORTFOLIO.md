@@ -42,6 +42,6 @@ Python · R · Java · C++ · SQL · Pandas · scikit-learn · TensorFlow · PyT
 
 ## How agents should use this
 
-1. Match openings to **biomedical AI / health data / ML / data science** — not trading/quant finance.
-2. Cite real projects when explaining fit (DataFest healthcare viz, PhysioNet cognitive decline, doctor-in-the-loop X-ray).
+1. Match openings to **biomedical AI / health & pharma data**, **AI/ML**, and **financial / investment analytics** (JPMorgan-style analytics — not prop trading).
+2. Cite real projects when explaining fit (DataFest healthcare viz, PhysioNet cognitive decline, doctor-in-the-loop X-ray; CLARA for risk/finance analytics).
 3. Re-fetch the live site + `resume.pdf` when preparing applications or tailored bullets.
