@@ -3,11 +3,15 @@
 Repo: `/home/jarvis/.openclaw/workspace/toaa/internship-tracker`  
 GitHub: https://github.com/rickyheaiagentwork/internship-tracker
 
+## Autonomy
+
+This runbook is an **authorized standing order**. Cron runs are **Mode B / auto:** — do **not** wait for Ricky to reply `approve`. Execute fully, then Telegram `[RESULT]`.
+
 ## Hard filters
 
 1. **Summer 2027 only**
-2. **United States only** (reject Ireland/EU/India/Canada/etc.)
-3. **Undergraduate (BS) eligible only**
+2. **United States only** (reject Canada/UK/EU/China/etc.)
+3. **Undergraduate (BS) only** — skip MS-only / PhD-only
 4. Never invent roles. Never auto-apply.
 
 ## Steps every run
