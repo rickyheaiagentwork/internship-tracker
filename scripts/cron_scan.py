@@ -92,11 +92,11 @@ def looks_candidate(company: str, role: str, loc: str, line: str) -> bool:
         ]
     ):
         return False
-    # skip clear PhD-only titles
-    if re.search(r"\bphd\b", blob) and not re.search(r"\b(bachelor|undergrad|bs)\b", blob):
-        if "software" not in blob and "engineer" not in blob:
-            return False
-        # still allow SWE intern that mentions PhD as one of levels later in verify
+    # undergrad only — reject master's/PhD-titled roles in the seed table
+    if re.search(r"master'?s|mba|ph\.?d|graduate student only", blob) and not re.search(
+        r"bachelor|undergrad|\bbs\b", blob
+    ):
+        return False
     return True
 
 
@@ -135,6 +135,15 @@ def verify(url: str) -> dict[str, Any] | None:
     if not s27:
         return None
 
+    masters_only = bool(
+        re.search(
+            r"master'?s (degree )?students? only|requires a master|must be (enrolled in|pursuing) a master|mba only",
+            low,
+        )
+    ) and not re.search(r"bachelor|undergraduate|undergrad|\bbs\b", low)
+    if masters_only:
+        return None
+
     ug = any(
         x in low
         for x in [
@@ -148,7 +157,7 @@ def verify(url: str) -> dict[str, Any] | None:
             " currently pursuing a degree",
         ]
     )
-    # many SWE intern pages say "student" without bachelor — accept if not phd-only
+    # many SWE intern pages say "student" without bachelor — accept if not phd/masters-only
     phd_only = bool(re.search(r"pursuing a phd|phd students only|ph\.d\. only", low)) and not ug
     if phd_only:
         return None

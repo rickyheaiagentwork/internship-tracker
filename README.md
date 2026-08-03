@@ -45,12 +45,9 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet (don’t
 | Solar Turbines (Caterpillar) | Business Analyst Intern (2027) | Summer 2027 | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) |
 | Solar Turbines (Caterpillar) | IT Intern (2027) | Summer 2027 | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | Summer 2027 | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
-| Susquehanna | Quantitative Systematic Trading Intern (Master's, Summer 2027) | Summer 2027 | SWE | [Apply](https://careers.sig.com/jobs/10823) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) (Summer 2027) | Summer 2027 | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
-| The Trade Desk | 2027 North America Software Engineering Internship | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Tower Research Capital | Quantitative Developer Intern — Summer 2027 | Summer 2027 | SWE | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
-| Western Digital | Software Engineering Internship (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | BAE Systems | Software Engineering Intern I (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 
 ---

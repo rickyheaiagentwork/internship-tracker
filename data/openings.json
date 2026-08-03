@@ -57,44 +57,6 @@
     "notes": "Defense tech. Bachelor's in CS/CE required."
   },
   {
-    "id": "western-digital-swe-s27",
-    "company": "Western Digital",
-    "role_title": "Software Engineering Internship (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
-    "application_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Bachelor's/Master's posting \u2014 undergrad-eligible."
-  },
-  {
-    "id": "trade-desk-swe-s27",
-    "company": "The Trade Desk",
-    "role_title": "2027 North America Software Engineering Internship",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-    "application_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Denver / NYC / Seattle and more)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Ad-tech. Bachelor's or Master's \u2014 undergrad-eligible."
-  },
-  {
     "id": "hrt-swe-s27",
     "company": "Hudson River Trading",
     "role_title": "Software Engineering Internship (C++ or Python) \u2014 Summer 2027",
@@ -435,25 +397,6 @@
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Startup agent-platform intern; confirm Summer 2027 cohort on apply."
-  },
-  {
-    "id": "susquehanna-quantitative-systematic-trading-intern-m-s27",
-    "company": "Susquehanna",
-    "role_title": "Quantitative Systematic Trading Intern (Master's, Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://careers.sig.com/jobs/10823",
-    "application_url": "https://careers.sig.com/jobs/10823",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "New York, NY",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
   },
   {
     "id": "chicago-trading-company-quant-trading-intern-summer-2027-s27",
