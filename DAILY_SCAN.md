@@ -14,6 +14,10 @@ This runbook is an **authorized standing order**. Cron runs are **Mode B / auto:
 3. **Undergraduate (BS) only** — skip MS-only / PhD-only
 4. Never invent roles. Never auto-apply.
 
+## Prefer (from PROFILE)
+
+Prioritize **AI/ML**, **biomedical data analytics**, and **AI in medicine / pharma / drug discovery**. Add pure trading/quant only after those.
+
 ## Steps every run
 
 1. `cd internship-tracker && git pull`
