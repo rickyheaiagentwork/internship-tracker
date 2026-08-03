@@ -492,5 +492,85 @@
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "US undergrad CS/CE program."
+  },
+  {
+    "id": "solar-turbines-caterpillar-solutions-platforms-engineered-intern-20-s27",
+    "company": "Solar Turbines (Caterpillar)",
+    "role_title": "Solutions Platforms Engineered Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "San Diego, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
+    "fit_score": 20
+  },
+  {
+    "id": "tsmc-arizona-engineering-intern-12-roles-process-equi-s27",
+    "company": "TSMC Arizona",
+    "role_title": "Engineering Intern (12 roles: process, equipment, CIM / software) (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/",
+    "application_url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Phoenix, AZ)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
+    "fit_score": 20
+  },
+  {
+    "id": "solar-turbines-caterpillar-it-intern-2027-s27",
+    "company": "Solar Turbines (Caterpillar)",
+    "role_title": "IT Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "San Diego, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "blackrock-summer-internship-program-amers-all-trac-s27",
+    "company": "BlackRock",
+    "role_title": "Summer Internship Program, AMERS (all tracks)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+    "application_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY (multiple US)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
+    "fit_score": 0
   }
 ]
