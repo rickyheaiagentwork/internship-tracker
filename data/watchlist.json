@@ -222,5 +222,325 @@
     ],
     "location": "United States",
     "notes": "US undergrad."
+  },
+  {
+    "id": "watch-tempus-s27",
+    "company": "Tempus",
+    "target_role": "ML / Data Science Intern \u2014 Biomedical / clinical AI (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.tempus.com/careers/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-flatiron-health-s27",
+    "company": "Flatiron Health",
+    "target_role": "Data Science / ML Intern \u2014 Oncology real-world data (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://flatiron.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-illumina-s27",
+    "company": "Illumina",
+    "target_role": "Bioinformatics / Data Science / ML Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.illumina.com/company/careers.html",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-10x-genomics-s27",
+    "company": "10x Genomics",
+    "target_role": "Computational Biology / Software Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.10xgenomics.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-pathai-s27",
+    "company": "PathAI",
+    "target_role": "ML / Computer Vision Intern \u2014 Digital pathology (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.pathai.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-owkin-s27",
+    "company": "Owkin",
+    "target_role": "ML Intern \u2014 Biomedical / drug discovery AI (Summer 2027, US if offered)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.owkin.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-verily-s27",
+    "company": "Verily",
+    "target_role": "ML / Data Science Intern \u2014 Life sciences (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://verily.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-moderna-s27",
+    "company": "Moderna",
+    "target_role": "Data Science / Computational Intern \u2014 mRNA / AI (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.modernatx.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-genentech-s27",
+    "company": "Genentech",
+    "target_role": "Computational Science / AI-ML Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.gene.com/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-amgen-s27",
+    "company": "Amgen",
+    "target_role": "Data Science / Bioinformatics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://careers.amgen.com/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-gilead-sciences-s27",
+    "company": "Gilead Sciences",
+    "target_role": "Data Science / Computational Biology Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.gilead.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-pfizer-s27",
+    "company": "Pfizer",
+    "target_role": "AI / Data Science / Digital Intern \u2014 R&D (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.pfizer.com/about/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-merck-s27",
+    "company": "Merck",
+    "target_role": "Data Science / Bioinformatics Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://jobs.merck.com/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-iqvia-s27",
+    "company": "IQVIA",
+    "target_role": "Data Analytics / AI Intern \u2014 Healthcare / RWE (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://jobs.iqvia.com/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-natera-s27",
+    "company": "Natera",
+    "target_role": "Bioinformatics / Data Science Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.natera.com/company/careers/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-guardant-health-s27",
+    "company": "Guardant Health",
+    "target_role": "Bioinformatics / ML Intern (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://guardanthealth.com/careers/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-generate-biomedicines-s27",
+    "company": "Generate Biomedicines",
+    "target_role": "ML / Computational Intern \u2014 Generative biology (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://generatebiomedicines.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-atomwise-s27",
+    "company": "Atomwise",
+    "target_role": "ML Intern \u2014 Drug discovery (Summer 2027, US)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.atomwise.com/careers/",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-isomorphic-labs-s27",
+    "company": "Isomorphic Labs",
+    "target_role": "ML / Comp Bio Intern \u2014 Drug design (Summer 2027, US if offered)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.isomorphiclabs.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
+  },
+  {
+    "id": "watch-benchsci-s27",
+    "company": "BenchSci",
+    "target_role": "ML / Data Intern \u2014 Biomedical AI (Summer 2027, US/CA \u2014 US only)",
+    "season": "Summer 2027",
+    "listing_status": "watch",
+    "expected_open": "Fall 2026 \u2013 Spring 2027",
+    "careers_url": "https://www.benchsci.com/careers",
+    "tier": 2,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "notes": "Bio-AI / medicine / pharma watch \u2014 only promote when a real US undergrad Summer 2027 apply URL appears."
   }
 ]

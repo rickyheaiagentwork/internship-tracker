@@ -16,7 +16,8 @@ HEADER = """# Internship Tracker — Ricky He
 
 Verified **{verified}**. Open = live apply link. Watch = not posted yet.
 
-**Filters:** Summer 2027 · United States · Undergraduate (BS)
+**Filters:** Summer 2027 · United States · Undergraduate (BS)  
+**Focus:** AI/ML · biomedical data · AI in medicine / pharma  
 **Rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
@@ -48,7 +49,7 @@ FOOTER = """
 Details: [`ETERNITY.md`](./ETERNITY.md) · raw data: [`data/openings.json`](./data/openings.json)
 """
 
-CATEGORY_ORDER = ["AI/ML", "SWE", "Quant", "PM", "Other"]
+CATEGORY_ORDER = ["AI/ML", "Bio-AI", "SWE", "Quant", "PM", "Other"]
 
 
 def esc(s: str) -> str:

@@ -34,7 +34,39 @@ ROW_RE = re.compile(
 UA = "Mozilla/5.0 internship-cron-scan/1.0"
 TODAY = date.today().isoformat()
 MAX_NEW = 15
-MAX_CHECK = 40
+MAX_CHECK = 50
+
+# Role / company keywords that match Ricky's PROFILE (AI/ML + bio/med/pharma)
+BIO_AI_KW = re.compile(
+    r"\b("
+    r"bio[- ]?ai|computational biology|bioinformatics|biomedical|biotech|"
+    r"genomic|genomics|multi[- ]?omics|proteomics|transcriptomics|"
+    r"drug discovery|cheminformatics|computational chem|"
+    r"pharma|pharmaceutical|medicine|medical imaging|clinical (ml|ai|data)|"
+    r"healthcare|health ?tech|digital health|ehr|real[- ]world evidence|"
+    r"biomarker|oncology|pathology ai|therapeutic"
+    r")\b",
+    re.I,
+)
+AI_ML_KW = re.compile(
+    r"\b("
+    r"machine learning|artificial intelligence|\bai\b|\bml\b|"
+    r"deep learning|llm|nlp|computer vision|data science|"
+    r"data analytics|applied scientist|research scientist|"
+    r"model (training|inference)|gpu|interpretability"
+    r")\b",
+    re.I,
+)
+BIO_COMPANIES = re.compile(
+    r"\b("
+    r"recursion|insitro|schr.?dinger|atomwise|generate|deep genomics|"
+    r"genesis|isomorphic|benchsci|pathai|owkin|tempus|flatiron|"
+    r"verily|illumina|10x|moderna|genentech|roche|amgen|gilead|"
+    r"pfizer|merck|novartis|abbvie|biogen|bristol|iqvia|natera|"
+    r"guardant|bionemo|nvidia"
+    r")\b",
+    re.I,
+)
 
 
 def fetch(url: str, timeout: int = 25) -> tuple[int, str]:
@@ -105,6 +137,23 @@ def looks_candidate(company: str, role: str, loc: str, line: str) -> bool:
     ):
         return False
     return True
+
+
+def fit_score(company: str, role: str, loc: str = "") -> int:
+    """Higher = check / add first. Matches PROFILE priority."""
+    blob = f"{company} {role} {loc}"
+    score = 0
+    if BIO_AI_KW.search(blob) or BIO_COMPANIES.search(company):
+        score += 100
+    if AI_ML_KW.search(blob):
+        score += 80
+    if re.search(r"software|swe|engineer|developer|full[- ]?stack", blob, re.I):
+        score += 20
+    if re.search(r"\bquant|trading|market making\b", blob, re.I) and not AI_ML_KW.search(blob):
+        score -= 40  # secondary per PROFILE
+    if BIO_AI_KW.search(blob) and AI_ML_KW.search(blob):
+        score += 40  # AI + bio/med combo = best fit
+    return score
 
 
 def verify(url: str) -> dict[str, Any] | None:
@@ -219,12 +268,31 @@ def gather_seeds() -> list[tuple[str, str, str, str]]:
                 continue
             seen.add(key)
             out.append((company, role, loc, url))
+    # PROFILE priority: Bio-AI / AI-ML first, then SWE, trading last
+    out.sort(key=lambda t: fit_score(t[0], t[1], t[2]), reverse=True)
     return out
 
 
-def category_for(role: str) -> str:
+def category_for(company: str, role: str) -> str:
+    blob = f"{company} {role}"
     r = role.lower()
-    if any(x in r for x in ["machine learning", " ml ", "ai ", "data science", "llm", "interpretability"]):
+    if BIO_AI_KW.search(blob) or (
+        BIO_COMPANIES.search(company) and AI_ML_KW.search(blob)
+    ):
+        return "Bio-AI"
+    if any(
+        x in r
+        for x in [
+            "machine learning",
+            "artificial intelligence",
+            "data science",
+            "data analytics",
+            "llm",
+            "interpretability",
+            "deep learning",
+            "computer vision",
+        ]
+    ) or re.search(r"\b(ai|ml)\b", r):
         return "AI/ML"
     if any(
         x in r
@@ -295,13 +363,14 @@ def main() -> int:
             "verified_at": TODAY,
             "posting_url": url,
             "application_url": url,
-            "tier": 2,
-            "category": category_for(role),
+            "tier": 1 if fit_score(company, role) >= 100 else 2,
+            "category": category_for(company, role),
             "degree_level": ["BS"],
             "location": loc if loc.lower().startswith("united states") or "US" in loc or any(x in loc for x in ["CA", "NY", "IL", "WA", "TX", "MA", "CO", "FL", "VA", "NH"]) else f"United States ({loc})",
             "work_model": "Onsite",
             "application_status": "Not started",
             "notes": f"Auto-added by cron_scan.py on {TODAY}. Re-verify before applying.",
+            "fit_score": fit_score(company, role),
         }
         # de-dupe ids
         ids = {o["id"] for o in opens}

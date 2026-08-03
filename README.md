@@ -4,7 +4,8 @@
 
 Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
-**Filters:** Summer 2027 · United States · Undergraduate (BS)
+**Filters:** Summer 2027 · United States · Undergraduate (BS)  
+**Focus:** AI/ML · biomedical data · AI in medicine / pharma  
 **Rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
@@ -67,7 +68,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Watchlist — check later (14)
+## Watchlist — check later (34)
 
 No fake Apply links. Check these pages when postings go live.
 
@@ -79,11 +80,31 @@ No fake Apply links. Check these pages when postings go live.
 | Meta | Software Engineer Intern — Undergraduate (Summer 2027, US) | Early Sep 2026 (typical) | [Careers](https://www.metacareers.com/careerprograms/students) |
 | Microsoft | Software Engineering Intern — Undergraduate (Summer 2027, US) | Mid-Aug 2026 (typical; check now) | [Careers](https://careers.microsoft.com/students/us/en) |
 | NVIDIA | SWE / ML Intern — Undergraduate (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) |
+| 10x Genomics | Computational Biology / Software Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.10xgenomics.com/careers) |
+| Amgen | Data Science / Bioinformatics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.amgen.com/) |
 | Anthropic | Software / Research Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://www.anthropic.com/careers) |
+| Atomwise | ML Intern — Drug discovery (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.atomwise.com/careers/) |
+| BenchSci | ML / Data Intern — Biomedical AI (Summer 2027, US/CA — US only) | Fall 2026 – Spring 2027 | [Careers](https://www.benchsci.com/careers) |
 | Cohere | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://cohere.com/careers) |
+| Flatiron Health | Data Science / ML Intern — Oncology real-world data (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://flatiron.com/careers) |
+| Genentech | Computational Science / AI-ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.gene.com/) |
+| Generate Biomedicines | ML / Computational Intern — Generative biology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://generatebiomedicines.com/careers) |
+| Gilead Sciences | Data Science / Computational Biology Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.gilead.com/careers) |
+| Guardant Health | Bioinformatics / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://guardanthealth.com/careers/) |
 | Hugging Face | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://huggingface.co/jobs) |
+| Illumina | Bioinformatics / Data Science / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.illumina.com/company/careers.html) |
+| IQVIA | Data Analytics / AI Intern — Healthcare / RWE (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.iqvia.com/) |
+| Isomorphic Labs | ML / Comp Bio Intern — Drug design (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.isomorphiclabs.com/careers) |
+| Merck | Data Science / Bioinformatics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.merck.com/) |
 | Mistral AI | ML Intern — Undergraduate-eligible (Summer 2027, US if offered) | Fall 2026 | [Careers](https://mistral.ai/careers) |
+| Moderna | Data Science / Computational Intern — mRNA / AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.modernatx.com/careers) |
+| Natera | Bioinformatics / Data Science Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.natera.com/company/careers/) |
 | OpenAI | SWE / Applied Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://openai.com/careers) |
+| Owkin | ML Intern — Biomedical / drug discovery AI (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.owkin.com/careers) |
+| PathAI | ML / Computer Vision Intern — Digital pathology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pathai.com/careers) |
+| Pfizer | AI / Data Science / Digital Intern — R&D (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pfizer.com/about/careers) |
+| Tempus | ML / Data Science Intern — Biomedical / clinical AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.tempus.com/careers/) |
+| Verily | ML / Data Science Intern — Life sciences (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://verily.com/careers) |
 | Insitro | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.insitro.com/careers/) |
 | Recursion Pharmaceuticals | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.recursion.com/careers) |
 | Schrödinger | Software / Comp Chem Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.schrodinger.com/careers/) |

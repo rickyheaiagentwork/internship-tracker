@@ -15,6 +15,8 @@ Read [`PROFILE.md`](./PROFILE.md) every scan.
 
 **Non-negotiable:** Summer 2027 + United States + Undergraduate (BS). Drop Fall/off-season, MS/PhD-only, and non-US roles.
 
+**Prefer first:** AI/ML, biomedical data analytics, AI in medicine / pharma / drug discovery (see `PROFILE.md`). Trading/quant is secondary.
+
 ## Hard rules
 
 1. **Summer 2027 + US + undergrad only.** Skip everything else.
@@ -35,10 +37,12 @@ When TOAA or Ricky asks for a scan (or on cron):
 
 Search seeds from `PROFILE.md`, e.g.:
 
-- `internship "Summer 2027" (software OR "machine learning") "United States"`
+- `internship "Summer 2027" ("machine learning" OR "artificial intelligence" OR "data science") "United States"`
 - `intern "Summer 2027" undergrad (Amazon OR Apple OR Meta OR Google OR Microsoft OR NVIDIA)`
 - `internship "Summer 2027" (Anthropic OR OpenAI OR NVIDIA OR DeepMind OR "Scale AI")`
-- `internship "Summer 2027" ("computational biology" OR biotech) "United States"`
+- `internship "Summer 2027" (biotech OR pharmaceutical OR "computational biology" OR bioinformatics OR genomics) "United States"`
+- `internship "Summer 2027" ("machine learning" OR AI OR "data science") (pharma OR medical OR clinical OR biomedical OR healthcare) "United States"`
+- `intern "Summer 2027" (Recursion OR Insitro OR Tempus OR Illumina OR Schrödinger OR PathAI)`
 
 For each promising hit, extract: company, title, location, LinkedIn URL, and **Easy Apply vs external apply**. Prefer external company apply URLs when available.
 
