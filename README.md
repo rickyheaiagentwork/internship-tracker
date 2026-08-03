@@ -11,7 +11,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Open — Apply now (26)
+## Open — Apply now (30)
 
 ### AI/ML (3)
 
@@ -21,7 +21,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 
-### SWE (22)
+### SWE (26)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Aquatic Capital Management | Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
+| BlackRock | Summer Internship Program, AMERS (all tracks) | SWE | [Apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
@@ -44,7 +45,10 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 | Optiver | Software Engineer Intern (Austin) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | Optiver | Software Engineer Intern (Chicago) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| Solar Turbines (Caterpillar) | IT Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
+| Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
+| TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | BAE Systems | Software Engineering Intern I | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 
