@@ -23,11 +23,14 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet (don’t
 | Aquatic Capital Management | Software Engineer Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Arrowstreet Capital | Quantitative Developer Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Arrowstreet Capital | Quantitative Researcher Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
+| BlackRock | Summer Internship Program, AMERS (all tracks) | Summer 2027 | SWE | [Apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | Summer 2027 | SWE | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
+| Cargill | Operations Management Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) |
 | Castleton Commodities International | Data Science Machine Learning Internship (Summer 2027) | Summer 2027 | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | Chicago Trading Company | Quant Trading Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) |
 | D. E. Shaw | Quantitative Analyst Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) |
 | D. E. Shaw | Software Developer Intern (New York) — Summer 2027 | Summer 2027 | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
+| D. E. Shaw | Systems Engineering Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Databricks | Product Management Intern (Summer 2027) | Summer 2027 | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern (Summer 2027) | Summer 2027 | PM | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
 | Five Rings | Summer Intern 2027 — Software Developer | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
@@ -35,6 +38,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet (don’t
 | Hyannis Port Research | Software Engineering Intern — Summer 2027 | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern — Summer 2027 | Summer 2027 | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | Kearney & Company | IT Audit Intern (Summer 2027) 🇺🇸 | Summer 2027 | SWE | [Apply](https://careers.kearneyco.com/jobs/5168) |
+| LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Summer 2027 | SWE | [Apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) |
 | Netic | Software Engineer Intern, Agent Platform / Full Stack (2026-2027) | Summer 2027 | SWE | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Old Mission | Software Engineer — 2027 Internship Program (June Start) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) |
 | Optiver | Quantitative Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) |
@@ -46,8 +50,10 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet (don’t
 | Solar Turbines (Caterpillar) | IT Intern (2027) | Summer 2027 | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | Summer 2027 | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) (Summer 2027) | Summer 2027 | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
+| The Trade Desk | Software Engineering Intern (North America, Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Tower Research Capital | Quantitative Developer Intern — Summer 2027 | Summer 2027 | SWE | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
+| Western Digital | Software Engineering Intern (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | BAE Systems | Software Engineering Intern I (Summer 2027) | Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 
 ---
