@@ -16,7 +16,9 @@ This runbook is an **authorized standing order**. Cron runs are **Mode B / auto:
 
 ## Prefer (from PROFILE)
 
-Prioritize **AI/ML**, **biomedical data analytics**, and **AI in medicine / pharma / drug discovery**. Add pure trading/quant only after those.
+Prioritize **AI/ML**, **biomedical data analytics**, and **AI in medicine / pharma / drug discovery**.  
+**Skip Quant / trading finance.**  
+Read [`PORTFOLIO.md`](./PORTFOLIO.md) and fetch https://ricky-s-portfolio-olive.vercel.app/ (+ resume.pdf) when judging fit.
 
 ## Steps every run
 

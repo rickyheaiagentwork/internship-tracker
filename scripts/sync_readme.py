@@ -18,6 +18,7 @@ Verified **{verified}**. Open = live apply link. Watch = not posted yet.
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical data · AI in medicine / pharma  
+**Portfolio:** [ricky-s-portfolio-olive.vercel.app](https://ricky-s-portfolio-olive.vercel.app/) · [`PORTFOLIO.md`](./PORTFOLIO.md) · [Resume](https://ricky-s-portfolio-olive.vercel.app/resume.pdf)  
 **Rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
@@ -49,7 +50,7 @@ FOOTER = """
 Details: [`ETERNITY.md`](./ETERNITY.md) · raw data: [`data/openings.json`](./data/openings.json)
 """
 
-CATEGORY_ORDER = ["AI/ML", "Bio-AI", "SWE", "Quant", "PM", "Other"]
+CATEGORY_ORDER = ["AI/ML", "Bio-AI", "SWE", "PM", "Other"]
 
 
 def esc(s: str) -> str:

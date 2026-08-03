@@ -129,10 +129,17 @@ def looks_candidate(company: str, role: str, loc: str, line: str) -> bool:
         r"bachelor|undergrad|\bbs\b", blob
     ):
         return False
-    # off-profile junk (ops / audit / industrial BA — not SWE/ML/Quant)
+    # off-profile junk (ops / audit / industrial BA — not SWE/ML)
     if re.search(
         r"\b(operations management|it audit|audit intern|business analyst|"
         r"gas compressor|accounting|finance rotational|hr intern|marketing intern)\b",
+        blob,
+    ):
+        return False
+    # no Quant / trading finance track (Ricky is Bio-AI / data analytics, not trading)
+    if re.search(
+        r"\b(quant trading|quantitative (intern|analyst|research|researcher|developer)|"
+        r"market making|prop trading)\b",
         blob,
     ):
         return False
@@ -150,7 +157,7 @@ def fit_score(company: str, role: str, loc: str = "") -> int:
     if re.search(r"software|swe|engineer|developer|full[- ]?stack", blob, re.I):
         score += 20
     if re.search(r"\bquant|trading|market making\b", blob, re.I) and not AI_ML_KW.search(blob):
-        score -= 40  # secondary per PROFILE
+        score -= 100  # hard deprioritize; looks_candidate should already reject pure quant
     if BIO_AI_KW.search(blob) and AI_ML_KW.search(blob):
         score += 40  # AI + bio/med combo = best fit
     return score
@@ -294,18 +301,6 @@ def category_for(company: str, role: str) -> str:
         ]
     ) or re.search(r"\b(ai|ml)\b", r):
         return "AI/ML"
-    if any(
-        x in r
-        for x in [
-            "quantitative",
-            "quant ",
-            "quant trading",
-            "quantitative developer",
-            "quantitative research",
-            "quantitative analyst",
-        ]
-    ):
-        return "Quant"
     if "product" in r and "engineer" not in r and "software" not in r:
         return "PM"
     return "SWE"

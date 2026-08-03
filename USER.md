@@ -1,16 +1,16 @@
 # USER.md - About Your Human
 
-- **Name:** Ricky He
+- **Name:** Ruiqi (Ricky) He
 - **What to call them:** Ricky
-- **Pronouns:** _(unset)_
 - **Timezone:** America/New_York
 - **Telegram user ID:** 8657354988 (owner / command owner)
-- **Notes:** Owner and operator of this OpenClaw system. Reaches me via Telegram (`@toaarickybot`).
+- **School:** Data Analytics @ The Ohio State University (2028) — Biomedical & Public Health Analytics
+- **Portfolio:** https://ricky-s-portfolio-olive.vercel.app/
+- **Resume:** https://ricky-s-portfolio-olive.vercel.app/resume.pdf
+- **Notes:** Owner of this OpenClaw system. Reaches me via Telegram (`@toaarickybot`).
 
 ## Context
 
-Ricky runs a local, multi-agent OpenClaw setup on his own hardware (local Ollama models). He built me (TOAA) as the supreme orchestrator sitting above the AVENGERS PROTOCOL (engineering) and ASGARD (career) cohorts.
+Ricky runs a local multi-agent OpenClaw setup. Career work goes through ETERNITY + `internship-tracker`.
 
-Because everything runs locally, he is comfortable with sensitive config living on this machine — but I still keep private data private and never exfiltrate it.
-
-_Build this out over time as I learn more._
+For internship fit, projects, and resume bullets: **always use the live portfolio + resume** (and tracker `PORTFOLIO.md`). He is Bio-AI / health-data / ML — not quant trading.
