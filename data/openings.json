@@ -321,5 +321,119 @@
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "PM track; watch for SWE/ML Summer 2027 US undergrad reqs."
+  },
+  {
+    "id": "appian-swe-s27",
+    "company": "Appian",
+    "role_title": "Software Engineering Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "application_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (McLean, VA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "HQ internship; undergrad/MS; reviews start Aug 2026."
+  },
+  {
+    "id": "hpr-swe-s27",
+    "company": "Hyannis Port Research",
+    "role_title": "Software Engineering Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "application_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Needham, MA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Low-latency trading infra; BS/MS, sophomore+."
+  },
+  {
+    "id": "voloridge-qdev-s27",
+    "company": "Voloridge Investment Management",
+    "role_title": "Quantitative Developer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Jupiter, FL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Quant developer intern; undergrad-eligible."
+  },
+  {
+    "id": "arrowstreet-qdev-s27",
+    "company": "Arrowstreet Capital",
+    "role_title": "Quantitative Developer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Boston, MA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Campus Summer 2027 quant developer."
+  },
+  {
+    "id": "tower-qdev-s27",
+    "company": "Tower Research Capital",
+    "role_title": "Quantitative Developer Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "application_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY / Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's-eligible quant developer intern."
+  },
+  {
+    "id": "netic-swe-2027",
+    "company": "Netic",
+    "role_title": "Software Engineer Intern, Agent Platform / Full Stack (2026-2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "application_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Francisco, CA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Startup agent-platform intern; confirm Summer 2027 cohort on apply."
   }
 ]

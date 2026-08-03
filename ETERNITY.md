@@ -26,6 +26,9 @@ Read [`PROFILE.md`](./PROFILE.md) every scan.
 
 ## LinkedIn / portal scan run
 
+Cron runs **3× daily** (09:00 / 12:00 / 21:00 America/New_York) via OpenClaw job `internship-opportunity-scan`.
+Follow [`DAILY_SCAN.md`](./DAILY_SCAN.md) on every run.
+
 When TOAA or Ricky asks for a scan (or on cron):
 
 ### 1. LinkedIn Jobs (browser-use-career)
