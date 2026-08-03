@@ -6,11 +6,12 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical data · AI in medicine / pharma  
+**Portfolio:** [ricky-s-portfolio-olive.vercel.app](https://ricky-s-portfolio-olive.vercel.app/) · [`PORTFOLIO.md`](./PORTFOLIO.md) · [Resume](https://ricky-s-portfolio-olive.vercel.app/resume.pdf)  
 **Rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
 ---
 
-## Open — Apply now (34)
+## Open — Apply now (26)
 
 ### AI/ML (3)
 
@@ -46,19 +47,6 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | BAE Systems | Software Engineering Intern I | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
-
-### Quant (8)
-
-| Company | Role | Category | Apply |
-|---|---|---|---|
-| Arrowstreet Capital | Quantitative Developer Intern | Quant | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
-| Arrowstreet Capital | Quantitative Researcher Intern | Quant | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
-| Chicago Trading Company | Quant Trading Intern | Quant | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) |
-| D. E. Shaw | Quantitative Analyst Intern | Quant | [Apply](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) |
-| Optiver | Quantitative Intern | Quant | [Apply](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) |
-| Point72 | Quantitative Research Intern | Quant | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
-| Tower Research Capital | Quantitative Developer Intern | Quant | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
-| Voloridge Investment Management | Quantitative Developer Intern | Quant | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 
 ### PM (1)
 
