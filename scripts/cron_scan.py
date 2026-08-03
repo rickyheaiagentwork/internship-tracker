@@ -63,7 +63,34 @@ BIO_COMPANIES = re.compile(
     r"genesis|isomorphic|benchsci|pathai|owkin|tempus|flatiron|"
     r"verily|illumina|10x|moderna|genentech|roche|amgen|gilead|"
     r"pfizer|merck|novartis|abbvie|biogen|bristol|iqvia|natera|"
-    r"guardant|bionemo|nvidia"
+    r"guardant|bionemo|nvidia|johnson|janssen|lilly|eli lilly|"
+    r"astrazeneca|sanofi|bayer|takeda"
+    r")\b",
+    re.I,
+)
+FINANCE_ANALYTICS_KW = re.compile(
+    r"\b("
+    r"financial analytics|investment analytics|risk analytics|"
+    r"portfolio analytics|wealth analytics|markets analytics|"
+    r"asset management|investment management|"
+    r"data analytics|data science|business analytics|"
+    r"quantitative analytics|credit analytics|risk data"
+    r")\b",
+    re.I,
+)
+FINANCE_COMPANIES = re.compile(
+    r"\b("
+    r"jpmorgan|jp morgan|chase|goldman|morgan stanley|blackrock|"
+    r"fidelity|bank of america|bofa|citigroup|\bciti\b|"
+    r"wells fargo|capital one|state street|vanguard|schwab"
+    r")\b",
+    re.I,
+)
+PROP_TRADING_REJECT = re.compile(
+    r"\b("
+    r"quant trading|market making|prop trading|proprietary trading|"
+    r"quantitative trading|trading intern|"
+    r"software engineer intern.{0,40}(optiver|hrt|citadel securities|jane street|two sigma|imc trading)"
     r")\b",
     re.I,
 )
@@ -136,13 +163,18 @@ def looks_candidate(company: str, role: str, loc: str, line: str) -> bool:
         blob,
     ):
         return False
-    # no Quant / trading finance track (Ricky is Bio-AI / data analytics, not trading)
-    if re.search(
-        r"\b(quant trading|quantitative (intern|analyst|research|researcher|developer)|"
-        r"market making|prop trading)\b",
-        blob,
-    ):
+    # reject prop-trading / market-making desks — keep bank financial analytics
+    if PROP_TRADING_REJECT.search(blob):
         return False
+    if re.search(
+        r"\b(hudson river trading|hrt|citadel securities|jane street|optiver|"
+        r"two sigma|imc trading|five rings|akuna|old mission|tower research|"
+        r"chicago trading|voloridge|point72|pdt partners)\b",
+        blob,
+    ) and not FINANCE_ANALYTICS_KW.search(blob) and not AI_ML_KW.search(blob):
+        # trading shops without analytics/ML framing
+        if re.search(r"\b(quant|trading|market)\b", blob):
+            return False
     return True
 
 
@@ -154,10 +186,19 @@ def fit_score(company: str, role: str, loc: str = "") -> int:
         score += 100
     if AI_ML_KW.search(blob):
         score += 80
+    # bank / AM financial & investment analytics
+    if FINANCE_COMPANIES.search(company) and (
+        FINANCE_ANALYTICS_KW.search(blob) or AI_ML_KW.search(blob)
+    ):
+        score += 70
+    elif FINANCE_ANALYTICS_KW.search(blob) and re.search(
+        r"financ|invest|risk|portfolio|wealth|asset", blob, re.I
+    ):
+        score += 60
     if re.search(r"software|swe|engineer|developer|full[- ]?stack", blob, re.I):
         score += 20
-    if re.search(r"\bquant|trading|market making\b", blob, re.I) and not AI_ML_KW.search(blob):
-        score -= 100  # hard deprioritize; looks_candidate should already reject pure quant
+    if PROP_TRADING_REJECT.search(blob):
+        score -= 100
     if BIO_AI_KW.search(blob) and AI_ML_KW.search(blob):
         score += 40  # AI + bio/med combo = best fit
     return score
@@ -284,7 +325,7 @@ def category_for(company: str, role: str) -> str:
     blob = f"{company} {role}"
     r = role.lower()
     if BIO_AI_KW.search(blob) or (
-        BIO_COMPANIES.search(company) and AI_ML_KW.search(blob)
+        BIO_COMPANIES.search(company) and (AI_ML_KW.search(blob) or BIO_AI_KW.search(blob) or "data" in r)
     ):
         return "Bio-AI"
     if any(
@@ -293,13 +334,27 @@ def category_for(company: str, role: str) -> str:
             "machine learning",
             "artificial intelligence",
             "data science",
-            "data analytics",
             "llm",
             "interpretability",
             "deep learning",
             "computer vision",
         ]
     ) or re.search(r"\b(ai|ml)\b", r):
+        # bank DS still AI/ML unless clearly finance-analytics titled
+        if FINANCE_COMPANIES.search(company) and re.search(
+            r"financial|investment|risk analytics|portfolio", r
+        ):
+            return "Finance"
+        return "AI/ML"
+    if FINANCE_COMPANIES.search(company) and FINANCE_ANALYTICS_KW.search(blob):
+        return "Finance"
+    if re.search(r"financial analytics|investment analytics|risk analytics|portfolio analytics", r):
+        return "Finance"
+    if "data analytics" in r:
+        if BIO_COMPANIES.search(company) or BIO_AI_KW.search(blob):
+            return "Bio-AI"
+        if FINANCE_COMPANIES.search(company) or re.search(r"financ|invest|risk|wealth", blob, re.I):
+            return "Finance"
         return "AI/ML"
     if "product" in r and "engineer" not in r and "software" not in r:
         return "PM"

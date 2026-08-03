@@ -5,7 +5,7 @@
 Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
-**Focus:** AI/ML · biomedical data · AI in medicine / pharma  
+**Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
 **Portfolio:** [ricky-s-portfolio-olive.vercel.app](https://ricky-s-portfolio-olive.vercel.app/) · [`PORTFOLIO.md`](./PORTFOLIO.md) · [Resume](https://ricky-s-portfolio-olive.vercel.app/resume.pdf)  
 **Rules:** [`ETERNITY.md`](./ETERNITY.md) · **Profile:** [`PROFILE.md`](./PROFILE.md)
 
@@ -60,7 +60,7 @@ Verified **2026-08-03**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Watchlist — check later (34)
+## Watchlist — check later (47)
 
 No fake Apply links. Check these pages when postings go live.
 
@@ -77,27 +77,40 @@ No fake Apply links. Check these pages when postings go live.
 | Anthropic | Software / Research Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://www.anthropic.com/careers) |
 | Atomwise | ML Intern — Drug discovery (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.atomwise.com/careers/) |
 | BenchSci | ML / Data Intern — Biomedical AI (Summer 2027, US/CA — US only) | Fall 2026 – Spring 2027 | [Careers](https://www.benchsci.com/careers) |
+| BlackRock | Data Science / Aladdin Analytics / AI Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://careers.blackrock.com/students) |
 | Cohere | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://cohere.com/careers) |
+| Eli Lilly | Data Science / AI / Clinical Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.lilly.com/us/en/students) |
 | Flatiron Health | Data Science / ML Intern — Oncology real-world data (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://flatiron.com/careers) |
 | Genentech | Computational Science / AI-ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.gene.com/) |
 | Generate Biomedicines | ML / Computational Intern — Generative biology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://generatebiomedicines.com/careers) |
 | Gilead Sciences | Data Science / Computational Biology Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.gilead.com/careers) |
+| Goldman Sachs | Data Analytics / Engineering / Markets Analytics Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.goldmansachs.com/careers/students) |
 | Guardant Health | Bioinformatics / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://guardanthealth.com/careers/) |
 | Hugging Face | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://huggingface.co/jobs) |
 | Illumina | Bioinformatics / Data Science / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.illumina.com/company/careers.html) |
 | IQVIA | Data Analytics / AI Intern — Healthcare / RWE (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.iqvia.com/) |
 | Isomorphic Labs | ML / Comp Bio Intern — Drug design (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.isomorphiclabs.com/careers) |
+| Johnson & Johnson | Data Science / AI / Medical Analytics Intern — Janssen R&D (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.careers.jnj.com/students) |
+| JPMorgan Chase | Data Analytics / AI-ML / Investment Analytics Intern (Summer 2027, US) | Aug–Oct 2026 (typical campus window) | [Careers](https://careers.jpmorgan.com/us/en/students/programs) |
 | Merck | Data Science / Bioinformatics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.merck.com/) |
 | Mistral AI | ML Intern — Undergraduate-eligible (Summer 2027, US if offered) | Fall 2026 | [Careers](https://mistral.ai/careers) |
 | Moderna | Data Science / Computational Intern — mRNA / AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.modernatx.com/careers) |
+| Morgan Stanley | Data Analytics / Technology / Investment Analytics Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.morganstanley.com/careers/career-opportunities-search) |
 | Natera | Bioinformatics / Data Science Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.natera.com/company/careers/) |
 | OpenAI | SWE / Applied Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://openai.com/careers) |
 | Owkin | ML Intern — Biomedical / drug discovery AI (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.owkin.com/careers) |
 | PathAI | ML / Computer Vision Intern — Digital pathology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pathai.com/careers) |
-| Pfizer | AI / Data Science / Digital Intern — R&D (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pfizer.com/about/careers) |
+| Pfizer | AI / Data Science / Medical & R&D Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pfizer.com/about/careers) |
 | Tempus | ML / Data Science Intern — Biomedical / clinical AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.tempus.com/careers/) |
 | Verily | ML / Data Science Intern — Life sciences (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://verily.com/careers) |
+| AbbVie | Data Science / R&D Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.abbvie.com/students) |
+| AstraZeneca | Data Science / Bioinformatics / AI Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.astrazeneca.com/students) |
+| Bank of America | Data Analytics / Global Technology Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://campus.bankofamerica.com/) |
+| Bristol Myers Squibb | Data Science / Translational Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.bms.com/students) |
+| Citi | Data Analytics / Technology Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.citigroup.com/global/careers/students-and-graduates) |
+| Fidelity Investments | Data Analytics / AI Intern (Summer 2027, US) | Fall 2026 | [Careers](https://jobs.fidelity.com/students-and-graduates/) |
 | Insitro | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.insitro.com/careers/) |
+| Novartis | Data Science / Biomedical Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.novartis.com/careers/students) |
 | Recursion Pharmaceuticals | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.recursion.com/careers) |
 | Schrödinger | Software / Comp Chem Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.schrodinger.com/careers/) |
 ---
