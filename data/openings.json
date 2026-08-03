@@ -38,6 +38,44 @@
     "notes": "Explicit undergrad SWE pipeline."
   },
   {
+    "id": "akuna-capital-software-engineer-intern-summer-2027-pyt-s27",
+    "company": "Akuna Capital",
+    "role_title": "Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://akunacapital.com/careers/job/8018847/",
+    "application_url": "https://akunacapital.com/careers/job/8018847/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Chicago, IL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "akuna-swe-python-s27",
+    "company": "Akuna Capital",
+    "role_title": "Software Engineer Intern \u2014 Python (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "application_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Also posts C++ / Full Stack / C# .NET Summer 2027 SWE interns."
+  },
+  {
     "id": "anduril-swe-2027",
     "company": "Anduril",
     "role_title": "2027 Software Engineer Intern",
@@ -57,6 +95,253 @@
     "notes": "Defense tech. Bachelor's in CS/CE required."
   },
   {
+    "id": "appian-swe-s27",
+    "company": "Appian",
+    "role_title": "Software Engineering Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "application_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (McLean, VA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "HQ internship; undergrad/MS; reviews start Aug 2026."
+  },
+  {
+    "id": "aquatic-swe-s27",
+    "company": "Aquatic Capital Management",
+    "role_title": "Software Engineer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+    "application_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Grad window typically Fall 2027\u2013Summer 2028; Bachelor's option."
+  },
+  {
+    "id": "arrowstreet-qdev-s27",
+    "company": "Arrowstreet Capital",
+    "role_title": "Quantitative Developer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Boston, MA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Campus Summer 2027 quant developer."
+  },
+  {
+    "id": "arrowstreet-capital-quantitative-researcher-intern-s27",
+    "company": "Arrowstreet Capital",
+    "role_title": "Quantitative Researcher Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Boston, MA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "castleton-ml-s27",
+    "company": "Castleton Commodities International",
+    "role_title": "Data Science Machine Learning Internship (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+    "application_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Stamford, CT / Houston, TX / New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's or higher; ML/time-series focus."
+  },
+  {
+    "id": "chicago-trading-company-quant-trading-intern-summer-2027-s27",
+    "company": "Chicago Trading Company",
+    "role_title": "Quant Trading Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+    "application_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Chicago, IL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "ctgt-software-engineering-intern-research-int-s27",
+    "company": "CTGT",
+    "role_title": "Software Engineering Intern / Research Intern, Interpretability (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
+    "application_url": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "San Francisco, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "d-e-shaw-quantitative-analyst-intern-s27",
+    "company": "D. E. Shaw",
+    "role_title": "Quantitative Analyst Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "application_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "deshaw-swe-s27",
+    "company": "D. E. Shaw",
+    "role_title": "Software Developer Intern (New York) \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "application_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Student internship \u2014 undergrad-eligible track."
+  },
+  {
+    "id": "d-e-shaw-systems-engineering-intern-s27",
+    "company": "D. E. Shaw",
+    "role_title": "Systems Engineering Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "application_url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "databricks-pm-summer-2027",
+    "company": "Databricks",
+    "role_title": "Product Management Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
+    "application_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
+    "tier": 2,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Francisco, CA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "PM track; watch for SWE/ML Summer 2027 US undergrad reqs."
+  },
+  {
+    "id": "dedalus-labs-systems-engineer-product-manager-intern--s27",
+    "company": "Dedalus Labs",
+    "role_title": "Systems Engineer / Product Manager Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
+    "application_url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "San Francisco, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "five-rings-swe-s27",
+    "company": "Five Rings",
+    "role_title": "Summer Intern 2027 \u2014 Software Developer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "application_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Trading firm. Bachelor's option on application."
+  },
+  {
     "id": "hrt-swe-s27",
     "company": "Hudson River Trading",
     "role_title": "Software Engineering Internship (C++ or Python) \u2014 Summer 2027",
@@ -74,6 +359,139 @@
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Open to undergraduates, graduating seniors, masters, or PhD."
+  },
+  {
+    "id": "hpr-swe-s27",
+    "company": "Hyannis Port Research",
+    "role_title": "Software Engineering Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "application_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Needham, MA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Low-latency trading infra; BS/MS, sophomore+."
+  },
+  {
+    "id": "imc-swe-s27",
+    "company": "IMC Trading",
+    "role_title": "Software Engineer Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "application_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "US Chicago posting on IMC campus board."
+  },
+  {
+    "id": "lufco-summer-intern-cs-software-engineering-s27",
+    "company": "LufCo",
+    "role_title": "Summer Intern (CS / Software / Engineering)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027",
+    "application_url": "https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Aberdeen, MD)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "netic-swe-2027",
+    "company": "Netic",
+    "role_title": "Software Engineer Intern, Agent Platform / Full Stack (2026-2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "application_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Francisco, CA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Startup agent-platform intern; confirm Summer 2027 cohort on apply."
+  },
+  {
+    "id": "old-mission-swe-s27",
+    "company": "Old Mission",
+    "role_title": "Software Engineer \u2014 2027 Internship Program (June Start)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "application_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's-eligible trading-tech intern."
+  },
+  {
+    "id": "optiver-quantitative-intern-s27",
+    "company": "Optiver",
+    "role_title": "Quantitative Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
+    "application_url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Chicago, IL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+  },
+  {
+    "id": "optiver-software-engineer-intern-austin-s27",
+    "company": "Optiver",
+    "role_title": "Software Engineer Intern (Austin) (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-03",
+    "posting_url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
+    "application_url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Austin, TX",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
   },
   {
     "id": "optiver-swe-chicago-s27",
@@ -114,329 +532,6 @@
     "notes": "Quant trading tech. Undergrad-eligible."
   },
   {
-    "id": "five-rings-swe-s27",
-    "company": "Five Rings",
-    "role_title": "Summer Intern 2027 \u2014 Software Developer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-    "application_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Trading firm. Bachelor's option on application."
-  },
-  {
-    "id": "akuna-swe-python-s27",
-    "company": "Akuna Capital",
-    "role_title": "Software Engineer Intern \u2014 Python (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-    "application_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Also posts C++ / Full Stack / C# .NET Summer 2027 SWE interns."
-  },
-  {
-    "id": "aquatic-swe-s27",
-    "company": "Aquatic Capital Management",
-    "role_title": "Software Engineer Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
-    "application_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Grad window typically Fall 2027\u2013Summer 2028; Bachelor's option."
-  },
-  {
-    "id": "old-mission-swe-s27",
-    "company": "Old Mission",
-    "role_title": "Software Engineer \u2014 2027 Internship Program (June Start)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
-    "application_url": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Bachelor's-eligible trading-tech intern."
-  },
-  {
-    "id": "imc-swe-s27",
-    "company": "IMC Trading",
-    "role_title": "Software Engineer Intern \u2014 Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "application_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "US Chicago posting on IMC campus board."
-  },
-  {
-    "id": "deshaw-swe-s27",
-    "company": "D. E. Shaw",
-    "role_title": "Software Developer Intern (New York) \u2014 Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
-    "application_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Student internship \u2014 undergrad-eligible track."
-  },
-  {
-    "id": "castleton-ml-s27",
-    "company": "Castleton Commodities International",
-    "role_title": "Data Science Machine Learning Internship (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
-    "application_url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
-    "tier": 2,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Stamford, CT / Houston, TX / New York, NY)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Bachelor's or higher; ML/time-series focus."
-  },
-  {
-    "id": "bae-swe-s27",
-    "company": "BAE Systems",
-    "role_title": "Software Engineering Intern I (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
-    "application_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Nashua, NH)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "US undergrad CS/CE program."
-  },
-  {
-    "id": "databricks-pm-summer-2027",
-    "company": "Databricks",
-    "role_title": "Product Management Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
-    "application_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
-    "tier": 2,
-    "category": "PM",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Francisco, CA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "PM track; watch for SWE/ML Summer 2027 US undergrad reqs."
-  },
-  {
-    "id": "appian-swe-s27",
-    "company": "Appian",
-    "role_title": "Software Engineering Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-    "application_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (McLean, VA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "HQ internship; undergrad/MS; reviews start Aug 2026."
-  },
-  {
-    "id": "hpr-swe-s27",
-    "company": "Hyannis Port Research",
-    "role_title": "Software Engineering Intern \u2014 Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-    "application_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Needham, MA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Low-latency trading infra; BS/MS, sophomore+."
-  },
-  {
-    "id": "voloridge-qdev-s27",
-    "company": "Voloridge Investment Management",
-    "role_title": "Quantitative Developer Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-    "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Jupiter, FL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Quant developer intern; undergrad-eligible."
-  },
-  {
-    "id": "arrowstreet-qdev-s27",
-    "company": "Arrowstreet Capital",
-    "role_title": "Quantitative Developer Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
-    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Boston, MA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Campus Summer 2027 quant developer."
-  },
-  {
-    "id": "tower-qdev-s27",
-    "company": "Tower Research Capital",
-    "role_title": "Quantitative Developer Intern \u2014 Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-    "application_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY / Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Bachelor's-eligible quant developer intern."
-  },
-  {
-    "id": "netic-swe-2027",
-    "company": "Netic",
-    "role_title": "Software Engineer Intern, Agent Platform / Full Stack (2026-2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-02",
-    "posting_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
-    "application_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Francisco, CA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Startup agent-platform intern; confirm Summer 2027 cohort on apply."
-  },
-  {
-    "id": "chicago-trading-company-quant-trading-intern-summer-2027-s27",
-    "company": "Chicago Trading Company",
-    "role_title": "Quant Trading Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
-    "application_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Chicago, IL",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "kearney-company-it-audit-intern-summer-2027-s27",
-    "company": "Kearney & Company",
-    "role_title": "IT Audit Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://careers.kearneyco.com/jobs/5168",
-    "application_url": "https://careers.kearneyco.com/jobs/5168",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Alexandria, VA (remote)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
     "id": "point72-quantitative-research-intern-summer-2027-s27",
     "company": "Point72",
     "role_title": "Quantitative Research Intern (Summer 2027)",
@@ -446,239 +541,11 @@
     "posting_url": "https://job-boards.greenhouse.io/point72/jobs/7297642002",
     "application_url": "https://job-boards.greenhouse.io/point72/jobs/7297642002",
     "tier": 2,
-    "category": "SWE",
+    "category": "Quant",
     "degree_level": [
       "BS"
     ],
     "location": "New York, NY",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "solar-turbines-caterpillar-it-intern-2027-s27",
-    "company": "Solar Turbines (Caterpillar)",
-    "role_title": "IT Intern (2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898",
-    "application_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Diego, CA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "solar-turbines-caterpillar-business-analyst-intern-2027-s27",
-    "company": "Solar Turbines (Caterpillar)",
-    "role_title": "Business Analyst Intern (2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902",
-    "application_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Diego, CA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "solar-turbines-caterpillar-solutions-platforms-engineered-intern-20-s27",
-    "company": "Solar Turbines (Caterpillar)",
-    "role_title": "Solutions Platforms Engineered Intern (2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657",
-    "application_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Diego, CA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "akuna-capital-software-engineer-intern-summer-2027-pyt-s27",
-    "company": "Akuna Capital",
-    "role_title": "Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://akunacapital.com/careers/job/8018847/",
-    "application_url": "https://akunacapital.com/careers/job/8018847/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Chicago, IL",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "arrowstreet-capital-quantitative-researcher-intern-s27",
-    "company": "Arrowstreet Capital",
-    "role_title": "Quantitative Researcher Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Boston, MA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "optiver-software-engineer-intern-austin-s27",
-    "company": "Optiver",
-    "role_title": "Software Engineer Intern (Austin) (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
-    "application_url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Austin, TX",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "optiver-quantitative-intern-s27",
-    "company": "Optiver",
-    "role_title": "Quantitative Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
-    "application_url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Chicago, IL",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "dedalus-labs-systems-engineer-product-manager-intern--s27",
-    "company": "Dedalus Labs",
-    "role_title": "Systems Engineer / Product Manager Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
-    "application_url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
-    "tier": 2,
-    "category": "PM",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Francisco, CA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "ctgt-software-engineering-intern-research-int-s27",
-    "company": "CTGT",
-    "role_title": "Software Engineering Intern / Research Intern, Interpretability (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
-    "application_url": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Francisco, CA",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "tsmc-arizona-engineering-intern-12-roles-process-equi-s27",
-    "company": "TSMC Arizona",
-    "role_title": "Engineering Intern (12 roles: process, equipment, CIM / software) (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/",
-    "application_url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Phoenix, AZ)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "d-e-shaw-quantitative-analyst-intern-s27",
-    "company": "D. E. Shaw",
-    "role_title": "Quantitative Analyst Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
-    "application_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "New York, NY",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "western-digital-software-engineering-intern-summer-2027-s27",
-    "company": "Western Digital",
-    "role_title": "Software Engineering Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
-    "application_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "San Jose, CA",
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
@@ -703,79 +570,79 @@
     "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
   },
   {
-    "id": "blackrock-summer-internship-program-amers-all-trac-s27",
-    "company": "BlackRock",
-    "role_title": "Summer Internship Program, AMERS (all tracks)",
+    "id": "tower-qdev-s27",
+    "company": "Tower Research Capital",
+    "role_title": "Quantitative Developer Intern \u2014 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "application_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY / Chicago, IL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Bachelor's-eligible quant developer intern."
+  },
+  {
+    "id": "voloridge-qdev-s27",
+    "company": "Voloridge Investment Management",
+    "role_title": "Quantitative Developer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-02",
+    "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "tier": 2,
+    "category": "Quant",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Jupiter, FL)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Quant developer intern; undergrad-eligible."
+  },
+  {
+    "id": "western-digital-software-engineering-intern-summer-2027-s27",
+    "company": "Western Digital",
+    "role_title": "Software Engineering Intern (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-08-03",
-    "posting_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
-    "application_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+    "posting_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
+    "application_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
       "BS"
     ],
-    "location": "New York, NY (multiple US)",
+    "location": "San Jose, CA",
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
   },
   {
-    "id": "d-e-shaw-systems-engineering-intern-s27",
-    "company": "D. E. Shaw",
-    "role_title": "Systems Engineering Intern (Summer 2027)",
+    "id": "bae-swe-s27",
+    "company": "BAE Systems",
+    "role_title": "Software Engineering Intern I (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
-    "application_url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
-    "tier": 2,
+    "verified_at": "2026-08-02",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
+    "tier": 3,
     "category": "SWE",
     "degree_level": [
       "BS"
     ],
-    "location": "New York, NY",
+    "location": "United States (Nashua, NH)",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "lufco-summer-intern-cs-software-engineering-s27",
-    "company": "LufCo",
-    "role_title": "Summer Intern (CS / Software / Engineering) \ud83c\uddfa\ud83c\uddf8",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027",
-    "application_url": "https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Aberdeen, MD)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
-  },
-  {
-    "id": "cargill-operations-management-intern-s27",
-    "company": "Cargill",
-    "role_title": "Operations Management Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-08-03",
-    "posting_url": "https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048",
-    "application_url": "https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Minneapolis, MN (multiple US)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying."
+    "notes": "US undergrad CS/CE program."
   }
 ]
