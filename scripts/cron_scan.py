@@ -97,6 +97,13 @@ def looks_candidate(company: str, role: str, loc: str, line: str) -> bool:
         r"bachelor|undergrad|\bbs\b", blob
     ):
         return False
+    # off-profile junk (ops / audit / industrial BA — not SWE/ML/Quant)
+    if re.search(
+        r"\b(operations management|it audit|audit intern|business analyst|"
+        r"gas compressor|accounting|finance rotational|hr intern|marketing intern)\b",
+        blob,
+    ):
+        return False
     return True
 
 
@@ -217,9 +224,21 @@ def gather_seeds() -> list[tuple[str, str, str, str]]:
 
 def category_for(role: str) -> str:
     r = role.lower()
-    if any(x in r for x in ["machine learning", " ml ", "ai ", "data science", "llm"]):
+    if any(x in r for x in ["machine learning", " ml ", "ai ", "data science", "llm", "interpretability"]):
         return "AI/ML"
-    if "product" in r:
+    if any(
+        x in r
+        for x in [
+            "quantitative",
+            "quant ",
+            "quant trading",
+            "quantitative developer",
+            "quantitative research",
+            "quantitative analyst",
+        ]
+    ):
+        return "Quant"
+    if "product" in r and "engineer" not in r and "software" not in r:
         return "PM"
     return "SWE"
 
