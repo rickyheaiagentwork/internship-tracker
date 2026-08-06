@@ -572,5 +572,245 @@
     "application_status": "Not started",
     "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
     "fit_score": 0
+  },
+  {
+    "id": "cloudfit-software-future-intern-early-interest-summer-2027-s27",
+    "company": "CloudFit Software",
+    "role_title": "Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) \ud83c\uddfa\ud83c\uddf8",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo",
+    "application_url": "https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Lynchburg, VA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 100
+  },
+  {
+    "id": "voloridge-investment-management-quantitative-developer-intern-2027-s27",
+    "company": "Voloridge Investment Management",
+    "role_title": "Quantitative Developer Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Jupiter, FL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 80
+  },
+  {
+    "id": "voloridge-investment-management-quantitative-research-intern-2027-s27",
+    "company": "Voloridge Investment Management",
+    "role_title": "Quantitative Research Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
+    "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Jupiter, FL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 60
+  },
+  {
+    "id": "arrowstreet-capital-quantitative-developer-intern-s27",
+    "company": "Arrowstreet Capital",
+    "role_title": "Quantitative Developer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Boston, MA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 20
+  },
+  {
+    "id": "susquehanna-quantitative-strategy-developer-intern-s-s27",
+    "company": "Susquehanna",
+    "role_title": "Quantitative Strategy Developer Intern (Summer 2027, June start)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://careers.sig.com/jobs/10838",
+    "application_url": "https://careers.sig.com/jobs/10838",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Bala Cynwyd, PA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 20
+  },
+  {
+    "id": "point72-quantitative-research-intern-summer-2027-s27",
+    "company": "Point72",
+    "role_title": "Quantitative Research Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://job-boards.greenhouse.io/point72/jobs/7297642002",
+    "application_url": "https://job-boards.greenhouse.io/point72/jobs/7297642002",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "arrowstreet-capital-quantitative-researcher-intern-s27",
+    "company": "Arrowstreet Capital",
+    "role_title": "Quantitative Researcher Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+    "application_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Boston, MA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "susquehanna-operations-intern-summer-2027-june-start-s27",
+    "company": "Susquehanna",
+    "role_title": "Operations Intern (Summer 2027, June start)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://careers.sig.com/jobs/10916",
+    "application_url": "https://careers.sig.com/jobs/10916",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Bala Cynwyd, PA)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "virtu-financial-quantitative-researcher-intern-2027-unde-s27",
+    "company": "Virtu Financial",
+    "role_title": "Quantitative Researcher Intern (2027, Undergrad)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+    "application_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "d-e-shaw-quantitative-analyst-intern-s27",
+    "company": "D. E. Shaw",
+    "role_title": "Quantitative Analyst Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "application_url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "aquatic-capital-quantitative-researcher-intern-summer-20-s27",
+    "company": "Aquatic Capital",
+    "role_title": "Quantitative Researcher Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+    "application_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "Chicago, IL",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
+  },
+  {
+    "id": "susquehanna-macro-analyst-intern-summer-2027-june-st-s27",
+    "company": "Susquehanna",
+    "role_title": "Macro Analyst Intern (Summer 2027, June start) \ud83d\udec2",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-05",
+    "posting_url": "https://careers.sig.com/jobs/10725",
+    "application_url": "https://careers.sig.com/jobs/10725",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "New York, NY",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-05. Re-verify before applying.",
+    "fit_score": 0
   }
 ]
