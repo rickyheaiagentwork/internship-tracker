@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-08-16**. Open = live apply link. Watch = not posted yet.
+Verified **2026-08-19**. Open = live apply link. Watch = not posted yet.
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
