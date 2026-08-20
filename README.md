@@ -11,7 +11,7 @@ Verified **2026-08-19**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Open — Apply now (42)
+## Open — Apply now (43)
 
 ### AI/ML (4)
 
@@ -22,7 +22,7 @@ Verified **2026-08-19**. Open = live apply link. Watch = not posted yet.
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 
-### SWE (37)
+### SWE (38)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -58,6 +58,7 @@ Verified **2026-08-19**. Open = live apply link. Watch = not posted yet.
 | Susquehanna | Quantitative Strategy Developer Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10838) |
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
+| Unison (GE Aerospace) | Engineering Intern 🛂 | SWE | [Apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
