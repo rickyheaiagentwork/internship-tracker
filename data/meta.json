@@ -1,7 +1,7 @@
 {
   "repo": "internship-tracker",
   "purpose": "Verified US undergraduate Summer 2027 internship tracker for Ricky He.",
-  "last_full_verify": "2026-08-22",
+  "last_full_verify": "2026-08-25",
   "target_seasons": [
     "Summer 2027"
   ],
@@ -60,6 +60,6 @@
     "LinkedIn / Handshake",
     "Community aggregators (cross-check only, never sole source)"
   ],
-  "last_cron_scan": "2026-08-22",
+  "last_cron_scan": "2026-08-25",
   "last_cron_added": 0
 }
