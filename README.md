@@ -11,7 +11,7 @@ Verified **2026-08-28**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Open — Apply now (43)
+## Open — Apply now (44)
 
 ### AI/ML (4)
 
@@ -22,7 +22,7 @@ Verified **2026-08-28**. Open = live apply link. Watch = not posted yet.
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 
-### SWE (38)
+### SWE (39)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -51,6 +51,7 @@ Verified **2026-08-28**. Open = live apply link. Watch = not posted yet.
 | Optiver | Software Engineer Intern (Chicago) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Point72 | Quantitative Research Intern | SWE | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
+| Salesforce | Software Engineer Intern (Futureforce) 🔒 | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | Solar Turbines (Caterpillar) | IT Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
 | Susquehanna | Macro Analyst Intern (June start) 🛂 | SWE | [Apply](https://careers.sig.com/jobs/10725) |

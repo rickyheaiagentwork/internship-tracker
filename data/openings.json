@@ -832,5 +832,25 @@
     "application_status": "Not started",
     "notes": "Auto-added by cron_scan.py on 2026-08-19. Re-verify before applying.",
     "fit_score": 20
+  },
+  {
+    "id": "salesforce-software-engineer-intern-futureforce-s27",
+    "company": "Salesforce",
+    "role_title": "Software Engineer Intern (Futureforce) \ud83d\udd12 (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-08-28",
+    "posting_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "application_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "San Francisco, CA",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Auto-added by cron_scan.py on 2026-08-28. Re-verify before applying.",
+    "fit_score": 20
   }
 ]
