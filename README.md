@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-08-29**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-08-30**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,15 +11,20 @@ Verified **2026-08-29**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (52)
+## Open — Apply now (57)
 
-### AI/ML (3)
+### AI/ML (8)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
+| Philips | Intern – Data AI/ML Engineering – Plymouth, MN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
+| AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454165335) |
+| AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
+| John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
+| JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
 
 ### Bio-AI (3)
 
