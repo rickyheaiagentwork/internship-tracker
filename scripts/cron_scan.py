@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-"""Deterministic daily internship scan for OpenClaw cron.
+"""DEPRECATED — use scripts/active_scan.py instead.
 
-No LLM required. Finds Summer 2027 US undergrad openings from seed lists,
-verifies apply URLs, updates openings.json + README, commits, and prints a
-Telegram-ready summary.
+Legacy seed-list scanner kept for manual fallback only.
 """
 from __future__ import annotations
 

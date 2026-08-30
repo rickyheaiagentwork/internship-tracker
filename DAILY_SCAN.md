@@ -5,34 +5,45 @@ GitHub: https://github.com/rickyheaiagentwork/internship-tracker
 
 ## Autonomy
 
-This runbook is an **authorized standing order**. Cron runs are **Mode B / auto:** — do **not** wait for Ricky to reply `approve`. Execute fully, then Telegram `[RESULT]`.
+Cron runs are **Mode B / auto** — execute fully, then Telegram `[RESULT]`. No Ricky approval needed.
 
 ## Hard filters
 
 1. **Summer 2027 only**
-2. **United States only** (reject Canada/UK/EU/China/etc.)
-3. **Undergraduate (BS) only** — skip MS-only / PhD-only
+2. **United States only**
+3. **Undergraduate (BS) only**
 4. Never invent roles. Never auto-apply.
 
 ## Prefer (from PROFILE)
 
-Prioritize **AI/ML**, **biomedical / pharma medical data analysis**, and **financial / investment analytics** (JPMorgan, Goldman, BlackRock analytics tracks, etc.).  
-**Skip prop-trading Quant desks.**  
-Read [`PORTFOLIO.md`](./PORTFOLIO.md) and fetch https://ricky-s-portfolio-olive.vercel.app/ (+ resume.pdf) when judging fit.
+AI/ML, biomedical / pharma medical data, financial / investment analytics. Skip prop-trading Quant desks.
 
-## Steps every run
+## Active search (no watchlist, no seed lists)
 
-1. `cd internship-tracker && git pull`
-2. Read `PROFILE.md`, `ETERNITY.md`, `data/openings.json`, `data/watchlist.json`
-3. Run seed helper: `python3 scripts/scan_seed_sources.py`
-4. Also search LinkedIn Jobs / company careers / Greenhouse for PROFILE seeds
-5. For each candidate: open apply URL; confirm Summer 2027 + US + undergrad
-6. Append verified entries to `data/openings.json` with `application_url`, `verified_at=today`, `degree_level=["BS"]`, `location` starting with `United States`
-7. Promote watchlist → open when a real US undergrad Summer 2027 posting appears
-8. `python3 scripts/sync_readme.py`
-9. Commit + `git push origin main`
-10. Telegram summary: N new companies/roles + Apply links (from README)
+Cron command: `python3 scripts/active_scan.py --mode auto`
+
+| ET | Mode |
+|---|---|
+| 09:00, 21:00 | Company career site crawl (4 companies per run, rotates) |
+| 12:00 | LinkedIn Jobs (PROFILE seed, rotates) |
+
+Manual runs:
+```bash
+cd internship-tracker
+python3 scripts/active_scan.py --mode careers
+python3 scripts/active_scan.py --mode linkedin
+```
+
+## Manual / ETERNITY-assisted run
+
+1. `git pull`
+2. Read `PROFILE.md`, `ETERNITY.md`, `data/openings.json`
+3. Run active search (above) or use browser-use-career for deeper LinkedIn/portal passes
+4. Verify each candidate: Summer 2027 + US + undergrad + real apply URL
+5. `python3 scripts/sync_readme.py`
+6. Commit + push only if data changed
+7. Telegram summary with new Apply links
 
 ## If network fails
 
-Add **nothing**. Report the failure. Do not fabricate openings.
+Add **nothing**. Report the failure.

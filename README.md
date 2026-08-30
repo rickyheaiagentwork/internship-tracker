@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-08-29**. Open = live apply link. Watch = not posted yet.
+Verified **2026-08-29**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,22 +11,40 @@ Verified **2026-08-29**. Open = live apply link. Watch = not posted yet.
 
 ---
 
-## Open — Apply now (44)
+## Open — Apply now (52)
 
-### AI/ML (4)
+### AI/ML (3)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
-| Apple | Machine Learning & AI Undergrad Internships | AI/ML | [Apply](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) |
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 
-### SWE (39)
+### Bio-AI (3)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
-| Apple | Software Undergrad Engineering Internships | SWE | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
+| Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
+| Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
+| NVIDIA | NVIDIA 2027 Internships: Deep Learning | Bio-AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
+
+### SWE (45)
+
+| Company | Role | Category | Apply |
+|---|---|---|---|
+| Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200676942-3715/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
+| Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
+| Apple | 2027 Apple Internship - Information Systems and Technology (AUS) | SWE | [Apply](https://jobs.apple.com/en-us/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=SFTWR) |
+| Apple | Intern Opportunities at Apple (General) - October 2026 to September 2027 | SWE | [Apply](https://jobs.apple.com/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027?team=STDNT) |
+| NVIDIA | NVIDIA 2027 Internships: Computer Architecture | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Digital Circuit Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Hardware Verification | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?q=intern+2027) |
+| NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492?q=intern+2027) |
 | Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | SWE | [Apply](https://akunacapital.com/careers/job/8018847/) |
 | Akuna Capital | Software Engineer Intern — Python | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
@@ -40,13 +58,8 @@ Verified **2026-08-29**. Open = live apply link. Watch = not posted yet.
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
-| Five Rings | Software Developer | SWE | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-| Hudson River Trading | Software Engineering Internship (C++ or Python) | SWE | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
-| LufCo | Summer Intern (CS / Software / Engineering) | SWE | [Apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) |
-| Netic | Software Engineer Intern, Agent Platform / Full Stack (2026-2027) | SWE | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
-| Old Mission | Software Engineer — 2027 Internship Program (June Start) | SWE | [Apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) |
 | Optiver | Software Engineer Intern (Austin) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | Optiver | Software Engineer Intern (Chicago) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
@@ -71,69 +84,13 @@ Verified **2026-08-29**. Open = live apply link. Watch = not posted yet.
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Databricks | Product Management Intern | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
-
----
-
-## Watchlist — check later (47)
-
-No fake Apply links. Check these pages when postings go live.
-
-| Company | Target | Expected | Page |
-|---|---|---|---|
-| Amazon | Software Development Engineer Intern — Undergraduate (Summer 2027, US) | Aug–Sep 2026 (US posting not live yet; Ireland 10418355 is NOT US) | [Careers](https://www.amazon.jobs/en/teams/internships-for-students) |
-| Google | Software Engineering Intern, BS (Summer 2027, US) | Mid-Oct 2026 typical window (often only 2–4 weeks) | [Careers](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineering%20Intern) |
-| Google DeepMind | Engineering Intern — Undergraduate / BS-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://deepmind.google/careers/) |
-| Meta | Software Engineer Intern — Undergraduate (Summer 2027, US) | Early Sep 2026 (typical) | [Careers](https://www.metacareers.com/careerprograms/students) |
-| Microsoft | Software Engineering Intern — Undergraduate (Summer 2027, US) | Mid-Aug 2026 (typical; check now) | [Careers](https://careers.microsoft.com/students/us/en) |
-| NVIDIA | SWE / ML Intern — Undergraduate (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) |
-| 10x Genomics | Computational Biology / Software Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.10xgenomics.com/careers) |
-| Amgen | Data Science / Bioinformatics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.amgen.com/) |
-| Anthropic | Software / Research Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://www.anthropic.com/careers) |
-| Atomwise | ML Intern — Drug discovery (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.atomwise.com/careers/) |
-| BenchSci | ML / Data Intern — Biomedical AI (Summer 2027, US/CA — US only) | Fall 2026 – Spring 2027 | [Careers](https://www.benchsci.com/careers) |
-| BlackRock | Data Science / Aladdin Analytics / AI Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://careers.blackrock.com/students) |
-| Cohere | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://cohere.com/careers) |
-| Eli Lilly | Data Science / AI / Clinical Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.lilly.com/us/en/students) |
-| Flatiron Health | Data Science / ML Intern — Oncology real-world data (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://flatiron.com/careers) |
-| Genentech | Computational Science / AI-ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.gene.com/) |
-| Generate Biomedicines | ML / Computational Intern — Generative biology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://generatebiomedicines.com/careers) |
-| Gilead Sciences | Data Science / Computational Biology Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.gilead.com/careers) |
-| Goldman Sachs | Data Analytics / Engineering / Markets Analytics Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.goldmansachs.com/careers/students) |
-| Guardant Health | Bioinformatics / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://guardanthealth.com/careers/) |
-| Hugging Face | ML Intern — Undergraduate-eligible (Summer 2027, US) | Fall 2026 | [Careers](https://huggingface.co/jobs) |
-| Illumina | Bioinformatics / Data Science / ML Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.illumina.com/company/careers.html) |
-| IQVIA | Data Analytics / AI Intern — Healthcare / RWE (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.iqvia.com/) |
-| Isomorphic Labs | ML / Comp Bio Intern — Drug design (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.isomorphiclabs.com/careers) |
-| Johnson & Johnson | Data Science / AI / Medical Analytics Intern — Janssen R&D (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.careers.jnj.com/students) |
-| JPMorgan Chase | Data Analytics / AI-ML / Investment Analytics Intern (Summer 2027, US) | Aug–Oct 2026 (typical campus window) | [Careers](https://careers.jpmorgan.com/us/en/students/programs) |
-| Merck | Data Science / Bioinformatics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://jobs.merck.com/) |
-| Mistral AI | ML Intern — Undergraduate-eligible (Summer 2027, US if offered) | Fall 2026 | [Careers](https://mistral.ai/careers) |
-| Moderna | Data Science / Computational Intern — mRNA / AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.modernatx.com/careers) |
-| Morgan Stanley | Data Analytics / Technology / Investment Analytics Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.morganstanley.com/careers/career-opportunities-search) |
-| Natera | Bioinformatics / Data Science Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.natera.com/company/careers/) |
-| OpenAI | SWE / Applied Intern — Undergraduate-eligible (Summer 2027, US) | Sep–Nov 2026 (projected) | [Careers](https://openai.com/careers) |
-| Owkin | ML Intern — Biomedical / drug discovery AI (Summer 2027, US if offered) | Fall 2026 – Spring 2027 | [Careers](https://www.owkin.com/careers) |
-| PathAI | ML / Computer Vision Intern — Digital pathology (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pathai.com/careers) |
-| Pfizer | AI / Data Science / Medical & R&D Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.pfizer.com/about/careers) |
-| Tempus | ML / Data Science Intern — Biomedical / clinical AI (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.tempus.com/careers/) |
-| Verily | ML / Data Science Intern — Life sciences (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://verily.com/careers) |
-| AbbVie | Data Science / R&D Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.abbvie.com/students) |
-| AstraZeneca | Data Science / Bioinformatics / AI Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.astrazeneca.com/students) |
-| Bank of America | Data Analytics / Global Technology Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://campus.bankofamerica.com/) |
-| Bristol Myers Squibb | Data Science / Translational Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://careers.bms.com/students) |
-| Citi | Data Analytics / Technology Intern (Summer 2027, US) | Aug–Oct 2026 | [Careers](https://www.citigroup.com/global/careers/students-and-graduates) |
-| Fidelity Investments | Data Analytics / AI Intern (Summer 2027, US) | Fall 2026 | [Careers](https://jobs.fidelity.com/students-and-graduates/) |
-| Insitro | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.insitro.com/careers/) |
-| Novartis | Data Science / Biomedical Analytics Intern (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.novartis.com/careers/students) |
-| Recursion Pharmaceuticals | ML / Comp Bio Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.recursion.com/careers) |
-| Schrödinger | Software / Comp Chem Intern — Undergraduate (Summer 2027, US) | Fall 2026 – Spring 2027 | [Careers](https://www.schrodinger.com/careers/) |
 ---
 
 ## How updates work
 
-1. Cron runs `scripts/cron_scan.py` (9 / 12 / 21 ET)
-2. Only verified Summer 2027 · US · BS roles are added
-3. This README is regenerated from `data/openings.json`
+1. **09:00 / 21:00 ET** — crawl company career sites (Amazon, Google, pharma, banks, …)
+2. **12:00 ET** — LinkedIn Jobs search (PROFILE seeds)
+3. Only verified Summer 2027 · US · BS roles are listed — no watchlist, no seed-list re-posting
 4. Ricky clicks Apply — never auto-submit
 
 Details: [`ETERNITY.md`](./ETERNITY.md) · raw data: [`data/openings.json`](./data/openings.json)
