@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-08-30**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-08-31**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (57)
+## Open — Apply now (69)
 
 ### AI/ML (8)
 
@@ -34,7 +34,7 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 | Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | Bio-AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 
-### SWE (45)
+### SWE (57)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -52,6 +52,7 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492?q=intern+2027) |
 | Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | SWE | [Apply](https://akunacapital.com/careers/job/8018847/) |
 | Akuna Capital | Software Engineer Intern — Python | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-pricing-strategy-global-merchant-network-services-new-york-ny-at-american-express-4449779401) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Aquatic Capital | Quantitative Researcher Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
@@ -59,12 +60,21 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 | Arrowstreet Capital | Quantitative Developer Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Arrowstreet Capital | Quantitative Researcher Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
 | BlackRock | Summer Internship Program, AMERS (all tracks) | SWE | [Apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
+| BNY | 2027 BNY Summer Internship Program - Trading (New York, NY) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-trading-new-york-ny-at-bny-4458272707) |
+| BNY | 2027 BNY Summer Internship Program – BNY Investments (Boston, MA) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-bny-investments-boston-ma-at-bny-4458262805) |
+| BNY | 2027 BNY Summer Internship Program – BNY Investments (New York, NY) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-bny-investments-new-york-ny-at-bny-4458255977) |
 | D. E. Shaw | Quantitative Analyst Intern | SWE | [Apply](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
+| Freddie Mac | Capital Markets Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/capital-markets-intern-summer-2027-at-freddie-mac-4457185668) |
+| Huntington National Bank | Data and Analytics Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-and-analytics-internship-at-huntington-national-bank-4460509438) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| Interactive Brokers | Quant Analyst Internships 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/quant-analyst-internships-2027-at-interactive-brokers-4456787959) |
+| JPMorganChase | 2027 Quantitative Research - Markets - Summer Internship - Analyst - United States | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-analyst-united-states-at-jpmorganchase-4449434828) |
+| JPMorganChase | 2027 Quantitative Research - Markets - Summer Internship - Associate- United States | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-associate-united-states-at-jpmorganchase-4449471175) |
+| New York Life | 2027 New York Life Investment Management - Investment Research & Analysis Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-investment-research-analysis-internship-at-new-york-life-4459867790) |
 | Optiver | Software Engineer Intern (Austin) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | Optiver | Software Engineer Intern (Chicago) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
@@ -72,6 +82,7 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 | Salesforce | Software Engineer Intern (Futureforce) 🔒 | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | Solar Turbines (Caterpillar) | IT Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
+| Standard Chartered | Markets Intern US 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
 | Susquehanna | Macro Analyst Intern (June start) 🛂 | SWE | [Apply](https://careers.sig.com/jobs/10725) |
 | Susquehanna | Operations Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10916) |
 | Susquehanna | Quantitative Strategy Developer Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10838) |
@@ -81,6 +92,7 @@ Verified **2026-08-30**. Every role below was found by **active search** (Linked
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
+| Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | BAE Systems | Software Engineering Intern I | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 
