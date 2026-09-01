@@ -176,7 +176,7 @@
     "role_title": "Product Management Intern (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-08-31",
+    "verified_at": "2026-09-01",
     "posting_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
     "application_url": "https://job-boards.greenhouse.io/databricks/jobs/6883068002",
     "tier": 2,
@@ -290,7 +290,7 @@
     "role_title": "Summer 2027 Software Engineering Intern",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-08-31",
+    "verified_at": "2026-09-01",
     "posting_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "application_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "tier": 2,
@@ -1433,5 +1433,215 @@
     "notes": "Found via careers:BlackRock on 2026-09-01. Re-verify before applying.",
     "fit_score": 0,
     "source": "careers:BlackRock"
+  },
+  {
+    "id": "ubs-2027-summer-internship-global-research-h-s27",
+    "company": "UBS",
+    "role_title": "2027 Summer Internship - Global Research (HOLT) - New York",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, United States\n12 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "ubs-2027-summer-internship-global-research-e-s27",
+    "company": "UBS",
+    "role_title": "2027 Summer Internship \u2013 Global Research Evidence Lab \u2013 New York",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, United States\nBe an early applicant\n12 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "ubs-2027-summer-internship-equity-research-n-s27",
+    "company": "UBS",
+    "role_title": "2027 Summer Internship - Equity Research - New York",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, United States\n12 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "american-express-campus-undergraduate-summer-internship-p-s27-2",
+    "company": "American Express",
+    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675",
+    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\nBe an early applicant\n10 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "deutsche-bank-deutsche-bank-internship-program-investm-s27",
+    "company": "Deutsche Bank",
+    "role_title": "Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114",
+    "application_url": "https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\n21 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "federal-reserve-bank-of-new-york-2027-summer-intern-people-engagement-gro-s27",
+    "company": "Federal Reserve Bank of New York",
+    "role_title": "2027 Summer Intern - People & Engagement Group - Junior",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\nBe an early applicant\n9 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "federal-reserve-bank-of-new-york-2027-summer-intern-markets-group-new-yor-s27",
+    "company": "Federal Reserve Bank of New York",
+    "role_title": "2027 Summer Intern - Markets Group - New York Innovation Center - Graduate Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-innovation-center-graduate-intern-at-federal-reserve-bank-of-new-york-4461562525",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-innovation-center-graduate-intern-at-federal-reserve-bank-of-new-york-4461562525",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\nBe an early applicant\n9 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "federal-reserve-bank-of-new-york-2027-summer-intern-markets-group-new-yor-s27-2",
+    "company": "Federal Reserve Bank of New York",
+    "role_title": "2027 Summer Intern - Markets Group - New York - Junior Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\n9 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "american-express-campus-graduate-i-summer-internship-prog-s27",
+    "company": "American Express",
+    "role_title": "Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695",
+    "application_url": "https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\nBe an early applicant\n10 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 80,
+    "source": "linkedin"
+  },
+  {
+    "id": "american-express-campus-undergraduate-summer-internship-p-s27-3",
+    "company": "American Express",
+    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-01",
+    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791",
+    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Palo Alto, CA\nBe an early applicant\n10 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
   }
 ]

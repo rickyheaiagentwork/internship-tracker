@@ -11,9 +11,9 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (71)
+## Open — Apply now (81)
 
-### AI/ML (8)
+### AI/ML (11)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -21,6 +21,9 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454165335) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
+| American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791) |
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
@@ -34,7 +37,7 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 | Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | Bio-AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 
-### SWE (59)
+### SWE (66)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -69,6 +72,10 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
+| Deutsche Bank | Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114) |
+| Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
+| Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York Innovation Center - Graduate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-innovation-center-graduate-intern-at-federal-reserve-bank-of-new-york-4461562525) |
+| Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
 | Freddie Mac | Capital Markets Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/capital-markets-intern-summer-2027-at-freddie-mac-4457185668) |
 | Huntington National Bank | Data and Analytics Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-and-analytics-internship-at-huntington-national-bank-4460509438) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
@@ -90,6 +97,9 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 | Susquehanna | Quantitative Strategy Developer Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10838) |
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
+| UBS | 2027 Summer Internship - Equity Research - New York | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622) |
+| UBS | 2027 Summer Internship - Global Research (HOLT) - New York | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566) |
+| UBS | 2027 Summer Internship – Global Research Evidence Lab – New York | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562) |
 | Unison (GE Aerospace) | Engineering Intern 🛂 | SWE | [Apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | SWE | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
