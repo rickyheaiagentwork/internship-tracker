@@ -1,6 +1,6 @@
 # Daily internship scan (Eternity / TOAA cron)
 
-Repo: `internship-tracker`  
+Repo root: this directory (`internship-tracker/`)  
 GitHub: https://github.com/rickyheaiagentwork/internship-tracker
 
 ## Autonomy
@@ -29,7 +29,7 @@ Cron command: `python3 scripts/active_scan.py --mode auto`
 
 Manual runs:
 ```bash
-cd internship-tracker
+cd "$(git rev-parse --show-toplevel)"
 python3 scripts/active_scan.py --mode careers
 python3 scripts/active_scan.py --mode linkedin
 ```

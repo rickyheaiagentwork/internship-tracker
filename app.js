@@ -2,6 +2,21 @@ const state = { openings: [], watchlist: [], meta: null };
 
 const el = (id) => document.getElementById(id);
 
+function escHtml(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function escUrl(url) {
+  if (!url || !/^https?:\/\//i.test(url)) return '#';
+  return escHtml(url);
+}
+
 async function load() {
   const [openings, watchlist, meta] = await Promise.all([
     fetch('./data/openings.json').then((r) => r.json()),
@@ -36,16 +51,16 @@ function match(item, f, kind) {
 }
 
 function badge(text, cls) {
-  return `<span class="badge ${cls}">${text}</span>`;
+  return `<span class="badge ${escHtml(cls)}">${escHtml(text)}</span>`;
 }
 
 function openCard(item) {
-  const degrees = (item.degree_level || []).join(' · ');
+  const degrees = escHtml((item.degree_level || []).join(' · '));
   return `<article class="card">
     <div class="card-top">
       <div>
-        <div class="company">Tier ${item.tier} · ${item.company}</div>
-        <h3 class="role">${item.role_title}</h3>
+        <div class="company">Tier ${escHtml(item.tier)} · ${escHtml(item.company)}</div>
+        <h3 class="role">${escHtml(item.role_title)}</h3>
       </div>
       <div class="badges">
         ${badge('Open', 'open')}
@@ -53,12 +68,12 @@ function openCard(item) {
         ${badge(item.category, 'soft')}
       </div>
     </div>
-    <div class="details">${item.location || '—'} · ${item.work_model || '—'} · ${degrees || 'Any'} · verified ${item.verified_at}</div>
-    ${item.notes ? `<div class="notes">${item.notes}</div>` : ''}
+    <div class="details">${escHtml(item.location || '—')} · ${escHtml(item.work_model || '—')} · ${degrees || 'Any'} · verified ${escHtml(item.verified_at)}</div>
+    ${item.notes ? `<div class="notes">${escHtml(item.notes)}</div>` : ''}
     <div class="actions">
-      <a href="${item.application_url || item.posting_url}" target="_blank" rel="noopener">Apply</a>
+      <a href="${escUrl(item.application_url || item.posting_url)}" target="_blank" rel="noopener noreferrer">Apply</a>
       ${item.posting_url && item.application_url && item.posting_url !== item.application_url
-        ? `<a class="secondary" href="${item.posting_url}" target="_blank" rel="noopener">Posting</a>`
+        ? `<a class="secondary" href="${escUrl(item.posting_url)}" target="_blank" rel="noopener noreferrer">Posting</a>`
         : ''}
     </div>
   </article>`;
@@ -68,8 +83,8 @@ function watchCard(item) {
   return `<article class="card">
     <div class="card-top">
       <div>
-        <div class="company">Tier ${item.tier} · ${item.company}</div>
-        <h3 class="role">${item.target_role}</h3>
+        <div class="company">Tier ${escHtml(item.tier)} · ${escHtml(item.company)}</div>
+        <h3 class="role">${escHtml(item.target_role)}</h3>
       </div>
       <div class="badges">
         ${badge('Watch', 'watch')}
@@ -77,10 +92,10 @@ function watchCard(item) {
         ${badge(item.category, 'soft')}
       </div>
     </div>
-    <div class="details">Expected open: ${item.expected_open}</div>
-    ${item.notes ? `<div class="notes">${item.notes}</div>` : ''}
+    <div class="details">Expected open: ${escHtml(item.expected_open)}</div>
+    ${item.notes ? `<div class="notes">${escHtml(item.notes)}</div>` : ''}
     <div class="actions">
-      <a class="secondary" href="${item.careers_url}" target="_blank" rel="noopener">Careers page</a>
+      <a class="secondary" href="${escUrl(item.careers_url)}" target="_blank" rel="noopener noreferrer">Careers page</a>
     </div>
   </article>`;
 }
@@ -91,9 +106,9 @@ function render() {
   const watches = state.watchlist.filter((i) => match(i, f, 'watch'));
 
   el('meta-box').innerHTML = `
-    <strong>Last verified:</strong> ${state.meta.last_full_verify}<br/>
-    <strong>Open:</strong> ${state.openings.length} · <strong>Watch:</strong> ${state.watchlist.length}<br/>
-    Seasons: ${(state.meta.target_seasons || []).join(', ')}
+    <strong>Last verified:</strong> ${escHtml(state.meta.last_full_verify)}<br/>
+    <strong>Open:</strong> ${escHtml(state.openings.length)} · <strong>Watch:</strong> ${escHtml(state.watchlist.length)}<br/>
+    Seasons: ${escHtml((state.meta.target_seasons || []).join(', '))}
   `;
 
   el('stats').innerHTML = `

@@ -1,2 +1,37 @@
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+
+# Secrets & credentials — never commit
+.env
+.env.*
+*.env
+credentials/
+secrets/
+*.pem
+*.key
+id_rsa*
+*.p12
+
+# Local agent / machine state (not part of the public tracker)
+.openclaw/
+memory/
+USER.local.md
+bin/
+
+# Generated / scratch
+data/crawl_results.json
+*.log
+.DS_Store
+
+# Legacy agent workspace files (keep local only)
+AGENTS.md
+SOUL.md
+IDENTITY.md
+HEARTBEAT.md
+TOOLS.md
+portfolio.json
+gen_chart.py
+internship_chart.png

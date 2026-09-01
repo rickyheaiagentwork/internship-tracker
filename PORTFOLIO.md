@@ -12,7 +12,7 @@ Before ranking openings or writing about Ricky’s fit, **open/fetch the live po
 - **Ruiqi (Ricky) He** — Data Analytics @ The Ohio State University (class of 2028)
 - Specialization: **Biomedical & Public Health Analytics**
 - Focus: AI/ML on health & physiological data; turn complex biomedical data into clinician/researcher insights
-- Email: [redacted]
+- Contact: see live resume (do not store school email in this repo)
 - Links: [LinkedIn](https://www.linkedin.com/in/rickyhe2006) · [GitHub](https://github.com/ricky-he2006) · [Devpost](https://devpost.com/rickyhe2006)
 
 ## Current experience
