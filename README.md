@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-08-31**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-01**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-08-31**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (69)
+## Open — Apply now (71)
 
 ### AI/ML (8)
 
@@ -34,7 +34,7 @@ Verified **2026-08-31**. Every role below was found by **active search** (Linked
 | Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | Bio-AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 
-### SWE (57)
+### SWE (59)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -59,6 +59,8 @@ Verified **2026-08-31**. Every role below was found by **active search** (Linked
 | Aquatic Capital Management | Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Arrowstreet Capital | Quantitative Developer Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Arrowstreet Capital | Quantitative Researcher Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
+| BlackRock | 2027 Mexico City Internship Program Location: Mexico City, Mexico City Additional Locations: Mexico City Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/mexico-city/2027-mexico-city-internship-program/45831/97843197600) |
+| BlackRock | 2027 Summer Internship Program - APAC Location: Hong Kong SAR Additional Locations: Hong Kong, Singapore, Taipei, Tokyo Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/hong-kong-sar/2027-summer-internship-program-apac/45831/90599500992) |
 | BlackRock | Summer Internship Program, AMERS (all tracks) | SWE | [Apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 | BNY | 2027 BNY Summer Internship Program - Trading (New York, NY) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-trading-new-york-ny-at-bny-4458272707) |
 | BNY | 2027 BNY Summer Internship Program – BNY Investments (Boston, MA) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-bny-investments-boston-ma-at-bny-4458262805) |
