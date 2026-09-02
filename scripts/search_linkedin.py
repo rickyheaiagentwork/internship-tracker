@@ -3,12 +3,15 @@
 from __future__ import annotations
 
 import asyncio
+import os
 import re
 import sys
 from pathlib import Path
 from urllib.parse import quote_plus
 
 from playwright.async_api import async_playwright
+
+os.environ.setdefault("PLAYWRIGHT_BROWSERS_PATH", "/home/jarvis/.cache/ms-playwright")
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fit_filters import looks_candidate  # noqa: E402

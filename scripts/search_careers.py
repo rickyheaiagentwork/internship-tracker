@@ -4,9 +4,9 @@ from __future__ import annotations
 
 import asyncio
 import json
+import os
 import re
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
 
 from playwright.async_api import async_playwright
@@ -14,12 +14,110 @@ from playwright.async_api import async_playwright
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fit_filters import looks_candidate  # noqa: E402
 
+# Cron runs without a login shell; point Playwright at the system browser cache.
+os.environ.setdefault("PLAYWRIGHT_BROWSERS_PATH", "/home/jarvis/.cache/ms-playwright")
+
 
 def _matches_filter(title: str, filters: list[str]) -> bool:
     if not title:
         return False
     low = title.lower()
     return any(f in low for f in filters)
+
+
+_NON_US_TITLE = re.compile(
+    r"\b("
+    r"china|shanghai|beijing|taiwan|taipei|hsinchu|india|bengaluru|hyderabad|"
+    r"ireland|dublin|uk|united kingdom|london|england|scotland|edinburgh|"
+    r"toronto|ontario|canada|mexico|mexico city|ankara|turkey|"
+    r"hong kong|singapore|tokyo|japan|australia|sydney|"
+    r"emea|apac|off-cycle|grange castle|dublin"
+    r")\b",
+    re.I,
+)
+
+_US_TITLE = re.compile(
+    r"\b("
+    r"united states|u\.s\.|usa|new york|san francisco|seattle|austin|boston|"
+    r"california|washington|texas|massachusetts|chicago|redmond|mountain view|"
+    r"menlo park|sunnyvale|santa clara|amers|americas"
+    r")\b",
+    re.I,
+)
+
+
+def _is_non_us_title(title: str) -> bool:
+    if not title:
+        return False
+    if _US_TITLE.search(title):
+        return False
+    return bool(_NON_US_TITLE.search(title))
+
+
+def _passes_company_rules(company: dict, title: str) -> bool:
+    low = title.lower()
+    if company.get("require_intern_title") and "intern" not in low and "fellow" not in low:
+        return False
+    if company.get("require_us_title") and _is_non_us_title(title):
+        return False
+    return True
+
+
+def _title_from_href(href: str) -> str:
+    m = re.search(r"jobs/results/\d+-([^?]+)", href)
+    if not m:
+        return ""
+    words = m.group(1).split("-")
+    out: list[str] = []
+    for w in words:
+        wl = w.lower()
+        if wl in {"bs", "ms", "phd", "ai", "ml", "llm", "nlp"}:
+            out.append(w.upper())
+        elif wl == "summer":
+            out.append("Summer")
+        else:
+            out.append(w.capitalize())
+    title = " ".join(out)
+    title = re.sub(r"\bIntern\b", "Intern,", title, count=1)
+    title = re.sub(r",\s*(BS|MS|PhD)\b", r", \1", title)
+    return title
+
+
+def _resolve_href(href: str, company: dict) -> str:
+    if href.startswith("http"):
+        return href
+    base = company.get("base_url") or company.get("search_url", "")
+    if not base:
+        return href
+    if href.startswith("./"):
+        href = href[2:]
+    if href.startswith("/"):
+        origin = re.match(r"^(https?://[^/]+)", base)
+        return (origin.group(1) if origin else base.rstrip("/")) + href
+    return base.rstrip("/") + "/" + href.lstrip("/")
+
+
+def _clean_title(text: str) -> str:
+    text = re.sub(r"\s+", " ", text.replace("\n", " ")).strip()
+    text = re.sub(r"\s+United States.*$", "", text, flags=re.I)
+    text = re.sub(r"\s+Posted .*$", "", text, flags=re.I)
+    return text.strip()
+
+
+async def _enrich_job(page, job: dict) -> None:
+    try:
+        await page.goto(job["url"], wait_until="domcontentloaded", timeout=35000)
+        await asyncio.sleep(2)
+        body = await page.inner_text("body")
+        job["page_text"] = body
+        if not job.get("title") or job["title"].endswith("Intern"):
+            for line in body.split("\n"):
+                line = line.strip()
+                if "intern" in line.lower() and len(line) < 140:
+                    job["title"] = _clean_title(line)
+                    break
+    except Exception as exc:
+        print(f"# enrich error {job.get('url', '')}: {exc}", file=sys.stderr)
 
 
 async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
@@ -62,19 +160,22 @@ async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
                 href = await link.get_attribute("href")
                 if not href:
                     continue
-                if href.startswith("/") and company.get("base_url"):
-                    href = company["base_url"].rstrip("/") + href
+                href = _resolve_href(href, company)
                 if not href.startswith("http"):
                     continue
                 if not any(re.search(pat, href) for pat in company["job_url_patterns"]):
                     continue
-                key = href.rstrip("/")
+                key = href.split("?")[0].rstrip("/")
                 if key in seen:
                     continue
                 try:
-                    text = (await link.inner_text() or "").strip()
+                    text = _clean_title((await link.inner_text() or "").strip())
                 except Exception:
                     text = ""
+                if not text:
+                    text = _title_from_href(href)
+                if not _passes_company_rules(company, text):
+                    continue
                 if not _matches_filter(text, company["filters"]) and not looks_candidate(
                     company["name"], text, "United States"
                 ):
@@ -85,7 +186,7 @@ async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
                         "company": company["name"],
                         "title": text or f"{company['name']} Intern",
                         "location": "United States",
-                        "url": href,
+                        "url": href.split("?")[0],
                         "source": f"careers:{company['name']}",
                     }
                 )
@@ -115,9 +216,11 @@ async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
                     job_url = item.get("url") or item.get("applyLink") or item.get("jobUrl") or ""
                     if not title or not job_url:
                         continue
+                    if not _passes_company_rules(company, str(title)):
+                        continue
                     if not _matches_filter(str(title), company["filters"]):
                         continue
-                    key = str(job_url).rstrip("/")
+                    key = str(job_url).split("?")[0].rstrip("/")
                     if key in seen:
                         continue
                     seen.add(key)
@@ -126,10 +229,21 @@ async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
                             "company": company["name"],
                             "title": str(title).strip(),
                             "location": str(item.get("location") or "United States"),
-                            "url": str(job_url),
+                            "url": str(job_url).split("?")[0],
                             "source": f"careers:{company['name']}",
                         }
                     )
+
+            enrich = company.get("enrich_detail") or any(
+                x in company.get("search_url", "").lower()
+                for x in ("myworkdayjobs", "careers.lilly.com", "careers.jpmorgan.com", "oraclecloud.com")
+            )
+            if enrich:
+                for job in jobs[:max_jobs]:
+                    await _enrich_job(page, job)
+                    if _is_non_us_title(job.get("title", "")):
+                        job["_reject"] = True
+            jobs = [j for j in jobs if not j.get("_reject")]
         except Exception as exc:
             print(f"# careers error {company['name']}: {exc}", file=sys.stderr)
         finally:

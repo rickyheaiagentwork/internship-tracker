@@ -77,16 +77,33 @@ def blob(company: str, role: str, loc: str = "") -> str:
     return f"{company} {role} {loc}".lower()
 
 
-def looks_candidate(company: str, role: str, loc: str = "", extra: str = "") -> bool:
-    text = f"{company} {role} {loc} {extra}".lower()
-    if "intern" not in text and "internship" not in text:
+def looks_candidate(
+    company: str,
+    role: str,
+    loc: str = "",
+    extra: str = "",
+    *,
+    page_text: str = "",
+) -> bool:
+    title_text = f"{company} {role} {loc} {extra}".lower()
+    full_text = f"{title_text} {page_text}".lower() if page_text else title_text
+    if "intern" not in title_text and "internship" not in title_text:
         return False
-    if "2027" not in text and "summer 2027" not in text:
+    has_year = "2027" in full_text or "summer 2027" in full_text
+    university_intern = bool(
+        re.search(
+            r"intern opportunities for university students|software engineering intern|"
+            r"undergraduate intern|university intern|"
+            r"nvidia 2027 internships",
+            title_text,
+        )
+    )
+    if not has_year and not university_intern:
         return False
-    if any(x in text for x in ["fall 2026", "spring 2027", "winter 2027"]) and "summer 2027" not in text:
+    if any(x in title_text for x in ["fall 2026", "spring 2027", "winter 2027"]) and "summer 2027" not in full_text:
         return False
     if any(
-        x in text
+        x in title_text
         for x in [
             "ireland",
             "dublin",
@@ -94,27 +111,51 @@ def looks_candidate(company: str, role: str, loc: str = "", extra: str = "") -> 
             "bengaluru",
             "hyderabad",
             "london,",
+            "london ",
             "toronto",
             "canada",
             "shanghai",
             "remote - europe",
+            "china",
+            "taiwan",
+            "taipei",
+            "mexico",
+            "hong kong",
+            "singapore",
+            "tokyo",
+            "ankara",
+            "emea",
+            "apac",
+            "grange castle",
         ]
+    ) and not re.search(
+        r"united states|u\.s\.|usa|new york|san francisco|seattle|austin|boston|"
+        r"california|washington|texas|massachusetts|chicago|redmond|mountain view|amers",
+        title_text,
     ):
         return False
-    if re.search(r"master'?s|mba|ph\.?d|graduate student only", text) and not re.search(
-        r"bachelor|undergrad|\bbs\b", text
+    if re.search(r"master'?s|mba|ph\.?d|graduate student only", title_text) and not re.search(
+        r"bachelor|undergrad|\bbs\b", title_text
+    ):
+        return False
+    if re.search(r"\b(phd|ph\.d|doctorate)\b", title_text) and not re.search(
+        r"bachelor|undergrad|\bbs\b", title_text
+    ):
+        return False
+    if re.search(r"\bms\b|master'?s degree", title_text) and not re.search(
+        r"bachelor|undergrad|\bbs\b", title_text
     ):
         return False
     if re.search(
         r"\b(operations management|it audit|audit intern|business analyst|"
         r"gas compressor|accounting|hr intern|marketing intern)\b",
-        text,
+        title_text,
     ):
         return False
-    if PROP_TRADING_REJECT.search(text):
+    if PROP_TRADING_REJECT.search(title_text):
         return False
-    if TRADING_SHOP.search(text) and not FINANCE_ANALYTICS_KW.search(text) and not AI_ML_KW.search(text):
-        if re.search(r"\b(quant|trading|market)\b", text):
+    if TRADING_SHOP.search(title_text) and not FINANCE_ANALYTICS_KW.search(title_text) and not AI_ML_KW.search(title_text):
+        if re.search(r"\b(quant|trading|market)\b", title_text):
             return False
     return True
 
@@ -212,9 +253,27 @@ def verify_posting(url: str, html: str | None = None) -> dict[str, Any] | None:
         return None
     if any(x in low for x in ["bengaluru", "hyderabad, india", "amazon development centre ireland"]):
         return None
+    if re.search(r"\b(emea|apac)\b", low) and not re.search(
+        r"united states|u\.s\.|usa|new york|san francisco|seattle|amers", low
+    ):
+        return None
+    if re.search(r"mexico city|hong kong sar|grange castle", low) and not re.search(
+        r"united states|u\.s\.|usa|new york|san francisco|seattle|amers", low
+    ):
+        return None
 
-    s27 = ("summer 2027" in low) or ("summer-2027" in low) or bool(
-        re.search(r"2027.{0,40}(intern|internship)", low)
+    s27 = (
+        ("summer 2027" in low)
+        or ("summer-2027" in low)
+        or bool(re.search(r"2027.{0,40}(intern|internship)", low))
+        or bool(re.search(r"(intern|internship).{0,40}summer 2027", low))
+        or bool(re.search(r"target start range.{0,80}summer 2027", low))
+        or bool(
+            re.search(r"intern opportunities for university students", low)
+            and "2027" in low
+        )
+        or bool(re.search(r"nvidia 2027 internships", low))
+        or bool(re.search(r"2027.{0,20}software engineering.{0,20}internship", low))
     )
     if not s27:
         return None
@@ -238,7 +297,10 @@ def verify_posting(url: str, html: str | None = None) -> dict[str, Any] | None:
             "bachelor's",
             "bs/ms",
             "bs,",
+            "b.s.",
+            " b.s ",
             " currently pursuing a degree",
+            "pursuing a b.s",
         ]
     )
     phd_only = bool(re.search(r"pursuing a phd|phd students only|ph\.d\. only", low)) and not ug
@@ -253,6 +315,12 @@ def verify_posting(url: str, html: str | None = None) -> dict[str, Any] | None:
             "united states",
             "usa",
             "u.s.",
+            "us, ca",
+            "us, wa",
+            "us, tx",
+            "us, ny",
+            "us-ca",
+            "us-wa",
             "new york",
             "san francisco",
             "chicago",
@@ -264,6 +332,7 @@ def verify_posting(url: str, html: str | None = None) -> dict[str, Any] | None:
             "washington",
             "texas",
             "massachusetts",
+            "santa clara",
             "remote - usa",
             "remote, usa",
         ]
@@ -283,13 +352,14 @@ def make_opening(
     today: str,
     source: str,
     min_fit: int = 0,
+    page_text: str = "",
 ) -> dict[str, Any] | None:
-    if not looks_candidate(company, role, loc):
+    if not looks_candidate(company, role, loc, page_text=page_text):
         return None
     score = fit_score(company, role, loc)
     if score < min_fit and score < 20:
         return None
-    info = verify_posting(url)
+    info = verify_posting(url, page_text or None)
     if not info:
         return None
     return {

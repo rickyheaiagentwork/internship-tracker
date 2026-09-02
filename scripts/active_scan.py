@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Active internship search: LinkedIn + company careers (no seed lists, no watchlist).
+"""Active internship search: LinkedIn + company careers (no seed lists, no watchlist.
 
 Cron entry point. Modes (auto by ET hour when --mode auto):
   09:00 / 21:00 ET -> careers crawl (rotating company batch)
@@ -12,11 +12,14 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+import os
 import subprocess
 import sys
 from datetime import date, datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+
+os.environ.setdefault("PLAYWRIGHT_BROWSERS_PATH", "/home/jarvis/.cache/ms-playwright")
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -90,6 +93,7 @@ def merge_hits(opens: list[dict], hits: list[dict], source: str) -> list[dict]:
             loc=h.get("location", "United States"),
             today=TODAY,
             source=h.get("source", source),
+            page_text=h.get("page_text", ""),
         )
         if not entry:
             continue
@@ -179,7 +183,7 @@ def print_summary(mode: str, added: list[dict], removed: int, opens: list[dict],
 
 async def run_careers(state: dict) -> tuple[list[dict], str]:
     idx = int(state.get("careers_index", 0))
-    batch = batch_companies(idx, batch_size=4)
+    batch = batch_companies(idx, batch_size=6)
     names = ", ".join(c["name"] for c in batch)
     hits = await crawl_batch(batch)
     state["careers_index"] = idx + 1

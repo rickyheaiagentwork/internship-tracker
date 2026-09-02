@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-01**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-02**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (81)
+## Open — Apply now (92)
 
 ### AI/ML (11)
 
@@ -37,15 +37,26 @@ Verified **2026-09-01**. Every role below was found by **active search** (Linked
 | Apple | Applied Data Solutions Program, Internships | Bio-AI | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | Bio-AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 
-### SWE (66)
+### SWE (77)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-annapurna-labs-2027-at-amazon-4460336386) |
 | Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200676942-3715/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
 | Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
 | Apple | 2027 Apple Internship - Information Systems and Technology (AUS) | SWE | [Apply](https://jobs.apple.com/en-us/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=SFTWR) |
 | Apple | Intern Opportunities at Apple (General) - October 2026 to September 2027 | SWE | [Apply](https://jobs.apple.com/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027?team=STDNT) |
+| Google | Software Engineering Intern, BS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460032897) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460046104) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460053004) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460041148) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460039206) |
+| Google | Software Engineering Intern, BS | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-bs-summer-2027-at-google-4460042184) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489?q=intern+2027) |
 | NVIDIA | NVIDIA 2027 Internships: Digital Circuit Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?q=intern+2027) |
 | NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?q=intern+2027) |

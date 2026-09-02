@@ -34,9 +34,11 @@ Cron runs **3× daily** via `scripts/active_scan.py`:
 
 | Time (ET) | Mode | What it does |
 |---|---|---|
-| **09:00** | Careers | Playwright crawl of 4 company career sites (rotating batch) |
+| **09:00** | Careers | Playwright crawl of **6** company career sites (rotating through ~90 targets: big tech, consumer, pharma, finance) |
 | **12:00** | LinkedIn | LinkedIn Jobs search with a PROFILE seed query |
 | **21:00** | Careers | Another careers crawl batch |
+
+**Search wide, list narrow:** we crawl many companies every week, but only add roles that pass Summer 2027 · US · undergrad · real apply URL · fit filters. Missing a company usually means it is not in the crawl list yet or has not posted.
 
 Each run also **re-verifies** existing openings and removes dead links.
 
