@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-02**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-03**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (79)
+## Open — Apply now (93)
 
 ### AI/ML (7)
 
@@ -31,7 +31,7 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 |---|---|---|---|
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 
-### Finance (20)
+### Finance (21)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -55,8 +55,9 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 | UBS | 2027 Summer Internship – Global Research Evidence Lab – New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
+| Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (50)
+### SWE (63)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -84,6 +85,18 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York Innovation Center - Graduate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-innovation-center-graduate-intern-at-federal-reserve-bank-of-new-york-4461562525) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
+| General Motors | 2027 Summer Intern - Environmental Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619204/2027-summer-intern-environmental-engineer/) |
+| General Motors | 2027 Summer Intern - Manufacturing Controls Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618844/2027-summer-intern-manufacturing-controls-engineer/) |
+| General Motors | 2027 Summer Intern - Manufacturing Engineering— Global Propulsion Systems | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619351/2027-summer-intern-manufacturing-engineering-global-propulsion-systems/) |
+| General Motors | 2027 Summer Intern – Finance Controllership | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618060/2027-summer-intern-finance-controllership/) |
+| General Motors | 2027 Summer Intern – Finance Operations | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618055/2027-summer-intern-finance-operations/) |
+| General Motors | 2027 Summer Intern – Global Manufacturing Electrical & SDV | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619352/2027-summer-intern-global-manufacturing-electrical-sdv/) |
+| General Motors | 2027 Summer Intern – Global Workplace Safety (Ergonomics) | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619337/2027-summer-intern-global-workplace-safety-ergonomics/) |
+| General Motors | 2027 Summer Intern – Manufacturing Engineering General Assembly | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619346/2027-summer-intern-manufacturing-engineering-general-assembly/) |
+| General Motors | 2027 Summer Intern – Manufacturing Engineering Global Automation | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619348/2027-summer-intern-manufacturing-engineering-global-automation/) |
+| General Motors | 2027 Summer Intern – Manufacturing Engineering – Body & Paint Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619475/2027-summer-intern-manufacturing-engineering-body-paint-center/) |
+| General Motors | 2027 Summer Intern – Manufacturing Quality Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619307/2027-summer-intern-manufacturing-quality-engineer/) |
+| General Motors | 2027 Summer Manufacturing Intern - Mechanical Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619411/2027-summer-manufacturing-intern-mechanical-engineer/) |
 | Google | Software Engineering Intern, BS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
@@ -109,6 +122,7 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 | Unison (GE Aerospace) | Engineering Intern 🛂 | SWE | [Apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 | Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
+| Wells Fargo | 2027 Human Resources Internship – Early Careers | SWE | [Apply](https://www.wellsfargojobs.com/en/jobs/r-555463/2027-human-resources-internship-early-careers/) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 
 ### PM (1)
