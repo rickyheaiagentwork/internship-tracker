@@ -11,7 +11,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (248)
+## Open — Apply now (250)
 
 ### AI/ML (45)
 
@@ -273,7 +273,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
 | Zipline | Software Engineer Intern | SWE | [Apply](https://www.zipline.com/open-roles?gh_jid=7929236003) |
 
-### PM (8)
+### PM (10)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -282,6 +282,8 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | GE Vernova | GE Vernova Controls Product Management Intern | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |
 | GE Vernova | GE Vernova Product Management Intern – Controls Lifecare Services | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
 | Mastercard | Product Management – Technical Intern – St. Louis, MO, US | PM | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) |
+| Microsoft | Product Manager: Internship Opportunities | PM | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556953113-product-manager-internship-opportunities-united-states-washington-redmond) |
+| Microsoft | Technical Program Manager: Internship Opportunities | PM | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556953114-technical-program-manager-internship-opportunities-united-states-washington-redmond) |
 | Roblox | \[Summer 2027] Product Management Intern | PM | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | Salesforce | Intern - Associate Product Manager (APM) | PM | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) |
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
