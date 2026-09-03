@@ -11,15 +11,17 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (93)
+## Open — Apply now (113)
 
-### AI/ML (7)
+### AI/ML (9)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Adobe | 2027 Intern - Machine Learning Engineer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-intern-machine-learning-engineer-at-adobe-4460230297) |
 | American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
+| Siemens Digital Industries Software | Strategic Student Program: Mendix & AI Application Development Internship (Spring/Summer 2027, GSCS) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/strategic-student-program-mendix-ai-application-development-internship-spring-summer-2027-gscs-at-siemens-digital-industries-software-4461396141) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
 | JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
@@ -57,13 +59,16 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (63)
+### SWE (81)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | SWE | [Apply](https://akunacapital.com/careers/job/8018847/) |
 | Akuna Capital | Software Engineer Intern — Python | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-charlotte-nc-at-american-express-4460225589) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-phoenix-az-at-american-express-4460217706) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4460217705) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
@@ -72,16 +77,19 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Aquatic Capital | Quantitative Researcher Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Aquatic Capital Management | Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Arrowstreet Capital | Quantitative Researcher Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
+| Atlassian | Software Engineer Intern, 2027 Summer U.S. | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-2027-summer-u-s-at-atlassian-4462069578) |
 | BAE Systems | Software Engineering Intern I | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
 | BlackRock | 2027 Mexico City Internship Program Location: Mexico City, Mexico City Additional Locations: Mexico City Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/mexico-city/2027-mexico-city-internship-program/45831/97843197600) |
 | BlackRock | 2027 Summer Internship Program - APAC Location: Hong Kong SAR Additional Locations: Hong Kong, Singapore, Taipei, Tokyo Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/hong-kong-sar/2027-summer-internship-program-apac/45831/90599500992) |
 | BlackRock | Summer Internship Program, AMERS (all tracks) | SWE | [Apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 | BNY | 2027 BNY Summer Internship Program - Trading (New York, NY) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-trading-new-york-ny-at-bny-4458272707) |
 | BNY | 2027 BNY Summer Internship Program – BNY Investments (Boston, MA) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-bny-investments-boston-ma-at-bny-4458262805) |
+| Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
 | Deutsche Bank | Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114) |
+| Duke Energy Corporation | Information Technology Internship Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/information-technology-internship-summer-2027-at-duke-energy-corporation-4461296706) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York Innovation Center - Graduate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-innovation-center-graduate-intern-at-federal-reserve-bank-of-new-york-4461562525) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
@@ -100,10 +108,13 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Google | Software Engineering Intern, BS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| John Hancock | Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-software-engineering-at-john-hancock-4458673956) |
+| Marathon Petroleum Corporation | Intern/Co-op - Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
 | Mastercard | Associate Consultant Intern - Toronto, Canada | SWE | [Apply](https://careers.mastercard.com/us/en/job/R-287615/Associate-Consultant-Intern-Summer-2027-Toronto-Canada) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
+| Nike | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-nike-4461551447) |
 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489?q=intern+2027) |
 | NVIDIA | NVIDIA 2027 Internships: Digital Circuit Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?q=intern+2027) |
 | NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?q=intern+2027) |
@@ -114,12 +125,21 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Optiver | Software Engineer Intern (Chicago) | SWE | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Salesforce | Software Engineer Intern (Futureforce) 🔒 | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
+| Salesforce | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineer-at-salesforce-4460511031) |
+| Shure | Automated Test Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/automated-test-software-engineering-intern-at-shure-4461378863) |
+| Shure | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-shure-4461391646) |
 | Solar Turbines (Caterpillar) | IT Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
+| Stellantis | 2027 Business Software Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-software-internship-at-stellantis-4462128173) |
+| Stellantis | 2027 Information & Communication Technology (ICT) Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-communication-technology-ict-summer-internship-at-stellantis-4462133041) |
 | Susquehanna | Operations Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10916) |
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
+| UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-at-uci-oc-alliance-4462135384) |
+| UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-at-uci-oc-alliance-4462123602) |
 | Unison (GE Aerospace) | Engineering Intern 🛂 | SWE | [Apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) |
+| UPS | UPS Technology Group Summer 2027 Internship – GA | SWE | [Apply](https://www.linkedin.com/jobs/view/ups-technology-group-summer-2027-internship-%E2%80%93-ga-at-ups-4460232957) |
+| UPS | UPS Technology Group Summer 2027 Internship – NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/ups-technology-group-summer-2027-internship-%E2%80%93-nj-at-ups-4460098767) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 | Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
 | Wells Fargo | 2027 Human Resources Internship – Early Careers | SWE | [Apply](https://www.wellsfargojobs.com/en/jobs/r-555463/2027-human-resources-internship-early-careers/) |
