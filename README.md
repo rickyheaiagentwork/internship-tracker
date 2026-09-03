@@ -11,14 +11,20 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (250)
+## Open — Apply now (286)
 
-### AI/ML (45)
+### AI/ML (59)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
-| Adobe | 2027 Intern - Machine Learning Engineer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-intern-machine-learning-engineer-at-adobe-4460230297) |
+| Adobe | 2027 Intern - Machine Learning Engineer | AI/ML | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
 | American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, ETS - Atlanta | AI/ML | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, ETS - New York | AI/ML | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) |
+| ByteDance | AI Network Automation Engineer Intern | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7670690923748870405/detail) |
+| ByteDance | Machine Learning Engineer Intern | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7671291260529821957/detail) |
+| ByteDance | Software Engineer Intern, AI Infrastructure Compute (San Jose) | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7667377525182662965/detail) |
+| ByteDance | Software Engineer Intern, AI Platform | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7668212952030841093/detail) |
 | Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
@@ -28,10 +34,16 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Honeywell | Information Systems, IT, Cyber Engineer & Data Science Intern (US Person Required) | AI/ML | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554) |
 | Honeywell Aerospace | Software AI Intern (U.S. Person Required) | AI/ML | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880) |
 | Medline | RPA & Agentic AI Software Technologies Intern | AI/ML | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) |
+| Microsoft | AI Software Engineering Intern | AI/ML | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556962891) |
+| Microsoft | AI Software Engineering Intern - Edge | AI/ML | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556979054) |
+| New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
 | risk3sixty | AI Platform Engineering Intern (Summer 2027 Internship) | AI/ML | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4460265) |
 | RTX | Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Onsite) | AI/ML | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | The Nuclear Company | AI/ML Engineering Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
+| TikTok | Machine Learning Engineer Intern, Ads Signal & Measurement | AI/ML | [Apply](https://lifeattiktok.com/search/7669700361976809733) |
+| TikTok | Machine Learning Engineer Intern, Search Basic Ranking | AI/ML | [Apply](https://lifeattiktok.com/search/7667338938890930437) |
+| UBS | 2027 Summer Internship – Asset Management AI Transformation – NY / CHI | AI/ML | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=350514&PageType=JobDetails&partnerid=25008&siteid=5131) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | Advanced Space | 2027 Machine Learning Summer Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
 | AeroVironment | Machine Learning Intern | AI/ML | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
@@ -62,6 +74,8 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | AI Applied Research Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
+| TikTok | Machine Learning / MLOps Intern, Global SRE | AI/ML | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
+| Verisk | AI Intern \| Summer Internship Program | AI/ML | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) |
 
 ### Bio-AI (2)
 
@@ -70,12 +84,13 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 
-### Finance (28)
+### Finance (29)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, ETS - Phoenix | Finance | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-pricing-strategy-global-merchant-network-services-new-york-ny-at-american-express-4449779401) |
 | Arrowstreet Capital | Quantitative Developer Intern | Finance | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern | Finance | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976) |
@@ -103,7 +118,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (165)
+### SWE (177)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -151,10 +166,14 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Atlanta, GA | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
 | Booz Allen Hamilton | University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) |
 | Booz Allen Hamilton | University, 2027 Summer Games Data Scientist Intern | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) |
+| ByteDance | Software Development Engineer Intern, Network Automation | SWE | [Apply](https://jobs.bytedance.com/en/position/7671147251943213317/detail) |
+| ByteDance | Software Engineer Intern, AML Engine Orchestration (San Jose) | SWE | [Apply](https://jobs.bytedance.com/en/position/7671162985123907845/detail) |
+| ByteDance | Software Engineer Intern, Global Payment | SWE | [Apply](https://jobs.bytedance.com/en/position/7668650945276168453/detail) |
 | CACI | DevOps/Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466) |
 | CACI | Software Developer/Data Scientist Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) |
 | CACI | Software Engineering Co-op - Summer & Fall 2027 | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354) |
 | CACI | Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) |
+| Cardinal Health | Data & Analytics Internship | SWE | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913) |
 | cargill | Software Engineer Intern Summer 2027 - Atlanta, GA | SWE | [Apply](https://jobs.cargill.com/job/Atlanta-Software-Engineer-Intern-Summer-2027-Atlanta%2C-GA-Geor-30340/1368604957/) |
 | Castleton Commodities International | Full-Stack Software Engineer Internship | SWE | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
 | CesiumAstro | Embedded Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) |
@@ -200,6 +219,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | HP IQ | Software Engineering Intern, Product Security | SWE | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
 | HP IQ | Software Engineering Intern, Software Systems | SWE | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
+| IBM | Software Developer Intern 2027 | SWE | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/128497) |
 | John Hancock | Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-software-engineering-at-john-hancock-4458673956) |
 | K2 Space | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
 | Marathon Petroleum Corporation | Intern/Co-op - Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
@@ -216,6 +236,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Motorola Solutions | Android Platform Software Engineering Intern | SWE | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) |
 | MSA, The Safety Company | Intern: Software Engineer, Product Development | SWE | [Apply](https://careers.msasafety.com/jobs/9993) |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | SWE | [Apply](https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
+| New York Life | 2027 TDAV Summer Internship - Software Engineer Intern | SWE | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-Software-Engineer-Intern-NY-10001/1414420800/) |
 | Newrez LLC | 2027 Summer Internship - Software Developer | SWE | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) |
 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-nike-4461551447) |
 | Northmarq | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5414475008) |
@@ -255,6 +276,11 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Software Engineering | SWE | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) |
 | The Nuclear Company | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
 | The Trade Desk | Software Engineering Intern (North America) | SWE | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
+| TikTok | Backend Software Engineer Intern, Creation Platform | SWE | [Apply](https://lifeattiktok.com/search/7670289874020993285) |
+| TikTok | Backend Software Engineer Intern, Product Infrastructure | SWE | [Apply](https://lifeattiktok.com/search/7667935633764370741) |
+| TikTok | Software Engineer Intern, Foundation Platform | SWE | [Apply](https://lifeattiktok.com/search/7670281449668905269) |
+| TikTok | Software Engineer Intern, Media Engine | SWE | [Apply](https://lifeattiktok.com/search/7670295535077427509) |
+| TikTok | Software Engineer Intern, Search Data Infrastructure | SWE | [Apply](https://lifeattiktok.com/search/7675128776856029445) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
 | UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-at-uci-oc-alliance-4462135384) |
 | UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-at-uci-oc-alliance-4462123602) |
@@ -265,6 +291,7 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Vermeer Corporation | IT Software Engineer Internship Summer 2027 | SWE | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
 | Vertiv | Software Engineering Intern | SWE | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20278777) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
+| Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-syseng-software-engineer-mountain-view-california-united-states) |
 | Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
 | Wells Fargo | 2027 Human Resources Internship – Early Careers | SWE | [Apply](https://www.wellsfargojobs.com/en/jobs/r-555463/2027-human-resources-internship-early-careers/) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
@@ -273,20 +300,29 @@ Verified **2026-09-03**. Every role below was found by **active search** (Linked
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
 | Zipline | Software Engineer Intern | SWE | [Apply](https://www.zipline.com/open-roles?gh_jid=7929236003) |
 
-### PM (10)
+### PM (19)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Amazon | Product Manager Technical (PMT) Intern | PM | [Apply](https://www.amazon.jobs/en/jobs/10509639) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, ETS - New York | PM | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, GMNS - New York | PM | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, GMNS - Phoenix | PM | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638) |
 | Databricks | Product Management Intern | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
 | GE Vernova | GE Vernova Controls Product Management Intern | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |
 | GE Vernova | GE Vernova Product Management Intern – Controls Lifecare Services | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
+| IBM | Product Manager Intern 2027 | PM | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Product-Manager-Intern-2027/128509) |
 | Mastercard | Product Management – Technical Intern – St. Louis, MO, US | PM | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) |
 | Microsoft | Product Manager: Internship Opportunities | PM | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556953113-product-manager-internship-opportunities-united-states-washington-redmond) |
 | Microsoft | Technical Program Manager: Internship Opportunities | PM | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556953114-technical-program-manager-internship-opportunities-united-states-washington-redmond) |
 | Roblox | \[Summer 2027] Product Management Intern | PM | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | Salesforce | Intern - Associate Product Manager (APM) | PM | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) |
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
+| TikTok | AI Agent Product Manager Intern, Customer Service Platform | PM | [Apply](https://lifeattiktok.com/search/7670010726514493749) |
+| TikTok | AI Product Manager Intern, Content Ecosystem | PM | [Apply](https://lifeattiktok.com/search/7667578131150506293) |
+| TikTok | Product Manager Intern, Product Infrastructure / Account | PM | [Apply](https://lifeattiktok.com/search/7670009830602721589) |
+| TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
+| TikTok | Strategy Product Manager Intern, Platform Responsibility | PM | [Apply](https://lifeattiktok.com/search/7670420287191517493) |
 ---
 
 ## How updates work
