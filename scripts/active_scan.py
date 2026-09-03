@@ -28,14 +28,22 @@ META = DATA / "meta.json"
 STATE = DATA / "scan_state.json"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from fit_filters import fetch, make_opening, slug, verify_posting  # noqa: E402
+from fit_filters import (  # noqa: E402
+    dedupe_openings,
+    fetch,
+    make_opening,
+    role_fingerprint,
+    slug,
+    verify_posting,
+)
 from search_careers import crawl_batch  # noqa: E402
 from search_linkedin import search_linkedin  # noqa: E402
 from search_targets import batch_companies, linkedin_seed  # noqa: E402
 
 TZ = ZoneInfo("America/New_York")
 TODAY = date.today().isoformat()
-MAX_NEW = 20
+MAX_NEW = 30
+CAREERS_BATCH_SIZE = 18
 
 
 def load_json(path: Path, default):
@@ -77,14 +85,19 @@ def dedupe_ids(opens: list[dict], entry: dict) -> None:
         n += 1
 
 
+def existing_roles(opens: list[dict]) -> set[str]:
+    return {role_fingerprint(o["company"], o["role_title"]) for o in opens}
+
+
 def merge_hits(opens: list[dict], hits: list[dict], source: str) -> list[dict]:
-    known = existing_urls(opens)
+    known_urls = existing_urls(opens)
+    known_roles = existing_roles(opens)
     added: list[dict] = []
     for h in hits:
         if len(added) >= MAX_NEW:
             break
         url = h["url"].rstrip("/")
-        if url in known:
+        if url in known_urls:
             continue
         entry = make_opening(
             h["company"],
@@ -97,9 +110,13 @@ def merge_hits(opens: list[dict], hits: list[dict], source: str) -> list[dict]:
         )
         if not entry:
             continue
+        fp = role_fingerprint(entry["company"], entry["role_title"])
+        if fp in known_roles:
+            continue
         dedupe_ids(opens, entry)
         opens.append(entry)
-        known.add(url)
+        known_urls.add(url)
+        known_roles.add(fp)
         added.append(entry)
     return added
 
@@ -183,7 +200,7 @@ def print_summary(mode: str, added: list[dict], removed: int, opens: list[dict],
 
 async def run_careers(state: dict) -> tuple[list[dict], str]:
     idx = int(state.get("careers_index", 0))
-    batch = batch_companies(idx, batch_size=6)
+    batch = batch_companies(idx, batch_size=CAREERS_BATCH_SIZE)
     names = ", ".join(c["name"] for c in batch)
     hits = await crawl_batch(batch)
     state["careers_index"] = idx + 1
@@ -194,7 +211,7 @@ async def run_careers(state: dict) -> tuple[list[dict], str]:
 async def run_linkedin(state: dict) -> tuple[list[dict], str]:
     idx = int(state.get("linkedin_index", 0))
     query = linkedin_seed(idx)
-    hits = await search_linkedin(query, max_results=30)
+    hits = await search_linkedin(query, max_results=50)
     state["linkedin_index"] = idx + 1
     state["last_linkedin_run"] = TODAY
     short = query if len(query) <= 80 else query[:77] + "..."
@@ -218,6 +235,11 @@ async def async_main(mode: str) -> int:
 
     added = merge_hits(opens, hits, source)
     opens, removed = verify_existing(opens)
+    before_dedupe = len(opens)
+    opens = dedupe_openings(opens)
+    deduped = before_dedupe - len(opens)
+    if deduped:
+        removed += deduped
 
     save_json(OPENINGS, opens)
     meta = load_json(META, {})
@@ -231,10 +253,9 @@ async def async_main(mode: str) -> int:
     save_state(state)
 
     subprocess.run(["python3", str(ROOT / "scripts" / "sync_readme.py")], cwd=ROOT, check=False)
-    if added or removed:
-        git_commit_push(f"scan: {mode} {TODAY} (+{len(added)} -{removed})")
-    else:
-        print("# skip git push — no data changes")
+    committed = git_commit_push(f"scan: {mode} {TODAY} (+{len(added)} -{removed})")
+    if not committed:
+        print("# skip git push — no repo changes")
 
     print_summary(mode, added, removed, opens, detail)
     return 0

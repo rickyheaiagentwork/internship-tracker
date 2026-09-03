@@ -29,7 +29,8 @@ BIO_COMPANIES = re.compile(
     r"isomorphic|benchsci|pathai|owkin|tempus|flatiron|verily|illumina|10x|"
     r"moderna|genentech|roche|amgen|gilead|pfizer|merck|novartis|abbvie|"
     r"janssen|johnson|lilly|eli lilly|astrazeneca|guardant|natera|iqvia|"
-    r"openai|anthropic|nvidia|google|deepmind|meta|microsoft|amazon|apple"
+    r"philips|abbott|medtronic|stryker|boston scientific|biogen|regeneron|"
+    r"thermo fisher|danaher|bristol myers|bms"
     r")\b",
     re.I,
 )
@@ -37,14 +38,33 @@ FINANCE_ANALYTICS_KW = re.compile(
     r"\b("
     r"financial analytics|investment analytics|risk analytics|"
     r"portfolio analytics|data analytics|quantitative analytics|"
-    r"markets analytics|wealth analytics"
+    r"markets analytics|wealth analytics|equity research|investment research|"
+    r"investment management|capital markets|global research|pricing strategy|"
+    r"data and analytics"
+    r")\b",
+    re.I,
+)
+FINANCE_ROLE_KW = re.compile(
+    r"\b("
+    r"financial analytics|investment analytics|risk analytics|"
+    r"portfolio analytics|quantitative analytics|markets analytics|"
+    r"wealth analytics|equity research|investment research|investment management|"
+    r"capital markets|global research|pricing strategy|data and analytics|"
+    r"quantitative (research|developer|analyst|strategy)|quant (research|developer|analyst)|"
+    r"markets intern|trading intern|macro analyst"
     r")\b",
     re.I,
 )
 FINANCE_COMPANIES = re.compile(
     r"\b("
     r"jpmorgan|jp morgan|chase|goldman|morgan stanley|blackrock|"
-    r"fidelity|bank of america|bofa|citigroup|\bciti\b|capital one"
+    r"fidelity|bank of america|bofa|citigroup|\bciti\b|capital one|"
+    r"wells fargo|bny|deutsche bank|ubs|credit suisse|barclays|"
+    r"huntington|new york life|american express|visa|mastercard|"
+    r"interactive brokers|freddie mac|fannie mae|standard chartered|"
+    r"arrowstreet|point72|virtu|voloridge|susquehanna|d\.?e\.? shaw|"
+    r"akuna|aquatic capital|castleton|optiver|pdt partners|the trade desk|"
+    r"federal reserve"
     r")\b",
     re.I,
 )
@@ -71,6 +91,70 @@ def fetch(url: str, timeout: int = 25) -> tuple[int, str]:
 
 def slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:48]
+
+
+def normalize_role_title(role: str) -> str:
+    r = role.lower()
+    r = re.sub(r"[\U0001F1E6-\U0001F1FF]{2}", "", r)
+    r = re.sub(r"\b(summer|fall|spring|winter)\s*20\d{2}\b", "", r)
+    r = re.sub(r"\b20\d{2}\b", "", r)
+    r = re.sub(r"\([^)]*\)", " ", r)
+    r = re.sub(r"\b(united states|usa|u\.s\.)\b", "", r)
+    r = re.sub(r"\b(new york|san francisco|boston|chicago|austin|redmond|mountain view|palo alto)\b", "", r)
+    r = re.sub(r"[^a-z0-9]+", " ", r)
+    return re.sub(r"\s+", " ", r).strip()
+
+
+def role_fingerprint(company: str, role: str) -> str:
+    return f"{company.lower().strip()}::{normalize_role_title(role)}"
+
+
+def url_priority(url: str) -> int:
+    u = url.lower()
+    if "linkedin.com" in u:
+        return 1
+    if any(
+        x in u
+        for x in [
+            "google.com/about/careers",
+            "jobs.apple.com",
+            "amazon.jobs",
+            "apply.careers.microsoft.com",
+            "careers.microsoft.com",
+            "metacareers.com",
+            "nvidia.wd",
+            "careers.jpmorgan.com",
+            "careers.blackrock.com",
+            "stripe.com/jobs",
+            "jobs.disneycareers.com",
+            "jobs.netflix.com",
+        ]
+    ):
+        return 10
+    if any(x in u for x in ["greenhouse.io", "lever.co", "ashbyhq.com", "myworkdayjobs"]):
+        return 6
+    return 4
+
+
+def pick_better_opening(current: dict[str, Any], candidate: dict[str, Any]) -> dict[str, Any]:
+    cur_score = url_priority(current.get("application_url") or current.get("posting_url", ""))
+    new_score = url_priority(candidate.get("application_url") or candidate.get("posting_url", ""))
+    if new_score > cur_score:
+        return candidate
+    if new_score < cur_score:
+        return current
+    return candidate if candidate.get("verified_at", "") >= current.get("verified_at", "") else current
+
+
+def dedupe_openings(openings: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_role: dict[str, dict[str, Any]] = {}
+    for opening in openings:
+        key = role_fingerprint(opening["company"], opening["role_title"])
+        if key in by_role:
+            by_role[key] = pick_better_opening(by_role[key], opening)
+        else:
+            by_role[key] = opening
+    return list(by_role.values())
 
 
 def blob(company: str, role: str, loc: str = "") -> str:
@@ -187,10 +271,32 @@ def fit_score(company: str, role: str, loc: str = "") -> int:
 def category_for(company: str, role: str) -> str:
     b = f"{company} {role}"
     r = role.lower()
-    if BIO_AI_KW.search(b) or (
-        BIO_COMPANIES.search(company) and (AI_ML_KW.search(b) or BIO_AI_KW.search(b) or "data" in r)
+
+    if "product" in r and "engineer" not in r and "software" not in r:
+        return "PM"
+
+    if BIO_AI_KW.search(b):
+        return "Bio-AI"
+    if BIO_COMPANIES.search(company) and (
+        AI_ML_KW.search(b)
+        or "data" in r
+        or "informatics" in r
+        or "computational" in r
+        or "clinical" in r
     ):
         return "Bio-AI"
+
+    if FINANCE_COMPANIES.search(company) and FINANCE_ROLE_KW.search(b):
+        return "Finance"
+    if FINANCE_ROLE_KW.search(b) and re.search(
+        r"financ|invest|bank|markets|trading|wealth|portfolio|equity|quant",
+        b,
+        re.I,
+    ):
+        return "Finance"
+    if FINANCE_ANALYTICS_KW.search(b):
+        return "Finance"
+
     if any(
         x in r
         for x in [
@@ -203,23 +309,10 @@ def category_for(company: str, role: str) -> str:
             "computer vision",
         ]
     ) or re.search(r"\b(ai|ml)\b", r):
-        if FINANCE_COMPANIES.search(company) and re.search(
-            r"financial|investment|risk analytics|portfolio", r
-        ):
-            return "Finance"
         return "AI/ML"
-    if FINANCE_COMPANIES.search(company) and FINANCE_ANALYTICS_KW.search(b):
-        return "Finance"
-    if re.search(r"financial analytics|investment analytics|risk analytics|portfolio analytics", r):
-        return "Finance"
     if "data analytics" in r:
-        if BIO_COMPANIES.search(company) or BIO_AI_KW.search(b):
-            return "Bio-AI"
-        if FINANCE_COMPANIES.search(company) or re.search(r"financ|invest|risk|wealth", b, re.I):
-            return "Finance"
         return "AI/ML"
-    if "product" in r and "engineer" not in r and "software" not in r:
-        return "PM"
+
     return "SWE"
 
 

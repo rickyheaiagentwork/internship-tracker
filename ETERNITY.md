@@ -34,7 +34,7 @@ Cron runs **3× daily** via `scripts/active_scan.py`:
 
 | Time (ET) | Mode | What it does |
 |---|---|---|
-| **09:00** | Careers | Playwright crawl of **6** company career sites (rotating through ~90 targets: big tech, consumer, pharma, finance) |
+| **09:00** | Careers | Playwright crawl of **18** company career sites (rotating through ~270 targets: big tech, consumer, pharma, finance, Fortune 500) |
 | **12:00** | LinkedIn | LinkedIn Jobs search with a PROFILE seed query |
 | **21:00** | Careers | Another careers crawl batch |
 
@@ -66,7 +66,7 @@ Crawl configured targets in `scripts/search_targets.py` — big tech, frontier A
 
 1. Update JSON + `meta.last_full_verify`
 2. `python3 scripts/sync_readme.py`
-3. Commit + push **only if data changed**
+3. Commit + push **whenever the repo changed** (openings, README, meta, scan state)
 4. Summarize new Apply links for Ricky
 
 ## Files

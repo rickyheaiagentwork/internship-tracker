@@ -24,7 +24,7 @@ Cron command: `python3 scripts/active_scan.py --mode auto`
 
 | ET | Mode |
 |---|---|
-| 09:00, 21:00 | Company career site crawl (4 companies per run, rotates) |
+| 09:00, 21:00 | Company career site crawl (**18** companies per run, rotates through ~270) |
 | 12:00 | LinkedIn Jobs (PROFILE seed, rotates) |
 
 Manual runs:
@@ -41,7 +41,7 @@ python3 scripts/active_scan.py --mode linkedin
 3. Run active search (above) or use browser-use-career for deeper LinkedIn/portal passes
 4. Verify each candidate: Summer 2027 + US + undergrad + real apply URL
 5. `python3 scripts/sync_readme.py`
-6. Commit + push only if data changed
+6. Commit + push whenever repo changed
 7. Telegram summary with new Apply links
 
 ## If network fails
