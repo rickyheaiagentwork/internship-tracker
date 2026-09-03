@@ -13,12 +13,11 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 
 ## Open — Apply now (79)
 
-### AI/ML (8)
+### AI/ML (7)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
-| Castleton Commodities International | Data Science Machine Learning Internship | AI/ML | [Apply](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
@@ -57,7 +56,7 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 
-### SWE (49)
+### SWE (50)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -88,6 +87,7 @@ Verified **2026-09-02**. Every role below was found by **active search** (Linked
 | Google | Software Engineering Intern, BS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | IMC Trading | Software Engineer Intern | SWE | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| Mastercard | Associate Consultant Intern - Toronto, Canada | SWE | [Apply](https://careers.mastercard.com/us/en/job/R-287615/Associate-Consultant-Intern-Summer-2027-Toronto-Canada) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
