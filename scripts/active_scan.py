@@ -125,13 +125,17 @@ def verify_existing(opens: list[dict]) -> tuple[list[dict], int]:
     """Drop dead postings; return (kept, removed_count)."""
     kept: list[dict] = []
     removed = 0
-    for o in opens:
+    total = len(opens)
+    print(f"# verify_existing start n={total}", flush=True)
+    for i, o in enumerate(opens, 1):
+        if i == 1 or i % 10 == 0 or i == total:
+            print(f"# verify progress {i}/{total} removed={removed}", flush=True)
         url = o.get("application_url") or o.get("posting_url")
         if not url:
             removed += 1
             continue
         try:
-            code, html = fetch(url, timeout=20)
+            code, html = fetch(url, timeout=12)
             if code >= 400:
                 removed += 1
                 continue
@@ -143,6 +147,7 @@ def verify_existing(opens: list[dict]) -> tuple[list[dict], int]:
         except Exception:
             # keep on transient network errors
             kept.append(o)
+    print(f"# verify_existing done kept={len(kept)} removed={removed}", flush=True)
     return kept, removed
 
 
@@ -219,20 +224,23 @@ async def run_linkedin(state: dict) -> tuple[list[dict], str]:
 
 
 async def async_main(mode: str) -> int:
-    print(f"# active_scan mode={mode} date={TODAY}")
+    print(f"# active_scan mode={mode} date={TODAY}", flush=True)
     state = load_state()
     opens: list[dict] = load_json(OPENINGS, [])
 
     if mode == "careers":
+        print("# starting careers crawl…", flush=True)
         hits, detail = await run_careers(state)
         source = "careers"
     elif mode == "linkedin":
+        print("# starting linkedin search…", flush=True)
         hits, detail = await run_linkedin(state)
         source = "linkedin"
     else:
         print(f"unknown mode: {mode}", file=sys.stderr)
         return 2
 
+    print(f"# merge {len(hits)} raw hit(s)", flush=True)
     added = merge_hits(opens, hits, source)
     opens, removed = verify_existing(opens)
     before_dedupe = len(opens)

@@ -254,9 +254,9 @@ async def crawl_company(company: dict, *, max_jobs: int = 30) -> list[dict]:
 async def crawl_batch(companies: list[dict]) -> list[dict]:
     all_jobs: list[dict] = []
     for company in companies:
-        print(f"# crawling {company['name']}...")
+        print(f"# crawling {company['name']}...", flush=True)
         found = await crawl_company(company)
-        print(f"#   {len(found)} raw hits")
+        print(f"#   {len(found)} raw hits", flush=True)
         all_jobs.extend(found)
     # dedupe by URL
     seen: set[str] = set()
