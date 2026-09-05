@@ -42,27 +42,6 @@
     "source": "linkedin"
   },
   {
-    "id": "bytedance-machine-learning-engineer-intern-summer--s27",
-    "company": "ByteDance",
-    "role_title": "Machine Learning Engineer Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail",
-    "application_url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail",
-    "tier": 1,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 100,
-    "source": "careers"
-  },
-  {
     "id": "bytedance-software-engineer-intern-ai-platform-sum-s27",
     "company": "ByteDance",
     "role_title": "Software Engineer Intern, AI Platform (Summer 2027)",
@@ -4133,48 +4112,6 @@
     "source": "careers"
   },
   {
-    "id": "tiktok-ai-agent-product-manager-intern-customer-s27",
-    "company": "TikTok",
-    "role_title": "AI Agent Product Manager Intern, Customer Service Platform (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://lifeattiktok.com/search/7670010726514493749",
-    "application_url": "https://lifeattiktok.com/search/7670010726514493749",
-    "tier": 2,
-    "category": "PM",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 80,
-    "source": "careers"
-  },
-  {
-    "id": "tiktok-backend-software-engineer-intern-creatio-s27",
-    "company": "TikTok",
-    "role_title": "Backend Software Engineer Intern, Creation Platform (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://lifeattiktok.com/search/7670289874020993285",
-    "application_url": "https://lifeattiktok.com/search/7670289874020993285",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "careers"
-  },
-  {
     "id": "tiktok-backend-software-engineer-intern-product-s27",
     "company": "TikTok",
     "role_title": "Backend Software Engineer Intern, Product Infrastructure (Summer 2027)",
@@ -4214,27 +4151,6 @@
     "application_status": "Not started",
     "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers"
-  },
-  {
-    "id": "tiktok-software-engineer-intern-foundation-plat-s27",
-    "company": "TikTok",
-    "role_title": "Software Engineer Intern, Foundation Platform (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://lifeattiktok.com/search/7670281449668905269",
-    "application_url": "https://lifeattiktok.com/search/7670281449668905269",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 20,
     "source": "careers"
   },
   {
@@ -5133,5 +5049,362 @@
     "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
     "fit_score": 20,
     "source": "careers:Procter & Gamble"
+  },
+  {
+    "id": "spectrum-2027-summer-intern-software-engineer-s27",
+    "company": "Spectrum",
+    "role_title": "2027 Summer Intern: Software Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Greenwood Village, CO\nBe an early applicant\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "tiktok-software-engineer-intern-ads-interface-2-s27",
+    "company": "TikTok",
+    "role_title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n18 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "pepsico-2027-summer-intern-technology-software-d-s27",
+    "company": "PepsiCo",
+    "role_title": "2027 Summer Intern: Technology Software Development & Engineering",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Plano, TX\n2 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "tiktok-usds-joint-venture-software-engineer-intern-e-commerce-2027-s27",
+    "company": "TikTok USDS Joint Venture",
+    "role_title": "Software Engineer Intern (E-commerce) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "delta-air-lines-intern-it-digital-and-technology-atl-sum-s27",
+    "company": "Delta Air Lines",
+    "role_title": "Intern, IT - Digital and Technology - ATL (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Atlanta, GA\n21 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "delta-air-lines-intern-it-digital-and-technology-msp-sum-s27",
+    "company": "Delta Air Lines",
+    "role_title": "Intern, IT - Digital and Technology - MSP (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Minneapolis, MN\n21 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "marathon-petroleum-corporation-intern-co-op-digital-information-technol-s27",
+    "company": "Marathon Petroleum Corporation",
+    "role_title": "Intern/Co-op - Digital/Information Technology (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Antonio, TX\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "optiver-software-engineer-intern-summer-2027-aus-s27",
+    "company": "Optiver",
+    "role_title": "Software Engineer Intern (Summer 2027 - Austin)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Austin, TX\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "whatnot-software-engineer-intern-summer-2027-s27",
+    "company": "Whatnot",
+    "role_title": "Software Engineer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Francisco, CA\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "adobe-2027-intern-software-engineer-s27",
+    "company": "Adobe",
+    "role_title": "2027 Intern - Software Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "spectrum-2027-summer-intern-mobile-device-enginee-s27",
+    "company": "Spectrum",
+    "role_title": "2027 Summer Intern: Mobile Device Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Greenwood Village, CO\nBe an early applicant\n17 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "stellantis-2027-tech-research-intern-s27",
+    "company": "Stellantis",
+    "role_title": "2027 Tech Research Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Auburn Hills, MI\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "stellantis-2027-technical-software-intern-s27",
+    "company": "Stellantis",
+    "role_title": "2027 Technical Software Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Auburn Hills, MI\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "amazon-software-development-engineer-intern-rob-s27",
+    "company": "Amazon",
+    "role_title": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
+    "application_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Middlesex County, MA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "bytedance-software-engineer-intern-relational-data-s27",
+    "company": "ByteDance",
+    "role_title": "Software Engineer Intern (Relational Database) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "minimed-software-engineering-intern-summer-2027-s27",
+    "company": "MiniMed",
+    "role_title": "Software Engineering Intern Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Los Angeles, CA\n22 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "rivian-and-volkswagen-group-technologies-software-engineering-intern-applications-s27",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "role_title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Palo Alto, CA\nBe an early applicant\n12 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   }
 ]
