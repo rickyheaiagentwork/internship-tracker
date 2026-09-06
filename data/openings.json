@@ -21,27 +21,6 @@
     "source": "careers"
   },
   {
-    "id": "american-express-campus-graduate-i-summer-internship-prog-s27",
-    "company": "American Express",
-    "role_title": "Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695",
-    "application_url": "https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695",
-    "tier": 1,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY\nBe an early applicant\n10 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
-    "fit_score": 150,
-    "source": "linkedin"
-  },
-  {
     "id": "bytedance-software-engineer-intern-ai-platform-sum-s27",
     "company": "ByteDance",
     "role_title": "Software Engineer Intern, AI Platform (Summer 2027)",
@@ -418,27 +397,6 @@
     "source": "careers"
   },
   {
-    "id": "tiktok-machine-learning-engineer-intern-search--s27",
-    "company": "TikTok",
-    "role_title": "Machine Learning Engineer Intern, Search Basic Ranking (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://lifeattiktok.com/search/7667338938890930437",
-    "application_url": "https://lifeattiktok.com/search/7667338938890930437",
-    "tier": 1,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 100,
-    "source": "careers"
-  },
-  {
     "id": "ubs-2027-summer-internship-asset-management--s27",
     "company": "UBS",
     "role_title": "2027 Summer Internship \u2013 Asset Management AI Transformation \u2013 NY / CHI",
@@ -479,6 +437,27 @@
     "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
     "fit_score": 100,
     "source": "careers"
+  },
+  {
+    "id": "adobe-2027-intern-software-engineer-s27",
+    "company": "Adobe",
+    "role_title": "2027 Intern - Software Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "advanced-space-2027-machine-learning-summer-internship-s27",
@@ -666,6 +645,27 @@
     "notes": "Found via careers:Amazon on 2026-08-29. Re-verify before applying.",
     "fit_score": 20,
     "source": "careers:Amazon"
+  },
+  {
+    "id": "amazon-software-development-engineer-intern-rob-s27",
+    "company": "Amazon",
+    "role_title": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
+    "application_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Middlesex County, MA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "amd-2027-undergrad-machine-learning-ml-artif-s27-2",
@@ -1102,26 +1102,6 @@
     "source": "careers:BlackRock"
   },
   {
-    "id": "blackrock-summer-internship-program-amers-all-trac-s27",
-    "company": "BlackRock",
-    "role_title": "Summer Internship Program, AMERS (all tracks)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
-    "application_url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "New York, NY (multiple US)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
-    "fit_score": 0
-  },
-  {
     "id": "blue-cross-and-blue-shield-of-nebraska-is-intern-ai-automation-managed-services-s27",
     "company": "Blue Cross and Blue Shield of Nebraska",
     "role_title": "IS Intern: AI & Automation (Managed Services) Summer 2027",
@@ -1479,6 +1459,27 @@
     "source": "careers"
   },
   {
+    "id": "bytedance-software-engineer-intern-relational-data-s27",
+    "company": "ByteDance",
+    "role_title": "Software Engineer Intern (Relational Database) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
     "id": "c3-ai-ascend-internship-program-summer-2027-data-science-intern-summer-2027-s27",
     "company": "C3 AI",
     "role_title": "Data Science - Intern (Summer 2027)",
@@ -1535,27 +1536,6 @@
       "BS"
     ],
     "location": "Denver, Colorado, United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "careers"
-  },
-  {
-    "id": "caci-international-software-engineering-co-op-summer-fall-2-s27",
-    "company": "CACI",
-    "role_title": "Software Engineering Co-op - Summer & Fall 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
-    "application_url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "Danbury, Connecticut, United States",
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
@@ -1829,6 +1809,48 @@
     "application_status": "Not started",
     "notes": "Auto-added by cron_scan.py on 2026-08-03. Re-verify before applying.",
     "fit_score": 20
+  },
+  {
+    "id": "delta-air-lines-intern-it-digital-and-technology-atl-sum-s27",
+    "company": "Delta Air Lines",
+    "role_title": "Intern, IT - Digital and Technology - ATL (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Atlanta, GA\n21 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "delta-air-lines-intern-it-digital-and-technology-msp-sum-s27",
+    "company": "Delta Air Lines",
+    "role_title": "Intern, IT - Digital and Technology - MSP (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Minneapolis, MN\n21 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
   },
   {
     "id": "deutsche-bank-deutsche-bank-internship-program-investm-s27",
@@ -2482,6 +2504,195 @@
     "source": "careers"
   },
   {
+    "id": "home-depot-2027-summer-internship-business-operatio-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - BUSINESS OPERATIONS & MANAGEMENT",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23778246/2027-summer-internship-business-operations-management-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23778246/2027-summer-internship-business-operations-management-onsite/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-cybersecurity-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - CYBERSECURITY",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23777892/2027-summer-internship-cybersecurity-remote/",
+    "application_url": "https://careers.homedepot.com/job/23777892/2027-summer-internship-cybersecurity-remote/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-data-science-anal-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 80,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-human-resources-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - HUMAN RESOURCES",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23783020/2027-summer-internship-human-resources-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23783020/2027-summer-internship-human-resources-onsite/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-marketing-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - MARKETING",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23778683/2027-summer-internship-marketing-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23778683/2027-summer-internship-marketing-onsite/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-product-managemen-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - PRODUCT MANAGEMENT",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23777889/2027-summer-internship-product-management-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23777889/2027-summer-internship-product-management-onsite/",
+    "tier": 2,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-software-engineer-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - SOFTWARE ENGINEERING",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23777891/2027-summer-internship-software-engineering-remote/",
+    "application_url": "https://careers.homedepot.com/job/23777891/2027-summer-internship-software-engineering-remote/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-supply-chain-and--s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - SUPPLY CHAIN AND LOGISTICS",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23778684/2027-summer-internship-supply-chain-and-logistics-onsite/",
+    "application_url": "https://careers.homedepot.com/job/23778684/2027-summer-internship-supply-chain-and-logistics-onsite/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
+    "id": "home-depot-2027-summer-internship-user-experience-s27",
+    "company": "Home Depot",
+    "role_title": "2027 SUMMER INTERNSHIP - USER EXPERIENCE",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://careers.homedepot.com/job/23783021/2027-summer-internship-user-experience/",
+    "application_url": "https://careers.homedepot.com/job/23783021/2027-summer-internship-user-experience/",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Home Depot"
+  },
+  {
     "id": "hp-iq-software-engineer-intern-cloud-services--s27",
     "company": "HP IQ",
     "role_title": "Software Engineer Intern, Cloud Services (Summer 2027)",
@@ -2838,6 +3049,27 @@
     "source": "careers"
   },
   {
+    "id": "marathon-petroleum-corporation-intern-co-op-digital-information-technol-s27",
+    "company": "Marathon Petroleum Corporation",
+    "role_title": "Intern/Co-op - Digital/Information Technology (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
+    "application_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Antonio, TX\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
     "id": "marathon-petroleum-corporation-intern-co-op-information-technology-summ-s27",
     "company": "Marathon Petroleum Corporation",
     "role_title": "Intern/Co-op - Information Technology (Summer 2027)",
@@ -3067,6 +3299,27 @@
     "notes": "Found via careers:Microsoft on 2026-09-01. Re-verify before applying.",
     "fit_score": 20,
     "source": "careers:Microsoft"
+  },
+  {
+    "id": "minimed-software-engineering-intern-summer-2027-s27",
+    "company": "MiniMed",
+    "role_title": "Software Engineering Intern Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Los Angeles, CA\n22 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "msa-the-safety-company-intern-software-engineer-product-develop-s27",
@@ -3426,6 +3679,27 @@
     "source": "careers"
   },
   {
+    "id": "optiver-software-engineer-intern-summer-2027-aus-s27",
+    "company": "Optiver",
+    "role_title": "Software Engineer Intern (Summer 2027 - Austin)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Austin, TX\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
     "id": "pdt-swe-s27",
     "company": "PDT Partners",
     "role_title": "Summer 2027 Software Engineering Intern",
@@ -3444,6 +3718,27 @@
     "application_status": "Not started",
     "notes": "Quant trading tech. Undergrad-eligible.",
     "fit_score": 20
+  },
+  {
+    "id": "pepsico-2027-summer-intern-technology-software-d-s27",
+    "company": "PepsiCo",
+    "role_title": "2027 Summer Intern: Technology Software Development & Engineering",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Plano, TX\n2 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "pimco-2027-summer-intern-technology-analyst-so-s27",
@@ -3527,6 +3822,90 @@
     "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
     "fit_score": 80,
     "source": "careers"
+  },
+  {
+    "id": "procter-gamble-engineering-internship-summer-2027-s27",
+    "company": "Procter & Gamble",
+    "role_title": "Engineering Internship, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027",
+    "application_url": "https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "careers:Procter & Gamble"
+  },
+  {
+    "id": "procter-gamble-manufacturing-internship-summer-2027-s27",
+    "company": "Procter & Gamble",
+    "role_title": "Manufacturing Internship, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027",
+    "application_url": "https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Procter & Gamble"
+  },
+  {
+    "id": "procter-gamble-research-development-scientist-engineer--s27",
+    "company": "Procter & Gamble",
+    "role_title": "Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
+    "application_url": "https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "careers:Procter & Gamble"
+  },
+  {
+    "id": "rivian-and-volkswagen-group-technologies-software-engineering-intern-applications-s27",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "role_title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Palo Alto, CA\nBe an early applicant\n12 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "roblox-summer-2027-product-management-intern-s27",
@@ -3758,6 +4137,48 @@
     "source": "careers"
   },
   {
+    "id": "spectrum-2027-summer-intern-mobile-device-enginee-s27",
+    "company": "Spectrum",
+    "role_title": "2027 Summer Intern: Mobile Device Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Greenwood Village, CO\nBe an early applicant\n17 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "spectrum-2027-summer-intern-software-engineer-s27",
+    "company": "Spectrum",
+    "role_title": "2027 Summer Intern: Software Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Greenwood Village, CO\nBe an early applicant\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
     "id": "src-inc-software-engineer-intern-summer-2027-s27",
     "company": "SRC, Inc",
     "role_title": "Software Engineer (Intern - Summer 2027)",
@@ -3821,6 +4242,174 @@
     "source": "careers"
   },
   {
+    "id": "state-farm-summer-2027-intern-investments-fixed-inc-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Investments - Fixed Income",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45633",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45633",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-chicago-il-clc-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - Chicago, IL CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45954",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45954",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-fort-lauderdale-f-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - Fort Lauderdale, FL CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45867",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45867",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-miami-fl-clc-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - Miami, FL CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45868",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45868",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-mount-laurel-nj-c-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - Mount Laurel, NJ CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45496",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45496",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-st-petersburg-fl--s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - St. Petersburg, FL CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45929",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45929",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-law-washington-dc-clc-s27",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern - Law - Washington, DC CLC",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45921",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45921",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
+    "id": "state-farm-summer-2027-intern-financial-operations--s27-2",
+    "company": "State Farm",
+    "role_title": "Summer 2027 Intern \u2013 Financial Operations - Financial & Business Insights",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://jobs.statefarm.com/main/jobs/45476",
+    "application_url": "https://jobs.statefarm.com/main/jobs/45476",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:State Farm"
+  },
+  {
     "id": "stellantis-2027-business-software-internship-s27",
     "company": "Stellantis",
     "role_title": "2027 Business Software Internship",
@@ -3860,6 +4449,48 @@
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-03. Re-verify before applying.",
     "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "stellantis-2027-tech-research-intern-s27",
+    "company": "Stellantis",
+    "role_title": "2027 Tech Research Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Auburn Hills, MI\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
+  },
+  {
+    "id": "stellantis-2027-technical-software-intern-s27",
+    "company": "Stellantis",
+    "role_title": "2027 Technical Software Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Auburn Hills, MI\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
     "source": "linkedin"
   },
   {
@@ -4112,27 +4743,6 @@
     "source": "careers"
   },
   {
-    "id": "tiktok-backend-software-engineer-intern-product-s27",
-    "company": "TikTok",
-    "role_title": "Backend Software Engineer Intern, Product Infrastructure (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-03",
-    "posting_url": "https://lifeattiktok.com/search/7667935633764370741",
-    "application_url": "https://lifeattiktok.com/search/7667935633764370741",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "careers"
-  },
-  {
     "id": "tiktok-product-manager-intern-signal-and-identi-s27",
     "company": "TikTok",
     "role_title": "Product Manager Intern, Signal and Identity Product (Summer 2027)",
@@ -4152,6 +4762,48 @@
     "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
     "fit_score": 0,
     "source": "careers"
+  },
+  {
+    "id": "tiktok-software-engineer-intern-ads-interface-2-s27",
+    "company": "TikTok",
+    "role_title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n18 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
+    "id": "tiktok-usds-joint-venture-software-engineer-intern-e-commerce-2027-s27",
+    "company": "TikTok USDS Joint Venture",
+    "role_title": "Software Engineer Intern (E-commerce) - 2027 Summer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
   },
   {
     "id": "tsmc-arizona-engineering-intern-12-roles-process-equi-s27",
@@ -4589,6 +5241,27 @@
     "source": "careers"
   },
   {
+    "id": "whatnot-software-engineer-intern-summer-2027-s27",
+    "company": "Whatnot",
+    "role_title": "Software Engineer Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-05",
+    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
+    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Francisco, CA\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
+    "fit_score": 20,
+    "source": "linkedin"
+  },
+  {
     "id": "workiva-inc-summer-2027-intern-software-engineering-s27",
     "company": "Workiva",
     "role_title": "Summer 2027 Intern - Software Engineering",
@@ -4631,14 +5304,14 @@
     "source": "careers"
   },
   {
-    "id": "state-farm-summer-2027-intern-law-washington-dc-clc-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - Washington, DC CLC",
+    "id": "3m-internship-2027-undergraduate-it-intern--s27",
+    "company": "3M",
+    "role_title": "Internship - 2027 Undergraduate IT Intern page is loaded",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45921",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45921",
+    "posting_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1",
+    "application_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4647,19 +5320,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:3M on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:3M"
   },
   {
-    "id": "state-farm-summer-2027-intern-law-st-petersburg-fl--s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - St. Petersburg, FL CLC",
+    "id": "3m-internship-2027-undergraduate-and-master-s27",
+    "company": "3M",
+    "role_title": "Internship - 2027 Undergraduate and Master's Research & Development Intern page is loaded",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45929",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45929",
+    "posting_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-and-Master-s-Research---Development-Intern_R01170405",
+    "application_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-and-Master-s-Research---Development-Intern_R01170405",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4668,19 +5341,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:3M on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:3M"
   },
   {
-    "id": "state-farm-summer-2027-intern-law-mount-laurel-nj-c-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - Mount Laurel, NJ CLC",
+    "id": "caterpillar-2027-summer-corporate-intern-pricing-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Pricing",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45496",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45496",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Pricing_R0000380150",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Pricing_R0000380150",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4689,19 +5362,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "state-farm-summer-2027-intern-law-chicago-il-clc-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - Chicago, IL CLC",
+    "id": "caterpillar-2027-summer-corporate-intern-procurement-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Procurement",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45954",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45954",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4710,19 +5383,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "state-farm-summer-2027-intern-investments-fixed-inc-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Investments - Fixed Income",
+    "id": "caterpillar-2027-summer-corporate-intern-communicati-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Communications",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45633",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45633",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4731,19 +5404,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "state-farm-summer-2027-intern-financial-operations--s27-2",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern \u2013 Financial Operations - Financial & Business Insights",
+    "id": "caterpillar-2027-summer-corporate-intern-manufacturi-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern- Manufacturing",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45476",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45476",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4752,19 +5425,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:State Farm"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "state-farm-summer-2027-intern-law-miami-fl-clc-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - Miami, FL CLC",
+    "id": "caterpillar-2027-summer-corporate-intern-engineering-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Engineering",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45868",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45868",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4773,82 +5446,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "careers:State Farm"
-  },
-  {
-    "id": "state-farm-summer-2027-intern-law-fort-lauderdale-f-s27",
-    "company": "State Farm",
-    "role_title": "Summer 2027 Intern - Law - Fort Lauderdale, FL CLC",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://jobs.statefarm.com/main/jobs/45867",
-    "application_url": "https://jobs.statefarm.com/main/jobs/45867",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:State Farm on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "careers:State Farm"
-  },
-  {
-    "id": "home-depot-2027-summer-internship-human-resources-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - HUMAN RESOURCES",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23783020/2027-summer-internship-human-resources-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23783020/2027-summer-internship-human-resources-onsite/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "careers:Home Depot"
-  },
-  {
-    "id": "home-depot-2027-summer-internship-software-engineer-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - SOFTWARE ENGINEERING",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23777891/2027-summer-internship-software-engineering-remote/",
-    "application_url": "https://careers.homedepot.com/job/23777891/2027-summer-internship-software-engineering-remote/",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 20,
-    "source": "careers:Home Depot"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "home-depot-2027-summer-internship-cybersecurity-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - CYBERSECURITY",
+    "id": "caterpillar-2027-summer-intern-information-technolog-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Intern - Information Technology",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23777892/2027-summer-internship-cybersecurity-remote/",
-    "application_url": "https://careers.homedepot.com/job/23777892/2027-summer-internship-cybersecurity-remote/",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Information-Technology_R0000387802",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Information-Technology_R0000387802",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4857,61 +5467,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:Home Depot"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "home-depot-2027-summer-internship-data-science-anal-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS",
+    "id": "caterpillar-2027-summer-corporate-intern-marketing-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Marketing",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/",
-    "tier": 2,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
-    "fit_score": 80,
-    "source": "careers:Home Depot"
-  },
-  {
-    "id": "home-depot-2027-summer-internship-product-managemen-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - PRODUCT MANAGEMENT",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23777889/2027-summer-internship-product-management-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23777889/2027-summer-internship-product-management-onsite/",
-    "tier": 2,
-    "category": "PM",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "careers:Home Depot"
-  },
-  {
-    "id": "home-depot-2027-summer-internship-business-operatio-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - BUSINESS OPERATIONS & MANAGEMENT",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23778246/2027-summer-internship-business-operations-management-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23778246/2027-summer-internship-business-operations-management-onsite/",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4920,19 +5488,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:Home Depot"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "home-depot-2027-summer-internship-user-experience-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - USER EXPERIENCE",
+    "id": "caterpillar-2027-summer-corporate-intern-supply-chai-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern- Supply Chain",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23783021/2027-summer-internship-user-experience/",
-    "application_url": "https://careers.homedepot.com/job/23783021/2027-summer-internship-user-experience/",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Supply-Chain_R0000380457",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Supply-Chain_R0000380457",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4941,19 +5509,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:Home Depot"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "home-depot-2027-summer-internship-supply-chain-and--s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - SUPPLY CHAIN AND LOGISTICS",
+    "id": "caterpillar-2027-summer-corporate-intern-information-s27",
+    "company": "Caterpillar",
+    "role_title": "2027 Summer Corporate Intern - Information Technology",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23778684/2027-summer-internship-supply-chain-and-logistics-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23778684/2027-summer-internship-supply-chain-and-logistics-onsite/",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Information-Technology_R0000383086-1",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Information-Technology_R0000383086-1",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4962,19 +5530,19 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Caterpillar on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:Home Depot"
+    "source": "careers:Caterpillar"
   },
   {
-    "id": "home-depot-2027-summer-internship-marketing-s27",
-    "company": "Home Depot",
-    "role_title": "2027 SUMMER INTERNSHIP - MARKETING",
+    "id": "raymond-james-2027-clark-capital-mentoring-internship--s27",
+    "company": "Raymond James",
+    "role_title": "2027 Clark Capital Mentoring/Internship Program",
     "season": "Summer 2027",
     "listing_status": "open",
     "verified_at": "2026-09-05",
-    "posting_url": "https://careers.homedepot.com/job/23778683/2027-summer-internship-marketing-onsite/",
-    "application_url": "https://careers.homedepot.com/job/23778683/2027-summer-internship-marketing-onsite/",
+    "posting_url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
+    "application_url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
     "tier": 2,
     "category": "SWE",
     "degree_level": [
@@ -4983,428 +5551,8 @@
     "location": "United States",
     "work_model": "Onsite",
     "application_status": "Not started",
-    "notes": "Found via careers:Home Depot on 2026-09-05. Re-verify before applying.",
+    "notes": "Found via careers:Raymond James on 2026-09-05. Re-verify before applying.",
     "fit_score": 0,
-    "source": "careers:Home Depot"
-  },
-  {
-    "id": "procter-gamble-research-development-scientist-engineer--s27",
-    "company": "Procter & Gamble",
-    "role_title": "Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
-    "application_url": "https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "careers:Procter & Gamble"
-  },
-  {
-    "id": "procter-gamble-manufacturing-internship-summer-2027-s27",
-    "company": "Procter & Gamble",
-    "role_title": "Manufacturing Internship, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027",
-    "application_url": "https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "careers:Procter & Gamble"
-  },
-  {
-    "id": "procter-gamble-engineering-internship-summer-2027-s27",
-    "company": "Procter & Gamble",
-    "role_title": "Engineering Internship, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027",
-    "application_url": "https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Procter & Gamble on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "careers:Procter & Gamble"
-  },
-  {
-    "id": "spectrum-2027-summer-intern-software-engineer-s27",
-    "company": "Spectrum",
-    "role_title": "2027 Summer Intern: Software Engineer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Greenwood Village, CO\nBe an early applicant\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "tiktok-software-engineer-intern-ads-interface-2-s27",
-    "company": "TikTok",
-    "role_title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA\n18 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "pepsico-2027-summer-intern-technology-software-d-s27",
-    "company": "PepsiCo",
-    "role_title": "2027 Summer Intern: Technology Software Development & Engineering",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Plano, TX\n2 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "tiktok-usds-joint-venture-software-engineer-intern-e-commerce-2027-s27",
-    "company": "TikTok USDS Joint Venture",
-    "role_title": "Software Engineer Intern (E-commerce) - 2027 Summer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "delta-air-lines-intern-it-digital-and-technology-atl-sum-s27",
-    "company": "Delta Air Lines",
-    "role_title": "Intern, IT - Digital and Technology - ATL (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
-    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Atlanta, GA\n21 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "linkedin"
-  },
-  {
-    "id": "delta-air-lines-intern-it-digital-and-technology-msp-sum-s27",
-    "company": "Delta Air Lines",
-    "role_title": "Intern, IT - Digital and Technology - MSP (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
-    "application_url": "https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Minneapolis, MN\n21 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "linkedin"
-  },
-  {
-    "id": "marathon-petroleum-corporation-intern-co-op-digital-information-technol-s27",
-    "company": "Marathon Petroleum Corporation",
-    "role_title": "Intern/Co-op - Digital/Information Technology (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
-    "application_url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Antonio, TX\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "linkedin"
-  },
-  {
-    "id": "optiver-software-engineer-intern-summer-2027-aus-s27",
-    "company": "Optiver",
-    "role_title": "Software Engineer Intern (Summer 2027 - Austin)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-austin-at-optiver-4432396869",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Austin, TX\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "whatnot-software-engineer-intern-summer-2027-s27",
-    "company": "Whatnot",
-    "role_title": "Software Engineer Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Francisco, CA\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "adobe-2027-intern-software-engineer-s27",
-    "company": "Adobe",
-    "role_title": "2027 Intern - Software Engineer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "spectrum-2027-summer-intern-mobile-device-enginee-s27",
-    "company": "Spectrum",
-    "role_title": "2027 Summer Intern: Mobile Device Engineer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Greenwood Village, CO\nBe an early applicant\n17 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "stellantis-2027-tech-research-intern-s27",
-    "company": "Stellantis",
-    "role_title": "2027 Tech Research Intern",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Auburn Hills, MI\n3 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "linkedin"
-  },
-  {
-    "id": "stellantis-2027-technical-software-intern-s27",
-    "company": "Stellantis",
-    "role_title": "2027 Technical Software Intern",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
-    "application_url": "https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Auburn Hills, MI\n3 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "amazon-software-development-engineer-intern-rob-s27",
-    "company": "Amazon",
-    "role_title": "Software Development Engineer Intern, ROBOTICS - 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
-    "application_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Middlesex County, MA\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "bytedance-software-engineer-intern-relational-data-s27",
-    "company": "ByteDance",
-    "role_title": "Software Engineer Intern (Relational Database) - 2027 Summer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "minimed-software-engineering-intern-summer-2027-s27",
-    "company": "MiniMed",
-    "role_title": "Software Engineering Intern Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Los Angeles, CA\n22 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "rivian-and-volkswagen-group-technologies-software-engineering-intern-applications-s27",
-    "company": "Rivian and Volkswagen Group Technologies",
-    "role_title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Palo Alto, CA\nBe an early applicant\n12 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
+    "source": "careers:Raymond James"
   }
 ]

@@ -252,6 +252,7 @@ async def async_main(mode: str) -> int:
     save_json(OPENINGS, opens)
     meta = load_json(META, {})
     meta["last_full_verify"] = TODAY
+    meta["last_cron_scan"] = TODAY
     meta["last_active_scan"] = TODAY
     meta["last_scan_mode"] = mode
     meta["last_scan_added"] = len(added)

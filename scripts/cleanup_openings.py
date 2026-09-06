@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from fit_filters import category_for, dedupe_openings, fit_score  # noqa: E402
+from fit_filters import category_for, dedupe_openings, fit_score, looks_candidate  # noqa: E402
 
 OPENINGS = ROOT / "data" / "openings.json"
 
@@ -18,6 +18,11 @@ def main() -> None:
     openings = json.loads(OPENINGS.read_text())
     before = len(openings)
 
+    openings = [
+        o
+        for o in openings
+        if looks_candidate(o["company"], o["role_title"], o.get("location", ""))
+    ]
     for o in openings:
         o["category"] = category_for(o["company"], o["role_title"])
         o["fit_score"] = fit_score(o["company"], o["role_title"], o.get("location", ""))

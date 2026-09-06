@@ -218,7 +218,13 @@ def looks_candidate(
         title_text,
     ):
         return False
-    if re.search(r"master'?s|mba|ph\.?d|graduate student only", title_text) and not re.search(
+    # "undergraduate" contains the letters "graduate" — use a word-boundary so
+    # Campus Graduate / graduate intern is rejected, undergrad titles are not.
+    if re.search(r"\bgraduate\b", title_text) and not re.search(
+        r"bachelor|undergrad|\bbs\b", title_text
+    ):
+        return False
+    if re.search(r"master'?s|mba|ph\.?d", title_text) and not re.search(
         r"bachelor|undergrad|\bbs\b", title_text
     ):
         return False
