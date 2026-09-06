@@ -11,9 +11,9 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (266)
+## Open — Apply now (274)
 
-### AI/ML (33)
+### AI/ML (35)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -25,7 +25,9 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Finastra | AI Engineer Intern | AI/ML | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) |
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
+| PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
 | RTX | Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Onsite) | AI/ML | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027) |
+| Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | UBS | 2027 Summer Internship – Asset Management AI Transformation – NY / CHI | AI/ML | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=350514&PageType=JobDetails&partnerid=25008&siteid=5131) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
@@ -89,7 +91,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (196)
+### SWE (202)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -158,8 +160,10 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | CesiumAstro | Embedded Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) |
 | CesiumAstro | Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
+| Cvent | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-cvent-4460032275) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
+| Daikin Comfort | Data Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-daikin-comfort-4461323768) |
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
@@ -233,6 +237,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | PDT Partners | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | PepsiCo | 2027 Summer Intern: Technology Software Development & Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997) |
 | PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | SWE | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
+| Post Consumer Brands | Data Engineering Intern (2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-2027-at-post-consumer-brands-4461786148) |
 | Procter & Gamble | Engineering Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027) |
 | Procter & Gamble | Manufacturing Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027) |
 | Procter & Gamble | Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors) |
@@ -248,8 +253,11 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Shure | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-shure-4461391646) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
 | SpaceX | Software Engineering Internship/Co-op | SWE | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
+| Spectrum | 2027 Summer Intern: Advanced Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-advanced-technology-at-spectrum-4463335285) |
 | Spectrum | 2027 Summer Intern: Mobile Device Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300) |
+| Spectrum | 2027 Summer Intern: Platforms Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-platforms-engineer-at-spectrum-4463340160) |
 | Spectrum | 2027 Summer Intern: Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630) |
+| SportAtlas | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-sportatlas-4463197668) |
 | SRC, Inc | Software Engineer (Intern) | SWE | [Apply](https://jobs.jobvite.com/src-inc/job/o4lHAfwq) |
 | State Farm | Intern - Investments - Fixed Income | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45633) |
 | State Farm | Intern - Law - Chicago, IL CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45954) |
