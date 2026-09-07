@@ -11,7 +11,7 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (285)
+## Open — Apply now (286)
 
 ### AI/ML (35)
 
@@ -29,7 +29,6 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | RTX | Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Onsite) | AI/ML | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027) |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
-| UBS | 2027 Summer Internship – Asset Management AI Transformation – NY / CHI | AI/ML | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=350514&PageType=JobDetails&partnerid=25008&siteid=5131) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | Advanced Space | 2027 Machine Learning Summer Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
 | AeroVironment | Machine Learning Intern | AI/ML | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
@@ -45,6 +44,7 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | F.N.B. Corporation | Data Science Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) |
 | Home Depot | 2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS | AI/ML | [Apply](https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/) |
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
+| JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498) |
 | JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
@@ -91,7 +91,7 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (213)
+### SWE (214)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -253,6 +253,7 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | Procter & Gamble | Engineering Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027) |
 | Procter & Gamble | Manufacturing Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027) |
 | Procter & Gamble | Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors) |
+| PwC | Data & Analytics Technology Consulting Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/data-analytics-technology-consulting-intern-summer-2027-at-pwc-4463184815) |
 | Raymond James | 2027 Clark Capital Mentoring/Internship Program | SWE | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348) |
 | Roblox | \[Summer 2027] Software Engineer Intern | SWE | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |

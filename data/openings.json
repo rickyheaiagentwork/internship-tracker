@@ -397,27 +397,6 @@
     "source": "careers"
   },
   {
-    "id": "ubs-2027-summer-internship-asset-management--s27",
-    "company": "UBS",
-    "role_title": "2027 Summer Internship \u2013 Asset Management AI Transformation \u2013 NY / CHI",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-07",
-    "posting_url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=350514&PageType=JobDetails&partnerid=25008&siteid=5131",
-    "application_url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=350514&PageType=JobDetails&partnerid=25008&siteid=5131",
-    "tier": 1,
-    "category": "AI/ML",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY / Chicago, IL)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Verified Summer 2027 US undergrad posting. Re-verify before applying.",
-    "fit_score": 150,
-    "source": "careers"
-  },
-  {
     "id": "workiva-inc-summer-2027-intern-machine-learning-engi-s27",
     "company": "Workiva",
     "role_title": "Summer 2027 Intern - Machine Learning Engineering",
@@ -465,7 +444,7 @@
     "role_title": "2027 Machine Learning Summer Internship",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-06",
+    "verified_at": "2026-09-07",
     "posting_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
     "application_url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
     "tier": 2,
@@ -1900,7 +1879,7 @@
     "role_title": "Microsoft Power Platform & AI Intern (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-06",
+    "verified_at": "2026-09-07",
     "posting_url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002",
     "application_url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002",
     "tier": 2,
@@ -4727,7 +4706,7 @@
     "role_title": "Product Manager Intern, Signal and Identity Product (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-06",
+    "verified_at": "2026-09-07",
     "posting_url": "https://lifeattiktok.com/search/7672554809555192117",
     "application_url": "https://lifeattiktok.com/search/7672554809555192117",
     "tier": 2,
@@ -5953,5 +5932,47 @@
     "notes": "Found via careers:BD on 2026-09-07. Re-verify before applying.",
     "fit_score": 0,
     "source": "careers:BD"
+  },
+  {
+    "id": "jpmorganchase-2027-data-ai-program-summer-internship-a-s27",
+    "company": "JPMorganChase",
+    "role_title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-07. Re-verify before applying.",
+    "fit_score": 80,
+    "source": "linkedin"
+  },
+  {
+    "id": "pwc-data-analytics-technology-consulting-int-s27",
+    "company": "PwC",
+    "role_title": "Data & Analytics Technology Consulting Intern - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/data-analytics-technology-consulting-intern-summer-2027-at-pwc-4463184815",
+    "application_url": "https://www.linkedin.com/jobs/view/data-analytics-technology-consulting-intern-summer-2027-at-pwc-4463184815",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Philadelphia, PA\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-07. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "linkedin"
   }
 ]
