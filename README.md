@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-06**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-07**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (278)
+## Open — Apply now (285)
 
 ### AI/ML (35)
 
@@ -91,7 +91,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (206)
+### SWE (213)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -126,7 +126,15 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Arrowstreet Capital | Quantitative Researcher Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
 | Atlassian | Software Engineer Intern, 2027 Summer U.S. | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-2027-summer-u-s-at-atlassian-4462069578) |
 | Auto-Owners Insurance | Software Developer Internship | SWE | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
+| BAE Systems | Additive Manufacturing Intern II (Onsite) | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129369BR/Additive-Manufacturing-Intern-II-Summer-2027-Onsite) |
+| BAE Systems | Mechanical Engineering Intern III (Onsite) | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129311BR/Mechanical-Engineering-Intern-III-Summer-2027-Onsite) |
 | BAE Systems | Software Engineering Intern I | SWE | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) |
+| BAE Systems | Software Engineering Intern II, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite) |
+| BAE Systems | Software Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027) |
+| BAE Systems | Software Engineering Intern IV, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite) |
+| BD | BD 2027 Summer Internship - Edge Program - Technology & Digital Services (TDS) | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-edge-program-technology-and-digital-services-tds/159/99991853376) |
+| BD | BD 2027 Summer Internship - Finance Leadership Development Program (FLDP) Summer Analyst | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-finance-leadership-development-program-fldp-summer-analyst/159/99988267520) |
+| BD | BD 2027 Summer Internship - Quality Engineering Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-quality-engineering-development-program/159/100177796656) |
 | BlackRock | 2027 Mexico City Internship Program Location: Mexico City, Mexico City Additional Locations: Mexico City Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/mexico-city/2027-mexico-city-internship-program/45831/97843197600) |
 | BlackRock | 2027 Summer Internship Program - APAC Location: Hong Kong SAR Additional Locations: Hong Kong, Singapore, Taipei, Tokyo Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/hong-kong-sar/2027-summer-internship-program-apac/45831/90599500992) |
 | BLUE ORIGIN | Avionics Software Internship - Undergraduate | SWE | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) |
@@ -248,7 +256,6 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Raymond James | 2027 Clark Capital Mentoring/Internship Program | SWE | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462364348) |
 | Roblox | \[Summer 2027] Software Engineer Intern | SWE | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
-| RTX | Software Engineering Intern | SWE | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432) |
 | Sage | Software Engineering Intern (Full Stack) | SWE | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131185004) |
 | Salesforce | Software Engineer Intern (Futureforce) 🔒 | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | Salesforce | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineer-at-salesforce-4460511031) |
