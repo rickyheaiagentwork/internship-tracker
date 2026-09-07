@@ -11,7 +11,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (274)
+## Open — Apply now (278)
 
 ### AI/ML (35)
 
@@ -91,7 +91,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (202)
+### SWE (206)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -108,6 +108,7 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Advanced Space | 2027 Software Engineering Summer Internship | SWE | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) |
 | AeroVironment | Embedded Software Engineering Intern | SWE | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
 | AeroVironment | Software Engineering Intern | SWE | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
+| AIG | 2027 Early Careers: Summer Intern, Finance | SWE | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Finance--United-States--New-York--NY_JR2603641-1) |
 | Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | SWE | [Apply](https://akunacapital.com/careers/job/8018847/) |
 | Akuna Capital | Software Engineer Intern — Python | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
@@ -220,6 +221,9 @@ Verified **2026-09-06**. Every role below was found by **active search** (Linked
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | MiniMed | Software Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124) |
 | MSA, The Safety Company | Intern: Software Engineer, Product Development | SWE | [Apply](https://careers.msasafety.com/jobs/9993) |
+| Nationwide | Economics Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) |
+| Nationwide | Surety Claims Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052) |
+| Nationwide | Surety Underwriting Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043) |
 | New York Life | 2027 TDAV Summer Internship - Software Engineer Intern | SWE | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-Software-Engineer-Intern-NY-10001/1414420800/) |
 | Newrez LLC | 2027 Summer Internship - Software Developer | SWE | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) |
 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-nike-4461551447) |

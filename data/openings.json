@@ -5722,5 +5722,89 @@
     "notes": "Found via linkedin on 2026-09-06. Re-verify before applying.",
     "fit_score": 100,
     "source": "linkedin"
+  },
+  {
+    "id": "aig-2027-early-careers-summer-intern-finance-s27",
+    "company": "AIG",
+    "role_title": "2027 Early Careers: Summer Intern, Finance\u2013",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-06",
+    "posting_url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Finance--United-States--New-York--NY_JR2603641-1",
+    "application_url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Finance--United-States--New-York--NY_JR2603641-1",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:AIG on 2026-09-06. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:AIG"
+  },
+  {
+    "id": "nationwide-summer-2027-surety-claims-intern-page-is-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Surety Claims Intern page is loaded",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-06",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-09-06. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Nationwide"
+  },
+  {
+    "id": "nationwide-summer-2027-surety-underwriting-intern-p-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Surety Underwriting Intern page is loaded",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-06",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-09-06. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Nationwide"
+  },
+  {
+    "id": "nationwide-summer-2027-economics-internship-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Economics Internship",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-06",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-09-06. Re-verify before applying.",
+    "fit_score": 0,
+    "source": "careers:Nationwide"
   }
 ]
