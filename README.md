@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-07**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-08**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (286)
+## Open — Apply now (281)
 
-### AI/ML (35)
+### AI/ML (34)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -26,7 +26,6 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
 | PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
-| RTX | Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Onsite) | AI/ML | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027) |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
@@ -91,7 +90,7 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (214)
+### SWE (210)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -224,9 +223,6 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | Mastercard | Platform Engineering Intern – St. Louis, MO, US | SWE | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868) |
 | McKesson | Software Engineer Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469) |
 | Medline | Software Engineering Intern | SWE | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | MiniMed | Software Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124) |
 | MSA, The Safety Company | Intern: Software Engineer, Product Development | SWE | [Apply](https://careers.msasafety.com/jobs/9993) |
 | Nationwide | Economics Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) |
@@ -301,7 +297,6 @@ Verified **2026-09-07**. Every role below was found by **active search** (Linked
 | Vermeer Corporation | Embedded Software Engineer Internship Summer 2027 | SWE | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) |
 | Vermeer Corporation | IT Software Engineer Internship Summer 2027 | SWE | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
-| Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-syseng-software-engineer-mountain-view-california-united-states) |
 | Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
 | Wells Fargo | 2027 Human Resources Internship – Early Careers | SWE | [Apply](https://www.wellsfargojobs.com/en/jobs/r-555463/2027-human-resources-internship-early-careers/) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
