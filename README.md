@@ -11,7 +11,7 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (281)
+## Open — Apply now (298)
 
 ### AI/ML (34)
 
@@ -52,12 +52,15 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
-### Bio-AI (2)
+### Bio-AI (5)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Genentech | 2027 Spring Intern - Pharmaceutical Development | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-development-at-genentech-4463643063) |
+| Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-technical-development-laboratory-wet-lab-or-dry-lab-focus-at-genentech-4463694613) |
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
+| Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
 ### Finance (26)
 
@@ -90,17 +93,26 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (210)
+### SWE (224)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Amgen | Undergrad Intern - Operations - New Albany, OH | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-new-albany-oh-summer-2027-at-amgen-4462406755) |
+| Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
+| AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
 | Medtronic | Software Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
+| Merck | 2027 Future Talent Program - Systems Biology - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-systems-biology-intern-at-merck-4464437903) |
+| Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
+| Moderna | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-moderna-4463647945) |
+| Roche | 2027 Summer Intern - Quality, Regulatory, and External Affairs (QR&E) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quality-regulatory-and-external-affairs-qr-e-at-roche-4462792461) |
 | Stryker | Internship - Software Engineering - California | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
 | Stryker | Internship - Software Engineering - Florida | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) |
 | Stryker | Internship - Software Engineering - Indiana | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) |
 | Stryker | Internship - Software Engineering - Michigan | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
+| Stryker | Internship - Statistical Programming - California | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-statistical-programming-california-at-stryker-4460927625) |
+| 3M | Internship - 2027 Undergraduate and Master's Research & Development Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/internship-2027-undergraduate-and-master-s-research-development-intern-at-3m-4459586352) |
 | 3M | Internship - 2027 Undergraduate and Master's Research & Development Intern page is loaded | SWE | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-and-Master-s-Research---Development-Intern_R01170405) |
 | 3M | Internship - 2027 Undergraduate IT Intern page is loaded | SWE | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1) |
 | Adobe | 2027 Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4461925171) |
@@ -110,6 +122,7 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | AIG | 2027 Early Careers: Summer Intern, Finance | SWE | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Finance--United-States--New-York--NY_JR2603641-1) |
 | Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | SWE | [Apply](https://akunacapital.com/careers/job/8018847/) |
 | Akuna Capital | Software Engineer Intern — Python | SWE | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| Alcon | 2027 Chemistry, Materials & Life Sciences Interns | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-chemistry-materials-life-sciences-interns-at-alcon-4463117919) |
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | SWE | [Apply](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
 | Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-robotics-2027-at-amazon-4463350432) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-charlotte-nc-at-american-express-4460225589) |
@@ -131,9 +144,12 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | BAE Systems | Software Engineering Intern II, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite) |
 | BAE Systems | Software Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027) |
 | BAE Systems | Software Engineering Intern IV, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite) |
+| Battelle | Data Modeler/Engineering Programmer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/data-modeler-engineering-programmer-intern-summer-2027-at-battelle-4462732690) |
 | BD | BD 2027 Summer Internship - Edge Program - Technology & Digital Services (TDS) | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-edge-program-technology-and-digital-services-tds/159/99991853376) |
 | BD | BD 2027 Summer Internship - Finance Leadership Development Program (FLDP) Summer Analyst | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-finance-leadership-development-program-fldp-summer-analyst/159/99988267520) |
 | BD | BD 2027 Summer Internship - Quality Engineering Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-quality-engineering-development-program/159/100177796656) |
+| BioSpace | Intern, CMC Development | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-cmc-development-summer-2027-at-biospace-4462744967) |
+| BioSpace | Undergrad Intern - Operations - New Albany, OH | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-new-albany-oh-summer-2027-at-biospace-4463699732) |
 | BlackRock | 2027 Mexico City Internship Program Location: Mexico City, Mexico City Additional Locations: Mexico City Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/mexico-city/2027-mexico-city-internship-program/45831/97843197600) |
 | BlackRock | 2027 Summer Internship Program - APAC Location: Hong Kong SAR Additional Locations: Hong Kong, Singapore, Taipei, Tokyo Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/hong-kong-sar/2027-summer-internship-program-apac/45831/90599500992) |
 | BLUE ORIGIN | Avionics Software Internship - Undergraduate | SWE | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) |
@@ -168,6 +184,7 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | CesiumAstro | Embedded Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) |
 | CesiumAstro | Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
+| Colossal Biosciences | Internships - General Interest Posting | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-general-interest-posting-at-colossal-biosciences-4460644733) |
 | Cvent | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-cvent-4460032275) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
