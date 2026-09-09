@@ -63,8 +63,8 @@
   "last_cron_scan": "2026-09-08",
   "last_cron_added": 0,
   "last_active_scan": "2026-09-08",
-  "last_scan_mode": "linkedin",
-  "last_scan_added": 17,
-  "last_scan_removed": 0,
+  "last_scan_mode": "careers",
+  "last_scan_added": 0,
+  "last_scan_removed": 17,
   "search_method": "active: LinkedIn + company careers (no seed lists)"
 }

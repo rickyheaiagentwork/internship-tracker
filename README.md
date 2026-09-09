@@ -11,9 +11,9 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (298)
+## Open — Apply now (281)
 
-### AI/ML (34)
+### AI/ML (33)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -48,7 +48,6 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 | Polaris Inc. | Digital & IT - Predictive Data Science Internship | AI/ML | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) |
-| Post Consumer Brands | Data Science Intern | AI/ML | [Apply](https://jobs.postholdings.com/careers-home/jobs/31961) |
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
@@ -62,7 +61,7 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
-### Finance (26)
+### Finance (23)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -82,9 +81,6 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | New York Life | 2027 New York Life Investment Management - Investment Research & Analysis Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-investment-research-analysis-internship-at-new-york-life-4459867790) |
 | Point72 | Quantitative Research Intern | Finance | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
 | Standard Chartered | Markets Intern US 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
-| State Farm | Intern - Financial Operations - Data Analytics | Finance | [Apply](https://jobs.statefarm.com/main/jobs/45477) |
-| Susquehanna | Macro Analyst Intern (June start) 🛂 | Finance | [Apply](https://careers.sig.com/jobs/10725) |
-| Susquehanna | Quantitative Strategy Developer Intern (June start) | Finance | [Apply](https://careers.sig.com/jobs/10838) |
 | UBS | 2027 Summer Internship - Equity Research - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622) |
 | UBS | 2027 Summer Internship - Global Research (HOLT) - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566) |
 | UBS | 2027 Summer Internship – Global Research Evidence Lab – New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562) |
@@ -93,7 +89,7 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (224)
+### SWE (211)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -130,9 +126,6 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4460217705) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
-| Apple | 2027 Apple Internship - Information Systems and Technology | SWE | [Apply](https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=SFTWR) |
-| Apple | Applied Data Solutions Program, Internships | SWE | [Apply](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) |
-| Apple | Intern Opportunities at Apple (General) - October 2026 to September 2027 | SWE | [Apply](https://jobs.apple.com/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027?team=STDNT) |
 | Aquatic Capital | Quantitative Researcher Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Aquatic Capital Management | Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Arrowstreet Capital | Quantitative Researcher Intern | SWE | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
@@ -241,7 +234,6 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | McKesson | Software Engineer Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469) |
 | Medline | Software Engineering Intern | SWE | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
 | MiniMed | Software Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124) |
-| MSA, The Safety Company | Intern: Software Engineer, Product Development | SWE | [Apply](https://careers.msasafety.com/jobs/9993) |
 | Nationwide | Economics Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) |
 | Nationwide | Surety Claims Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052) |
 | Nationwide | Surety Underwriting Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043) |
@@ -284,19 +276,10 @@ Verified **2026-09-08**. Every role below was found by **active search** (Linked
 | Spectrum | 2027 Summer Intern: Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630) |
 | SportAtlas | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-sportatlas-4463197668) |
 | SRC, Inc | Software Engineer (Intern) | SWE | [Apply](https://jobs.jobvite.com/src-inc/job/o4lHAfwq) |
-| State Farm | Intern - Investments - Fixed Income | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45633) |
-| State Farm | Intern - Law - Chicago, IL CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45954) |
-| State Farm | Intern - Law - Fort Lauderdale, FL CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45867) |
-| State Farm | Intern - Law - Miami, FL CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45868) |
-| State Farm | Intern - Law - Mount Laurel, NJ CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45496) |
-| State Farm | Intern - Law - St. Petersburg, FL CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45929) |
-| State Farm | Intern - Law - Washington, DC CLC | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45921) |
-| State Farm | Intern – Financial Operations - Financial & Business Insights | SWE | [Apply](https://jobs.statefarm.com/main/jobs/45476) |
 | Stellantis | 2027 Business Software Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-software-internship-at-stellantis-4462128173) |
 | Stellantis | 2027 Information & Communication Technology (ICT) Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-communication-technology-ict-summer-internship-at-stellantis-4462133041) |
 | Stellantis | 2027 Tech Research Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-tech-research-intern-at-stellantis-4462135010) |
 | Stellantis | 2027 Technical Software Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-technical-software-intern-at-stellantis-4462124234) |
-| Susquehanna | Operations Intern (June start) | SWE | [Apply](https://careers.sig.com/jobs/10916) |
 | Teledyne Technologies Incorporated | EADSIM Software Engineering Intern | SWE | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
 | Teledyne Technologies Incorporated | NHRC Software Engineering Internship | SWE | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) |
 | TELUS Digital | Software Engineering Intern (US) | SWE | [Apply](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11) |
