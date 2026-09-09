@@ -11,7 +11,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (285)
+## Open — Apply now (315)
 
 ### AI/ML (33)
 
@@ -51,12 +51,14 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
-### Bio-AI (5)
+### Bio-AI (7)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Genentech | 2027 Spring Intern - Pharmaceutical Development | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-development-at-genentech-4463643063) |
 | Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-technical-development-laboratory-wet-lab-or-dry-lab-focus-at-genentech-4463694613) |
+| Medpace | Clinical Informatics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/clinical-informatics-intern-summer-2027-at-medpace-4463529097) |
+| Medpace | Feasibility Informatics Internship/Co-Op Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/feasibility-informatics-internship-co-op-summer-2027-at-medpace-4463519962) |
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
@@ -89,7 +91,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (213)
+### SWE (239)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -97,6 +99,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
 | AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
+| Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
 | Medtronic | Software Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
 | Merck | 2027 Future Talent Program - Systems Biology - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-systems-biology-intern-at-merck-4464437903) |
@@ -178,6 +181,10 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | CesiumAstro | Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
 | Colossal Biosciences | Internships - General Interest Posting | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-general-interest-posting-at-colossal-biosciences-4460644733) |
+| Cretex Medical Component and Device Technologies | Industrial Engineering Intern (Stamping) Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-stamping-summer-2027-at-cretex-medical-component-and-device-technologies-4461952251) |
+| Cretex Medical Component and Device Technologies | Manufacturing Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461945867) |
+| Cretex Medical Component and Device Technologies | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461947333) |
+| Cretex Medical Component and Device Technologies | Quality Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461959160) |
 | Cvent | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-cvent-4460032275) |
 | D. E. Shaw | Software Developer Intern (New York) | SWE | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | D. E. Shaw | Systems Engineering Intern | SWE | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
@@ -304,8 +311,29 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | Whatnot | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-whatnot-4460094745) |
 | Workiva | Intern - Software Engineering | SWE | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) |
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
+| Cretex Medical | Manufacturing Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461407600) |
+| Cretex Medical | Quality Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461413151) |
+| Cretex Medical Component and Device Technologies | Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/automation-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461947341) |
+| Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
 | Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
+| Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
 | Microsoft | National Technology Intern France, Paris, Paris | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
+| MiniMed | Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-minimed-4463604176) |
+| MiniMed | Operations Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-engineering-intern-summer-2027-at-minimed-4463394813) |
+| MiniMed | Quality Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-summer-2027-at-minimed-4463399512) |
+| Momentive | Intern - Global Quality Management System | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-global-quality-management-system-at-momentive-4462794021) |
+| Momentive | Intern - Software Development | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-development-at-momentive-4462783766) |
+| Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
+| Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
+| Plexus Corp. | Intern - Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-automation-engineer-summer-2027-at-plexus-corp-4462100570) |
+| Plexus Corp. | Intern - Mechanical Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-mechanical-engineer-summer-2027-at-plexus-corp-4462110334) |
+| Plexus Corp. | Intern - Process Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-process-engineer-summer-2027-at-plexus-corp-4462102570) |
+| Plexus Corp. | Intern - Product Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-product-engineer-summer-2027-at-plexus-corp-4462111563) |
+| Plexus Corp. | Intern - Quality Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-quality-engineer-summer-2027-at-plexus-corp-4462108392) |
+| Plexus Corp. | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-plexus-corp-4462096984) |
+| Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
+| Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
+| Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
 ### PM (9)
 
@@ -321,12 +349,14 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 
-### Other (2)
+### Other (4)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Google | Information Technology Apprenticeship February 2027 Start | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/127161382939304646-information-technology-apprenticeship-february-2027-start) |
+| Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
+| Plexus Corp. | Intern - Site IT | Other | [Apply](https://www.linkedin.com/jobs/view/intern-site-it-summer-2027-at-plexus-corp-4462442781) |
 ---
 
 ## How updates work
