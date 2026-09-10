@@ -6620,5 +6620,27 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "qualcomm-interim-engineering-intern-2027-hw-banga-s27",
+    "company": "Qualcomm",
+    "role_title": "Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-09",
+    "posting_url": "https://careers.qualcomm.com/careers/job/446719784824",
+    "application_url": "https://careers.qualcomm.com/careers/job/446719784824",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Qualcomm on 2026-09-09. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Qualcomm"
   }
 ]

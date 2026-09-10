@@ -11,7 +11,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (315)
+## Open — Apply now (316)
 
 ### AI/ML (33)
 
@@ -91,7 +91,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (239)
+### SWE (240)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -332,6 +332,7 @@ Verified **2026-09-09**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Quality Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-quality-engineer-summer-2027-at-plexus-corp-4462108392) |
 | Plexus Corp. | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-plexus-corp-4462096984) |
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
+| Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
 | Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
