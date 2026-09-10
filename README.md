@@ -11,7 +11,7 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (322)
+## Open — Apply now (337)
 
 ### AI/ML (34)
 
@@ -64,10 +64,11 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
-### Finance (23)
+### Finance (24)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| New York Life Investment Management | 2027 New York Life Investment Management - AI & Data Science Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-ai-data-science-internship-at-new-york-life-investment-management-4463131883) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-pricing-strategy-global-merchant-network-services-new-york-ny-at-american-express-4449779401) |
@@ -92,7 +93,7 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (245)
+### SWE (254)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -317,11 +318,19 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Adobe | 2027 Intern - Solutions Consulting Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | Autodesk | Software Engineering Intern Summer 2027 | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
+| Barclays Bank US | 2027 Risk Analyst Summer Internship Program Wilmington | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-risk-analyst-summer-internship-program-wilmington-at-barclays-bank-us-4461484231) |
+| Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
 | Cretex Medical | Manufacturing Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461407600) |
 | Cretex Medical | Quality Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461413151) |
 | Cretex Medical Component and Device Technologies | Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/automation-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461947341) |
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
+| Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
 | Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
+| JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
+| JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
+| JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
+| JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
+| Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
 | Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
 | Microsoft | National Technology Intern France, Paris, Paris | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
 | MiniMed | Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-minimed-4463604176) |
@@ -339,6 +348,7 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-plexus-corp-4462096984) |
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
 | Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
+| U.S. Bank | 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-modeling-summer-intern-at-u-s-bank-4464666364) |
 | Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
@@ -356,12 +366,17 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 
-### Other (4)
+### Other (9)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
+| Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/quantitative-data-analytics-summer-analyst-program-2027-at-bank-of-america-4463887968) |
+| Ally | Internship – Auto Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-auto-data-analytics-at-ally-4463232564) |
+| Ally | Internship – Insurance Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531) |
 | Google | Information Technology Apprenticeship February 2027 Start | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/127161382939304646-information-technology-apprenticeship-february-2027-start) |
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
+| Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | Plexus Corp. | Intern - Site IT | Other | [Apply](https://www.linkedin.com/jobs/view/intern-site-it-summer-2027-at-plexus-corp-4462442781) |
 ---
