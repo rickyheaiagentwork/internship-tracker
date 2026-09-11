@@ -11,7 +11,7 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (337)
+## Open — Apply now (346)
 
 ### AI/ML (34)
 
@@ -52,14 +52,19 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
-### Bio-AI (7)
+### Bio-AI (12)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Genentech | 2027 Spring Intern - Pharma Technical Development - Device Development | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202608-122145/2027-Spring-Intern-Pharma-Technical-Development-Device-Development) |
+| Genentech | 2027 Spring Intern - Pharma Technical Development - Engineering and Manufacturing Focus | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202608-121946/2027-Spring-Intern-Pharma-Technical-Development-Engineering-and-Manufacturing-Focus) |
+| Genentech | 2027 Spring Intern - Pharma Technical Development - Global Clinical Manufacturing Network | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202609-122477/2027-Spring-Intern-Pharma-Technical-Development-Global-Clinical-Manufacturing-Network) |
 | Genentech | 2027 Spring Intern - Pharmaceutical Development | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-development-at-genentech-4463643063) |
+| Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202609-122484/2027-Spring-Intern-Pharmaceutical-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab) |
 | Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-technical-development-laboratory-wet-lab-or-dry-lab-focus-at-genentech-4463694613) |
 | Medpace | Clinical Informatics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/clinical-informatics-intern-summer-2027-at-medpace-4463529097) |
 | Medpace | Feasibility Informatics Internship/Co-Op Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/feasibility-informatics-internship-co-op-summer-2027-at-medpace-4463519962) |
+| Merck | Apply Now 2027 Future Talent Program – Discovery Pharmaceutical Sciences - Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Discovery-Pharmaceutical-Sciences---Intern_R413273/apply) |
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
@@ -93,10 +98,13 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (254)
+### SWE (257)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Amgen | Aug. 31, 2026 Grad Intern - Operations – Process Development US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184) |
+| Amgen | Sep. 08, 2026 Grad Intern - Operations - Engineering US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-engineering-summer-2027/87/100364247376) |
+| Amgen | Sep. 08, 2026 Undergrad Intern - Operations – Engineering US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-engineering-summer-2027/87/100364247360) |
 | Amgen | Undergrad Intern - Operations - New Albany, OH | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-new-albany-oh-summer-2027-at-amgen-4462406755) |
 | Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
 | AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
@@ -352,10 +360,11 @@ Verified **2026-09-10**. Every role below was found by **active search** (Linked
 | Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (9)
+### PM (10)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Merck | Apply Now 2027 Future Talent Program - Sterile Product Development - Intern | PM | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Sterile-Product-Development---Intern_R411965/apply) |
 | Amazon | Product Manager Technical (PMT) Intern | PM | [Apply](https://www.amazon.jobs/en/jobs/10509639) |
 | Databricks | Product Management Intern | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
 | GE Vernova | GE Vernova Controls Product Management Intern | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |

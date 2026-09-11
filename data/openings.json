@@ -7104,5 +7104,203 @@
     "fit_score": 25,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "merck-apply-now-2027-future-talent-program-dis-s27",
+    "company": "Merck",
+    "role_title": "Apply Now 2027 Future Talent Program \u2013 Discovery Pharmaceutical Sciences - Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Discovery-Pharmaceutical-Sciences---Intern_R413273/apply",
+    "application_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Discovery-Pharmaceutical-Sciences---Intern_R413273/apply",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Merck on 2026-09-10. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 100,
+    "verify_confidence": "medium",
+    "source": "careers:Merck"
+  },
+  {
+    "id": "merck-apply-now-2027-future-talent-program-ste-s27",
+    "company": "Merck",
+    "role_title": "Apply Now 2027 Future Talent Program - Sterile Product Development - Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Sterile-Product-Development---Intern_R411965/apply",
+    "application_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Sterile-Product-Development---Intern_R411965/apply",
+    "tier": 1,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Merck on 2026-09-10. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Merck"
+  },
+  {
+    "id": "amgen-sep-08-2026-grad-intern-operations-engin-s27",
+    "company": "Amgen",
+    "role_title": "Sep. 08, 2026 Grad Intern - Operations - Engineering (Summer 2027) US - California - Thousand Oaks",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-engineering-summer-2027/87/100364247376",
+    "application_url": "https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-engineering-summer-2027/87/100364247376",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Amgen on 2026-09-10. Re-verify before applying.",
+    "fit_score": 130,
+    "verify_confidence": "high",
+    "source": "careers:Amgen"
+  },
+  {
+    "id": "amgen-aug-31-2026-grad-intern-operations-proce-s27",
+    "company": "Amgen",
+    "role_title": "Aug. 31, 2026 Grad Intern - Operations \u2013 Process Development (Summer 2027) US - California - Thousand Oaks",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184",
+    "application_url": "https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Amgen on 2026-09-10. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Amgen"
+  },
+  {
+    "id": "amgen-sep-08-2026-undergrad-intern-operations--s27",
+    "company": "Amgen",
+    "role_title": "Sep. 08, 2026 Undergrad Intern - Operations \u2013 Engineering (Summer 2027) US - California - Thousand Oaks",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-engineering-summer-2027/87/100364247360",
+    "application_url": "https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-engineering-summer-2027/87/100364247360",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Amgen on 2026-09-10. Re-verify before applying.",
+    "fit_score": 130,
+    "verify_confidence": "high",
+    "source": "careers:Amgen"
+  },
+  {
+    "id": "genentech-2027-spring-intern-pharma-technical-deve-s27",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Pharma Technical Development - Global Clinical Manufacturing Network",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-122477/2027-Spring-Intern-Pharma-Technical-Development-Global-Clinical-Manufacturing-Network",
+    "application_url": "https://careers.gene.com/us/en/job/202609-122477/2027-Spring-Intern-Pharma-Technical-Development-Global-Clinical-Manufacturing-Network",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-10. Re-verify before applying.",
+    "fit_score": 115,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-spring-intern-pharma-technical-deve-s27-2",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Pharma Technical Development - Device Development",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.gene.com/us/en/job/202608-122145/2027-Spring-Intern-Pharma-Technical-Development-Device-Development",
+    "application_url": "https://careers.gene.com/us/en/job/202608-122145/2027-Spring-Intern-Pharma-Technical-Development-Device-Development",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-10. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-spring-intern-pharma-technical-deve-s27-3",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Pharma Technical Development - Engineering and Manufacturing Focus",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.gene.com/us/en/job/202608-121946/2027-Spring-Intern-Pharma-Technical-Development-Engineering-and-Manufacturing-Focus",
+    "application_url": "https://careers.gene.com/us/en/job/202608-121946/2027-Spring-Intern-Pharma-Technical-Development-Engineering-and-Manufacturing-Focus",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-10. Re-verify before applying.",
+    "fit_score": 130,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-spring-intern-pharmaceutical-techni-s27-2",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-10",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-122484/2027-Spring-Intern-Pharmaceutical-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab",
+    "application_url": "https://careers.gene.com/us/en/job/202609-122484/2027-Spring-Intern-Pharmaceutical-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-10. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
   }
 ]
