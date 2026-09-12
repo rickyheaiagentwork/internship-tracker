@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-11**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-12**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (370)
+## Open — Apply now (386)
 
-### AI/ML (41)
+### AI/ML (42)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-ai-engineer-enterprise-technology-services-phoenix-az-at-american-express-4454450161) |
 | Autodesk | Intern, AI Developer/ Stagiaire en développement IA | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | ByteDance | Software Engineer Intern, AI Platform | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7668212952030841093/detail) |
+| Charter Communications | Intern 2027 Summer Intern: Data Science INTERN Greenwood Village, CO VIEW JOB | AI/ML | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048) |
 | CloudFit Software | Future Intern, Early Interest (Software / AI/ML / Cyber) | AI/ML | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 | Dev Technology | AI/Agentic Solution Engineer Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) |
@@ -109,7 +110,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (265)
+### SWE (276)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -342,21 +343,32 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Barclays Bank US | 2027 Risk Analyst Summer Internship Program Wilmington | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-risk-analyst-summer-internship-program-wilmington-at-barclays-bank-us-4461484231) |
 | BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
 | Capital One | 99109660512 08/12/2026 Business Analyst Intern McLean, VA | SWE | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
+| Charter Communications | Intern 2027 Summer Intern: Advanced Technology INTERN Englewood, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/englewood/2027-summer-intern-advanced-technology/4673/100143762320) |
+| Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Greenwood Village, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-business-analyst/4673/100143764768) |
+| Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Maryland Heights, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-software-engineer/4673/100133775440) |
+| Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-software-engineer/4673/100133780016) |
+| Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Town and Country, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/town-and-country/2027-summer-intern-software-engineer/4673/100143762416) |
 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
 | Cretex Medical | Manufacturing Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461407600) |
 | Cretex Medical | Quality Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461413151) |
 | Cretex Medical Component and Device Technologies | Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/automation-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461947341) |
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
+| ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
+| Humana | Humana Technology Internship | SWE | [Apply](https://careers.humana.com/us/en/job/R-424692/Humana-Technology-Internship-Summer-2027) |
 | JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
 | JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
+| McKesson | Health Systems Optimization Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892) |
+| McKesson | Innovation Strategy Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Innovation-Strategy-Intern---Summer-2027_JR0151704) |
+| McKesson | Software Development Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
+| McKesson | System Design / QA Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/System-Design---QA-Intern---Summer-2027_JR0152746) |
 | Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
 | Microsoft | National Technology Intern France, Paris, Paris | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
 | MiniMed | Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-minimed-4463604176) |
@@ -395,17 +407,21 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 
-### Other (13)
+### Other (17)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Abbott | 2027 IT Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) |
 | Thermo Fisher Scientific | 2027 IT & Digital Internship | Other | [Apply](https://www.linkedin.com/jobs/view/2027-it-digital-internship-at-thermo-fisher-scientific-4463432010) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
 | Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/quantitative-data-analytics-summer-analyst-program-2027-at-bank-of-america-4463887968) |
+| Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
+| McKesson | Software Installation & IT Support Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
 | Ally | Internship – Auto Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-auto-data-analytics-at-ally-4463232564) |
 | Ally | Internship – Insurance Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531) |
 | Google | Information Technology Apprenticeship February 2027 Start | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/127161382939304646-information-technology-apprenticeship-february-2027-start) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
+| McKesson | Data Analyst Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) |
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
