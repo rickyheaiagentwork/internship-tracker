@@ -11,9 +11,9 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (361)
+## Open — Apply now (370)
 
-### AI/ML (40)
+### AI/ML (41)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Software Engineer/Data Scientist/Ontologist - Threat Analytic Systems | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-software-engineer-data-scientist-ontologist-threat-analytic-systems-at-johns-hopkins-applied-physics-laboratory-4463930404) |
 | Kensho Technologies | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-kensho-technologies-4465097575) |
 | New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
+| Northern Trust | Technology Intern – Data Science and Analytics | AI/ML | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
 | PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
 | Plexus Corp. | Intern - IT Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-it-data-science-summer-2027-at-plexus-corp-4462103694) |
 | S&P Global | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-s-p-global-4464128518) |
@@ -108,7 +109,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (259)
+### SWE (265)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -270,6 +271,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | New York Life | 2027 TDAV Summer Internship - Software Engineer Intern | SWE | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-Software-Engineer-Intern-NY-10001/1414420800/) |
 | Newrez LLC | 2027 Summer Internship - Software Developer | SWE | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) |
 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-nike-4461551447) |
+| Northern Trust | Technology Intern – Software Engineering | SWE | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) |
 | Northmarq | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5414475008) |
 | Notion | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489?q=intern+2027) |
@@ -339,12 +341,16 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Autodesk | Software Engineering Intern Summer 2027 | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
 | Barclays Bank US | 2027 Risk Analyst Summer Internship Program Wilmington | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-risk-analyst-summer-internship-program-wilmington-at-barclays-bank-us-4461484231) |
 | BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
+| Capital One | 99109660512 08/12/2026 Business Analyst Intern McLean, VA | SWE | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
 | Cretex Medical | Manufacturing Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461407600) |
 | Cretex Medical | Quality Engineer Intern - rms Company | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-rms-company-at-cretex-medical-4461413151) |
 | Cretex Medical Component and Device Technologies | Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/automation-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461947341) |
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
+| General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
+| General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
+| General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
 | JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
 | JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
@@ -358,6 +364,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | MiniMed | Quality Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-summer-2027-at-minimed-4463399512) |
 | Momentive | Intern - Global Quality Management System | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-global-quality-management-system-at-momentive-4462794021) |
 | Momentive | Intern - Software Development | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-development-at-momentive-4462783766) |
+| Northrop Grumman | 2027 Fall Mechanical Engineering Co-op - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495) |
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
 | Plexus Corp. | Intern - Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-automation-engineer-summer-2027-at-plexus-corp-4462100570) |
@@ -388,7 +395,7 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 
-### Other (11)
+### Other (13)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -401,6 +408,8 @@ Verified **2026-09-11**. Every role below was found by **active search** (Linked
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
+| Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
+| Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | Plexus Corp. | Intern - Site IT | Other | [Apply](https://www.linkedin.com/jobs/view/intern-site-it-summer-2027-at-plexus-corp-4462442781) |
 ---

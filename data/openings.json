@@ -7632,5 +7632,203 @@
     "fit_score": 130,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "capital-one-99109660512-08-12-2026-business-analyst--s27",
+    "company": "Capital One",
+    "role_title": "99109660512 08/12/2026 Business Analyst Intern - Summer 2027 McLean, VA",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512",
+    "application_url": "https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Capital One on 2026-09-11. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Capital One"
+  },
+  {
+    "id": "northern-trust-technology-intern-software-engineering-s27",
+    "company": "Northern Trust",
+    "role_title": "Technology Intern \u2013 Software Engineering (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
+    "application_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Northern Trust on 2026-09-11. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 40,
+    "verify_confidence": "medium",
+    "source": "careers:Northern Trust"
+  },
+  {
+    "id": "northern-trust-technology-intern-information-security-s27",
+    "company": "Northern Trust",
+    "role_title": "Technology Intern \u2013 Information Security (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
+    "application_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
+    "tier": 3,
+    "category": "Security & IT",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Northern Trust on 2026-09-11. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 25,
+    "verify_confidence": "medium",
+    "source": "careers:Northern Trust"
+  },
+  {
+    "id": "northern-trust-technology-intern-infrastructure-and-it--s27",
+    "company": "Northern Trust",
+    "role_title": "Technology Intern \u2013 Infrastructure and IT Management (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
+    "application_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
+    "tier": 3,
+    "category": "Security & IT",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Northern Trust on 2026-09-11. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 25,
+    "verify_confidence": "medium",
+    "source": "careers:Northern Trust"
+  },
+  {
+    "id": "northern-trust-technology-intern-data-science-and-analy-s27",
+    "company": "Northern Trust",
+    "role_title": "Technology Intern \u2013 Data Science and Analytics (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
+    "application_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Northern Trust on 2026-09-11. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 185,
+    "verify_confidence": "medium",
+    "source": "careers:Northern Trust"
+  },
+  {
+    "id": "northrop-grumman-2027-fall-mechanical-engineering-co-op-c-s27",
+    "company": "Northrop Grumman",
+    "role_title": "2027 Fall Mechanical Engineering Co-op - Chandler AZ",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495",
+    "application_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Northrop Grumman on 2026-09-11. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 30,
+    "verify_confidence": "medium",
+    "source": "careers:Northrop Grumman"
+  },
+  {
+    "id": "general-motors-2027-summer-intern-pfmea-manufacturing-e-s27",
+    "company": "General Motors",
+    "role_title": "2027 Summer Intern - PFMEA Manufacturing Engineer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/",
+    "application_url": "https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:General Motors on 2026-09-11. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:General Motors"
+  },
+  {
+    "id": "general-motors-summer-2027-packaging-engineering-intern-s27",
+    "company": "General Motors",
+    "role_title": "Summer 2027 Packaging Engineering Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/",
+    "application_url": "https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:General Motors on 2026-09-11. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:General Motors"
+  },
+  {
+    "id": "general-motors-2027-summer-intern-manufacturing-enginee-s27-5",
+    "company": "General Motors",
+    "role_title": "2027 Summer Intern \u2013 Manufacturing Engineering \u2013 Global Artisan Innovation Center",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-11",
+    "posting_url": "https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/",
+    "application_url": "https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:General Motors on 2026-09-11. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:General Motors"
   }
 ]
