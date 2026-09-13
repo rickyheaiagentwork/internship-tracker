@@ -11,7 +11,7 @@ Verified **2026-09-12**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (416)
+## Open — Apply now (419)
 
 ### AI/ML (42)
 
@@ -110,7 +110,7 @@ Verified **2026-09-12**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (295)
+### SWE (297)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -124,7 +124,9 @@ Verified **2026-09-12**. Every role below was found by **active search** (Linked
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
+| Medtronic | Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1) |
 | Medtronic | Software Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
+| Medtronic | Technical Support Intern page is loaded | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1) |
 | Merck | 2027 Future Talent Program - Systems Biology - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-systems-biology-intern-at-merck-4464437903) |
 | Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
 | Moderna | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-moderna-4463647945) |
@@ -426,11 +428,12 @@ Verified **2026-09-12**. Every role below was found by **active search** (Linked
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 
-### Other (28)
+### Other (29)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Abbott | 2027 IT Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) |
+| Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | Thermo Fisher Scientific | 2027 IT & Digital Internship | Other | [Apply](https://www.linkedin.com/jobs/view/2027-it-digital-internship-at-thermo-fisher-scientific-4463432010) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
 | Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/quantitative-data-analytics-summer-analyst-program-2027-at-bank-of-america-4463887968) |

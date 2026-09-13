@@ -8842,5 +8842,71 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "medtronic-technical-support-intern-page-is-loaded-s27",
+    "company": "Medtronic",
+    "role_title": "Technical Support Intern page is loaded (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-12",
+    "posting_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+    "application_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Medtronic on 2026-09-12. Re-verify before applying. Season/degree not confirmed from the page (title-only) \u2014 check the listing.",
+    "fit_score": 100,
+    "verify_confidence": "low",
+    "source": "careers:Medtronic"
+  },
+  {
+    "id": "medtronic-engineering-intern-summer-2027-s27",
+    "company": "Medtronic",
+    "role_title": "Engineering Intern \u2013 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-12",
+    "posting_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+    "application_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Medtronic on 2026-09-12. Re-verify before applying.",
+    "fit_score": 130,
+    "verify_confidence": "high",
+    "source": "careers:Medtronic"
+  },
+  {
+    "id": "medtronic-it-intern-summer-2027-s27",
+    "company": "Medtronic",
+    "role_title": "IT Intern - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-12",
+    "posting_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+    "application_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+    "tier": 1,
+    "category": "Security & IT",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Medtronic on 2026-09-12. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "careers:Medtronic"
   }
 ]
