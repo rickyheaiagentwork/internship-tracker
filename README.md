@@ -11,7 +11,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (450)
+## Open — Apply now (455)
 
 ### AI/ML (43)
 
@@ -119,7 +119,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (305)
+### SWE (309)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -130,6 +130,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | Amgen | Undergrad Intern - Operations - New Albany, OH | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-new-albany-oh-summer-2027-at-amgen-4462406755) |
 | Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
 | AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
+| BD | BD 2027 Summer Internship - Supply Chain Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
@@ -354,6 +355,9 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | Adobe | 2027 Intern - Solutions Consulting Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | Autodesk | Software Engineering Intern Summer 2027 | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
+| BAE Systems | Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027) |
+| BAE Systems | Mechanical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027) |
+| BAE Systems | Mechanical Engineering Internship - Summer, 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027) |
 | Barclays Bank US | 2027 Risk Analyst Summer Internship Program Wilmington | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-risk-analyst-summer-internship-program-wilmington-at-barclays-bank-us-4461484231) |
 | BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-boeing-4463098948) |
@@ -448,7 +452,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (40)
+### Other (41)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -458,6 +462,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-it-emerging-talent-summer-intern-program-hybrid-at-merck-4464441001) |
 | Thermo Fisher Scientific | 2027 IT & Digital Internship | Other | [Apply](https://www.linkedin.com/jobs/view/2027-it-digital-internship-at-thermo-fisher-scientific-4463432010) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
+| BAE Systems | Electrical Engineering Intern | Other | [Apply](https://jobs.baesystems.com/global/en/job/129188BR/Electrical-Engineering-Intern-Summer-2027) |
 | Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/quantitative-data-analytics-summer-analyst-program-2027-at-bank-of-america-4463887968) |
 | Boeing | Boeing - Wichita Summer 2027 Internship Program (Paid) - Core Engineering, & Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-core-engineering-research-technology-at-boeing-4463401952) |
 | Cadence | Intern: Application Engineering - Digital Verification & Simulation/VIP | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Verification---Simulation-VIP_R54888) |

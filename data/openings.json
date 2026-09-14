@@ -9590,5 +9590,115 @@
     "fit_score": 15,
     "verify_confidence": "high",
     "source": "careers:U.S. Bank"
+  },
+  {
+    "id": "bae-systems-engineering-intern-iii-summer-2027-s27",
+    "company": "BAE Systems",
+    "role_title": "Engineering Intern III, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-14",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-09-14. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bae-systems-mechanical-engineering-internship-summer-s27",
+    "company": "BAE Systems",
+    "role_title": "Mechanical Engineering Internship - Summer, 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-14",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-09-14. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bae-systems-mechanical-engineering-intern-summer-202-s27",
+    "company": "BAE Systems",
+    "role_title": "Mechanical Engineering Intern - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-14",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-09-14. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bae-systems-electrical-engineering-intern-summer-202-s27",
+    "company": "BAE Systems",
+    "role_title": "Electrical Engineering Intern, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-14",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/129188BR/Electrical-Engineering-Intern-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/129188BR/Electrical-Engineering-Intern-Summer-2027",
+    "tier": 2,
+    "category": "Hardware",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-09-14. Re-verify before applying.",
+    "fit_score": 45,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bd-bd-2027-summer-internship-supply-chain-d-s27",
+    "company": "BD",
+    "role_title": "BD 2027 Summer Internship - Supply Chain Development Program",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-14",
+    "posting_url": "https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992",
+    "application_url": "https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BD on 2026-09-14. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:BD"
   }
 ]
