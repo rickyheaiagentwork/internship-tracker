@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-14**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-15**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (455)
+## Open — Apply now (460)
 
 ### AI/ML (43)
 
@@ -119,7 +119,7 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (309)
+### SWE (314)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -428,6 +428,11 @@ Verified **2026-09-14**. Every role below was found by **active search** (Linked
 | The AES Corporation | Intern - T&D standards Power Systems - | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-t-d-standards-power-systems-summer-2027-at-the-aes-corporation-4466374841) |
 | U.S. Bank | 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-modeling-summer-intern-at-u-s-bank-4464666364) |
 | U.S. Bank | Apply now 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558/apply) |
+| Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-syseng-software-engineer-mountain-view-california-united-states) |
+| Waymo | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states) |
+| Waymo | 2027 Summer Intern, BS/MS, Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineer-san-francisco-california-united-states) |
+| Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Commercialization | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) |
+| Waymo | 2027 Summer Intern, MS, Software Engineering, Behavior Test | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states) |
 | Zipline | Controls Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/controls-engineer-intern-summer-2027-at-zipline-4456350422) |
 | Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
