@@ -11,9 +11,9 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (488)
+## Open — Apply now (501)
 
-### AI/ML (55)
+### AI/ML (56)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | Cox Automotive Inc. | Data Scientist Intern (Atlanta, GA) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-summer-2027-atlanta-ga-at-cox-automotive-inc-4464479931) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability | AI/ML | [Apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) |
 | Dev Technology | AI/Agentic Solution Engineer Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) |
+| Figma | Data Science Intern (2027) | AI/ML | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004) |
 | Finastra | AI Engineer Intern | AI/ML | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) |
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | Inmar Intelligence | Data, Analytics & AI Internships | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-internships-summer-2027-at-inmar-intelligence-4465556643) |
@@ -131,7 +132,7 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (316)
+### SWE (327)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -392,6 +393,7 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
+| Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | GE Aerospace | Edison Works Engineering Intern - Aero Design - US | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-aero-design-us-summer-2027-at-ge-aerospace-4455920586) |
 | GE Aerospace | Edison Works Engineering Intern - US - Signature Design & Test | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-us-signature-design-test-summer-2027-at-ge-aerospace-4455936413) |
 | GE Aerospace | Engines Engineering Intern – US | SWE | [Apply](https://www.linkedin.com/jobs/view/engines-engineering-intern-%E2%80%93-us-%E2%80%93-summer-2027-at-ge-aerospace-4455247557) |
@@ -434,6 +436,16 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-plexus-corp-4462096984) |
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
 | Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
+| Robinhood | Brokerage Risk Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198223) |
+| Robinhood | Business Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123238) |
+| Robinhood | Investment Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187) |
+| Robinhood | Software Developer Intern, Backend | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142930) |
+| Robinhood | Software Developer Intern, iOS | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199729) |
+| Robinhood | Software Developer Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199744) |
+| Robinhood | Software Engineering Intern, Android | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142961) |
+| Robinhood | Software Engineering Intern, Backend | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123225) |
+| Robinhood | Software Engineering Intern, iOS | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142959) |
+| Robinhood | Software Engineering Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462546541) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-spirit-aerosystems-4462528757) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462541674) |
@@ -471,7 +483,7 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (55)
+### Other (56)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -522,6 +534,7 @@ Verified **2026-09-15**. Every role below was found by **active search** (Linked
 | Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | Other | [Apply](https://www.linkedin.com/jobs/view/2027-data-analytics-intern-clearfield-ut-at-northrop-grumman-4466038485) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | Plexus Corp. | Intern - Site IT | Other | [Apply](https://www.linkedin.com/jobs/view/intern-site-it-summer-2027-at-plexus-corp-4462442781) |
+| Robinhood | PeopleX Insights & Analytics Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255) |
 | U.S. Bank | 2027 Business Analytics Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025907/2027-Business-Analytics-Summer-Intern) |
 | U.S. Bank | 2027 Information Security Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025770/2027-Information-Security-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Business Analytics Summer Intern | Other | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907/apply) |
