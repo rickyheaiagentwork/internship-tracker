@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-16**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-17**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (527)
+## Open — Apply now (544)
 
-### AI/ML (57)
+### AI/ML (62)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -34,6 +34,10 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Inmar Intelligence | Data, Analytics & AI Internships | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-internships-summer-2027-at-inmar-intelligence-4465556643) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Software Engineer/Data Scientist/Ontologist - Threat Analytic Systems | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-software-engineer-data-scientist-ontologist-threat-analytic-systems-at-johns-hopkins-applied-physics-laboratory-4463930404) |
 | Kensho Technologies | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-kensho-technologies-4465097575) |
+| Lyft | Data Science Intern, Algorithms New York, NY (Opens in a new tab) | AI/ML | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002) |
+| Lyft | Data Science Intern, Algorithms San Francisco, CA (Opens in a new tab) | AI/ML | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002) |
+| Lyft | Data Science Intern, Algorithms Toronto, Canada (Opens in a new tab) | AI/ML | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002) |
+| Lyft | Software Engineer Intern, Machine Learning Toronto, Canada (Opens in a new tab) | AI/ML | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002) |
 | Meijer | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-meijer-4462546227) |
 | New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
 | Northern Trust | Technology Intern – Data Science and Analytics | AI/ML | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
@@ -72,6 +76,7 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Nationwide | Generative AI Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-generative-ai-internship-at-nationwide-4461428029) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 | Polaris Inc. | Digital & IT - Predictive Data Science Internship | AI/ML | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) |
+| Salesforce | AI Builder Intern [Brazil] | AI/ML | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) |
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
@@ -134,7 +139,7 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (342)
+### SWE (351)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -422,6 +427,14 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
 | Leonardo DRS | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-leonardo-drs-4466553730) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
+| Lyft | Software Engineer Intern, Backend Mexico City, Mexico (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767715002) |
+| Lyft | Software Engineer Intern, Backend Montreal, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002) |
+| Lyft | Software Engineer Intern, Backend San Francisco, CA (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002) |
+| Lyft | Software Engineer Intern, Backend Toronto, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767710002) |
+| Lyft | Software Engineer Intern, Frontend Mexico City, Mexico (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797819002) |
+| Lyft | Software Engineer Intern, Fullstack New York, NY (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797837002) |
+| Lyft | Software Engineer Intern, Fullstack Toronto, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002) |
+| Lyft | Software Engineer Intern, Test Automation Montreal, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002) |
 | McKesson | Health Systems Optimization Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892) |
 | McKesson | Innovation Strategy Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Innovation-Strategy-Intern---Summer-2027_JR0151704) |
 | McKesson | Software Development Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
@@ -450,6 +463,7 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Quality Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-quality-engineer-summer-2027-at-plexus-corp-4462108392) |
 | Plexus Corp. | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-plexus-corp-4462096984) |
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
+| Qualcomm | FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446718630683) |
 | Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
 | Raytheon | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-raytheon-4467904031) |
 | Robinhood | Brokerage Risk Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198223) |
@@ -500,7 +514,7 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (65)
+### Other (68)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -525,6 +539,7 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Google | Data Center Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027) |
 | Google | Hardware Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027) |
 | Google | Security Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027) |
+| Lyft | Data Engineer Intern Toronto, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002) |
 | McKesson | Software Installation & IT Support Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
 | Mercury Systems | 2027 Firmware, Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-firmware-software-engineering-intern-at-mercury-systems-4466579992) |
 | Michelin | Spring or Summer 2027 Internship: Central Electrical Engineering Co-op | Other | [Apply](https://www.linkedin.com/jobs/view/spring-or-summer-2027-internship-central-electrical-engineering-co-op-at-michelin-4463588749) |
@@ -550,6 +565,8 @@ Verified **2026-09-16**. Every role below was found by **active search** (Linked
 | Johnsonville | IT Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-johnsonville-4464647269) |
 | JPMorganChase | 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program - Analytics Solutions | Other | [Apply](https://www.linkedin.com/jobs/view/2027-focused-analytics-solutions-team-fast-intern-associate-program-analytics-solutions-at-jpmorganchase-4457559643) |
 | Keurig Dr Pepper Inc. | Intern - Information Technology | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-information-technology-at-keurig-dr-pepper-inc-4457334991) |
+| Lyft | Data Analyst Intern New York, NY (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002) |
+| Lyft | UX Research Intern Toronto, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002) |
 | McKesson | Data Analyst Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) |
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | Meijer | Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-intern-summer-2027-at-meijer-4462569306) |
