@@ -4409,48 +4409,6 @@
     "source": "linkedin"
   },
   {
-    "id": "uci-oc-alliance-campus-undergraduate-summer-internship-p-s27",
-    "company": "UCI-OC Alliance",
-    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC at American Express",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-17",
-    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-at-uci-oc-alliance-4462135384",
-    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-at-uci-oc-alliance-4462135384",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Charlotte, NC\nBe an early applicant\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-03. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
-    "id": "uci-oc-alliance-campus-undergraduate-summer-internship-p-s27-2",
-    "company": "UCI-OC Alliance",
-    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL at American Express",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-17",
-    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-at-uci-oc-alliance-4462123602",
-    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-at-uci-oc-alliance-4462123602",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Florida, United States\nBe an early applicant\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-03. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
     "id": "unison-ge-aerospace-engineering-intern-summer-2027-s27",
     "company": "Unison (GE Aerospace)",
     "role_title": "Engineering Intern (Summer 2027) \ud83d\udec2 \ud83c\uddfa\ud83c\uddf8",
@@ -12318,5 +12276,269 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "adobe-2027-intern-enterprise-architecture-anal-s27",
+    "company": "Adobe",
+    "role_title": "2027 Intern - Enterprise Architecture Analyst",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://careers.adobe.com/us/en/job/R171856/2027-Intern-Enterprise-Architecture-Analyst",
+    "application_url": "https://careers.adobe.com/us/en/job/R171856/2027-Intern-Enterprise-Architecture-Analyst",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Adobe on 2026-09-17. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Adobe"
+  },
+  {
+    "id": "adobe-2027-intern-digital-strategy-analyst-str-s27",
+    "company": "Adobe",
+    "role_title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory",
+    "application_url": "https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Adobe on 2026-09-17. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Adobe"
+  },
+  {
+    "id": "intuit-summer-2027-product-manager-intern-multi-s27",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Product Manager Intern Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+    "tier": 3,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-ai-science-intern-multiple-l-s27",
+    "company": "Intuit",
+    "role_title": "Summer 2027: AI Science Intern Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 80,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-software-engineering-intern--s27",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Software Engineering Intern - Cybersecurity Mountain View, California",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+    "tier": 2,
+    "category": "Security & IT",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 45,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-technical-program-manager-tp-s27",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Technical Program Manager (TPM) Intern Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-software-engineering-intern--s27-2",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Software Engineering Intern - Full Stack Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-mobile-software-engineering--s27-2",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Mobile Software Engineering Intern - iOS Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "intuit-summer-2027-mobile-software-engineering--s27-3",
+    "company": "Intuit",
+    "role_title": "Summer 2027: Mobile Software Engineering Intern - Android Multiple Locations",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+    "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Intuit on 2026-09-17. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Intuit"
+  },
+  {
+    "id": "merck-apply-now-2027-future-talent-program-bio-s27",
+    "company": "Merck",
+    "role_title": "Apply Now 2027 Future Talent Program \u2013 Bioanalytical Sciences \u2013 Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply",
+    "application_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Merck on 2026-09-17. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Merck"
+  },
+  {
+    "id": "amgen-aug-31-2026-undergrad-intern-operations--s27",
+    "company": "Amgen",
+    "role_title": "Aug. 31, 2026 Undergrad Intern - Operations \u2013 Process Development (Summer 2027) US - California - Thousand Oaks",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168",
+    "application_url": "https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Amgen on 2026-09-17. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Amgen"
+  },
+  {
+    "id": "genentech-2027-spring-intern-product-technical-dev-s27",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Product Technical Development - Digital Sciences Focus",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-17",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-123436/2027-Spring-Intern-Product-Technical-Development-Digital-Sciences-Focus",
+    "application_url": "https://careers.gene.com/us/en/job/202609-123436/2027-Spring-Intern-Product-Technical-Development-Digital-Sciences-Focus",
+    "tier": 1,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-17. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
   }
 ]

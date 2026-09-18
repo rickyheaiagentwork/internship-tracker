@@ -11,9 +11,9 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (574)
+## Open — Apply now (584)
 
-### AI/ML (63)
+### AI/ML (64)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | F.N.B. Corporation | AI/ML Modeler Intern | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
 | F.N.B. Corporation | Data Science Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) |
 | Home Depot | 2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS | AI/ML | [Apply](https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/) |
+| Intuit | : AI Science Intern Multiple Locations | AI/ML | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) |
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498) |
 | JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
@@ -140,11 +141,12 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (377)
+### SWE (383)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Amgen | Aug. 31, 2026 Grad Intern - Operations – Process Development US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184) |
+| Amgen | Aug. 31, 2026 Undergrad Intern - Operations – Process Development US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168) |
 | Amgen | Grad Intern - Operations - Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/grad-intern-operations-engineering-summer-2027-at-amgen-4465600447) |
 | Amgen | Sep. 08, 2026 Grad Intern - Operations - Engineering US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-engineering-summer-2027/87/100364247376) |
 | Amgen | Sep. 08, 2026 Undergrad Intern - Operations – Engineering US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-engineering-summer-2027/87/100364247360) |
@@ -161,6 +163,7 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - Statistical Programmer - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-statistical-programmer-intern-at-merck-4464690756) |
 | Merck | 2027 Future Talent Program - Systems Biology - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-systems-biology-intern-at-merck-4464437903) |
 | Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
+| Merck | Apply Now 2027 Future Talent Program – Bioanalytical Sciences – Intern | SWE | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply) |
 | Moderna | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-moderna-4463647945) |
 | Roche | 2027 Summer Intern - Quality, Regulatory, and External Affairs (QR&E) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quality-regulatory-and-external-affairs-qr-e-at-roche-4462792461) |
 | Stryker | Internship - Software Engineering - California | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
@@ -360,8 +363,6 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | TikTok | Software Engineer Intern (Ads Interface) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-ads-interface-2027-summer-at-tiktok-4462331090) |
 | TikTok USDS Joint Venture | Software Engineer Intern (E-commerce) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-e-commerce-2027-summer-at-tiktok-usds-joint-venture-4463199532) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | SWE | [Apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
-| UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-at-uci-oc-alliance-4462135384) |
-| UCI-OC Alliance | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL at American Express | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-at-uci-oc-alliance-4462123602) |
 | Unison (GE Aerospace) | Engineering Intern 🛂 | SWE | [Apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) |
 | UPS | UPS Technology Group Summer 2027 Internship – GA | SWE | [Apply](https://www.linkedin.com/jobs/view/ups-technology-group-summer-2027-internship-%E2%80%93-ga-at-ups-4460232957) |
 | UPS | UPS Technology Group Summer 2027 Internship – NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/ups-technology-group-summer-2027-internship-%E2%80%93-nj-at-ups-4460098767) |
@@ -376,6 +377,8 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Workiva | Intern - Software Engineering | SWE | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) |
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
 | Activision | Activision 2027 Summer Internships - Game Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-game-engineering-at-activision-4465395085) |
+| Adobe | 2027 Intern - Digital Strategy Analyst, Strategic Advisory | SWE | [Apply](https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory) |
+| Adobe | 2027 Intern - Enterprise Architecture Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171856/2027-Intern-Enterprise-Architecture-Analyst) |
 | Adobe | 2027 Intern - Solutions Consulting Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst) |
 | Antares | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-antares-4467976307) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
@@ -437,6 +440,10 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Impulse Space | Test Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/test-automation-intern-summer-2027-at-impulse-space-4467286018) |
 | Impulse Space | Weld Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/weld-engineering-intern-summer-2027-at-impulse-space-4465802572) |
 | Intuit | : Mobile Software Engineering Intern - Android | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-mobile-software-engineering-intern-android-at-intuit-4467732024) |
+| Intuit | : Mobile Software Engineering Intern - Android Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552) |
+| Intuit | : Mobile Software Engineering Intern - iOS Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568) |
+| Intuit | : Software Engineering Intern - Full Stack Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520) |
+| Intuit | : Technical Program Manager (TPM) Intern Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664) |
 | JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
 | JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
@@ -522,10 +529,11 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (14)
+### PM (16)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Genentech | 2027 Spring Intern - Product Technical Development - Digital Sciences Focus | PM | [Apply](https://careers.gene.com/us/en/job/202609-123436/2027-Spring-Intern-Product-Technical-Development-Digital-Sciences-Focus) |
 | Merck | Apply Now 2027 Future Talent Program - Sterile Product Development - Intern | PM | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Sterile-Product-Development---Intern_R411965/apply) |
 | Amazon | Product Manager Technical (PMT) Intern | PM | [Apply](https://www.amazon.jobs/en/jobs/10509639) |
 | Databricks | Product Management Intern | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
@@ -537,11 +545,12 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
+| Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (71)
+### Other (72)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -566,6 +575,7 @@ Verified **2026-09-17**. Every role below was found by **active search** (Linked
 | Google | Data Center Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027) |
 | Google | Hardware Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027) |
 | Google | Security Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027) |
+| Intuit | : Software Engineering Intern - Cybersecurity Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | Lunar Outpost | Robotics Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/robotics-engineering-intern-summer-2027-at-lunar-outpost-4466587295) |
 | Lunar Outpost | Simulation Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/simulation-engineering-intern-summer-2027-at-lunar-outpost-4466587291) |
 | Lyft | Data Engineer Intern Toronto, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002) |
