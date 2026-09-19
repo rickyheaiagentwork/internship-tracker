@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-18**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-19**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -350,7 +350,6 @@ Verified **2026-09-18**. Every role below was found by **active search** (Linked
 | Spectrum | 2027 Summer Intern: Mobile Device Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300) |
 | Spectrum | 2027 Summer Intern: Platforms Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-platforms-engineer-at-spectrum-4463340160) |
 | Spectrum | 2027 Summer Intern: Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-at-spectrum-4463327630) |
-| SportAtlas | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-sportatlas-4463197668) |
 | SRC, Inc | Software Engineer (Intern) | SWE | [Apply](https://jobs.jobvite.com/src-inc/job/o4lHAfwq) |
 | Stellantis | 2027 Business Software Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-software-internship-at-stellantis-4462128173) |
 | Stellantis | 2027 Information & Communication Technology (ICT) Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-communication-technology-ict-summer-internship-at-stellantis-4462133041) |
@@ -426,6 +425,7 @@ Verified **2026-09-18**. Every role below was found by **active search** (Linked
 | GE Aerospace | Manufacturing Engineering Intern – US | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-%E2%80%93-us-%E2%80%93-summer-2027-at-ge-aerospace-4455233583) |
 | GE Aerospace | Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-mechanical-aerospace-engineering-electric-power-us-summer-2027-at-ge-aerospace-4455232655) |
 | GE Vernova | GE Vernova Gas Power Engineering Internship-1 | SWE | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-gas-power-engineering-internship-summer-2027-1-at-ge-vernova-4465890721) |
+| General Dynamics | Software Development Internship | SWE | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405) |
 | General Dynamics Electric Boat | 2027 Engineering Summer Internship: Waterfront Engineering - Fast Attack Submarines | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-engineering-summer-internship-waterfront-engineering-fast-attack-submarines-at-general-dynamics-electric-boat-4466166345) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
