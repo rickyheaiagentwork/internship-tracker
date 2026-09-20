@@ -11,7 +11,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (600)
+## Open — Apply now (607)
 
 ### AI/ML (65)
 
@@ -142,7 +142,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (397)
+### SWE (402)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -416,6 +416,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Crown Equipment Corporation | Computer Science and Engineering Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/computer-science-and-engineering-co-op-summer-2027-at-crown-equipment-corporation-4464640261) |
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
 | DoorDash | Software Engineer, Intern - US | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-us-at-doordash-4465266224) |
+| ExxonMobil | 2027 Campus Hire - Process Engineer | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Process-Engineer-627596/1421840200/) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
 | Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
@@ -427,8 +428,11 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | GE Vernova | GE Vernova Gas Power Engineering Internship-1 | SWE | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-gas-power-engineering-internship-summer-2027-1-at-ge-vernova-4465890721) |
 | General Dynamics | Software Development Internship | SWE | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405) |
 | General Dynamics Electric Boat | 2027 Engineering Summer Internship: Waterfront Engineering - Fast Attack Submarines | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-engineering-summer-internship-waterfront-engineering-fast-attack-submarines-at-general-dynamics-electric-boat-4466166345) |
+| General Motors | 2027 Summer Intern - Digital Sculpting | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619286/2027-summer-intern-digital-sculpting/) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
+| General Motors | 2027 Summer Intern – IndyCar Trackside Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619993/2027-summer-intern-indycar-trackside-engineering/) |
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
+| General Motors | 2027 Summer Intern – Motorsports Aero-Thermal Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619861/2027-summer-intern-motorsports-aero-thermal-engineering/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | Google | Customer And Partner Solutions Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027) |
 | Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
@@ -470,6 +474,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Lyft | Software Engineer Intern, Fullstack New York, NY (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797837002) |
 | Lyft | Software Engineer Intern, Fullstack Toronto, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002) |
 | Lyft | Software Engineer Intern, Test Automation Montreal, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002) |
+| McKesson | CMM Technology Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-1) |
 | McKesson | Health Systems Optimization Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892) |
 | McKesson | Innovation Strategy Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Innovation-Strategy-Intern---Summer-2027_JR0151704) |
 | McKesson | Software Development Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
@@ -544,7 +549,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (16)
+### PM (17)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -559,13 +564,14 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Roblox | \[Summer 2027] Product Management Intern | PM | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
+| Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (73)
+### Other (74)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -585,6 +591,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
 | Citizens | Software Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | Other | [Apply](https://www.linkedin.com/jobs/view/software-engineer-summer-2027-intern-enterprise-technology-security-summer-internship-program-at-citizens-4466799863) |
+| ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
 | GE Aerospace | Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US | Other | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-electrical-engineering-computer-engineering-science-electric-power-us-summer-2027-at-ge-aerospace-4455240598) |
 | Google | Data Center Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027) |
 | Google | Hardware Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027) |
