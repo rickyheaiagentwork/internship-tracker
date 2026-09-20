@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-19**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-20**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (607)
+## Open — Apply now (610)
 
 ### AI/ML (65)
 
@@ -83,7 +83,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 
-### Bio-AI (25)
+### Bio-AI (26)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -99,6 +99,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-spring-intern-pharmaceutical-technical-development-laboratory-wet-lab-or-dry-lab-focus-at-genentech-4463694613) |
 | Medpace | Clinical Informatics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/clinical-informatics-intern-summer-2027-at-medpace-4463529097) |
 | Medpace | Feasibility Informatics Internship/Co-Op Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/feasibility-informatics-internship-co-op-summer-2027-at-medpace-4463519962) |
+| Medtronic | Clinical Technologist Intern - Cardiovascular | Bio-AI | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958) |
 | Merck | 2027 Future Talent Program - AI/ML Computational Toxicology - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-ai-ml-computational-toxicology-intern-at-merck-4464418930) |
 | Merck | 2027 Future Talent Program - Global Data Management and Standards (GDMS) - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-global-data-management-and-standards-gdms-intern-at-merck-4464418934) |
 | Merck | 2027 Future Talent Program - Leveraging Advanced Analytics and Automation to Enhance Clinical Bioanalytical Operations - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-leveraging-advanced-analytics-and-automation-to-enhance-clinical-bioanalytical-operations-intern-at-merck-4464438892) |
@@ -142,7 +143,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (402)
+### SWE (403)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -157,6 +158,7 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | BD | BD 2027 Summer Internship - Supply Chain Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
+| Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
 | Medtronic | Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1) |
 | Medtronic | Software Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
@@ -571,10 +573,11 @@ Verified **2026-09-19**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (74)
+### Other (75)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Abbott | 2027 IT Cancer Diagnostics Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235) |
 | Abbott | 2027 IT Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) |
 | Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | Merck | 2027 Future Talent Program - Epidemiology and RWE Capabilities & Analytics - Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-epidemiology-and-rwe-capabilities-analytics-intern-at-merck-4464437899) |
