@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-20**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-21**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (641)
+## Open — Apply now (643)
 
 ### AI/ML (69)
 
@@ -121,7 +121,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
-### Finance (24)
+### Finance (25)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -141,6 +141,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Quantitative Research - Markets - Summer Internship - Associate- United States | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-associate-united-states-at-jpmorganchase-4449471175) |
 | New York Life | 2027 New York Life Investment Management - Investment Research & Analysis Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-investment-research-analysis-internship-at-new-york-life-4459867790) |
 | Point72 | Quantitative Research Intern | Finance | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
+| Raymond James | 2027 Summer Internship – Equity Research – Multiple Locations | Finance | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Equity-Research---Multiple-Locations_R-0012914) |
 | Standard Chartered | Markets Intern US 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
 | UBS | 2027 Summer Internship - Equity Research - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622) |
 | UBS | 2027 Summer Internship - Global Research (HOLT) - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566) |
@@ -591,7 +592,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (88)
+### Other (89)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -673,6 +674,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | Plexus Corp. | Intern - Site IT | Other | [Apply](https://www.linkedin.com/jobs/view/intern-site-it-summer-2027-at-plexus-corp-4462442781) |
 | Quest Analytics®,LLC | Quest Analytics Internship Program in Kansas City | Other | [Apply](https://www.linkedin.com/jobs/view/quest-analytics-internship-program-summer-2027-in-kansas-city-at-quest-analytics%C2%AE-llc-4465552744) |
+| Raymond James | 2027 Summer Internship Program - Information Technology (St. Petersburg, FL) | Other | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Information-Technology--St-Petersburg--FL-_R-0012940) |
 | Robinhood | PeopleX Insights & Analytics Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255) |
 | U.S. Bank | 2027 Business Analytics Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025907/2027-Business-Analytics-Summer-Intern) |
 | U.S. Bank | 2027 Information Security Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025770/2027-Information-Security-Summer-Intern) |
