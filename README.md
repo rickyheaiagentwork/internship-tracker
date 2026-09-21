@@ -11,7 +11,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (636)
+## Open — Apply now (641)
 
 ### AI/ML (69)
 
@@ -150,7 +150,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (411)
+### SWE (413)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -474,6 +474,8 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
 | Leonardo DRS | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-leonardo-drs-4466553730) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
+| Lowe's | Software Engineer – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
+| Lowe's | Store Optimization – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027) |
 | Lowe's Companies, Inc. | Software Engineer – Undergrad Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-undergrad-internship-%E2%80%93-summer-2027-at-lowe-s-companies-inc-4467485195) |
 | Lunar Outpost | Systems Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-lunar-outpost-4466583774) |
 | Lunar Outpost | Thermal Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/thermal-engineering-intern-summer-2027-at-lunar-outpost-4466582727) |
@@ -566,7 +568,7 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (17)
+### PM (18)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -584,11 +586,12 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
+| Lowe's | Digital Product Management - Undergrad Internship | PM | [Apply](https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (86)
+### Other (88)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -637,10 +640,12 @@ Verified **2026-09-20**. Every role below was found by **active search** (Linked
 | Xcimer Energy | Internship - Computational and Software Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-computational-and-software-engineering-at-xcimer-energy-4466450084) |
 | Xcimer Energy | Internship - Electrical and Pulsed Power Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-electrical-and-pulsed-power-engineering-at-xcimer-energy-4466449104) |
 | Zipline | Embedded Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/embedded-engineering-intern-summer-2027-at-zipline-4457723859) |
+| 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Other | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | Ally | Internship – Auto Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-auto-data-analytics-at-ally-4463232564) |
 | Ally | Internship – Insurance Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531) |
 | American Honda Motor Company, Inc. | Information Technology/Data Analytics Co-op/Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-data-analytics-co-op-intern-summer-2027-at-american-honda-motor-company-inc-4453631408) |
 | apexanalytix | Data Analyst Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analyst-intern-summer-2027-at-apexanalytix-4465565542) |
+| Caterpillar | Smart Manufacturing Intern--Simulation | Other | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Intern--Simulation_R0000373925) |
 | Caterpillar Inc. | 2027 Summer Corporate Intern – Digital and Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-corporate-intern-%E2%80%93-digital-and-analytics-at-caterpillar-inc-4463122306) |
 | CBIZ | Data Analyst Intern- Phoenix, AZ | Other | [Apply](https://www.linkedin.com/jobs/view/data-analyst-intern-phoenix-az-summer-2027-at-cbiz-4457185642) |
 | Centene Corporation | Analytics Summer 2027 Intern (Graduate) | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-summer-2027-intern-graduate-at-centene-corporation-4469246468) |

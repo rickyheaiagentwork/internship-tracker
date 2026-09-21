@@ -13685,5 +13685,115 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "lowe-s-store-optimization-undergrad-internship--s27",
+    "company": "Lowe's",
+    "role_title": "Store Optimization \u2013 Undergrad Internship \u2013 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-20",
+    "posting_url": "https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027",
+    "application_url": "https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Lowe's on 2026-09-20. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Lowe's"
+  },
+  {
+    "id": "lowe-s-digital-product-management-undergrad-int-s27",
+    "company": "Lowe's",
+    "role_title": "Digital Product Management - Undergrad Internship - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-20",
+    "posting_url": "https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027",
+    "application_url": "https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027",
+    "tier": 3,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Lowe's on 2026-09-20. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Lowe's"
+  },
+  {
+    "id": "lowe-s-software-engineer-undergrad-internship-s-s27",
+    "company": "Lowe's",
+    "role_title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-20",
+    "posting_url": "https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027",
+    "application_url": "https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Lowe's on 2026-09-20. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Lowe's"
+  },
+  {
+    "id": "3m-internship-2027-undergraduate-business-a-s27",
+    "company": "3M",
+    "role_title": "Internship - 2027 Undergraduate Business Analytics Intern \u2013 Consumer Business Group (CBG)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-20",
+    "posting_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049",
+    "application_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049",
+    "tier": 3,
+    "category": "Data",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:3M on 2026-09-20. Re-verify before applying.",
+    "fit_score": 25,
+    "verify_confidence": "high",
+    "source": "careers:3M"
+  },
+  {
+    "id": "caterpillar-smart-manufacturing-intern-simulation-s27",
+    "company": "Caterpillar",
+    "role_title": "Smart Manufacturing Intern--Simulation (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-20",
+    "posting_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Intern--Simulation_R0000373925",
+    "application_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Intern--Simulation_R0000373925",
+    "tier": 3,
+    "category": "Research",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Caterpillar on 2026-09-20. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 20,
+    "verify_confidence": "medium",
+    "source": "careers:Caterpillar"
   }
 ]
