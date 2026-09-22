@@ -2215,7 +2215,7 @@
     "role_title": "2027 Summer Intern \u2013 Global Manufacturing Electrical & SDV",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-19",
+    "verified_at": "2026-09-21",
     "posting_url": "https://search-careers.gm.com/en/jobs/jr-202619352/2027-summer-intern-global-manufacturing-electrical-sdv/",
     "application_url": "https://search-careers.gm.com/en/jobs/jr-202619352/2027-summer-intern-global-manufacturing-electrical-sdv/",
     "tier": 2,
@@ -4579,7 +4579,7 @@
     "role_title": "Quantitative Research Intern (2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-20",
+    "verified_at": "2026-09-21",
     "posting_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
     "application_url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
     "tier": 2,
@@ -14323,5 +14323,115 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "cadence-intern-digital-implementation-s27",
+    "company": "Cadence",
+    "role_title": "Intern Digital Implementation (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-21",
+    "posting_url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1",
+    "application_url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Cadence on 2026-09-21. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Cadence"
+  },
+  {
+    "id": "aig-2027-early-careers-summer-intern-technol-s27",
+    "company": "AIG",
+    "role_title": "2027 Early Careers: Summer Intern, Technology \u2013",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-21",
+    "posting_url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Summer-Intern--Technology---United-States--Charlotte--NC--Houston--TX----Jersey-City--NJ_JR2603638-1",
+    "application_url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Summer-Intern--Technology---United-States--Charlotte--NC--Houston--TX----Jersey-City--NJ_JR2603638-1",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:AIG on 2026-09-21. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:AIG"
+  },
+  {
+    "id": "nationwide-summer-2027-personal-lines-customer-expe-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Personal Lines Customer Experience Insights Intern page is loaded",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-21",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Customer-Experience-Insights-Intern_100048",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Customer-Experience-Insights-Intern_100048",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-09-21. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Nationwide"
+  },
+  {
+    "id": "u-s-bank-2027-engineering-summer-intern-s27",
+    "company": "U.S. Bank",
+    "role_title": "2027 Engineering Summer Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-21",
+    "posting_url": "https://careers.usbank.com/global/en/job/2026-0025769/2027-Engineering-Summer-Intern",
+    "application_url": "https://careers.usbank.com/global/en/job/2026-0025769/2027-Engineering-Summer-Intern",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:U.S. Bank on 2026-09-21. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:U.S. Bank"
+  },
+  {
+    "id": "u-s-bank-apply-now-2027-engineering-summer-intern-s27",
+    "company": "U.S. Bank",
+    "role_title": "Apply now 2027 Engineering Summer Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-21",
+    "posting_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769/apply",
+    "application_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769/apply",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:U.S. Bank on 2026-09-21. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:U.S. Bank"
   }
 ]

@@ -11,7 +11,7 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (665)
+## Open — Apply now (670)
 
 ### AI/ML (69)
 
@@ -151,7 +151,7 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (431)
+### SWE (436)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -394,6 +394,7 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 | Adobe | 2027 Intern - Digital Strategy Analyst, Strategic Advisory | SWE | [Apply](https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory) |
 | Adobe | 2027 Intern - Enterprise Architecture Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171856/2027-Intern-Enterprise-Architecture-Analyst) |
 | Adobe | 2027 Intern - Solutions Consulting Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst) |
+| AIG | 2027 Early Careers: Summer Intern, Technology | SWE | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Summer-Intern--Technology---United-States--Charlotte--NC--Houston--TX----Jersey-City--NJ_JR2603638-1) |
 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-internship-summer-2027-usa-at-amazon-4469152262) |
 | Antares | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-antares-4467976307) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
@@ -415,6 +416,7 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-new-york-ny-at-bny-4458216043) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-boeing-4463098948) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-boeing-4463404942) |
+| Cadence | Intern Digital Implementation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1) |
 | Cadence | Intern: Application Engineering - Formal Verification | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Formal-Verification_R54887) |
 | Cadence | Intern: Application Engineering - System Verification: Emulation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---System-Verification--Emulation_R54890) |
 | Capital One | 99109660512 08/12/2026 Business Analyst Intern McLean, VA | SWE | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
@@ -523,6 +525,7 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 | Motorola Solutions | Android Applications Developer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/android-applications-developer-intern-summer-2027-at-motorola-solutions-4458281408) |
 | Myers & Stauffer | Analyst Intern - Kansas City, MO | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-intern-kansas-city-mo-summer-2027-at-myers-stauffer-4458511626) |
 | Nationwide | Personal Lines Business Insights Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197) |
+| Nationwide | Personal Lines Customer Experience Insights Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Customer-Experience-Insights-Intern_100048) |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-internship-at-netsmart-4469122284) |
 | North Atlantic Industries | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-north-atlantic-industries-4465215762) |
 | North Atlantic Industries | Intern - Test Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-automation-engineer-summer-2027-at-north-atlantic-industries-4465229705) |
@@ -569,7 +572,9 @@ Verified **2026-09-21**. Every role below was found by **active search** (Linked
 | Target | Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-internship-minneapolis-mn-starting-june-2027-at-target-4466046872) |
 | The AES Corporation | Intern - T&D standards Power Systems - | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-t-d-standards-power-systems-summer-2027-at-the-aes-corporation-4466374841) |
 | The Voleon Group | Software Engineer Intern - | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-the-voleon-group-4459040052) |
+| U.S. Bank | 2027 Engineering Summer Intern | SWE | [Apply](https://careers.usbank.com/global/en/job/2026-0025769/2027-Engineering-Summer-Intern) |
 | U.S. Bank | 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-modeling-summer-intern-at-u-s-bank-4464666364) |
+| U.S. Bank | Apply now 2027 Engineering Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769/apply) |
 | U.S. Bank | Apply now 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558/apply) |
 | United Wholesale Mortgage | 2027 Technology Summer Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-technology-summer-internship-program-at-united-wholesale-mortgage-4467234311) |
 | Walmart Global Tech | Intern:: Software Engineer II | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineer-ii-at-walmart-global-tech-4463957109) |
