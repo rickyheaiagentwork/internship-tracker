@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-22**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-24**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -13,7 +13,7 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 
 ## Open — Apply now (688)
 
-### AI/ML (72)
+### AI/ML (70)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -70,7 +70,6 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | Clarios | IT Digital/AI Intern | AI/ML | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | Corning | Artificial Intelligence and Machine Learning Intern | AI/ML | [Apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/) |
 | Cox Automotive Inc. | AI/Automation Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-automation-intern-summer-2027-at-cox-automotive-inc-4466073725) |
-| Cox Communications, Inc. | AI/Automation Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-automation-intern-summer-2027-at-cox-communications-inc-4464832233) |
 | Dev Technology | AI/ML Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) |
 | Dev Technology | Microsoft Power Platform & AI Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) |
 | F.N.B. Corporation | AI and Innovation Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) |
@@ -81,7 +80,6 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498) |
 | JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
-| Manheim Dallas-Fort Worth | AI/Automation Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-automation-intern-summer-2027-at-manheim-dallas-fort-worth-4465835998) |
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
 | Nationwide | Generative AI Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-generative-ai-internship-at-nationwide-4461428029) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
@@ -154,7 +152,7 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 
-### SWE (448)
+### SWE (449)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -596,6 +594,7 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | Waymo | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineer-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Commercialization | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) |
+| Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-maneuvering-tech-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, MS, Software Engineering, Behavior Test | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states) |
 | WebstaurantStore | 2027 Full Stack Development Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-full-stack-development-summer-internship-at-webstaurantstore-4467604777) |
 | Xcimer Energy | Internship - Optical Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-optical-engineering-at-xcimer-energy-4466724312) |
@@ -630,7 +629,7 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (96)
+### Other (97)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -681,6 +680,7 @@ Verified **2026-09-22**. Every role below was found by **active search** (Linked
 | State Farm | Intern – Enterprise Technology – Engineer (Software, Data, Infrastructure) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-enterprise-technology-%E2%80%93-engineer-software-data-infrastructure-at-state-farm-4465762636) |
 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-intern-e-commerce-2027-summer-at-tiktok-4456219203) |
 | Tokio Marine HCC | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-tokio-marine-hcc-4466127680) |
+| Waymo | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Other | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-embedded-software-engineer-mountain-view-california-united-states) |
 | Xcimer Energy | Internship - Computational and Software Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-computational-and-software-engineering-at-xcimer-energy-4466450084) |
 | Xcimer Energy | Internship - Electrical and Pulsed Power Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-electrical-and-pulsed-power-engineering-at-xcimer-energy-4466449104) |
 | Zimmer Biomet | 2027 Summer Intern, Data Mesh Platform | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-mesh-platform-at-zimmer-biomet-4468166627) |
