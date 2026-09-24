@@ -11,7 +11,7 @@ Verified **2026-09-24**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (688)
+## Open — Apply now (690)
 
 ### AI/ML (70)
 
@@ -629,7 +629,7 @@ Verified **2026-09-24**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (97)
+### Other (99)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -654,6 +654,7 @@ Verified **2026-09-24**. Every role below was found by **active search** (Linked
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
 | Citizens | Software Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | Other | [Apply](https://www.linkedin.com/jobs/view/software-engineer-summer-2027-intern-enterprise-technology-security-summer-internship-program-at-citizens-4466799863) |
 | ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
+| Figma | Data Engineer Intern (2027) | Other | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
 | GE Aerospace | Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US | Other | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-electrical-engineering-computer-engineering-science-electric-power-us-summer-2027-at-ge-aerospace-4455240598) |
 | General Dynamics Electric Boat | SSN Electrical Engineering and Design - 2027 Engineering Summer Internship | Other | [Apply](https://www.linkedin.com/jobs/view/ssn-electrical-engineering-and-design-2027-engineering-summer-internship-at-general-dynamics-electric-boat-4465792069) |
 | Google | Data Center Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027) |
@@ -721,6 +722,7 @@ Verified **2026-09-24**. Every role below was found by **active search** (Linked
 | Raymond James | 2027 Summer Internship Program - Information Technology (St. Petersburg, FL) | Other | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Information-Technology--St-Petersburg--FL-_R-0012940) |
 | Robinhood | Offensive Security Intern | Other | [Apply](https://www.linkedin.com/jobs/view/offensive-security-intern-summer-2027-at-robinhood-4466951178) |
 | Robinhood | PeopleX Insights & Analytics Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255) |
+| Robinhood | Security Risk Management Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970) |
 | U.S. Bank | 2027 Business Analytics Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025907/2027-Business-Analytics-Summer-Intern) |
 | U.S. Bank | 2027 Information Security Summer Intern | Other | [Apply](https://careers.usbank.com/global/en/job/2026-0025770/2027-Information-Security-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Business Analytics Summer Intern | Other | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907/apply) |
