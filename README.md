@@ -11,7 +11,7 @@ Verified **2026-09-25**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (720)
+## Open — Apply now (722)
 
 ### AI/ML (79)
 
@@ -632,7 +632,7 @@ Verified **2026-09-25**. Every role below was found by **active search** (Linked
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (18)
+### PM (20)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -644,10 +644,12 @@ Verified **2026-09-25**. Every role below was found by **active search** (Linked
 | GE Vernova | GE Vernova Product Management Intern – Controls Lifecare Services | PM | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
 | Home Depot | 2027 SUMMER INTERNSHIP - PRODUCT MANAGEMENT | PM | [Apply](https://careers.homedepot.com/job/23777889/2027-summer-internship-product-management-onsite/) |
 | Mastercard | Product Management – Technical Intern – St. Louis, MO, US | PM | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) |
+| NVIDIA | Product Design Intern, AI Infrastructure | PM | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784) |
 | Roblox | \[Summer 2027] Product Management Intern | PM | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | The Home Depot | 2027 Summer Internship - Product Management | PM | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) |
 | TikTok | Product Manager Intern, Signal and Identity Product | PM | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
+| Google | Associate Product Manager Intern | PM | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Lowe's | Digital Product Management - Undergrad Internship | PM | [Apply](https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027) |
