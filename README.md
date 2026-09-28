@@ -11,7 +11,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (766)
+## Open — Apply now (768)
 
 ### AI/ML (97)
 
@@ -185,7 +185,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (477)
+### SWE (478)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -661,6 +661,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Xcimer Energy | Internship - Optical Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-optical-engineering-at-xcimer-energy-4466724312) |
 | Zipline | Applications Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/applications-engineer-intern-summer-2027-at-zipline-4457086126) |
 | Zipline | Controls Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/controls-engineer-intern-summer-2027-at-zipline-4456350422) |
+| Zipline | Droid Autonomy Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/droid-autonomy-intern-summer-2027-at-zipline-4470981485) |
 | Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Maintenance Tool Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/maintenance-tool-engineering-intern-summer-2027-at-zipline-4457079206) |
 | Zipline | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-zipline-4457524965) |
@@ -694,7 +695,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (110)
+### Other (111)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -784,6 +785,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Meijer | Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-intern-summer-2027-at-meijer-4462569306) |
 | Meijer | Store Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/store-analytics-intern-summer-2027-at-meijer-4462563337) |
 | Milliman IntelliScript | Data Analytics Intern - IntelliScript | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-intelliscript-at-milliman-intelliscript-4458026897) |
+| MIT Lincoln Laboratory | Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-advanced-undersea-systems-and-technology-group-03-37-at-mit-lincoln-laboratory-4472725886) |
 | Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
