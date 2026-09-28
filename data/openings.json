@@ -16523,5 +16523,71 @@
     "fit_score": 90,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "genentech-2027-spring-intern-cell-line-development-s27",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Cell Line Development Automation",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-27",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation",
+    "application_url": "https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-27. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-spring-intern-pharmaceutical-techni-s27-3",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Pharmaceutical Technical Development - Bioassay",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-27",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-124125/2027-Spring-Intern-Pharmaceutical-Technical-Development-Bioassay",
+    "application_url": "https://careers.gene.com/us/en/job/202609-124125/2027-Spring-Intern-Pharmaceutical-Technical-Development-Bioassay",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-27. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-spring-intern-analytical-method-val-s27",
+    "company": "Genentech",
+    "role_title": "2027 Spring Intern - Analytical Method Validation and Tech Transfer",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-27",
+    "posting_url": "https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer",
+    "application_url": "https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-09-27. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
   }
 ]
