@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-27**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-28**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-27**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (768)
+## Open — Apply now (766)
 
 ### AI/ML (97)
 
@@ -185,7 +185,7 @@ Verified **2026-09-27**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (479)
+### SWE (477)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -329,7 +329,6 @@ Verified **2026-09-27**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Body & Paint Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619475/2027-summer-intern-manufacturing-engineering-body-paint-center/) |
 | General Motors | 2027 Summer Intern – Manufacturing Quality Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619307/2027-summer-intern-manufacturing-quality-engineer/) |
 | General Motors | 2027 Summer Manufacturing Intern - Mechanical Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619411/2027-summer-manufacturing-intern-mechanical-engineer/) |
-| Google | Software Engineering Intern, BS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | Gulfstream Aerospace Corporation | IEF - Software Engineer Collegiate Associate Intern | SWE | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/) |
 | Home Depot | 2027 SUMMER INTERNSHIP - BUSINESS OPERATIONS & MANAGEMENT | SWE | [Apply](https://careers.homedepot.com/job/23778246/2027-summer-internship-business-operations-management-onsite/) |
 | Home Depot | 2027 SUMMER INTERNSHIP - CYBERSECURITY | SWE | [Apply](https://careers.homedepot.com/job/23777892/2027-summer-internship-cybersecurity-remote/) |
@@ -516,7 +515,6 @@ Verified **2026-09-27**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern – Motorsports Aero-Thermal Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619861/2027-summer-intern-motorsports-aero-thermal-engineering/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | Google | Customer And Partner Solutions Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027) |
-| Google | Software Engineering Intern, MS Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
 | Google | User Experience Engineer Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027) |
 | Gulfstream Aerospace | Completions Engineering Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-completions-engineering-collegiate-associate-intern-at-gulfstream-aerospace-4465866524) |
 | Gulfstream Aerospace | IEF - Flight Sciences / Thermofluid Analysis Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-flight-sciences-thermofluid-analysis-collegiate-intern-at-gulfstream-aerospace-4465864566) |
