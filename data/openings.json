@@ -5,7 +5,7 @@
     "role_title": "2027 Intern - Machine Learning Engineer",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-09-28",
+    "verified_at": "2026-09-29",
     "posting_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "tier": 1,
@@ -16810,5 +16810,115 @@
     "fit_score": 0,
     "verify_confidence": "high",
     "source": "careers:Charter Communications"
+  },
+  {
+    "id": "american-express-campus-undergraduate-summer-internship-p-s27-14",
+    "company": "American Express",
+    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-29",
+    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-technology-new-york-ny-at-american-express-4454453119",
+    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-technology-new-york-ny-at-american-express-4454453119",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\n12 minutes ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-29. Re-verify before applying.",
+    "fit_score": 40,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "motorola-solutions-android-platform-software-engineering-in-s27",
+    "company": "Motorola Solutions",
+    "role_title": "Android Platform Software Engineering Intern - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-29",
+    "posting_url": "https://www.linkedin.com/jobs/view/android-platform-software-engineering-intern-summer-2027-at-motorola-solutions-4463121058",
+    "application_url": "https://www.linkedin.com/jobs/view/android-platform-software-engineering-intern-summer-2027-at-motorola-solutions-4463121058",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Plantation, FL\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-29. Re-verify before applying.",
+    "fit_score": 45,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "peraton-summer-2027-software-engineer-intern-s27",
+    "company": "Peraton",
+    "role_title": "Summer 2027 Software Engineer Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-29",
+    "posting_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineer-intern-at-peraton-4463550084",
+    "application_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineer-intern-at-peraton-4463550084",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Herndon, VA\n18 hours ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-29. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "nxp-semiconductors-embedded-machine-learning-radar-processi-s27",
+    "company": "NXP Semiconductors",
+    "role_title": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-29",
+    "posting_url": "https://www.linkedin.com/jobs/view/embedded-machine-learning-radar-processing-intern-summer-2027-at-nxp-semiconductors-4464090607",
+    "application_url": "https://www.linkedin.com/jobs/view/embedded-machine-learning-radar-processing-intern-summer-2027-at-nxp-semiconductors-4464090607",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-29. Re-verify before applying.",
+    "fit_score": 95,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "mit-lincoln-laboratory-summer-research-program-intern-2027-air--s27",
+    "company": "MIT Lincoln Laboratory",
+    "role_title": "Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-09-29",
+    "posting_url": "https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-air-traffic-control-systems-group-04-43-at-mit-lincoln-laboratory-4472724978",
+    "application_url": "https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-air-traffic-control-systems-group-04-43-at-mit-lincoln-laboratory-4472724978",
+    "tier": 3,
+    "category": "Research",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Lexington, MA\nBe an early applicant\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-09-29. Re-verify before applying.",
+    "fit_score": 20,
+    "verify_confidence": "high",
+    "source": "linkedin"
   }
 ]

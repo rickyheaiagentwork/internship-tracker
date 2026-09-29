@@ -11,9 +11,9 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (778)
+## Open — Apply now (783)
 
-### AI/ML (97)
+### AI/ML (98)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -109,6 +109,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
 | Nationwide | Generative AI Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-generative-ai-internship-at-nationwide-4461428029) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
+| NXP Semiconductors | Embedded Machine Learning & Radar Processing Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/embedded-machine-learning-radar-processing-intern-summer-2027-at-nxp-semiconductors-4464090607) |
 | Polaris Inc. | Digital & IT - Predictive Data Science Internship | AI/ML | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) |
 | Salesforce | AI Builder Intern [Brazil] | AI/ML | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) |
 | The Home Depot | 2027 Summer Internship - Data Science & Analytics | AI/ML | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
@@ -185,7 +186,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (486)
+### SWE (489)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -238,6 +239,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4460217705) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-salt-lake-city-ut-at-american-express-4469088015) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454770886) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-technology-new-york-ny-at-american-express-4454453119) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Aquatic Capital | Quantitative Researcher Intern | SWE | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
@@ -358,6 +360,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | McKesson | Software Engineer Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469) |
 | Medline | Software Engineering Intern | SWE | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
 | MiniMed | Software Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124) |
+| Motorola Solutions | Android Platform Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/android-platform-software-engineering-intern-summer-2027-at-motorola-solutions-4463121058) |
 | Nationwide | Economics Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) |
 | Nationwide | Surety Claims Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052) |
 | Nationwide | Surety Underwriting Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043) |
@@ -599,6 +602,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
 | Nutanix | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-nutanix-4468324254) |
+| Peraton | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineer-intern-at-peraton-4463550084) |
 | Perpay Inc. | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-perpay-inc-4470446637) |
 | Plexus Corp. | Intern - Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-automation-engineer-summer-2027-at-plexus-corp-4462100570) |
 | Plexus Corp. | Intern - Mechanical Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-mechanical-engineer-summer-2027-at-plexus-corp-4462110334) |
@@ -703,7 +707,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (113)
+### Other (114)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -796,6 +800,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Meijer | Store Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/store-analytics-intern-summer-2027-at-meijer-4462563337) |
 | Milliman IntelliScript | Data Analytics Intern - IntelliScript | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-intelliscript-at-milliman-intelliscript-4458026897) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-advanced-undersea-systems-and-technology-group-03-37-at-mit-lincoln-laboratory-4472725886) |
+| MIT Lincoln Laboratory | Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-air-traffic-control-systems-group-04-43-at-mit-lincoln-laboratory-4472724978) |
 | Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
