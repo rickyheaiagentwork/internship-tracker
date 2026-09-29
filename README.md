@@ -11,7 +11,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (768)
+## Open — Apply now (778)
 
 ### AI/ML (97)
 
@@ -185,7 +185,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (478)
+### SWE (486)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -293,6 +293,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Caterpillar | 2027 Summer Intern - Information Technology | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Information-Technology_R0000387802) |
 | CesiumAstro | Embedded Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) |
 | CesiumAstro | Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
+| Charter Communications | Intern 2027 Summer Intern: Platforms Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-platforms-engineer/4673/100133779600) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
 | Colossal Biosciences | Internships - General Interest Posting | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-general-interest-posting-at-colossal-biosciences-4460644733) |
 | Cretex Medical Component and Device Technologies | Industrial Engineering Intern (Stamping) Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-stamping-summer-2027-at-cretex-medical-component-and-device-technologies-4461952251) |
@@ -468,6 +469,9 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Caterpillar | Manufacturing Engineering College Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) |
 | Charter Communications | Intern 2027 Summer Intern: Advanced Technology INTERN Englewood, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/englewood/2027-summer-intern-advanced-technology/4673/100143762320) |
 | Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Greenwood Village, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-business-analyst/4673/100143764768) |
+| Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Maryland Heights, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-business-analyst/4673/100133779376) |
+| Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Sandy Springs, GA VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/sandy-springs/2027-summer-intern-business-analyst/4673/100410104880) |
+| Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Charlotte, NC VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/charlotte/2027-summer-intern-software-engineer/4673/100133777072) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Maryland Heights, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-software-engineer/4673/100133775440) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-software-engineer/4673/100133780016) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Town and Country, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/town-and-country/2027-summer-intern-software-engineer/4673/100143762416) |
@@ -503,6 +507,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | GE Aerospace | Manufacturing Engineering Intern – US | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-%E2%80%93-us-%E2%80%93-summer-2027-at-ge-aerospace-4455233583) |
 | GE Aerospace | Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-mechanical-aerospace-engineering-electric-power-us-summer-2027-at-ge-aerospace-4455232655) |
 | GE Vernova | GE Vernova Gas Power Engineering Internship-1 | SWE | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-gas-power-engineering-internship-summer-2027-1-at-ge-vernova-4465890721) |
+| General Dynamics | Project Management/Business Analyst Internship | SWE | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Project-Management-Business-Analyst--Internship_RQ228857) |
 | General Dynamics | Software Development Internship | SWE | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405) |
 | General Dynamics - Bath Iron Works | 2027 Summer Internship - Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-engineering-at-general-dynamics-bath-iron-works-4466523137) |
 | General Dynamics Electric Boat | 2027 Engineering Summer Internship: Waterfront Engineering - Fast Attack Submarines | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-engineering-summer-internship-waterfront-engineering-fast-attack-submarines-at-general-dynamics-electric-boat-4466166345) |
@@ -510,6 +515,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | General Dynamics Mission Systems | Regional Strike Programs - Systems Engineering Internship Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/regional-strike-programs-systems-engineering-internship-summer-2027-at-general-dynamics-mission-systems-4466588049) |
 | General Motors | 2027 Summer Intern - Digital Sculpting | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619286/2027-summer-intern-digital-sculpting/) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
+| General Motors | 2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619989/2027-summer-intern-business-operations-cost-optimization-cadillac-racing-program-management/) |
 | General Motors | 2027 Summer Intern – IndyCar Trackside Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619993/2027-summer-intern-indycar-trackside-engineering/) |
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
 | General Motors | 2027 Summer Intern – Motorsports Aero-Thermal Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619861/2027-summer-intern-motorsports-aero-thermal-engineering/) |
@@ -587,7 +593,9 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | North Atlantic Industries | Intern - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2027-at-north-atlantic-industries-4465215762) |
 | North Atlantic Industries | Intern - Test Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-automation-engineer-summer-2027-at-north-atlantic-industries-4465229705) |
 | Northrop Grumman | 2027 Fall Mechanical Engineering Co-op - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495) |
+| Northrop Grumman | 2027 Intern Systems Engineer - CA & ND | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236) |
 | Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-software-engineer-intern-san-diego-ca-at-northrop-grumman-4470679512) |
+| Northrop Grumman | 2027 Systems Engineering Intern - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325) |
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
 | Nutanix | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-nutanix-4468324254) |
@@ -695,7 +703,7 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (111)
+### Other (113)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -771,6 +779,8 @@ Verified **2026-09-28**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Co-Op, Operations Planning and Performance - Reporting and Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/co-op-operations-planning-and-performance-reporting-and-analytics-summer-2027-at-delta-air-lines-4461683918) |
 | DriveTime | Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-intern-summer-2027-at-drivetime-4461921660) |
 | Encompass Health | Data Management Student Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-management-student-intern-summer-2027-at-encompass-health-4469500183) |
+| General Motors | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619990/2027-summer-intern-indycar-race-strategy-analytics/) |
+| General Motors | 2027 Summer Intern, Global Customer Research Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619679/2027-summer-intern-global-customer-research-intern/) |
 | Google | Silicon Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
