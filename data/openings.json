@@ -14326,50 +14326,6 @@
     "source": "careers:U.S. Bank"
   },
   {
-    "id": "perpay-inc-software-engineering-internship-summer-2-s27",
-    "company": "Perpay Inc.",
-    "role_title": "Software Engineering Internship, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-29",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-perpay-inc-4470446637",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-perpay-inc-4470446637",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Philadelphia, PA\nBe an early applicant\n1 hour ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "perpay-inc-data-engineering-internship-summer-2027-s27",
-    "company": "Perpay Inc.",
-    "role_title": "Data Engineering Internship, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-09-29",
-    "posting_url": "https://www.linkedin.com/jobs/view/data-engineering-internship-summer-2027-at-perpay-inc-4470448635",
-    "application_url": "https://www.linkedin.com/jobs/view/data-engineering-internship-summer-2027-at-perpay-inc-4470448635",
-    "tier": 2,
-    "category": "Data",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Philadelphia, PA\nBe an early applicant\n1 hour ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 55,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "tiktok-usds-joint-venture-ai-agent-engineer-intern-payment-data-in-s27",
     "company": "TikTok USDS Joint Venture",
     "role_title": "AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer",
