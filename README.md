@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-29**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-09-30**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (781)
+## Open — Apply now (787)
 
 ### AI/ML (98)
 
@@ -186,7 +186,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (488)
+### SWE (492)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -496,6 +496,9 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Crown Equipment Corporation | Computer Science and Engineering Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/computer-science-and-engineering-co-op-summer-2027-at-crown-equipment-corporation-4464640261) |
 | Cytiva | Mechanical Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576) |
 | Daikin Comfort | Programmer Analyst Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/programmer-analyst-intern-summer-2027-at-daikin-comfort-4461339575) |
+| Deere & Company | 2027 Intern - Engineering - Weld | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Engineering-Weld-Illi-61244/1425412000/) |
+| Deere & Company | 2027 Intern - Manufacturing Engineering | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Manufacturing-Engineering-Iowa-50703/1425409900/) |
+| Deere & Company | 2027 Intern - Product Engineering | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Product-Engineering-Illi-58102/1425418200/) |
 | DoorDash | Software Engineer, Intern - US | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-us-at-doordash-4465266224) |
 | ExxonMobil | 2027 Campus Hire - Process Engineer | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Process-Engineer-627596/1421840200/) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
@@ -638,6 +641,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Robinhood | Software Engineering Intern, iOS | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142959) |
 | Robinhood | Software Engineering Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963) |
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
+| Seagate | Technical Writer Intern | SWE | [Apply](https://seagatecareers.com/job/Technical-Writer-Intern-Summer-2027/15017-en_US) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462546541) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-spirit-aerosystems-4462528757) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462541674) |
@@ -706,7 +710,7 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (113)
+### Other (115)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -778,6 +782,8 @@ Verified **2026-09-29**. Every role below was found by **active search** (Linked
 | Centene Corporation | Analytics Summer 2027 Intern (Graduate) | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-summer-2027-intern-graduate-at-centene-corporation-4469246468) |
 | Commerce Bank | Intern - Data Analyst | Other | [Apply](https://www.linkedin.com/jobs/view/intern-data-analyst-summer-2027-at-commerce-bank-4468152591) |
 | Cytiva | Data Analytics Intern Summer 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-cytiva-4463929599) |
+| Deere & Company | 2027 Intern - Data & Analytics | Other | [Apply](https://jobs.deere.com/eightfold/job/Moline-2027-Intern-Data-&-Analytics-Illi-61265-5884/1425304400/) |
+| Deere & Company | 2027 Intern - Information Technology | Other | [Apply](https://jobs.deere.com/eightfold/job/Moline-2027-Intern-Information-Technology-Illi-61265-8098/1424977100/) |
 | Delta Air Lines | Co-Op, Operations Planning and Performance - Reporting and Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/co-op-operations-planning-and-performance-reporting-and-analytics-summer-2027-at-delta-air-lines-4461683918) |
 | DriveTime | Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-intern-summer-2027-at-drivetime-4461921660) |
 | Encompass Health | Data Management Student Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-management-student-intern-summer-2027-at-encompass-health-4469500183) |
