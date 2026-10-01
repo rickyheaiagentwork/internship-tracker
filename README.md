@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-09-30**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-01**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (795)
+## Open — Apply now (801)
 
 ### AI/ML (99)
 
@@ -188,7 +188,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (498)
+### SWE (503)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -451,9 +451,12 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, Software Development Engineer [PSET-Connected Delivery] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2) |
 | Autodesk | Intern, Software Development Engineer [PSET-Localization] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2) |
 | Autodesk | Software Engineering Intern Summer 2027 | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
+| BAE Systems | Computer Science Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130021BR/Computer-Science-Intern-Summer-2027) |
 | BAE Systems | Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027) |
 | BAE Systems | Mechanical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship - Summer, 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027) |
+| BAE Systems | Programmer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130483BR/Programmer-Intern-Summer-2027) |
+| BAE Systems | System Engineer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129958BR/System-Engineer-Intern-Summer-2027) |
 | BAE Systems, Inc. | New Hampshire Systems Engineering Intern III, Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/new-hampshire-systems-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4448045400) |
 | BAE Systems, Inc. | Software Developer Intern III (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-iii-summer-2027-onsite-at-bae-systems-inc-4465222793) |
 | BAE Systems, Inc. | Software Engineering Intern II, Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-ii-summer-2027-onsite-at-bae-systems-inc-4450501040) |
@@ -557,6 +560,8 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Intuit | : Mobile Software Engineering Intern - iOS Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568) |
 | Intuit | : Software Engineering Intern - Full Stack Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520) |
 | Intuit | : Technical Program Manager (TPM) Intern Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664) |
+| Invesco | Early Career Intern - Distribution Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
+| Invesco | Early Career Intern - Investment Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) |
 | JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
 | JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
@@ -691,7 +696,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 
-### PM (22)
+### PM (23)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -713,6 +718,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Google | Associate Product Manager Intern | PM | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
+| Invesco | Early Career Intern - Digital Asset Product | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1) |
 | Lowe's | Digital Product Management - Undergrad Internship | PM | [Apply](https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
