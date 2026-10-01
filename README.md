@@ -11,7 +11,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (796)
+## Open — Apply now (795)
 
 ### AI/ML (99)
 
@@ -188,7 +188,7 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (499)
+### SWE (498)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -550,7 +550,6 @@ Verified **2026-09-30**. Every role below was found by **active search** (Linked
 | Impulse Space | RF Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-engineering-intern-summer-2027-at-impulse-space-4465801583) |
 | Impulse Space | Space Operations Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/space-operations-engineering-intern-summer-2027-at-impulse-space-4465818477) |
 | Impulse Space | Test Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/test-automation-intern-summer-2027-at-impulse-space-4467286018) |
-| Impulse Space | Weld Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/weld-engineering-intern-summer-2027-at-impulse-space-4465802572) |
 | Indiana University Health | 2027 Summer Internship Program Information Services (IS) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-program-information-services-is-at-indiana-university-health-4465229379) |
 | Inmar Intelligence | Software Engineering Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internships-summer-2027-at-inmar-intelligence-4465573540) |
 | Intuit | : Mobile Software Engineering Intern - Android | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-mobile-software-engineering-intern-android-at-intuit-4467732024) |
