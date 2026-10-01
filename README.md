@@ -11,9 +11,9 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (801)
+## Open — Apply now (812)
 
-### AI/ML (99)
+### AI/ML (100)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -77,6 +77,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | The Nuclear Company | AI Applied Research Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-applied-research-internship-at-the-nuclear-company-4454583917) |
 | TikTok | AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-infra-engineer-intern-recommendation-llm-2027-summer-at-tiktok-4457692099) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Basic Ranking) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-tiktok-data-search-basic-ranking-2027-summer-at-tiktok-4447693215) |
+| TikTok | Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-global-e-commerce-quality-platform-ai-test-automation-2027-summer-at-tiktok-4446288143) |
 | TikTok USDS Joint Venture | AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466940465) |
 | TikTok USDS Joint Venture | Machine Learning Engineer Intern (Payment Data Intelligence) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466938482) |
 | Tokyo Electron US | Software Engineer, AI Research Summer 2027 Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/software-engineer-ai-research-summer-2027-intern-at-tokyo-electron-us-4465308023) |
@@ -188,7 +189,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (503)
+### SWE (512)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -438,6 +439,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Workiva | Intern - Software Engineering | SWE | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) |
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
 | Activision | Activision 2027 Summer Internships - Game Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-game-engineering-at-activision-4465395085) |
+| Activision Blizzard | Activision 2027 Summer Internships - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-software-engineering-at-activision-blizzard-4463408951) |
 | Adobe | 2027 Intern - Digital Strategy Analyst, Strategic Advisory | SWE | [Apply](https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory) |
 | Adobe | 2027 Intern - Enterprise Architecture Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171856/2027-Intern-Enterprise-Architecture-Analyst) |
 | Adobe | 2027 Intern - Solutions Consulting Analyst | SWE | [Apply](https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst) |
@@ -506,8 +508,10 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Deere & Company | 2027 Intern - Engineering - Weld | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Engineering-Weld-Illi-61244/1425412000/) |
 | Deere & Company | 2027 Intern - Manufacturing Engineering | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Manufacturing-Engineering-Iowa-50703/1425409900/) |
 | Deere & Company | 2027 Intern - Product Engineering | SWE | [Apply](https://jobs.deere.com/eightfold/job/Various-Locations-2027-Intern-Product-Engineering-Illi-58102/1425418200/) |
+| DICK'S Sporting Goods | Software Engineering Corporate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-2027-corporate-internship-at-dick-s-sporting-goods-4462521837) |
 | DoorDash | Software Engineer, Intern - US | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-us-at-doordash-4465266224) |
 | Dropbox | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-dropbox-4464391017) |
+| Epsilon | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-epsilon-4463574139) |
 | ExxonMobil | 2027 Campus Hire - Process Engineer | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Process-Engineer-627596/1421840200/) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
 | Federal Reserve Bank of Kansas City | Internship, Analyst | SWE | [Apply](https://www.linkedin.com/jobs/view/internship-analyst-%E2%80%93-summer-2027-at-federal-reserve-bank-of-kansas-city-4462007611) |
@@ -515,6 +519,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Federal Reserve Bank of St. Louis | 2027 Summer Internship - Business Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-business-technology-at-federal-reserve-bank-of-st-louis-4469842487) |
 | Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | First Citizens Bank | 2027 Summer Intern - Quantitative Analysis (Raleigh, North Carolina) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quantitative-analysis-raleigh-north-carolina-at-first-citizens-bank-4468167756) |
+| Fox Corporation | FOX Technology Internship Program - Tempe, AZ | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-fox-technology-internship-program-tempe-az-at-fox-corporation-4472494507) |
 | GE Aerospace | Edison Works Engineering Intern - Aero Design - US | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-aero-design-us-summer-2027-at-ge-aerospace-4455920586) |
 | GE Aerospace | Edison Works Engineering Intern - US - Signature Design & Test | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-us-signature-design-test-summer-2027-at-ge-aerospace-4455936413) |
 | GE Aerospace | Engines Engineering Intern – US | SWE | [Apply](https://www.linkedin.com/jobs/view/engines-engineering-intern-%E2%80%93-us-%E2%80%93-summer-2027-at-ge-aerospace-4455247557) |
@@ -654,10 +659,12 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Robinhood | Software Engineering Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963) |
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
 | Seagate | Technical Writer Intern | SWE | [Apply](https://seagatecareers.com/job/Technical-Writer-Intern-Summer-2027/15017-en_US) |
+| Southwest Airlines | Software Engineer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineer-internship-at-southwest-airlines-4472519948) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462546541) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-spirit-aerosystems-4462528757) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering-at-spirit-aerosystems-4462541674) |
 | State Farm | Intern - HR&D - Software Developer | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-hr-d-software-developer-at-state-farm-4469611021) |
+| Stripe | High School Internship, Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/high-school-internship-software-engineering-summer-2027-at-stripe-4474105575) |
 | Sub-Zero Group, Inc. | 2027 Information & Technology Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-technology-co-op-at-sub-zero-group-inc-4459747730) |
 | Superhuman | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-superhuman-4465258325) |
 | Swarm Aero | Composite Engineering (M&P) Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/composite-engineering-m-p-intern-summer-2027-at-swarm-aero-4463930386) |
@@ -667,6 +674,9 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | The Church of Jesus Christ of Latter-day Saints | 2026 QA/Soft Dev in Test Technical Intern (Jan and May 2027 hires) | SWE | [Apply](https://www.linkedin.com/jobs/view/2026-qa-soft-dev-in-test-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460235742) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 Software Engineer Technical Intern (Jan and May 2027 hires) | SWE | [Apply](https://www.linkedin.com/jobs/view/2026-software-engineer-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460244469) |
 | The Voleon Group | Software Engineer Intern - | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-the-voleon-group-4459040052) |
+| TikTok | Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/backend-software-engineer-intern-global-e-commerce-2027-summer-at-tiktok-4446291116) |
+| TikTok | Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/frontend-software-engineer-intern-ads-measurement-signal-and-privacy-2027-summer-at-tiktok-4447900629) |
+| TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/fullstack-software-engineer-intern-global-e-commerce-2027-summer-at-tiktok-4448702780) |
 | Two Sigma | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-two-sigma-4462537751) |
 | U.S. Bank | 2027 Engineering Summer Intern | SWE | [Apply](https://careers.usbank.com/global/en/job/2026-0025769/2027-Engineering-Summer-Intern) |
 | U.S. Bank | 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-modeling-summer-intern-at-u-s-bank-4464666364) |
@@ -724,7 +734,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (115)
+### Other (116)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -741,6 +751,7 @@ Verified **2026-10-01**. Every role below was found by **active search** (Linked
 | Activision | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-4465893940) |
 | Activision Blizzard | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-blizzard-4463959066) |
 | Amazon | Software Development Engineer Intern/Co-Op, ROBOTICS - 2027 | Other | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
+| Amazon Web Services (AWS) | Software Development Engineer Intern, AWS Database - 2027 (US) | Other | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-aws-database-2027-us-at-amazon-web-services-aws-4473971949) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
 | apexanalytix | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-apexanalytix-4465571507) |
 | Autodesk | Intern, Software Development Engineer [PSET - Product Data - Document Management] | Other | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984) |
