@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-02**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-03**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (822)
+## Open — Apply now (826)
 
-### AI/ML (102)
+### AI/ML (103)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -71,6 +71,7 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 | Qualcomm | Machine Learning & Artificial Intelligence Engineering Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-artificial-intelligence-engineering-internship-%E2%80%93-summer-2027-at-qualcomm-4468095267) |
 | Red Ventures | 2027 Launch Program: Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-launch-program-data-science-intern-at-red-ventures-4472054860) |
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (January - August 2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-ai-analytics-january-august-2027-at-rivian-and-volkswagen-group-technologies-4463552654) |
+| Robinhood | Data Science Intern | AI/ML | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
 | S&P Global | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-s-p-global-4464128518) |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
@@ -191,7 +192,7 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (517)
+### SWE (519)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -263,6 +264,8 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 | BAE Systems | Software Engineering Intern II, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite) |
 | BAE Systems | Software Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027) |
 | BAE Systems | Software Engineering Intern IV, Onsite | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite) |
+| Baker Hughes | Intern - Engineering & Technology Opportunities | SWE | [Apply](https://careers.bakerhughes.com/global/en/job/R168900/Intern-Engineering-Technology-Summer-2027-Opportunities) |
+| Baker Hughes | Intern/Co-op - Engineering & Technology Opportunities | SWE | [Apply](https://careers.bakerhughes.com/global/en/job/R168918/Intern-Co-op-Engineering-Technology-Summer-2027-Opportunities) |
 | Battelle | Data Modeler/Engineering Programmer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/data-modeler-engineering-programmer-intern-summer-2027-at-battelle-4462732690) |
 | BD | BD 2027 Summer Internship - Edge Program - Technology & Digital Services (TDS) | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-edge-program-technology-and-digital-services-tds/159/99991853376) |
 | BD | BD 2027 Summer Internship - Finance Leadership Development Program (FLDP) Summer Analyst | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-finance-leadership-development-program-fldp-summer-analyst/159/99988267520) |
@@ -741,7 +744,7 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (119)
+### Other (120)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -757,6 +760,7 @@ Verified **2026-10-02**. Every role below was found by **active search** (Linked
 | Together AI | Research Intern, Model Shaping | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-model-shaping-summer-2027-at-together-ai-4468014291) |
 | Activision | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-4465893940) |
 | Activision Blizzard | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-blizzard-4463959066) |
+| Amazon | Software Development Engineer Intern, AWS Database - 2027 (US) | Other | [Apply](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
 | Amazon | Software Development Engineer Intern/Co-Op, ROBOTICS - 2027 | Other | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
 | Amazon Web Services (AWS) | Software Development Engineer Intern, AWS Database - 2027 (US) | Other | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-aws-database-2027-us-at-amazon-web-services-aws-4473971949) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-global-servicing-new-york-ny-at-american-express-4454768934) |
