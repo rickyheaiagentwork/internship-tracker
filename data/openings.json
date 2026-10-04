@@ -229,27 +229,6 @@
     "source": "careers"
   },
   {
-    "id": "philips-intern-data-ai-ml-engineering-plymouth-m-s27",
-    "company": "Philips",
-    "role_title": "Intern \u2013 Data AI/ML Engineering \u2013 Plymouth, MN \u2013 Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-03",
-    "posting_url": "https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462",
-    "application_url": "https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462",
-    "tier": 1,
-    "category": "Bio-AI",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Plymouth, MN\n1 day ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-08-30. Re-verify before applying.",
-    "fit_score": 200,
-    "source": "linkedin"
-  },
-  {
     "id": "src-inc-machine-learning-engineer-intern-summer--s27",
     "company": "SRC, Inc",
     "role_title": "Machine Learning Engineer (Intern - Summer 2027)",
@@ -18064,5 +18043,49 @@
     "fit_score": 265,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "microsoft-software-engineer-intern-opportunities-f-s27",
+    "company": "Microsoft",
+    "role_title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-03",
+    "posting_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Microsoft on 2026-10-03. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Microsoft"
+  },
+  {
+    "id": "microsoft-financial-analyst-intern-finance-rotatio-s27",
+    "company": "Microsoft",
+    "role_title": "Financial Analyst Intern: Finance Rotation Program (FRP) (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-03",
+    "posting_url": "https://apply.careers.microsoft.com/careers/job/1970393556944773",
+    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556944773",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Microsoft on 2026-10-03. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Microsoft"
   }
 ]

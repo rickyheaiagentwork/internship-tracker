@@ -11,7 +11,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (835)
+## Open — Apply now (836)
 
 ### AI/ML (105)
 
@@ -123,7 +123,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-mlops-intern-global-sre-2027-summer-at-tiktok-4455456580) |
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 
-### Bio-AI (36)
+### Bio-AI (35)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -158,7 +158,6 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | PepsiCo | 2027 Summer Intern: Global Capabilities and Life Science | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-global-capabilities-and-life-science-at-pepsico-4463921397) |
 | Philips | Graduate Level Co-op – Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
 | Philips | Graduate Level Co-op – Medical Imaging Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-medical-imaging-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
-| Philips | Intern – Data AI/ML Engineering – Plymouth, MN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-%E2%80%93-data-ai-ml-engineering-%E2%80%93-plymouth-mn-%E2%80%93-summer-2027-at-philips-4459441462) |
 | Philips | Intern- AI Business Operations-Nashville, TN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-ai-business-operations-nashville-tn-summer-2027-at-philips-4466593447) |
 | Regeneron | 2027 Co-op Data Science & Computational Biology (Research) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-computational-biology-research-at-regeneron-4473351594) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
@@ -198,7 +197,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (521)
+### SWE (523)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -616,7 +615,9 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
 | Micron Technology | Intern- Technician, Process | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005) |
 | Microsoft | Cloud Solution Architecture Intern Belgium, Brussels Region, Brussels | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998387) |
+| Microsoft | Financial Analyst Intern: Finance Rotation Program (FRP) | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556944773) |
 | Microsoft | National Technology Intern France, Paris, Paris | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Microsoft | Solution Engineering Intern Belgium, Brussels Region, Brussels | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998782) |
 | MiniMed | Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-minimed-4463604176) |
 | MiniMed | Operations Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-engineering-intern-summer-2027-at-minimed-4463394813) |
