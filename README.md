@@ -11,9 +11,9 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (841)
+## Open — Apply now (847)
 
-### AI/ML (107)
+### AI/ML (109)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -71,6 +71,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Peraton | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-science-intern-at-peraton-4464106103) |
 | Plexus Corp. | Intern - IT Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-it-data-science-summer-2027-at-plexus-corp-4462103694) |
 | Post Consumer Brands | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-post-consumer-brands-4461776369) |
+| Promega Corporation | Research Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/research-scientist-intern-summer-2027-at-promega-corporation-4473519065) |
 | Qualcomm | Machine Learning & Artificial Intelligence Engineering Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-artificial-intelligence-engineering-internship-%E2%80%93-summer-2027-at-qualcomm-4468095267) |
 | Red Ventures | 2027 Launch Program: Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-launch-program-data-science-intern-at-red-ventures-4472054860) |
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (January - August 2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-ai-analytics-january-august-2027-at-rivian-and-volkswagen-group-technologies-4463552654) |
@@ -93,6 +94,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Wellabe | Data Analytics- AI Summer 2027 Internship- Hybrid -Des Moines, Iowa | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-summer-2027-internship-hybrid-des-moines-iowa-at-wellabe-4468802999) |
 | West Bend Insurance Company | Internship - Data Scientist | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-data-scientist-at-west-bend-insurance-company-4469612390) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
+| Xeris Pharmaceuticals, Inc. | IT Commercial Systems, Data & AI Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/it-commercial-systems-data-ai-intern-summer-2027-at-xeris-pharmaceuticals-inc-4472650868) |
 | Advanced Space | 2027 Machine Learning Summer Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
 | AeroVironment | Machine Learning Intern | AI/ML | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
@@ -199,7 +201,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (526)
+### SWE (529)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -225,6 +227,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - Regulated Bioanalytical Sciences - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-regulated-bioanalytical-sciences-intern-at-merck-4464419987) |
 | Merck | 2027 Future Talent Program - Statistical Programmer - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-statistical-programmer-intern-at-merck-4464690756) |
 | Merck | 2027 Future Talent Program - Systems Biology - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-systems-biology-intern-at-merck-4464437903) |
+| Merck | 2027 Future Talent Program – Digital Transformation Conversion – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-digital-transformation-conversion-%E2%80%93-intern-at-merck-4464434881) |
 | Merck | 2027 Future Talent Program – Quantitative Pharmacology & Pharmacometrics – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-quantitative-pharmacology-pharmacometrics-%E2%80%93-intern-at-merck-4464438894) |
 | Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
 | Merck | Apply Now 2027 Future Talent Program – Bioanalytical Sciences – Intern | SWE | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply) |
@@ -497,6 +500,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Cadence | Intern: Application Engineering - Formal Verification | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Formal-Verification_R54887) |
 | Cadence | Intern: Application Engineering - System Verification: Emulation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---System-Verification--Emulation_R54890) |
 | Capital One | 99109660512 08/12/2026 Business Analyst Intern McLean, VA | SWE | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
+| Catalent | 2027 Intern - Process Development, Upstream | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-intern-process-development-upstream-at-catalent-4473559362) |
 | Caterpillar | Engineering Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Engineering-Intern_R0000385248) |
 | Caterpillar | Manufacturing Engineering College Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) |
 | Charter Communications | Intern 2027 Summer Intern: Advanced Technology INTERN Englewood, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/englewood/2027-summer-intern-advanced-technology/4673/100143762320) |
@@ -578,6 +582,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Impulse Space | RF Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-engineering-intern-summer-2027-at-impulse-space-4465801583) |
 | Impulse Space | Space Operations Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/space-operations-engineering-intern-summer-2027-at-impulse-space-4465818477) |
 | Impulse Space | Test Automation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/test-automation-intern-summer-2027-at-impulse-space-4467286018) |
+| Indiana Biosciences Research Institute (IBRI) | Bioinformatic Intern (2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/bioinformatic-intern-2027-at-indiana-biosciences-research-institute-ibri-4472335904) |
 | Indiana University Health | 2027 Summer Internship Program Information Services (IS) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-program-information-services-is-at-indiana-university-health-4465229379) |
 | Inmar Intelligence | Software Engineering Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internships-summer-2027-at-inmar-intelligence-4465573540) |
 | Intuit | : Mobile Software Engineering Intern - Android | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-mobile-software-engineering-intern-android-at-intuit-4467732024) |
@@ -758,7 +763,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (121)
+### Other (122)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -846,6 +851,7 @@ Verified **2026-10-04**. Every role below was found by **active search** (Linked
 | Google | Silicon Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
+| Indiana Biosciences Research Institute (IBRI) | Computational Chemistry Intern (2027) | Other | [Apply](https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846) |
 | Johnsonville | IT Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-johnsonville-4464647269) |
 | JPMorganChase | 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program - Analytics Solutions | Other | [Apply](https://www.linkedin.com/jobs/view/2027-focused-analytics-solutions-team-fast-intern-associate-program-analytics-solutions-at-jpmorganchase-4457559643) |
 | Keurig Dr Pepper Inc. | Intern - Information Technology | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-information-technology-at-keurig-dr-pepper-inc-4457334991) |

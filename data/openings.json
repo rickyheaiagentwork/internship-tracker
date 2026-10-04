@@ -18197,5 +18197,137 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "careers:Autodesk"
+  },
+  {
+    "id": "indiana-biosciences-research-institute-ibri-computational-chemistry-intern-2027-s27",
+    "company": "Indiana Biosciences Research Institute (IBRI)",
+    "role_title": "Computational Chemistry Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846",
+    "application_url": "https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846",
+    "tier": 3,
+    "category": "Research",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Indianapolis, IN\nBe an early applicant\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 20,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "indiana-biosciences-research-institute-ibri-bioinformatic-intern-2027-s27",
+    "company": "Indiana Biosciences Research Institute (IBRI)",
+    "role_title": "Bioinformatic Intern (2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/bioinformatic-intern-2027-at-indiana-biosciences-research-institute-ibri-4472335904",
+    "application_url": "https://www.linkedin.com/jobs/view/bioinformatic-intern-2027-at-indiana-biosciences-research-institute-ibri-4472335904",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Indianapolis, IN\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 20,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "promega-corporation-research-scientist-intern-summer-2027-s27",
+    "company": "Promega Corporation",
+    "role_title": "Research Scientist Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/research-scientist-intern-summer-2027-at-promega-corporation-4473519065",
+    "application_url": "https://www.linkedin.com/jobs/view/research-scientist-intern-summer-2027-at-promega-corporation-4473519065",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Madison, WI\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "xeris-pharmaceuticals-inc-it-commercial-systems-data-ai-intern-sum-s27",
+    "company": "Xeris Pharmaceuticals, Inc.",
+    "role_title": "IT Commercial Systems, Data & AI Intern-Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/it-commercial-systems-data-ai-intern-summer-2027-at-xeris-pharmaceuticals-inc-4472650868",
+    "application_url": "https://www.linkedin.com/jobs/view/it-commercial-systems-data-ai-intern-summer-2027-at-xeris-pharmaceuticals-inc-4472650868",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Chicago, IL\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 115,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "catalent-2027-intern-process-development-upstream-s27",
+    "company": "Catalent",
+    "role_title": "2027 Intern - Process Development, Upstream",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-intern-process-development-upstream-at-catalent-4473559362",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-intern-process-development-upstream-at-catalent-4473559362",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Madison, WI\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "merck-2027-future-talent-program-digital-trans-s27",
+    "company": "Merck",
+    "role_title": "2027 Future Talent Program \u2013 Digital Transformation Conversion \u2013 Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-04",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-digital-transformation-conversion-%E2%80%93-intern-at-merck-4464434881",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-digital-transformation-conversion-%E2%80%93-intern-at-merck-4464434881",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Lower Gwynedd, PA\n5 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "linkedin"
   }
 ]
