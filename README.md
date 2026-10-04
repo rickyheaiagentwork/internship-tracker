@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-03**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-04**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (836)
+## Open — Apply now (841)
 
-### AI/ML (105)
+### AI/ML (107)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-ai-engineer-enterprise-technology-services-phoenix-az-at-american-express-4454450161) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-ai-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454435383) |
 | Atlassian | Data Scientist Intern, 2027 Summer U.S. | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-2027-summer-u-s-at-atlassian-4471188458) |
+| Autodesk | Intern, AI Data Developer (Winter) | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) |
 | Autodesk | Intern, AI Developer/ Stagiaire en développement IA | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | AutoZone | AutoZone 2027 Summer Internship – Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autozone-2027-summer-internship-%E2%80%93-data-science-at-autozone-4469916328) |
 | BioSpace | Grad Intern Data Engineer Technology, AI & Data | AI/ML | [Apply](https://www.linkedin.com/jobs/view/grad-intern-data-engineer-technology-ai-data-summer-2027-at-biospace-4467443992) |
@@ -96,6 +97,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | AeroVironment | Machine Learning Intern | AI/ML | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | AMD | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-at-amd-4454167306) |
 | Atlassian | Machine Learning Intern, 2027 Summer U.S. | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-intern-2027-summer-u-s-at-atlassian-4468821535) |
+| Autodesk | Intern, AI/ML Platform (Winter) | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) |
 | Blue Cross and Blue Shield of Nebraska | IS Intern: AI & Automation (Managed Services) Summer 2027 | AI/ML | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101411) |
 | C3 AI | Data Science - Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
 | Clarios | IT Digital/AI Intern | AI/ML | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
@@ -197,7 +199,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 
-### SWE (523)
+### SWE (526)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -469,6 +471,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2) |
 | Autodesk | Intern, Software Development Engineer [PSET-Connected Delivery] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2) |
 | Autodesk | Intern, Software Development Engineer [PSET-Localization] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2) |
+| Autodesk | Software Development Internship | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) |
 | Autodesk | Software Engineering Intern Summer 2027 | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
 | BAE Systems | Computer Science Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130021BR/Computer-Science-Intern-Summer-2027) |
 | BAE Systems | Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027) |
@@ -657,6 +660,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Qualcomm | FY27 Intern - Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446718345493) |
 | Qualcomm | FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446718630683) |
 | Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
+| Qualcomm | Interim Engineering Intern_2027_SW Hyderabad, Telangāna, India Interim Engineering Intern - SW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719785836) |
 | Raytheon | Manufacturing Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-at-raytheon-4467905024) |
 | Raytheon | Manufacturing Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2027-at-raytheon-4467790187) |
 | Raytheon | Production Test Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/production-test-engineer-intern-summer-2027-at-raytheon-4467784982) |
@@ -715,6 +719,7 @@ Verified **2026-10-03**. Every role below was found by **active search** (Linked
 | Waymo | 2027 Summer Intern, MS, Software Engineering, Behavior Test | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states) |
 | WD | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineering-at-wd-4450173981) |
 | WebstaurantStore | 2027 Full Stack Development Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-full-stack-development-summer-internship-at-webstaurantstore-4467604777) |
+| Workday | Technical Support Delivery Intern page is loaded | SWE | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1) |
 | Xcimer Energy | Internship - Optical Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-optical-engineering-at-xcimer-energy-4466724312) |
 | Zipline | Applications Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/applications-engineer-intern-summer-2027-at-zipline-4457086126) |
 | Zipline | Controls Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/controls-engineer-intern-summer-2027-at-zipline-4456350422) |
