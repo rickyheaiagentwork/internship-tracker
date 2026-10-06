@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-05**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-06**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (861)
+## Open — Apply now (867)
 
-### AI/ML (110)
+### AI/ML (113)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -49,6 +49,9 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | Figma | Data Science Intern (2027) | AI/ML | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004) |
 | Finastra | AI Engineer Intern | AI/ML | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) |
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
+| General Motors | 2027 Summer Intern – AI & Hardware Analytics, ADPT | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621756/2027-summer-intern-ai-hardware-analytics-adpt/) |
+| General Motors | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621695/2027-summer-intern-machine-learning-engineer-av-ai-platform/) |
+| General Motors | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621697/2027-summer-intern-software-verification-engineer-av-ai-platform/) |
 | IBM | Co-Op Data Scientist - AI & Analytics 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/co-op-data-scientist-ai-analytics-2027-at-ibm-4451286703) |
 | ICF | 2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-scientist-reston-va-denver-co-remote-at-icf-4470727566) |
 | Impulse Space | Assembly, Integration, and Test (AI&T) Engineering Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/assembly-integration-and-test-ai-t-engineering-intern-summer-2027-at-impulse-space-4465800575) |
@@ -374,7 +377,6 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | HP IQ | Software Engineering Intern, Product Security | SWE | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
 | HP IQ | Software Engineering Intern, Software Systems | SWE | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) |
 | Hyannis Port Research | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
-| Impulse Space | Software Infrastructure and Release Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-infrastructure-and-release-intern-summer-2027-at-impulse-space-4465809542) |
 | John Hancock | Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-software-engineering-at-john-hancock-4458673956) |
 | K2 Space | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
 | Marathon Petroleum Corporation | Intern/Co-op - Digital/Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
@@ -568,6 +570,7 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern – IndyCar Trackside Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619993/2027-summer-intern-indycar-trackside-engineering/) |
 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Global Artisan Innovation Center | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619920/2027-summer-intern-manufacturing-engineering-global-artisan-innovation-center/) |
 | General Motors | 2027 Summer Intern – Motorsports Aero-Thermal Engineering | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619861/2027-summer-intern-motorsports-aero-thermal-engineering/) |
+| General Motors | 2027 Summer Intern- ADAS Software Engineer, ADPT | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202621820/2027-summer-intern-adas-software-engineer-adpt/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | Google | Customer And Partner Solutions Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027) |
 | Google | User Experience Engineer Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027) |
@@ -774,7 +777,7 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (125)
+### Other (128)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -858,8 +861,10 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Co-Op, Operations Planning and Performance - Reporting and Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/co-op-operations-planning-and-performance-reporting-and-analytics-summer-2027-at-delta-air-lines-4461683918) |
 | DriveTime | Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-intern-summer-2027-at-drivetime-4461921660) |
 | Encompass Health | Data Management Student Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-management-student-intern-summer-2027-at-encompass-health-4469500183) |
+| General Motors | 2027 Summer Intern – Global Manufacturing Robotics & Automation | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619348/2027-summer-intern-global-manufacturing-robotics-automation/) |
 | General Motors | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619990/2027-summer-intern-indycar-race-strategy-analytics/) |
 | General Motors | 2027 Summer Intern, Global Customer Research Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619679/2027-summer-intern-global-customer-research-intern/) |
+| General Motors | Intern - Computational Design Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202621454/summer-2027-intern-computational-design-intern/) |
 | Google | Silicon Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
@@ -879,6 +884,7 @@ Verified **2026-10-05**. Every role below was found by **active search** (Linked
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-advanced-undersea-systems-and-technology-group-03-37-at-mit-lincoln-laboratory-4472725886) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-air-traffic-control-systems-group-04-43-at-mit-lincoln-laboratory-4472724978) |
 | Nicolet National Bank | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-nicolet-national-bank-4463637721) |
+| Northern Trust | Data & Analytics Office Intern page is loaded | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
 | Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | Other | [Apply](https://www.linkedin.com/jobs/view/2027-data-analytics-intern-clearfield-ut-at-northrop-grumman-4466038485) |
