@@ -11,13 +11,14 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (867)
+## Open — Apply now (874)
 
-### AI/ML (113)
+### AI/ML (114)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Adobe | 2027 Intern - Machine Learning Engineer | AI/ML | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
+| Ally | Internship – Consumer Banking (Forecasting Data Science) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-consumer-banking-forecasting-data-science-at-ally-4466144577) |
 | American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
 | American Express | Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-ii-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460209950) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-ai-engineer-enterprise-technology-services-new-york-ny-at-american-express-4454447217) |
@@ -171,7 +172,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
-### Finance (29)
+### Finance (30)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -204,8 +205,9 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Finance | [Apply](https://www.wellsfargojobs.com/en/jobs/r-556103/2027-wealth-investment-management-summer-internship-early-careers/) |
 | Lazard Asset Management | 2027 Quantitative Research Summer Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-summer-internship-at-lazard-asset-management-4469990161) |
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
+| Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (538)
+### SWE (541)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -546,6 +548,8 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Epsilon | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-epsilon-4463574139) |
 | ExxonMobil | 2027 Campus Hire - Process Engineer | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Process-Engineer-627596/1421840200/) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
+| Federal Reserve Bank of Cleveland | SCS - Statistics and Analysis Intern - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/scs-statistics-and-analysis-intern-2027-at-federal-reserve-bank-of-cleveland-4474562105) |
+| Federal Reserve Bank of Dallas | 2027 Intern - Statistics | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-intern-statistics-at-federal-reserve-bank-of-dallas-4475056565) |
 | Federal Reserve Bank of Kansas City | Internship, Analyst | SWE | [Apply](https://www.linkedin.com/jobs/view/internship-analyst-%E2%80%93-summer-2027-at-federal-reserve-bank-of-kansas-city-4462007611) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
 | Federal Reserve Bank of St. Louis | 2027 Summer Internship - Business Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-business-technology-at-federal-reserve-bank-of-st-louis-4469842487) |
@@ -603,6 +607,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Invesco | Early Career Intern - Distribution Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
 | Invesco | Early Career Intern - Investment Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) |
 | JPMorganChase | 2027 Asset Management Client Summer Analyst Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-asset-management-client-summer-analyst-program-at-jpmorganchase-4461144123) |
+| JPMorganChase | 2027 Chase Leadership Development Program - Summer Analyst Opportunity (OH, TX, DE) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-chase-leadership-development-program-summer-analyst-opportunity-oh-tx-de-at-jpmorganchase-4438879409) |
 | JPMorganChase | 2027 Corporate Analyst Development Program - Summer Analyst (Columbus) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-corporate-analyst-development-program-summer-analyst-columbus-at-jpmorganchase-4438577021) |
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
@@ -777,7 +782,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (128)
+### Other (130)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -861,6 +866,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Co-Op, Operations Planning and Performance - Reporting and Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/co-op-operations-planning-and-performance-reporting-and-analytics-summer-2027-at-delta-air-lines-4461683918) |
 | DriveTime | Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/analytics-intern-summer-2027-at-drivetime-4461921660) |
 | Encompass Health | Data Management Student Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-management-student-intern-summer-2027-at-encompass-health-4469500183) |
+| Federal Reserve Bank of Cleveland | SCS - Advanced Analytics Intern - 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/scs-advanced-analytics-intern-2027-at-federal-reserve-bank-of-cleveland-4474366533) |
 | General Motors | 2027 Summer Intern – Global Manufacturing Robotics & Automation | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619348/2027-summer-intern-global-manufacturing-robotics-automation/) |
 | General Motors | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619990/2027-summer-intern-indycar-race-strategy-analytics/) |
 | General Motors | 2027 Summer Intern, Global Customer Research Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619679/2027-summer-intern-global-customer-research-intern/) |
@@ -870,6 +876,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
 | Indiana Biosciences Research Institute (IBRI) | Computational Chemistry Intern (2027) | Other | [Apply](https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846) |
 | Intuit | : Business Data Analyst Intern, Strategy & Planning | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-data-analyst-intern-strategy-planning-at-intuit-4474720730) |
+| Intuit | : Finance Transformation & Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-finance-transformation-analytics-intern-at-intuit-4475049192) |
 | Johnsonville | IT Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-johnsonville-4464647269) |
 | JPMorganChase | 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program - Analytics Solutions | Other | [Apply](https://www.linkedin.com/jobs/view/2027-focused-analytics-solutions-team-fast-intern-associate-program-analytics-solutions-at-jpmorganchase-4457559643) |
 | Keurig Dr Pepper Inc. | Intern - Information Technology | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-information-technology-at-keurig-dr-pepper-inc-4457334991) |
