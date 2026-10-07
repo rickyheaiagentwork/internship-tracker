@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-06**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-07**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (880)
+## Open — Apply now (879)
 
 ### AI/ML (114)
 
@@ -207,7 +207,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (544)
+### SWE (543)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -384,7 +384,6 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | K2 Space | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
 | Marathon Petroleum Corporation | Intern/Co-op - Digital/Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
 | Marathon Petroleum Corporation | Intern/Co-op - Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
-| Mastercard | Associate Consultant Intern - Toronto, Canada | SWE | [Apply](https://careers.mastercard.com/us/en/job/R-287615/Associate-Consultant-Intern-Summer-2027-Toronto-Canada) |
 | Mastercard | Data Engineering Intern – St. Louis, MO, US | SWE | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901) |
 | Mastercard | Data Scientist Intern – St. Louis, MO, US | SWE | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) |
 | Mastercard | Platform Engineering Intern – St. Louis, MO, US | SWE | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868) |
