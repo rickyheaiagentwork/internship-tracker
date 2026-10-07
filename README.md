@@ -11,7 +11,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (874)
+## Open — Apply now (880)
 
 ### AI/ML (114)
 
@@ -207,10 +207,11 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (541)
+### SWE (544)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
+| Abbott | 2027 Science (Medical Affairs) Cancer Diagnostics Intern page is loaded | SWE | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Science--Medical-Affairs--Cancer-Diagnostics-Intern_31162766) |
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-technology-solutions-intern-cloud-engineering-undergraduate-at-abbvie-4457683532) |
 | Amgen | Aug. 31, 2026 Grad Intern - Operations – Process Development US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184) |
 | Amgen | Aug. 31, 2026 Undergrad Intern - Operations – Process Development US - California - Thousand Oaks | SWE | [Apply](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168) |
@@ -510,9 +511,11 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Caterpillar | Engineering Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Engineering-Intern_R0000385248) |
 | Caterpillar | Manufacturing Engineering College Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) |
 | Charter Communications | Intern 2027 Summer Intern: Advanced Technology INTERN Englewood, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/englewood/2027-summer-intern-advanced-technology/4673/100143762320) |
+| Charter Communications | Intern 2027 Summer Intern: Advanced Technology INTERN Greenwood Village, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-advanced-technology/4673/100143763584) |
 | Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Greenwood Village, CO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-business-analyst/4673/100143764768) |
 | Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Maryland Heights, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-business-analyst/4673/100133779376) |
 | Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Sandy Springs, GA VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/sandy-springs/2027-summer-intern-business-analyst/4673/100410104880) |
+| Charter Communications | Intern 2027 Summer Intern: Business Analyst INTERN Stamford, CT VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/stamford/2027-summer-intern-business-analyst/4673/100133780944) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Charlotte, NC VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/charlotte/2027-summer-intern-software-engineer/4673/100133777072) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Maryland Heights, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-software-engineer/4673/100133775440) |
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-software-engineer/4673/100133780016) |
@@ -753,7 +756,7 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (24)
+### PM (26)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -772,22 +775,25 @@ Verified **2026-10-06**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, Product Manager [PSET-Access-PM] | PM | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Product-Manager--PSET-Access-PM-_26WD100993-2) |
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit | PM | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) |
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
+| Cigna | Product Analytics Summer Intern - Start Date: May 24, 2027 | PM | [Apply](https://jobs.thecignagroup.com/us/en/job/26010180/Product-Analytics-Summer-Intern-Start-Date-May-24-2027) |
 | Google | Associate Product Manager Intern | PM | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Invesco | Early Career Intern - Digital Asset Product | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1) |
 | Lowe's | Digital Product Management - Undergrad Internship | PM | [Apply](https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027) |
+| McKesson | Business Analyst Intern, Product Performance | PM | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | Peraton | Production Support Analyst Intern | PM | [Apply](https://www.linkedin.com/jobs/view/summer-2027-production-support-analyst-intern-at-peraton-4472383019) |
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (130)
+### Other (131)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Abbott | 2027 IT Cancer Diagnostics Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235) |
 | Abbott | 2027 IT Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) |
+| Abbott | 2027 R&D Cancer Diagnostics Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Charlotte, NC | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-charlotte-nc-at-american-express-4460223672) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Phoenix, AZ | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-phoenix-az-at-american-express-4460220721) |
 | Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
