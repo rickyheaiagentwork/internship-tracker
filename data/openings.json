@@ -19034,5 +19034,181 @@
     "fit_score": 100,
     "verify_confidence": "high",
     "source": "careers:Abbott"
+  },
+  {
+    "id": "regeneron-2027-co-op-data-science-digital-innovati-s27",
+    "company": "Regeneron",
+    "role_title": "2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-regeneron-4473358304",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-regeneron-4473358304",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (Tarrytown, NY\n5 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 235,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "abbott-2027-r-d-cancer-diagnostics-intern-s27",
+    "company": "Abbott",
+    "role_title": "2027 R&D Cancer Diagnostics Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-r-d-cancer-diagnostics-intern-at-abbott-4475559422",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-r-d-cancer-diagnostics-intern-at-abbott-4475559422",
+    "tier": 1,
+    "category": "Research",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (La Jolla, CA\n2 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 120,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "new-york-life-2027-technology-data-ai-ventures-summer--s27",
+    "company": "New York Life",
+    "role_title": "2027 Technology, Data, AI & Ventures Summer Internship Program - Data Scientist Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-data-scientist-intern-at-new-york-life-4447546982",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-data-scientist-intern-at-new-york-life-4447546982",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 205,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "abbott-2027-winter-graduate-co-op-clinical-affa-s27",
+    "company": "Abbott",
+    "role_title": "2027 Winter Graduate Co-op - Clinical Affairs AI/ML",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-winter-graduate-co-op-clinical-affairs-ai-ml-at-abbott-4473966477",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-winter-graduate-co-op-clinical-affairs-ai-ml-at-abbott-4473966477",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (St Paul, MN\n6 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 180,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "intuit-summer-2027-ai-science-intern-s27",
+    "company": "Intuit",
+    "role_title": "Summer 2027: AI Science Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/summer-2027-ai-science-intern-at-intuit-4467735026",
+    "application_url": "https://www.linkedin.com/jobs/view/summer-2027-ai-science-intern-at-intuit-4467735026",
+    "tier": 2,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Diego, CA\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 80,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "new-york-life-2027-technology-data-ai-ventures-summer--s27-2",
+    "company": "New York Life",
+    "role_title": "2027 Technology, Data, AI & Ventures Summer Internship Program - AI Engineer (MLOps) Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-ai-engineer-mlops-intern-at-new-york-life-4447568035",
+    "application_url": "https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-ai-engineer-mlops-intern-at-new-york-life-4447568035",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (New York, NY\n3 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 215,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "travere-therapeutics-manufacturing-science-and-technology-msa-s27",
+    "company": "Travere Therapeutics",
+    "role_title": "Manufacturing Science and Technology (MSAT) Intern (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/manufacturing-science-and-technology-msat-intern-summer-2027-at-travere-therapeutics-4474625120",
+    "application_url": "https://www.linkedin.com/jobs/view/manufacturing-science-and-technology-msat-intern-summer-2027-at-travere-therapeutics-4474625120",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Diego Metropolitan Area\n1 day ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "linkedin"
+  },
+  {
+    "id": "veeam-software-ai-ml-intern-summer-2027-s27",
+    "company": "Veeam Software",
+    "role_title": "AI/ML Intern Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-summer-2027-at-veeam-software-4465189581",
+    "application_url": "https://www.linkedin.com/jobs/view/ai-ml-intern-summer-2027-at-veeam-software-4465189581",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States (San Jose, CA\n4 days ago)",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via linkedin on 2026-10-07. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "linkedin"
   }
 ]
