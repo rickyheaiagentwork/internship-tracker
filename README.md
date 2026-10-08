@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-07**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-08**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (886)
+## Open — Apply now (888)
 
-### AI/ML (118)
+### AI/ML (119)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -85,6 +85,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | S&P Global | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-s-p-global-4464128518) |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
+| Synopsys | AI & Automation Engineering Internship Sunnyvale, California Category: Interns/Temp Posted: 10/05/2026 Job ID: 19088 | AI/ML | [Apply](https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360) |
 | The Hartford | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-the-hartford-4466278830) |
 | The Nuclear Company | AI Applied Research Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-applied-research-internship-at-the-nuclear-company-4454583917) |
 | TikTok | AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-infra-engineer-intern-recommendation-llm-2027-summer-at-tiktok-4457692099) |
@@ -178,7 +179,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
-### Finance (30)
+### Finance (28)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -202,9 +203,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Point72 | Quantitative Research Intern | Finance | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
 | Raymond James | 2027 Summer Internship – Equity Research – Multiple Locations | Finance | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Equity-Research---Multiple-Locations_R-0012914) |
 | Standard Chartered | Markets Intern US 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
-| UBS | 2027 Summer Internship - Equity Research - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-equity-research-new-york-at-ubs-4461545622) |
 | UBS | 2027 Summer Internship - Global Research (HOLT) - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566) |
-| UBS | 2027 Summer Internship – Global Research Evidence Lab – New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-global-research-evidence-lab-%E2%80%93-new-york-at-ubs-4461546562) |
 | Vermeer Corporation | Data Analytics Internship Summer 2027 | Finance | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
@@ -213,7 +212,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (544)
+### SWE (547)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -334,6 +333,8 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | CesiumAstro | Embedded Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) |
 | CesiumAstro | Software Engineering Internship | SWE | [Apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
 | Charter Communications | Intern 2027 Summer Intern: Platforms Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-platforms-engineer/4673/100133779600) |
+| Cloudflare | Software Engineer Intern (2027) (opens in a new tab) Early Talent · , Lisbon, Portugal 3 Days Ago Date posted: October 5, 2026 | SWE | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197) |
+| Cloudflare | Software Engineer Intern (2027) (opens in a new tab) Early Talent · , London, UK 3 Days Ago Date posted: October 5, 2026 | SWE | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
 | Colossal Biosciences | Internships - General Interest Posting | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-general-interest-posting-at-colossal-biosciences-4460644733) |
 | Cretex Medical Component and Device Technologies | Industrial Engineering Intern (Stamping) Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-stamping-summer-2027-at-cretex-medical-component-and-device-technologies-4461952251) |
@@ -720,6 +721,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Sub-Zero Group, Inc. | 2027 Information & Technology Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-technology-co-op-at-sub-zero-group-inc-4459747730) |
 | Superhuman | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-superhuman-4465258325) |
 | Swarm Aero | Composite Engineering (M&P) Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/composite-engineering-m-p-intern-summer-2027-at-swarm-aero-4463930386) |
+| Synopsys | Systems Engineering Internship Mississauga, Canada Category: Interns/Temp Posted: 10/05/2026 Job ID: 19018 | SWE | [Apply](https://careers.synopsys.com/job/mississauga/systems-engineering-internship-summer-2027/44408/101631905328) |
 | Tanium | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93%C2%A0summer-2027-at-tanium-4464804078) |
 | Target | Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-internship-minneapolis-mn-starting-june-2027-at-target-4466046872) |
 | The AES Corporation | Intern - T&D standards Power Systems - | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-t-d-standards-power-systems-summer-2027-at-the-aes-corporation-4466374841) |
