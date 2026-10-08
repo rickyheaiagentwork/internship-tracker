@@ -1727,27 +1727,6 @@
     "source": "linkedin"
   },
   {
-    "id": "deutsche-bank-deutsche-bank-internship-program-investm-s27",
-    "company": "Deutsche Bank",
-    "role_title": "Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-07",
-    "posting_url": "https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114",
-    "application_url": "https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (New York, NY\n21 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-01. Re-verify before applying.",
-    "fit_score": 0,
-    "source": "linkedin"
-  },
-  {
     "id": "dev-technology-ai-ml-intern-summer-2027-s27",
     "company": "Dev Technology",
     "role_title": "AI/ML Intern (Summer 2027)",
@@ -15362,28 +15341,6 @@
     "source": "linkedin"
   },
   {
-    "id": "google-associate-product-manager-intern-summer--s27",
-    "company": "Google",
-    "role_title": "Associate Product Manager Intern, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-07",
-    "posting_url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
-    "application_url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
-    "tier": 3,
-    "category": "PM",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via careers:Google on 2026-09-25. Re-verify before applying.",
-    "fit_score": 0,
-    "verify_confidence": "high",
-    "source": "careers:Google"
-  },
-  {
     "id": "nvidia-product-design-intern-ai-infrastructure--s27",
     "company": "NVIDIA",
     "role_title": "Product Design Intern, AI Infrastructure - Summer 2027",
@@ -19210,5 +19167,27 @@
     "fit_score": 110,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "kla-software-engineering-intern-page-is-load-s27",
+    "company": "KLA",
+    "role_title": "Software Engineering Intern page is loaded (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-07",
+    "posting_url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
+    "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:KLA on 2026-10-07. Re-verify before applying. Season/degree not confirmed from the page (degree) \u2014 check the listing.",
+    "fit_score": 30,
+    "verify_confidence": "medium",
+    "source": "careers:KLA"
   }
 ]

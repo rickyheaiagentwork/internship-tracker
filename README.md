@@ -11,7 +11,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (887)
+## Open — Apply now (886)
 
 ### AI/ML (118)
 
@@ -347,7 +347,6 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
-| Deutsche Bank | Deutsche Bank Internship Program - Investment Bank: Company Research - New York 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/deutsche-bank-internship-program-investment-bank-company-research-new-york-2027-at-deutsche-bank-4459248114) |
 | DraftKings | Software Engineer Intern | SWE | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) |
 | Duke Energy Corporation | Information Technology Internship Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/information-technology-internship-summer-2027-at-duke-energy-corporation-4461296706) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
@@ -620,6 +619,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
 | JPMorganChase | Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship - United States | SWE | [Apply](https://www.linkedin.com/jobs/view/code-for-good-hackathon-software-engineer-program-2027-summer-internship-united-states-at-jpmorganchase-4448315225) |
+| KLA | Software Engineering Intern page is loaded | SWE | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1) |
 | Leonardo DRS | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-leonardo-drs-4466553730) |
 | Leonardo DRS | Systems Engineering Intern \| Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-leonardo-drs-4466226893) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
@@ -762,7 +762,7 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (26)
+### PM (25)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -782,7 +782,6 @@ Verified **2026-10-07**. Every role below was found by **active search** (Linked
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit | PM | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) |
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
 | Cigna | Product Analytics Summer Intern - Start Date: May 24, 2027 | PM | [Apply](https://jobs.thecignagroup.com/us/en/job/26010180/Product-Analytics-Summer-Intern-Start-Date-May-24-2027) |
-| Google | Associate Product Manager Intern | PM | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Invesco | Early Career Intern - Digital Asset Product | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1) |
