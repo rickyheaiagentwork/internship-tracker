@@ -137,7 +137,7 @@ Verified **2026-10-08**. Every role below was found by **active search** (Linked
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-mlops-intern-global-sre-2027-summer-at-tiktok-4455456580) |
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 
-### Bio-AI (37)
+### Bio-AI (36)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -177,7 +177,6 @@ Verified **2026-10-08**. Every role below was found by **active search** (Linked
 | Regeneron | 2027 Co-op Data Science & Computational Biology (Research) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-computational-biology-research-at-regeneron-4473351594) |
 | Regeneron | 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-regeneron-4473358304) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
-| Stryker | Internship - RWE Data Scientist - Virtual | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818) |
 
 ### Finance (28)
 
@@ -212,7 +211,7 @@ Verified **2026-10-08**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (560)
+### SWE (561)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -315,7 +314,6 @@ Verified **2026-10-08**. Every role below was found by **active search** (Linked
 | Booz Allen Hamilton | University, 2027 Summer Games Data Scientist Intern | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) |
 | ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-platform-2027-summer-at-bytedance-4474549483) |
 | ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/self-built-engineer-intern-cdn-platform-2027-summer-at-bytedance-4473507416) |
-| ByteDance | Software Engineer Intern (Relational Database) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275) |
 | CACI | DevOps/Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466) |
 | CACI | Software Developer/Data Scientist Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) |
 | CACI | Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) |
@@ -669,8 +667,10 @@ Verified **2026-10-08**. Every role below was found by **active search** (Linked
 | Motorola Solutions | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-motorola-solutions-4471660848) |
 | Myers & Stauffer | Analyst Intern - Kansas City, MO | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-intern-kansas-city-mo-summer-2027-at-myers-stauffer-4458511626) |
 | Nationwide | Analytic Consulting Advisor Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-analytic-consulting-advisor-internship-at-nationwide-4461420173) |
+| Nationwide | Feature Engineer Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233) |
 | Nationwide | Personal Lines Business Insights Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197) |
 | Nationwide | Personal Lines Customer Experience Insights Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Customer-Experience-Insights-Intern_100048) |
+| Nationwide | Technology Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105) |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-internship-at-netsmart-4469122284) |
 | Nissan Motor Corporation | Process Engineering Intern - Smyrna, TN | SWE | [Apply](https://www.linkedin.com/jobs/view/process-engineering-intern-summer-2027-smyrna-tn-at-nissan-motor-corporation-4477196023) |
 | Nissan Motor Corporation | Systems Engineer Intern - Canton, MS | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineer-intern-summer-2027-canton-ms-at-nissan-motor-corporation-4477178731) |

@@ -1333,27 +1333,6 @@
     "source": "careers"
   },
   {
-    "id": "bytedance-software-engineer-intern-relational-data-s27",
-    "company": "ByteDance",
-    "role_title": "Software Engineer Intern (Relational Database) - 2027 Summer",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-08",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-relational-database-2027-summer-at-bytedance-4461727275",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (San Jose, CA\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-05. Re-verify before applying.",
-    "fit_score": 20,
-    "source": "linkedin"
-  },
-  {
     "id": "c3-ai-ascend-internship-program-summer-2027-data-science-intern-summer-2027-s27",
     "company": "C3 AI",
     "role_title": "Data Science - Intern (Summer 2027)",
@@ -5426,27 +5405,6 @@
       "BS"
     ],
     "location": "United States (Thousand Oaks, CA\nActively Hiring\n6 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-08. Re-verify before applying.",
-    "fit_score": 100,
-    "source": "linkedin"
-  },
-  {
-    "id": "stryker-summer-2027-internship-rwe-data-scientis-s27",
-    "company": "Stryker",
-    "role_title": "Summer 2027 Internship - RWE Data Scientist - Virtual",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-08",
-    "posting_url": "https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818",
-    "application_url": "https://www.linkedin.com/jobs/view/summer-2027-internship-rwe-data-scientist-virtual-at-stryker-4460647818",
-    "tier": 1,
-    "category": "Bio-AI",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Florida, United States\nActively Hiring\n6 days ago)",
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-08. Re-verify before applying.",
@@ -19631,5 +19589,49 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "nationwide-summer-2027-technology-internship-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Technology Internship",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-08",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-10-08. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Nationwide"
+  },
+  {
+    "id": "nationwide-summer-2027-feature-engineer-internship-s27",
+    "company": "Nationwide",
+    "role_title": "Summer 2027 Feature Engineer Internship",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-08",
+    "posting_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233",
+    "application_url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Nationwide on 2026-10-08. Re-verify before applying. Season/degree not confirmed from the page (season) \u2014 check the listing.",
+    "fit_score": 30,
+    "verify_confidence": "medium",
+    "source": "careers:Nationwide"
   }
 ]
