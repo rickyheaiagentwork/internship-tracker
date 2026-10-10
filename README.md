@@ -11,9 +11,9 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (923)
+## Open — Apply now (922)
 
-### AI/ML (124)
+### AI/ML (125)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -141,6 +141,7 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | The Nuclear Company | Data Science Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-mlops-intern-global-sre-2027-summer-at-tiktok-4455456580) |
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
+| Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
 ### Bio-AI (38)
 
@@ -320,8 +321,6 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Atlanta, GA | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
 | Booz Allen Hamilton | University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) |
 | Booz Allen Hamilton | University, 2027 Summer Games Data Scientist Intern | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) |
-| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-platform-2027-summer-at-bytedance-4474549483) |
-| ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/self-built-engineer-intern-cdn-platform-2027-summer-at-bytedance-4473507416) |
 | CACI | DevOps/Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466) |
 | CACI | Software Developer/Data Scientist Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) |
 | CACI | Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) |
@@ -341,7 +340,6 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | Charter Communications | Intern 2027 Summer Intern: Platforms Engineer INTERN St Louis, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/st-louis/2027-summer-intern-platforms-engineer/4673/100133779600) |
 | Cloudflare | Software Engineer Intern (2027) (opens in a new tab) Early Talent · , Lisbon, Portugal 3 Days Ago Date posted: October 5, 2026 | SWE | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197) |
 | Cloudflare | Software Engineer Intern (2027) (opens in a new tab) Early Talent · , London, UK 3 Days Ago Date posted: October 5, 2026 | SWE | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211) |
-| Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267) |
 | Colossal Biosciences | Internships - General Interest Posting | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-general-interest-posting-at-colossal-biosciences-4460644733) |
 | Cretex Medical Component and Device Technologies | Industrial Engineering Intern (Stamping) Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-stamping-summer-2027-at-cretex-medical-component-and-device-technologies-4461952251) |
 | Cretex Medical Component and Device Technologies | Manufacturing Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-at-cretex-medical-component-and-device-technologies-4461945867) |
@@ -766,7 +764,10 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | Visa | Software Engineer, Intern - Foster City 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-foster-city-2027-at-visa-4468677154) |
 | Visa | Software Engineer, Intern, Bellevue - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-bellevue-2027-at-visa-4468677151) |
 | Walmart Global Tech | Intern:: Software Engineer II | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineer-ii-at-walmart-global-tech-4463957109) |
+| Waymo | 2027 Summer Intern, BS, Depot Automation | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-depot-automation-san-francisco-california-united-states) |
+| Waymo | 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineer-driver-refinement-foundations-mountain-view-california-united-states) |
 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-bs-software-engineer-model-eval-at-waymo-4475124334) |
+| Waymo | 2027 Summer Intern, BS, Software Engineering, Labeling | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineering-labeling-mountain-view-california-united-states) |
 | Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-syseng-software-engineer-mountain-view-california-united-states) |
 | Waymo | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineer | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineer-san-francisco-california-united-states) |
@@ -818,7 +819,7 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (143)
+### Other (141)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -848,8 +849,6 @@ Verified **2026-10-09**. Every role below was found by **active search** (Linked
 | BioSpace | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-business-technology-solutions-intern-data-software-engineering-undergraduate-at-biospace-4467960515) |
 | BioSpace | Grad Intern Data Engineer Amgens Technology & Medical Organizations | Other | [Apply](https://www.linkedin.com/jobs/view/grad-intern-data-engineer-amgens-technology-medical-organizations-summer-2027-at-biospace-4467443991) |
 | Boeing | Boeing - Wichita Summer 2027 Internship Program (Paid) - Core Engineering, & Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-core-engineering-research-technology-at-boeing-4463401952) |
-| ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-lake-infrastructure-data-analytics-research-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4452443663) |
-| ByteDance | Site Reliability Engineer Intern (Data Infra) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/site-reliability-engineer-intern-data-infra-2027-summer-at-bytedance-4473980783) |
 | Cadence | Intern: Application Engineering - Digital Verification & Simulation/VIP | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Verification---Simulation-VIP_R54888) |
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
