@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-11**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-12**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (934)
+## Open — Apply now (927)
 
 ### AI/ML (131)
 
@@ -223,7 +223,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (561)
+### SWE (557)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -307,7 +307,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | BD | BD 2027 Summer Internship - Finance Leadership Development Program (FLDP) Summer Analyst | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-finance-leadership-development-program-fldp-summer-analyst/159/99988267520) |
 | BD | BD 2027 Summer Internship - Quality Engineering Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-quality-engineering-development-program/159/100177796656) |
 | BioSpace | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-technology-solutions-intern-cloud-engineering-undergraduate-at-biospace-4473290533) |
-| BioSpace | Undergrad Intern - Operations - New Albany, OH | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-new-albany-oh-summer-2027-at-biospace-4463699732) |
 | BlackRock | 2027 Mexico City Internship Program Location: Mexico City, Mexico City Additional Locations: Mexico City Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/mexico-city/2027-mexico-city-internship-program/45831/97843197600) |
 | BlackRock | 2027 Summer Internship Program - APAC Location: Hong Kong SAR Additional Locations: Hong Kong, Singapore, Taipei, Tokyo Team: STUDENTS AND GRADUATES | SWE | [Apply](https://careers.blackrock.com/job/hong-kong-sar/2027-summer-internship-program-apac/45831/90599500992) |
 | BLUE ORIGIN | Avionics Software Internship - Undergraduate | SWE | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) |
@@ -564,7 +563,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Federal Reserve Bank of Cleveland | SCS - Statistics and Analysis Intern - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/scs-statistics-and-analysis-intern-2027-at-federal-reserve-bank-of-cleveland-4474562105) |
 | Federal Reserve Bank of Dallas | 2027 Intern - Statistics | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-intern-statistics-at-federal-reserve-bank-of-dallas-4475056565) |
 | Federal Reserve Bank of Kansas City | Internship, Analyst | SWE | [Apply](https://www.linkedin.com/jobs/view/internship-analyst-%E2%80%93-summer-2027-at-federal-reserve-bank-of-kansas-city-4462007611) |
-| Federal Reserve Bank of New York | 2027 Summer Intern - Statistics - Sophomore Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-statistics-sophomore-intern-at-federal-reserve-bank-of-new-york-4461575252) |
 | Federal Reserve Bank of St. Louis | 2027 Summer Internship - Business Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-business-technology-at-federal-reserve-bank-of-st-louis-4469842487) |
 | Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | First Citizens Bank | 2027 Summer Intern - Quantitative Analysis (Raleigh, North Carolina) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quantitative-analysis-raleigh-north-carolina-at-first-citizens-bank-4468167756) |
@@ -592,8 +590,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern- ADAS Software Engineer, ADPT | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202621820/2027-summer-intern-adas-software-engineer-adpt/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | GM Performance Power Units | Electrothermal Modeling Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/electrothermal-modeling-engineer-intern-summer-2027-at-gm-performance-power-units-4475043457) |
-| Google | Customer And Partner Solutions Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027) |
-| Google | User Experience Engineer Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027) |
 | Guardian Industries | Guardian Summer 2027 Engineering Intern - Richburg, SC | SWE | [Apply](https://www.linkedin.com/jobs/view/guardian-summer-2027-engineering-intern-richburg-sc-at-guardian-industries-4473403096) |
 | Gulfstream Aerospace | Completions Engineering Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-completions-engineering-collegiate-associate-intern-at-gulfstream-aerospace-4465866524) |
 | Gulfstream Aerospace | IEF - Flight Sciences / Thermofluid Analysis Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-flight-sciences-thermofluid-analysis-collegiate-intern-at-gulfstream-aerospace-4465864566) |
@@ -789,7 +785,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (26)
+### PM (27)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -810,6 +806,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit | PM | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) |
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
 | Cigna | Product Analytics Summer Intern - Start Date: May 24, 2027 | PM | [Apply](https://jobs.thecignagroup.com/us/en/job/26010180/Product-Analytics-Summer-Intern-Start-Date-May-24-2027) |
+| Figma | Early Career, Associate Product Manager (2027) | PM | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Invesco | Early Career Intern - Digital Asset Product | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1) |
@@ -820,7 +817,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (152)
+### Other (148)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -861,9 +858,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Figma | Data Engineer Intern (2027) | Other | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
 | GE Aerospace | Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US | Other | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-electrical-engineering-computer-engineering-science-electric-power-us-summer-2027-at-ge-aerospace-4455240598) |
 | General Dynamics Electric Boat | SSN Electrical Engineering and Design - 2027 Engineering Summer Internship | Other | [Apply](https://www.linkedin.com/jobs/view/ssn-electrical-engineering-and-design-2027-engineering-summer-internship-at-general-dynamics-electric-boat-4465792069) |
-| Google | Data Center Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027) |
-| Google | Hardware Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027) |
-| Google | Security Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027) |
 | Intuit | : Software Engineering Intern - Cybersecurity Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | John Hancock | Data Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-data-engineering-at-john-hancock-4458677817) |
 | Lunar Outpost | Robotics Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/robotics-engineering-intern-summer-2027-at-lunar-outpost-4466587295) |
@@ -921,7 +915,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619990/2027-summer-intern-indycar-race-strategy-analytics/) |
 | General Motors | 2027 Summer Intern, Global Customer Research Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619679/2027-summer-intern-global-customer-research-intern/) |
 | General Motors | Intern - Computational Design Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202621454/summer-2027-intern-computational-design-intern/) |
-| Google | Silicon Engineering Intern, Bsms Summer 2027 | Other | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Hill's Pet Nutrition | CS&L Data Analyst Co-Op (June 2027-May 2028) | Other | [Apply](https://www.linkedin.com/jobs/view/cs-l-data-analyst-co-op-june-2027-may-2028-at-hill-s-pet-nutrition-4466167174) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
