@@ -11,7 +11,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (936)
+## Open — Apply now (934)
 
 ### AI/ML (131)
 
@@ -223,7 +223,7 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (563)
+### SWE (561)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -443,7 +443,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Shure | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-shure-4461391646) |
 | Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) |
 | SpaceX | Software Engineering Internship/Co-op | SWE | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
-| Spectrum | 2027 Summer Intern: Mobile Device Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-mobile-device-engineer-at-spectrum-4463664300) |
 | SRC, Inc | Software Engineer (Intern) | SWE | [Apply](https://jobs.jobvite.com/src-inc/job/o4lHAfwq) |
 | Stellantis | 2027 Business Software Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-business-software-internship-at-stellantis-4462128173) |
 | Stellantis | 2027 Information & Communication Technology (ICT) Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-communication-technology-ict-summer-internship-at-stellantis-4462133041) |
@@ -784,7 +783,6 @@ Verified **2026-10-11**. Every role below was found by **active search** (Linked
 | Zipline | Applications Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/applications-engineer-intern-summer-2027-at-zipline-4457086126) |
 | Zipline | Controls Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/controls-engineer-intern-summer-2027-at-zipline-4456350422) |
 | Zipline | Droid Autonomy Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/droid-autonomy-intern-summer-2027-at-zipline-4470981485) |
-| Zipline | Enterprise Systems Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/enterprise-systems-software-engineer-intern-summer-2027-at-zipline-4455982387) |
 | Zipline | Maintenance Tool Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/maintenance-tool-engineering-intern-summer-2027-at-zipline-4457079206) |
 | Zipline | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-zipline-4457524965) |
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
