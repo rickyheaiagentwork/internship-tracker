@@ -11,9 +11,9 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (941)
+## Open — Apply now (950)
 
-### AI/ML (131)
+### AI/ML (132)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -80,6 +80,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | New York Life | 2027 Technology, Data, AI & Ventures Summer Internship Program - Analyst Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-analyst-intern-at-new-york-life-4447564085) |
 | New York Life | 2027 Technology, Data, AI & Ventures Summer Internship Program - Data Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-data-scientist-intern-at-new-york-life-4447546982) |
 | Northern Trust | Technology Intern – Data Science and Analytics | AI/ML | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
+| NVIDIA | AI Developer Technology Intern - 2027 | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) |
 | Papa Johns | 2027 Summer Intern - Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-science-at-papa-johns-4476833572) |
 | PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
 | Peraton | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-science-intern-at-peraton-4464106103) |
@@ -223,7 +224,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (568)
+### SWE (571)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -599,6 +600,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern- ADAS Software Engineer, ADPT | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202621820/2027-summer-intern-adas-software-engineer-adpt/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | GM Performance Power Units | Electrothermal Modeling Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/electrothermal-modeling-engineer-intern-summer-2027-at-gm-performance-power-units-4475043457) |
+| Google | Forward Deployed Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) |
 | Guardian Industries | Guardian Summer 2027 Engineering Intern - Richburg, SC | SWE | [Apply](https://www.linkedin.com/jobs/view/guardian-summer-2027-engineering-intern-richburg-sc-at-guardian-industries-4473403096) |
 | Gulfstream Aerospace | Completions Engineering Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-completions-engineering-collegiate-associate-intern-at-gulfstream-aerospace-4465866524) |
 | Gulfstream Aerospace | IEF - Flight Sciences / Thermofluid Analysis Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-flight-sciences-thermofluid-analysis-collegiate-intern-at-gulfstream-aerospace-4465864566) |
@@ -668,6 +670,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Microsoft | Financial Analyst Intern: Finance Rotation Program (FRP) | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556944773) |
 | Microsoft | National Technology Intern France, Paris, Paris | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
+| Microsoft | Software Engineering INTERN Serbia, Belgrade, Belgrade | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557006399) |
 | Microsoft | Solution Engineering Intern Belgium, Brussels Region, Brussels | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998782) |
 | MiniMed | Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-minimed-4463604176) |
 | MiniMed | Operations Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-engineering-intern-summer-2027-at-minimed-4463394813) |
@@ -696,6 +699,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
 | Nutanix | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-nutanix-4468324254) |
+| NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
 | Panthalassa | Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-engineering-internship-at-panthalassa-4476145235) |
 | Peraton | Business Analyst Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-analyst-intern-at-peraton-4472374328) |
 | Peraton | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineer-intern-at-peraton-4463550084) |
@@ -828,7 +832,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (151)
+### Other (156)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -882,6 +886,9 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Motorola Solutions | DSP (Digital Signal Processing) Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/dsp-digital-signal-processing-software-engineering-intern-summer-2027-at-motorola-solutions-4466378203) |
 | Motorola Solutions | Electrical Engineer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/electrical-engineer-intern-summer-2027-at-motorola-solutions-4456375682) |
 | Northwood | Embedded Software Engineering Intern (2027 Summer Internship) | Other | [Apply](https://www.linkedin.com/jobs/view/embedded-software-engineering-intern-2027-summer-internship-at-northwood-4460581696) |
+| NVIDIA | Data Processing Developer Technology Intern - 2027 | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) |
+| NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
+| NVIDIA | Software Engineer, Data Center Compute Software Tools (RDSS Intern) | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) |
 | Pacific Life | Data Engineering Internship | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-engineering-internship-at-pacific-life-4477857374) |
 | POET | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-poet-4472794076) |
 | Principal Financial Group | Data Engineer Internship - Des Moines, IA | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231417) |
@@ -946,6 +953,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | Meijer | Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-intern-summer-2027-at-meijer-4462569306) |
 | Meijer | Store Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/store-analytics-intern-summer-2027-at-meijer-4462563337) |
+| Microsoft | Research Sciences INTERN Switzerland, Zürich, Zürich | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557026573) |
 | Milliman IntelliScript | Data Analytics Intern - IntelliScript | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-intelliscript-at-milliman-intelliscript-4458026897) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-advanced-undersea-systems-and-technology-group-03-37-at-mit-lincoln-laboratory-4472725886) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-air-traffic-control-systems-group-04-43-at-mit-lincoln-laboratory-4472724978) |
@@ -958,6 +966,7 @@ Verified **2026-10-12**. Every role below was found by **active search** (Linked
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
 | Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | Other | [Apply](https://www.linkedin.com/jobs/view/2027-data-analytics-intern-clearfield-ut-at-northrop-grumman-4466038485) |
+| NVIDIA | Differentiable Simulation Research Intern | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | NVIDIA | Research Intern, Robotics | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-robotics-summer-2027-at-nvidia-4468779408) |
 | Philip Morris International U.S. | Undergraduate Intern - Information Technology Summer 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/undergraduate-intern-information-technology-summer-2027-at-philip-morris-international-u-s-4469126167) |
