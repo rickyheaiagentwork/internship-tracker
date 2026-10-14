@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-13**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-14**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (979)
+## Open — Apply now (980)
 
 ### AI/ML (134)
 
@@ -226,7 +226,7 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (597)
+### SWE (596)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -243,6 +243,7 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Genentech | 2027 Spring Intern - Analytical Method Validation and Tech Transfer | SWE | [Apply](https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer) |
 | Genentech | 2027 Spring Intern - Cell Line Development Automation | SWE | [Apply](https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation) |
+| Genentech | 2027 Summer Intern - Hillsboro Technical Operations | SWE | [Apply](https://careers.gene.com/us/en/job/202610-125110/2027-Summer-Intern-Hillsboro-Technical-Operations) |
 | Johnson & Johnson MedTech | Vision Q&C Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-vision-q-c-intern-at-johnson-johnson-medtech-4468244271) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) |
@@ -524,7 +525,6 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-jersey-city-nj-at-bny-4458198950) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-new-york-ny-at-bny-4458216043) |
-| Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-engineering-at-boeing-4463098948) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-boeing-4463404942) |
 | CACI International Inc | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-caci-international-inc-4472196373) |
 | Cadence | Intern Digital Implementation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1) |
@@ -617,7 +617,6 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | Gulfstream Aerospace | IEF - Control Law Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-control-law-collegiate-associate-intern%EE%80%93-at-gulfstream-aerospace-4475434472) |
 | Gulfstream Aerospace | IEF - Engineer Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-engineer-collegiate-associate-intern-at-gulfstream-aerospace-4475445000) |
 | Gulfstream Aerospace | IEF - Flight Sciences / Thermofluid Analysis Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-flight-sciences-thermofluid-analysis-collegiate-intern-at-gulfstream-aerospace-4465864566) |
-| Gulfstream Aerospace | IEF - Flight Sciences/Loads and Dynamics College Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-flight-sciences-loads-and-dynamics-college-intern-at-gulfstream-aerospace-4465848694) |
 | Gulfstream Aerospace | IEF - ODA Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-oda-collegiate-intern-at-gulfstream-aerospace-4475442180) |
 | Gulfstream Aerospace | IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-powerplant-propulsion-engineer-collegiate-associate-intern-at-gulfstream-aerospace-4475438284) |
 | Gulfstream Aerospace | Operations Engineer Collegiate Associate Intern (St. Louis) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-operations-engineer-collegiate-associate-intern-st-louis-at-gulfstream-aerospace-4475435388) |
@@ -860,7 +859,7 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (157)
+### Other (159)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -870,11 +869,13 @@ Verified **2026-10-13**. Every role below was found by **active search** (Linked
 | Abbott | 2027 R&D Cancer Diagnostics Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Charlotte, NC | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-charlotte-nc-at-american-express-4460223672) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Phoenix, AZ | Other | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-phoenix-az-at-american-express-4460220721) |
+| Genentech | 2027 Spring Intern - Prescient Frontier Research | Other | [Apply](https://careers.gene.com/us/en/job/202610-124986/2027-Spring-Intern-Prescient-Frontier-Research) |
 | Medpace | Business Intelligence Engineer Internship - Spring & Summer 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/business-intelligence-engineer-internship-spring-summer-2027-at-medpace-4457174873) |
 | Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | Merck | 2027 Future Talent Program - Discovery Bio-Analytics - Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-discovery-bio-analytics-intern-at-merck-4464438897) |
 | Merck | 2027 Future Talent Program - Epidemiology and RWE Capabilities & Analytics - Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-epidemiology-and-rwe-capabilities-analytics-intern-at-merck-4464437899) |
 | Merck | 2027 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-it-emerging-talent-summer-intern-program-hybrid-at-merck-4464441001) |
+| Merck | Apply Now 2027 Future Talent Program – Biologics Process Research & Development Intern | Other | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Biologics-Process-Research---Development-Intern_R419589/apply) |
 | Thermo Fisher Scientific | 2027 IT & Digital Internship | Other | [Apply](https://www.linkedin.com/jobs/view/2027-it-digital-internship-at-thermo-fisher-scientific-4463432010) |
 | Together AI | Research Intern, Frontier Agents | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948) |
 | Together AI | Research Intern, Model Shaping | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-model-shaping-summer-2027-at-together-ai-4468014291) |
