@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-14**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-15**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (986)
+## Open — Apply now (994)
 
-### AI/ML (134)
+### AI/ML (141)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -53,9 +53,14 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | Figma | Data Science Intern (2027) | AI/ML | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004) |
 | Finastra | AI Engineer Intern | AI/ML | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) |
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
+| General Motors | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622406/2027-intern-ai-ml-engineer-capacity-performance-engineering-autonomous-vehicles/) |
+| General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622410/2027-intern-ai-ml-engineer-autonomous-vehicle-ml-infrastructure/) |
+| General Motors | 2027 Summer Intern - Research and Development - AI/Machine Learning | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621620/2027-summer-intern-research-and-development-ai-machine-learning/) |
+| General Motors | 2027 Summer Intern - Research and Development - Machine Learning for Automation | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621724/2027-summer-intern-research-and-development-machine-learning-for-automation/) |
 | General Motors | 2027 Summer Intern – AI & Hardware Analytics, ADPT | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621756/2027-summer-intern-ai-hardware-analytics-adpt/) |
 | General Motors | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621695/2027-summer-intern-machine-learning-engineer-av-ai-platform/) |
 | General Motors | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202621697/2027-summer-intern-software-verification-engineer-av-ai-platform/) |
+| General Motors | 2027 Summer Intern, Data Scaling, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622132/2027-summer-intern-data-scaling-embodied-ai/) |
 | Georgia-Pacific LLC | Georgia-Pacific Data Science Internship - Atlanta, GA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/georgia-pacific-data-science-internship-atlanta-ga-summer-2027-at-georgia-pacific-llc-4474843181) |
 | IBM | Co-Op Data Scientist - AI & Analytics 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/co-op-data-scientist-ai-analytics-2027-at-ibm-4451286703) |
 | ICF | 2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-scientist-reston-va-denver-co-remote-at-icf-4470727566) |
@@ -131,6 +136,8 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | F.N.B. Corporation | AI and Innovation Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) |
 | F.N.B. Corporation | AI/ML Modeler Intern | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
 | F.N.B. Corporation | Data Science Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) |
+| General Motors | 2027 Summer Intern, Onboard Autonomy, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622135/2027-summer-intern-onboard-autonomy-embodied-ai/) |
+| General Motors | 2027 Summer Intern, SEAM, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622143/2027-summer-intern-seam-embodied-ai/) |
 | Home Depot | 2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS | AI/ML | [Apply](https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/) |
 | Intuit | : AI Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-science-intern-at-intuit-4467735026) |
 | Intuit | : AI Science Intern Multiple Locations | AI/ML | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) |
@@ -152,7 +159,7 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (36)
+### Bio-AI (35)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -178,7 +185,6 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - Data Science - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-data-science-intern-at-merck-4471809068) |
 | Merck | 2027 Future Talent Program - Global Data Management and Standards (GDMS) - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-global-data-management-and-standards-gdms-intern-at-merck-4464418934) |
 | Merck | 2027 Future Talent Program - Leveraging Advanced Analytics and Automation to Enhance Clinical Bioanalytical Operations - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-leveraging-advanced-analytics-and-automation-to-enhance-clinical-bioanalytical-operations-intern-at-merck-4464438892) |
-| Merck | 2027 Future Talent Program - Medical Data Scientist - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-medical-data-scientist-intern-at-merck-4464423997) |
 | Merck | 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-nonclinical-drug-safety-data-scientist-intern-at-merck-4464416970) |
 | Merck | 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-standardizing-automation-scripting-practices-through-ai-enabled-knowledge-repository-intern-at-merck-4464428975) |
 | Merck | 2027 Future Talent Program - Translational Modeling Group - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-translational-modeling-group-intern-at-merck-4464427894) |
@@ -862,7 +868,7 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (162)
+### Other (164)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -966,10 +972,12 @@ Verified **2026-10-14**. Every role below was found by **active search** (Linked
 | Florida Blue | IT Summer 2027 Undergraduate Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-summer-2027-undergraduate-internship-at-florida-blue-4476794125) |
 | Florida Blue | IT Graduate Internship | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-it-graduate-internship-at-florida-blue-4476779895) |
 | GALLO | IT Data Analyst Internship 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/it-data-analyst-internship-2027-at-gallo-4454235795) |
+| General Motors | 2027 Summer Intern - Research and Development - Defense Lab Support | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202621738/2027-summer-intern-research-and-development-defense-lab-support/) |
 | General Motors | 2027 Summer Intern – Global Manufacturing Robotics & Automation | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619348/2027-summer-intern-global-manufacturing-robotics-automation/) |
 | General Motors | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619990/2027-summer-intern-indycar-race-strategy-analytics/) |
 | General Motors | 2027 Summer Intern, Global Customer Research Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202619679/2027-summer-intern-global-customer-research-intern/) |
 | General Motors | Intern - Computational Design Intern | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202621454/summer-2027-intern-computational-design-intern/) |
+| General Motors | Intern - Research and Development - Smart Manufacturing Systems | Other | [Apply](https://search-careers.gm.com/en/jobs/jr-202621657/summer-2027-intern-research-and-development-smart-manufacturing-systems/) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Hill's Pet Nutrition | CS&L Data Analyst Co-Op (June 2027-May 2028) | Other | [Apply](https://www.linkedin.com/jobs/view/cs-l-data-analyst-co-op-june-2027-may-2028-at-hill-s-pet-nutrition-4466167174) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
