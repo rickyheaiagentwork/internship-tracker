@@ -11,7 +11,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1007)
+## Open — Apply now (1008)
 
 ### AI/ML (141)
 
@@ -159,7 +159,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (37)
+### Bio-AI (38)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -171,6 +171,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | Amgen | Undergrad Intern – Data Scientist – Amgen’s Technology & Medical Organizations | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-%E2%80%93-data-scientist-%E2%80%93-amgen%E2%80%99s-technology-medical-organizations-summer-2027-at-amgen-4466485814) |
 | Blue Cross and Blue Shield of Nebraska | Healthcare Analytics Intern: Starts Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/healthcare-analytics-intern-starts-summer-2027-at-blue-cross-and-blue-shield-of-nebraska-4467432582) |
 | Blue Cross and Blue Shield of Nebraska | Healthcare Reimbursement Analytics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/healthcare-reimbursement-analytics-intern-summer-2027-at-blue-cross-and-blue-shield-of-nebraska-4464903108) |
+| Cigna | Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027 | Bio-AI | [Apply](https://jobs.thecignagroup.com/us/en/job/26009483/Healthcare-Analytics-Summer-Intern-Morris-Plains-NJ-Start-Date-May-24-2027) |
 | GE HealthCare | Software Engineering Summer Intern 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-intern-2027-at-ge-healthcare-4470234030) |
 | Genentech | 2027 Spring Intern - Pharma Technical Development - Device Development | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202608-122145/2027-Spring-Intern-Pharma-Technical-Development-Device-Development) |
 | Genentech | 2027 Spring Intern - Pharma Technical Development - Engineering and Manufacturing Focus | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202608-121946/2027-Spring-Intern-Pharma-Technical-Development-Engineering-and-Manufacturing-Focus) |
