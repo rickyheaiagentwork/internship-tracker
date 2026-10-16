@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-15**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-16**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1008)
+## Open — Apply now (1009)
 
 ### AI/ML (141)
 
@@ -235,7 +235,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (605)
+### SWE (606)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -249,6 +249,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
 | AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
 | BD | BD 2027 Summer Internship - Supply Chain Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992) |
+| Boston Scientific | Process Development Co-op - Spring or Summer 2027 | SWE | [Apply](https://jobs.bostonscientific.com/job/Maple-Grove-Process-Development-Co-op-Spring-or-Summer-2027-MN/1429424800/) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Genentech | 2027 Spring Intern - Analytical Method Validation and Tech Transfer | SWE | [Apply](https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer) |
 | Genentech | 2027 Spring Intern - Cell Line Development Automation | SWE | [Apply](https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation) |
@@ -533,7 +534,6 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | BAE Systems, Inc. | Software Engineering Intern IV, Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-iv-summer-2027-onsite-at-bae-systems-inc-4448061621) |
 | BAE Systems, Inc. | Systems Engineering Intern II (NH-Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-ii-summer-2027-nh-onsite-at-bae-systems-inc-4448056324) |
 | BAE Systems, Inc. | Systems Engineering Intern IV (NH - Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-iv-summer-2027-nh-onsite-at-bae-systems-inc-4448058017) |
-| Barclays Bank US | 2027 Risk Analyst Summer Internship Program Wilmington | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-risk-analyst-summer-internship-program-wilmington-at-barclays-bank-us-4461484231) |
 | Beyond New Horizons | Engineering & Technical Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-engineering-technical-internships-at-beyond-new-horizons-4467213737) |
 | BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-jersey-city-nj-at-bny-4458198950) |
@@ -675,6 +675,7 @@ Verified **2026-10-15**. Every role below was found by **active search** (Linked
 | Leonardo DRS | Systems Engineering Intern \| Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-leonardo-drs-4466226893) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
 | Lockheed Martin | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-lockheed-martin-4476670295) |
+| Lowe's | Services Technology & Enablement – Undergraduate Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02672664/Services-Technology-Enablement-Undergraduate-Internship-Summer-2027) |
 | Lowe's | Software Engineer – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
 | Lowe's | Store Optimization – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027) |
 | Lowe's Companies, Inc. | Software Engineer – Undergrad Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-undergrad-internship-%E2%80%93-summer-2027-at-lowe-s-companies-inc-4467485195) |
