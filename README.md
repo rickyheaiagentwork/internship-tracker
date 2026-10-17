@@ -496,6 +496,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | Workiva | Intern - Software Engineering | SWE | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) |
 | World Wide Technology | Solutions, Consulting, & Engineering Intern - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/solutions-consulting-engineering-intern-2027-at-world-wide-technology-4457151796) |
 | Zip | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
+| 3M | Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG) | SWE | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459) |
 | Activision | Activision 2027 Summer Internships - Game Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-game-engineering-at-activision-4465395085) |
 | Activision | Activision 2027 Summer Internships - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-software-engineering-at-activision-4465397052) |
 | Activision Blizzard | Activision 2027 Summer Internships - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-software-engineering-at-activision-blizzard-4463408951) |
@@ -615,7 +616,6 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | General Dynamics Electric Boat | 2027 Engineering Summer Internship: Waterfront Engineering - Fast Attack Submarines | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-engineering-summer-internship-waterfront-engineering-fast-attack-submarines-at-general-dynamics-electric-boat-4466166345) |
 | General Dynamics Electric Boat | Combat and Weapons Systems (CWS) – 2027 Engineering Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/combat-and-weapons-systems-cws-%E2%80%93-2027-engineering-summer-internship-at-general-dynamics-electric-boat-4465791090) |
 | General Dynamics Electric Boat | Life Cycle Support (LCS) – 2027 Engineering Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/life-cycle-support-lcs-%E2%80%93-2027-engineering-summer-internship-at-general-dynamics-electric-boat-4472368128) |
-| General Dynamics Land Systems | 2027 Summer Intern - Systems Requirement and Design | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-systems-requirement-and-design-at-general-dynamics-land-systems-4476928886) |
 | General Dynamics Mission Systems | Regional Strike Programs - Systems Engineering Internship Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/regional-strike-programs-systems-engineering-internship-summer-2027-at-general-dynamics-mission-systems-4466588049) |
 | General Motors | 2027 Summer Intern - Digital Sculpting | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619286/2027-summer-intern-digital-sculpting/) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202619950/2027-summer-intern-pfmea-manufacturing-engineer/) |
@@ -635,7 +635,6 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | Gulfstream Aerospace | IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-powerplant-propulsion-engineer-collegiate-associate-intern-at-gulfstream-aerospace-4475438284) |
 | Gulfstream Aerospace | Operations Engineer Collegiate Associate Intern (St. Louis) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-operations-engineer-collegiate-associate-intern-st-louis-at-gulfstream-aerospace-4475435388) |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-spring-summer-2027-at-hermeus-4478029405) |
-| Hermeus | Mission Systems Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/mission-systems-engineering-intern-spring-summer-2027-at-hermeus-4462859800) |
 | Hermeus | Software Engineering Intern (HIL) - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-hil-spring-summer-2027-at-hermeus-4462022911) |
 | Hermeus | Subsystem Test Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/subsystem-test-engineering-intern-spring-summer-2027-at-hermeus-4478026427) |
 | Hermeus | Test and Operations Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/test-and-operations-engineering-intern-spring-summer-2027-at-hermeus-4467755582) |
@@ -704,6 +703,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | McKesson | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-mckesson-4477423190) |
 | McKesson | System Design / QA Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/System-Design---QA-Intern---Summer-2027_JR0152746) |
 | Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
+| Micron Technology | Intern - SDR | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) |
 | Micron Technology | Intern- Technician, Process | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005) |
 | Microsoft | Cloud Solution Architecture Intern Belgium, Brussels Region, Brussels | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998387) |
 | Microsoft | Financial Analyst Intern: Finance Rotation Program (FRP) | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556944773) |
