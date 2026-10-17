@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-16**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-17**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1015)
+## Open — Apply now (1014)
 
 ### AI/ML (141)
 
@@ -235,7 +235,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (611)
+### SWE (609)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -536,7 +536,6 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | BAE Systems, Inc. | Systems Engineering Intern II (NH-Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-ii-summer-2027-nh-onsite-at-bae-systems-inc-4448056324) |
 | BAE Systems, Inc. | Systems Engineering Intern IV (NH - Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-iv-summer-2027-nh-onsite-at-bae-systems-inc-4448058017) |
 | Beyond New Horizons | Engineering & Technical Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-engineering-technical-internships-at-beyond-new-horizons-4467213737) |
-| BioSpace | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-biospace-4465613234) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-jersey-city-nj-at-bny-4458198950) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-new-york-ny-at-bny-4458216043) |
 | BWE | Internship - Digital Enablement | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-digital-enablement-at-bwe-4477848439) |
@@ -635,7 +634,6 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | Gulfstream Aerospace | IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ief-powerplant-propulsion-engineer-collegiate-associate-intern-at-gulfstream-aerospace-4475438284) |
 | Gulfstream Aerospace | Operations Engineer Collegiate Associate Intern (St. Louis) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-operations-engineer-collegiate-associate-intern-st-louis-at-gulfstream-aerospace-4475435388) |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-spring-summer-2027-at-hermeus-4478029405) |
-| Hermeus | Software Engineering Intern (HIL) - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-hil-spring-summer-2027-at-hermeus-4462022911) |
 | Hermeus | Subsystem Test Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/subsystem-test-engineering-intern-spring-summer-2027-at-hermeus-4478026427) |
 | Hermeus | Test and Operations Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/test-and-operations-engineering-intern-spring-summer-2027-at-hermeus-4467755582) |
 | Howmet Aerospace | Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-program-at-howmet-aerospace-4465934692) |
@@ -883,7 +881,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (170)
+### Other (171)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1008,6 +1006,7 @@ Verified **2026-10-16**. Every role below was found by **active search** (Linked
 | Johnsonville | IT Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-johnsonville-4464647269) |
 | JPMorganChase | 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program - Analytics Solutions | Other | [Apply](https://www.linkedin.com/jobs/view/2027-focused-analytics-solutions-team-fast-intern-associate-program-analytics-solutions-at-jpmorganchase-4457559643) |
 | Keurig Dr Pepper Inc. | Intern - Information Technology | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-information-technology-at-keurig-dr-pepper-inc-4457334991) |
+| KLA | Technical Intern (R&D) | Other | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Singapore-Singapore/Technical-Intern--R-D-_2636416) |
 | Lyft | Data Analyst Intern New York, NY (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002) |
 | Lyft | UX Research Intern Toronto, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002) |
 | Mary Kay Global | 2027 Summer Internships – Information Technology | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internships-%E2%80%93-information-technology-at-mary-kay-global-4462557629) |
