@@ -11,9 +11,9 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1017)
+## Open — Apply now (1019)
 
-### AI/ML (141)
+### AI/ML (144)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | DriveTime | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-drivetime-4461925539) |
 | Elire | AI Software Development Consulting Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-software-development-consulting-intern-at-elire-4467901602) |
 | Federal Express Corporation | Internship - Revenue Management (Data Science) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-revenue-management-data-science-at-federal-express-corporation-4477432530) |
+| FieldAI | Robotics Research, Embodied AI Intern (Spring & Summer 2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/robotics-research-embodied-ai-intern-spring-summer-2027-at-fieldai-4479235674) |
 | Figma | Data Science Intern (2027) | AI/ML | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004) |
 | Finastra | AI Engineer Intern | AI/ML | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) |
 | GE Aerospace | Applied AI Engineer Intern (May/June Start) | AI/ML | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
@@ -118,6 +119,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Wellabe | Data Analytics- AI Summer 2027 Internship- Hybrid -Des Moines, Iowa | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-summer-2027-internship-hybrid-des-moines-iowa-at-wellabe-4468802999) |
 | West Bend Insurance Company | Internship - Data Scientist | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-data-scientist-at-west-bend-insurance-company-4469612390) |
 | Wing | Data Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-summer-2027-at-wing-4475991790) |
+| Wing | Machine Learning Engineering Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineering-intern-summer-2027-at-wing-4478172590) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | Xeris Pharmaceuticals, Inc. | IT Commercial Systems, Data & AI Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/it-commercial-systems-data-ai-intern-summer-2027-at-xeris-pharmaceuticals-inc-4472650868) |
 | Advanced Space | 2027 Machine Learning Summer Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
@@ -136,6 +138,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | F.N.B. Corporation | AI and Innovation Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) |
 | F.N.B. Corporation | AI/ML Modeler Intern | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
 | F.N.B. Corporation | Data Science Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) |
+| GE Vernova | GE Vernova – AGI – AI Post-Training and Model Alignment Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4479573257) |
 | General Motors | 2027 Summer Intern, Onboard Autonomy, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622135/2027-summer-intern-onboard-autonomy-embodied-ai/) |
 | General Motors | 2027 Summer Intern, SEAM, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622143/2027-summer-intern-seam-embodied-ai/) |
 | Home Depot | 2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS | AI/ML | [Apply](https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/) |
@@ -644,6 +647,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | IBM | Intern Application Developer – Salesforce - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-application-developer-%E2%80%93-salesforce-2027-at-ibm-4450860194) |
 | IBM | Intern Developer – Adobe 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-developer-%E2%80%93-adobe-2027-at-ibm-4451254860) |
 | IBM | Software Developer Intern 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-2027-at-ibm-4453030552) |
+| ICF | 2027 Summer Intern, Software Engineer (Reston, VA) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-reston-va-at-icf-4478810595) |
 | Impulse Space | Development Test Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/development-test-engineering-intern-summer-2027-at-impulse-space-4467280124) |
 | Impulse Space | Manufacturing Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2027-at-impulse-space-4465800557) |
 | Impulse Space | Propulsion Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/propulsion-engineering-intern-summer-2027-at-impulse-space-4465807571) |
@@ -801,7 +805,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Swarm Aero | Composite Engineering (M&P) Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/composite-engineering-m-p-intern-summer-2027-at-swarm-aero-4463930386) |
 | Synopsys | Systems Engineering Internship Mississauga, Canada Category: Interns/Temp Posted: 10/05/2026 Job ID: 19018 | SWE | [Apply](https://careers.synopsys.com/job/mississauga/systems-engineering-internship-summer-2027/44408/101631905328) |
 | Tanium | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93%C2%A0summer-2027-at-tanium-4464804078) |
-| Target | Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-internship-minneapolis-mn-starting-june-2027-at-target-4466046872) |
 | The AES Corporation | Intern - T&D standards Power Systems - | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-t-d-standards-power-systems-summer-2027-at-the-aes-corporation-4466374841) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 QA/Soft Dev in Test Technical Intern (Jan and May 2027 hires) | SWE | [Apply](https://www.linkedin.com/jobs/view/2026-qa-soft-dev-in-test-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460235742) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 Software Engineer Technical Intern (Jan and May 2027 hires) | SWE | [Apply](https://www.linkedin.com/jobs/view/2026-software-engineer-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460244469) |
@@ -884,7 +887,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (171)
+### Other (170)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1029,7 +1032,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Northern Trust | Data & Analytics Office Intern page is loaded | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
-| Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | Other | [Apply](https://www.linkedin.com/jobs/view/2027-data-analytics-intern-clearfield-ut-at-northrop-grumman-4466038485) |
 | NVIDIA | Differentiable Simulation Research Intern | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | NVIDIA | Research Intern, Robotics | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-robotics-summer-2027-at-nvidia-4468779408) |
