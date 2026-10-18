@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-17**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-18**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1015)
+## Open — Apply now (1017)
 
 ### AI/ML (141)
 
@@ -235,7 +235,7 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (610)
+### SWE (612)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -522,8 +522,10 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 | BAE Systems | Computer Science Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130021BR/Computer-Science-Intern-Summer-2027) |
 | BAE Systems | Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027) |
 | BAE Systems | Industrial Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130824BR/Industrial-Engineering-Intern-Summer-2027) |
+| BAE Systems | M&S Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131309BR/M-S-Engineering-Intern-Summer-2027) |
 | BAE Systems | Mechanical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship - Summer, 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027) |
+| BAE Systems | Mechanical Engineering Internship Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131346BR/Mechanical-Engineering-Internship-Summer-2027) |
 | BAE Systems | Programmer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130483BR/Programmer-Intern-Summer-2027) |
 | BAE Systems | Supply Chain Intern III (Onsite) | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite) |
 | BAE Systems | System Engineer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129958BR/System-Engineer-Intern-Summer-2027) |
