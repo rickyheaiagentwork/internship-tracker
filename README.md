@@ -11,7 +11,7 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1014)
+## Open — Apply now (1015)
 
 ### AI/ML (141)
 
@@ -235,7 +235,7 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (609)
+### SWE (610)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -661,6 +661,7 @@ Verified **2026-10-17**. Every role below was found by **active search** (Linked
 | Intuit | : Technical Program Manager (TPM) Intern Multiple Locations | SWE | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664) |
 | Invesco | Early Career Intern - Distribution Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
 | Invesco | Early Career Intern - Investment Technology | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) |
+| Invesco | Early Career Intern - Technology (Investment) | SWE | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) |
 | ispace, inc. | 2027 Summer Internship - Systems Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-systems-engineer-at-ispace-inc-4473673897) |
 | John Deere | Engineering Intern - Manufacturing & Product Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-manufacturing-product-engineering-summer-2027-at-john-deere-4465799227) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Guidance, Navigation, and Control Systems Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-internship-guidance-navigation-and-control-systems-engineer-at-johns-hopkins-applied-physics-laboratory-4475689299) |
