@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-18**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-19**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1017)
+## Open — Apply now (1014)
 
 ### AI/ML (143)
 
@@ -237,7 +237,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (611)
+### SWE (609)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -774,8 +774,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Raytheon | Production Test Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/production-test-engineering-intern-summer-2027-at-raytheon-4467786985) |
 | Raytheon | Receiver, Exciter, & Processing Architecture Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/receiver-exciter-processing-architecture-software-engineer-intern-summer-2027-at-raytheon-4468289701) |
 | Raytheon | RF/Microwave Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-microwave-engineering-intern-summer-2027-at-raytheon-4468281943) |
-| Raytheon | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-raytheon-4467904031) |
-| Raytheon | Systems Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-raytheon-4467274713) |
 | Raytheon | Systems Engineering Intern 2027 - Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-2027-onsite-at-raytheon-4478781363) |
 | Raytheon | Systems Engineering Test Equipment Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-test-equipment-intern-summer-2027-at-raytheon-4475410102) |
 | Realtor.com | Internship - Software Engineering Tracks | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-software-engineering-tracks-at-realtor-com-4470276666) |
@@ -885,7 +883,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (170)
+### Other (169)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -958,7 +956,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Skydio | Embedded Software Engineer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/embedded-software-engineer-intern-summer-2027-at-skydio-4479068772) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Core Engineering, & Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-core-engineering-research-technology-at-spirit-aerosystems-4462547551) |
 | Spirit AeroSystems | Spirit Defense Internship Program (Paid) - Core Engineering - Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/spirit-defense-summer-2027-internship-program-paid-core-engineering-research-technology-at-spirit-aerosystems-4462525805) |
-| State Farm | Intern – Enterprise Technology – Engineer (Software, Data, Infrastructure) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-enterprise-technology-%E2%80%93-engineer-software-data-infrastructure-at-state-farm-4465762636) |
 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-intern-e-commerce-2027-summer-at-tiktok-4456219203) |
 | Tokio Marine HCC | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-tokio-marine-hcc-4466127680) |
 | Tokyo Electron US | Data Platforms Engineer Summer 2027 Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-platforms-engineer-summer-2027-intern-at-tokyo-electron-us-4464307176) |
