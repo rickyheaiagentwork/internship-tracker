@@ -11,7 +11,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1014)
+## Open — Apply now (1021)
 
 ### AI/ML (143)
 
@@ -237,7 +237,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (609)
+### SWE (615)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -596,6 +596,8 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | DoorDash | Software Engineer, Intern - US | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-us-at-doordash-4465266224) |
 | Dropbox | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-dropbox-4464391017) |
 | Epsilon | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-epsilon-4463574139) |
+| Expedia Group | Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle | SWE | [Apply](https://www.linkedin.com/jobs/view/mobile-engineering-intern-2027-austin-san-jose-seattle-at-expedia-group-4477955905) |
+| Expedia Group | Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineering-intern-2027-austin-san-jose-seattle-at-expedia-group-4477956860) |
 | ExxonMobil | 2027 Campus Hire - Process Engineer | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Process-Engineer-627596/1421840200/) |
 | ExxonMobil | 2027 Campus Hire - Trader Development Program | SWE | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Trader-Development-Program-98633/1400140300/) |
 | Federal Reserve Bank of Cleveland | SCS - Statistics and Analysis Intern - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/scs-statistics-and-analysis-intern-2027-at-federal-reserve-bank-of-cleveland-4474562105) |
@@ -605,6 +607,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | Firehawk | Design Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/design-engineering-internship-summer-2027-at-firehawk-4474843344) |
 | First Citizens Bank | 2027 Summer Intern - Quantitative Analysis (Raleigh, North Carolina) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quantitative-analysis-raleigh-north-carolina-at-first-citizens-bank-4468167756) |
+| Fox Corporation | FOX Technology Internship Program - Los Angeles, CA | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-fox-technology-internship-program-los-angeles-ca-at-fox-corporation-4472488632) |
 | Fox Corporation | FOX Technology Internship Program - Tempe, AZ | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-fox-technology-internship-program-tempe-az-at-fox-corporation-4472494507) |
 | GE Aerospace | Edison Works Engineering Intern - Aero Design - US | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-aero-design-us-summer-2027-at-ge-aerospace-4455920586) |
 | GE Aerospace | Edison Works Engineering Intern - US - Signature Design & Test | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-us-signature-design-test-summer-2027-at-ge-aerospace-4455936413) |
@@ -791,6 +794,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
 | Salesforce | Intern - UI/UX Designer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342) |
 | Seagate | Technical Writer Intern | SWE | [Apply](https://seagatecareers.com/job/Technical-Writer-Intern-Summer-2027/15017-en_US) |
+| Skydio | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-skydio-4479742277) |
 | Solar Turbines | 2027 Internship -Supplier Technical Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-internship-supplier-technical-engineer-at-solar-turbines-4452889007) |
 | Southwest Airlines | Software Engineer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineer-internship-at-southwest-airlines-4472519948) |
 | Spirit AeroSystems | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Tooling Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-tooling-engineering-at-spirit-aerosystems-4462528757) |
@@ -801,6 +805,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Superhuman | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-superhuman-4465258325) |
 | Swarm Aero | Composite Engineering (M&P) Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/composite-engineering-m-p-intern-summer-2027-at-swarm-aero-4463930386) |
 | Synopsys | Systems Engineering Internship Mississauga, Canada Category: Interns/Temp Posted: 10/05/2026 Job ID: 19018 | SWE | [Apply](https://careers.synopsys.com/job/mississauga/systems-engineering-internship-summer-2027/44408/101631905328) |
+| T-Mobile | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-t-mobile-4480341786) |
 | Tanium | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93%C2%A0summer-2027-at-tanium-4464804078) |
 | The AES Corporation | Intern - T&D standards Power Systems - | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-t-d-standards-power-systems-summer-2027-at-the-aes-corporation-4466374841) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 QA/Soft Dev in Test Technical Intern (Jan and May 2027 hires) | SWE | [Apply](https://www.linkedin.com/jobs/view/2026-qa-soft-dev-in-test-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460235742) |
@@ -836,6 +841,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | WD | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineering-at-wd-4450173981) |
 | WebstaurantStore | 2027 Full Stack Development Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-full-stack-development-summer-internship-at-webstaurantstore-4467604777) |
 | Wing | Execution & Topology Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/execution-topology-software-engineering-intern-summer-2027-at-wing-4478174497) |
+| Wing | Logistics Systems Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/logistics-systems-intern-summer-2027-at-wing-4478181093) |
 | Wing | Manufacturing Software Test Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-software-test-intern-summer-2027-at-wing-4478164836) |
 | Wing | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-wing-4478181069) |
 | Workday | Technical Support Delivery Intern page is loaded | SWE | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1) |
@@ -883,7 +889,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (169)
+### Other (170)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -923,6 +929,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
 | Cirrus Logic | 2027 Internship - Embedded Firmware Engineer | Other | [Apply](https://www.linkedin.com/jobs/view/2027-internship-embedded-firmware-engineer-at-cirrus-logic-4474628151) |
 | Citizens | Software Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | Other | [Apply](https://www.linkedin.com/jobs/view/software-engineer-summer-2027-intern-enterprise-technology-security-summer-internship-program-at-citizens-4466799863) |
+| Expedia Group | Security Engineering Intern - 2027 - Seattle | Other | [Apply](https://www.linkedin.com/jobs/view/security-engineering-intern-2027-seattle-at-expedia-group-4477977111) |
 | ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
 | Federal Reserve Board | Intern – Software Developer – IT | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-software-developer-%E2%80%93-it-at-federal-reserve-board-4477837993) |
 | Figma | Data Engineer Intern (2027) | Other | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
