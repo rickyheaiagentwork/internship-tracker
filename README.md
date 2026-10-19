@@ -11,9 +11,9 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1019)
+## Open — Apply now (1017)
 
-### AI/ML (144)
+### AI/ML (143)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -131,7 +131,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | C3 AI | Data Science - Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
 | Clarios | IT Digital/AI Intern | AI/ML | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | Corning | Artificial Intelligence and Machine Learning Intern | AI/ML | [Apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/) |
-| Cox Automotive Inc. | AI/Automation Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-automation-intern-summer-2027-at-cox-automotive-inc-4466073725) |
 | Dev Technology | AI/ML Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) |
 | Dev Technology | Microsoft Power Platform & AI Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) |
 | Expedition Technology | Internship in AI/Machine Learning and Computer Vision - Secret Clearance Required | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-in-ai-machine-learning-and-computer-vision-secret-clearance-required-at-expedition-technology-4470190672) |
@@ -238,7 +237,7 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (612)
+### SWE (611)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -817,7 +816,6 @@ Verified **2026-10-18**. Every role below was found by **active search** (Linked
 | Travere Therapeutics | Statistical Programming Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/statistical-programming-intern-summer-2027-at-travere-therapeutics-4474618244) |
 | Two Sigma | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-two-sigma-4462537751) |
 | U.S. Bank | 2027 Engineering Summer Intern | SWE | [Apply](https://careers.usbank.com/global/en/job/2026-0025769/2027-Engineering-Summer-Intern) |
-| U.S. Bank | 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-modeling-summer-intern-at-u-s-bank-4464666364) |
 | U.S. Bank | Apply now 2027 Engineering Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769/apply) |
 | U.S. Bank | Apply now 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558/apply) |
 | United Wholesale Mortgage | 2027 Technology Summer Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-technology-summer-internship-program-at-united-wholesale-mortgage-4467234311) |
