@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-19**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-20**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1020)
+## Open — Apply now (1021)
 
-### AI/ML (143)
+### AI/ML (144)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -81,6 +81,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Lyft | Software Engineer Intern, Machine Learning Toronto, Canada (Opens in a new tab) | AI/ML | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002) |
 | Meijer | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-meijer-4462546227) |
 | Meta | Data Scientist Intern, Product Analytics | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-product-analytics-summer-2027-at-meta-4476575911) |
+| Microsoft | Research Intern - Algorithms Group: Generative Modeling | AI/ML | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043740) |
 | MiniMed | Graduate AI Engineer Intern Summer 2027 (Atlanta, Georgia) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/graduate-ai-engineer-intern-summer-2027-atlanta-georgia-at-minimed-4467909602) |
 | New York Life | 2027 TDAV Summer Internship - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-AI-Engineer-%28MLOps%29-Intern-NY-10001/1414717600/) |
 | New York Life | 2027 Technology, Data, AI & Ventures Summer Internship Program - AI Engineer (MLOps) Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-ai-engineer-mlops-intern-at-new-york-life-4447568035) |
@@ -237,7 +238,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (615)
+### SWE (614)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -564,7 +565,6 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Citi | Functions - Risk Management, Summer Analyst, Irving - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-irving-usa-2027-at-citi-4461394491) |
 | Citi | Functions - Risk Management, Summer Analyst, Tampa - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-tampa-usa-2027-at-citi-4461397024) |
 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
-| Climactic | Flight Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/flight-software-engineering-intern-summer-2027-at-climactic-4474191130) |
 | Climactic | Industrial Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-summer-2027-at-climactic-4475518426) |
 | CME Group | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-cme-group-4469202278) |
 | CME Group | Year-Long Technology Internship (Summer 2027-Spring 2028) | SWE | [Apply](https://www.linkedin.com/jobs/view/year-long-technology-internship-summer-2027-spring-2028-at-cme-group-4469208200) |
@@ -889,7 +889,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (169)
+### Other (170)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -944,6 +944,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | McKesson | Software Installation & IT Support Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
 | Mercury Systems | 2027 Firmware, Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-firmware-software-engineering-intern-at-mercury-systems-4466579992) |
 | Michelin | Spring or Summer 2027 Internship: Central Electrical Engineering Co-op | Other | [Apply](https://www.linkedin.com/jobs/view/spring-or-summer-2027-internship-central-electrical-engineering-co-op-at-michelin-4463588749) |
+| Microsoft | Solution Engineering INTERN Netherlands, Noord-Holland, Schiphol | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557027235) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-software-and-electronics-engineering-group-07-76-at-mit-lincoln-laboratory-4469227159) |
 | Motorola Solutions | DSP (Digital Signal Processing) Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/dsp-digital-signal-processing-software-engineering-intern-summer-2027-at-motorola-solutions-4466378203) |
 | Motorola Solutions | Electrical Engineer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/electrical-engineer-intern-summer-2027-at-motorola-solutions-4456375682) |
