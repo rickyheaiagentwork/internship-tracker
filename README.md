@@ -11,7 +11,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1021)
+## Open — Apply now (1020)
 
 ### AI/ML (143)
 
@@ -889,7 +889,7 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (170)
+### Other (169)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -928,7 +928,6 @@ Verified **2026-10-19**. Every role below was found by **active search** (Linked
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
 | Cirrus Logic | 2027 Internship - Embedded Firmware Engineer | Other | [Apply](https://www.linkedin.com/jobs/view/2027-internship-embedded-firmware-engineer-at-cirrus-logic-4474628151) |
-| Citizens | Software Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | Other | [Apply](https://www.linkedin.com/jobs/view/software-engineer-summer-2027-intern-enterprise-technology-security-summer-internship-program-at-citizens-4466799863) |
 | Expedia Group | Security Engineering Intern - 2027 - Seattle | Other | [Apply](https://www.linkedin.com/jobs/view/security-engineering-intern-2027-seattle-at-expedia-group-4477977111) |
 | ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
 | Federal Reserve Board | Intern – Software Developer – IT | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-software-developer-%E2%80%93-it-at-federal-reserve-board-4477837993) |
