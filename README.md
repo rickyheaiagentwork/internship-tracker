@@ -11,7 +11,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1038)
+## Open — Apply now (1036)
 
 ### AI/ML (150)
 
@@ -247,7 +247,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (614)
+### SWE (613)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -812,7 +812,6 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Stripe | High School Internship, Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/high-school-internship-software-engineering-summer-2027-at-stripe-4474105575) |
 | Sub-Zero Group, Inc. | 2027 Information & Technology Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-technology-co-op-at-sub-zero-group-inc-4459747730) |
 | Superhuman | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-superhuman-4465258325) |
-| Swarm Aero | Composite Engineering (M&P) Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/composite-engineering-m-p-intern-summer-2027-at-swarm-aero-4463930386) |
 | Synopsys | Systems Engineering Internship Mississauga, Canada Category: Interns/Temp Posted: 10/05/2026 Job ID: 19018 | SWE | [Apply](https://careers.synopsys.com/job/mississauga/systems-engineering-internship-summer-2027/44408/101631905328) |
 | T-Mobile | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-t-mobile-4480341786) |
 | Tanium | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93%C2%A0summer-2027-at-tanium-4464804078) |
@@ -898,7 +897,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (178)
+### Other (177)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -932,7 +931,6 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | BAE Systems | Electrical Engineering Intern | Other | [Apply](https://jobs.baesystems.com/global/en/job/129188BR/Electrical-Engineering-Intern-Summer-2027) |
 | BAE Systems, Inc. | Hardware Engineering Intern III (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/hardware-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4465221784) |
 | BioSpace | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-business-technology-solutions-intern-data-software-engineering-undergraduate-at-biospace-4467960515) |
-| BioSpace | Grad Intern Data Engineer Amgens Technology & Medical Organizations | Other | [Apply](https://www.linkedin.com/jobs/view/grad-intern-data-engineer-amgens-technology-medical-organizations-summer-2027-at-biospace-4467443991) |
 | Cadence | Intern: Application Engineering - Digital Verification & Simulation/VIP | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Verification---Simulation-VIP_R54888) |
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
