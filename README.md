@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-20**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-21**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1036)
+## Open — Apply now (1040)
 
-### AI/ML (150)
+### AI/ML (151)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -105,6 +105,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (January - August 2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-ai-analytics-january-august-2027-at-rivian-and-volkswagen-group-technologies-4463552654) |
 | Robinhood | Data Science Intern | AI/ML | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
 | S&P Global | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-s-p-global-4464128518) |
+| Salesforce | Intern - AI Research | AI/ML | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-at-skydio-4463351620) |
 | SRC, Inc | Machine Learning Engineer (Intern) | AI/ML | [Apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | Synopsys | AI & Automation Engineering Internship Sunnyvale, California Category: Interns/Temp Posted: 10/05/2026 Job ID: 19088 | AI/ML | [Apply](https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360) |
@@ -247,7 +248,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (613)
+### SWE (614)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -801,6 +802,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Robinhood | Software Engineering Intern, iOS | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142959) |
 | Robinhood | Software Engineering Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963) |
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
+| Salesforce | Intern - Solution Engineer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
 | Salesforce | Intern - UI/UX Designer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342) |
 | Seagate | Technical Writer Intern | SWE | [Apply](https://seagatecareers.com/job/Technical-Writer-Intern-Summer-2027/15017-en_US) |
 | Skydio | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-skydio-4479742277) |
@@ -897,7 +899,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (177)
+### Other (179)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -919,6 +921,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Together AI | Research Intern, Model Shaping | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-model-shaping-summer-2027-at-together-ai-4468014291) |
 | Activision | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-4465893940) |
 | Activision Blizzard | Activision 2027 Summer Internships - Analytics Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/activision-2027-summer-internships-analytics-engineering-at-activision-blizzard-4463959066) |
+| Adobe | 2027 Intern - Security Engineer | Other | [Apply](https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer) |
 | Amazon | ASIC Engineer Early Career - 2027, Project Leo | Other | [Apply](https://www.linkedin.com/jobs/view/asic-engineer-early-career-2027-project-leo-at-amazon-4478792602) |
 | Amazon | Business Intelligence Engineer Internship - 2027 (US) | Other | [Apply](https://www.linkedin.com/jobs/view/business-intelligence-engineer-internship-2027-us-at-amazon-4477164368) |
 | Amazon | Data Engineer Internship - 2027 (US) | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-internship-2027-us-at-amazon-4477154784) |
@@ -1023,6 +1026,7 @@ Verified **2026-10-20**. Every role below was found by **active search** (Linked
 | Hy-Vee, Inc. | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-hy-vee-inc-4476833881) |
 | Indiana Biosciences Research Institute (IBRI) | Computational Chemistry Intern (2027) | Other | [Apply](https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846) |
 | Intuit | : Business Data Analyst Intern, Strategy & Planning | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-data-analyst-intern-strategy-planning-at-intuit-4474720730) |
+| Intuit | : Cybersecurity Compliance Intern Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192) |
 | Intuit | : Finance Transformation & Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-finance-transformation-analytics-intern-at-intuit-4475049192) |
 | Intuit | : Finance Transformation & Analytics Intern Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
 | Johnsonville | IT Internship | Other | [Apply](https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-johnsonville-4464647269) |
