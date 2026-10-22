@@ -9460,28 +9460,6 @@
     "source": "linkedin"
   },
   {
-    "id": "principal-financial-group-data-engineer-internship-des-moines-ia-s-s27",
-    "company": "Principal Financial Group",
-    "role_title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-21",
-    "posting_url": "https://www.linkedin.com/jobs/view/data-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231417",
-    "application_url": "https://www.linkedin.com/jobs/view/data-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231417",
-    "tier": 2,
-    "category": "Data",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Des Moines, IA\nBe an early applicant\n21 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-15. Re-verify before applying.",
-    "fit_score": 55,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "figma-data-science-intern-2027-s27",
     "company": "Figma",
     "role_title": "Data Science Intern (2027)",
@@ -12254,28 +12232,6 @@
     "source": "linkedin"
   },
   {
-    "id": "principal-financial-group-software-engineer-internship-des-moines--s27",
-    "company": "Principal Financial Group",
-    "role_title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-21",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231433",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231433",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Des Moines, IA\n5 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-20. Re-verify before applying.",
-    "fit_score": 30,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "wvu-medicine-information-technology-summer-2027-inter-s27",
     "company": "WVU Medicine",
     "role_title": "Information Technology Summer 2027 Internship",
@@ -13579,7 +13535,7 @@
     "role_title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-20",
+    "verified_at": "2026-10-21",
     "posting_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-maneuvering-tech-san-francisco-california-united-states",
     "application_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-maneuvering-tech-san-francisco-california-united-states",
     "tier": 3,
@@ -20751,7 +20707,7 @@
     "role_title": "2027 Summer Intern - Hillsboro Technical Operations",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-19",
+    "verified_at": "2026-10-21",
     "posting_url": "https://careers.gene.com/us/en/job/202610-125110/2027-Summer-Intern-Hillsboro-Technical-Operations",
     "application_url": "https://careers.gene.com/us/en/job/202610-125110/2027-Summer-Intern-Hillsboro-Technical-Operations",
     "tier": 1,
@@ -22812,5 +22768,93 @@
     "fit_score": 25,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "merck-apply-now-2027-future-talent-program-glo-s27",
+    "company": "Merck",
+    "role_title": "Apply Now 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-21",
+    "posting_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423/apply",
+    "application_url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423/apply",
+    "tier": 1,
+    "category": "Bio-AI",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Merck on 2026-10-21. Re-verify before applying.",
+    "fit_score": 180,
+    "verify_confidence": "high",
+    "source": "careers:Merck"
+  },
+  {
+    "id": "genentech-2027-summer-intern-product-technical-dev-s27",
+    "company": "Genentech",
+    "role_title": "2027 Summer Intern - Product Technical Development - Engineering and Manufacturing Focus",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-21",
+    "posting_url": "https://careers.gene.com/us/en/job/202610-126831/2027-Summer-Intern-Product-Technical-Development-Engineering-and-Manufacturing-Focus",
+    "application_url": "https://careers.gene.com/us/en/job/202610-126831/2027-Summer-Intern-Product-Technical-Development-Engineering-and-Manufacturing-Focus",
+    "tier": 1,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-10-21. Re-verify before applying.",
+    "fit_score": 130,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-summer-intern-product-technical-dev-s27-2",
+    "company": "Genentech",
+    "role_title": "2027 Summer Intern - Product Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-21",
+    "posting_url": "https://careers.gene.com/us/en/job/202610-126499/2027-Summer-Intern-Product-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab-Focus",
+    "application_url": "https://careers.gene.com/us/en/job/202610-126499/2027-Summer-Intern-Product-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab-Focus",
+    "tier": 1,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-10-21. Re-verify before applying.",
+    "fit_score": 100,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
+  },
+  {
+    "id": "genentech-2027-summer-intern-product-technical-dev-s27-3",
+    "company": "Genentech",
+    "role_title": "2027 Summer Intern - Product Technical Development - Digital Sciences Focus",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-21",
+    "posting_url": "https://careers.gene.com/us/en/job/202610-126833/2027-Summer-Intern-Product-Technical-Development-Digital-Sciences-Focus",
+    "application_url": "https://careers.gene.com/us/en/job/202610-126833/2027-Summer-Intern-Product-Technical-Development-Digital-Sciences-Focus",
+    "tier": 1,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Genentech on 2026-10-21. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "careers:Genentech"
   }
 ]

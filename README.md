@@ -11,7 +11,7 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1050)
+## Open — Apply now (1052)
 
 ### AI/ML (161)
 
@@ -179,7 +179,7 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (38)
+### Bio-AI (39)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -212,6 +212,7 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-standardizing-automation-scripting-practices-through-ai-enabled-knowledge-repository-intern-at-merck-4464428975) |
 | Merck | 2027 Future Talent Program - Translational Modeling Group - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-translational-modeling-group-intern-at-merck-4464427894) |
 | Merck | 2027 Future Talent Program – Modeling & Informatics - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-modeling-informatics-intern-at-merck-4465339815) |
+| Merck | Apply Now 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423/apply) |
 | Merck | Apply Now 2027 Future Talent Program – Discovery Pharmaceutical Sciences - Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Discovery-Pharmaceutical-Sciences---Intern_R413273/apply) |
 | PepsiCo | 2027 Summer Intern: Global Capabilities and Life Science | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-global-capabilities-and-life-science-at-pepsico-4463921397) |
 | Philips | Graduate Level Co-op – Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
@@ -277,6 +278,7 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | Genentech | 2027 Spring Intern - Analytical Method Validation and Tech Transfer | SWE | [Apply](https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer) |
 | Genentech | 2027 Spring Intern - Cell Line Development Automation | SWE | [Apply](https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation) |
 | Genentech | 2027 Summer Intern - Hillsboro Technical Operations | SWE | [Apply](https://careers.gene.com/us/en/job/202610-125110/2027-Summer-Intern-Hillsboro-Technical-Operations) |
+| Genentech | 2027 Summer Intern - Product Technical Development - Engineering and Manufacturing Focus | SWE | [Apply](https://careers.gene.com/us/en/job/202610-126831/2027-Summer-Intern-Product-Technical-Development-Engineering-and-Manufacturing-Focus) |
 | Johnson & Johnson MedTech | Software Engineering Co-Op. Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-co-op-summer-2027-at-johnson-johnson-medtech-4462069611) |
 | Johnson & Johnson MedTech | Vision Q&C Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-vision-q-c-intern-at-johnson-johnson-medtech-4468244271) |
 | Medpace | Python Developer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/python-developer-internship-summer-2027-at-medpace-4478180378) |
@@ -781,7 +783,6 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
 | Point72 | 2027 Summer Internship – Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-software-engineer-at-point72-4479546632) |
 | Pratt & Whitney | Software Engineering Intern (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-onsite-at-pratt-whitney-4470903752) |
-| Principal Financial Group | Software Engineer Internship - Des Moines, IA | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231433) |
 | PrizePicks | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-prizepicks-4469964062) |
 | Q2 | 2027 Summer Internship - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-software-engineer-at-q2-4465922823) |
 | Qualcomm | FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719176184) |
@@ -876,11 +877,13 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (27)
+### PM (29)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Genentech | 2027 Spring Intern - Product Technical Development - Digital Sciences Focus | PM | [Apply](https://careers.gene.com/us/en/job/202609-123436/2027-Spring-Intern-Product-Technical-Development-Digital-Sciences-Focus) |
+| Genentech | 2027 Summer Intern - Product Technical Development - Digital Sciences Focus | PM | [Apply](https://careers.gene.com/us/en/job/202610-126833/2027-Summer-Intern-Product-Technical-Development-Digital-Sciences-Focus) |
+| Genentech | 2027 Summer Intern - Product Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | PM | [Apply](https://careers.gene.com/us/en/job/202610-126499/2027-Summer-Intern-Product-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab-Focus) |
 | Merck | Apply Now 2027 Future Talent Program - Sterile Product Development - Intern | PM | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Sterile-Product-Development---Intern_R411965/apply) |
 | Amazon | Product Manager Technical (PMT) Intern | PM | [Apply](https://www.amazon.jobs/en/jobs/10509639) |
 | Databricks | Product Management Intern | PM | [Apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) |
@@ -908,7 +911,7 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (180)
+### Other (179)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -973,7 +976,6 @@ Verified **2026-10-21**. Every role below was found by **active search** (Linked
 | NVIDIA | Software Engineer, Data Center Compute Software Tools (RDSS Intern) | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) |
 | Pacific Life | Data Engineering Internship | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-engineering-internship-at-pacific-life-4477857374) |
 | POET | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-poet-4472794076) |
-| Principal Financial Group | Data Engineer Internship - Des Moines, IA | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-internship-des-moines-ia-summer-2027-at-principal-financial-group-4467231417) |
 | Qualcomm | Embedded Engineering Internship | Other | [Apply](https://www.linkedin.com/jobs/view/embedded-engineering-internship-summer-2027-at-qualcomm-4468085936) |
 | Raytheon | Electrical Engineer Intern (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/electrical-engineer-intern-summer2027-onsite-at-raytheon-4476935306) |
 | Raytheon | FPGA Electrical Design Engineer Intern (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/fpga-electrical-design-engineer-intern-summer-2027-onsite-at-raytheon-4463586563) |
