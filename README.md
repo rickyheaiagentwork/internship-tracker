@@ -11,9 +11,9 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1045)
+## Open — Apply now (1052)
 
-### AI/ML (158)
+### AI/ML (161)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -133,6 +133,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Wing | Machine Learning Engineering Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineering-intern-summer-2027-at-wing-4478172590) |
 | Workiva | Intern - Machine Learning Engineering | AI/ML | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | Xeris Pharmaceuticals, Inc. | IT Commercial Systems, Data & AI Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/it-commercial-systems-data-ai-intern-summer-2027-at-xeris-pharmaceuticals-inc-4472650868) |
+| Adobe | 2027 Intern - AI & Architecture | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-intern-ai-architecture-at-adobe-4480286607) |
 | Advanced Space | 2027 Machine Learning Summer Internship | AI/ML | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
 | AeroVironment | Machine Learning Intern | AI/ML | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | Allen Control Systems | Computer Vision/Machine Learning Intern, 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/computer-vision-machine-learning-intern-2027-at-allen-control-systems-4464940259) |
@@ -156,6 +157,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Home Depot | 2027 SUMMER INTERNSHIP - DATA SCIENCE & ANALYTICS | AI/ML | [Apply](https://careers.homedepot.com/job/23778685/2027-summer-internship-data-science-analytics-onsite/) |
 | Intuit | : AI Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-science-intern-at-intuit-4467735026) |
 | Intuit | : AI Science Intern Multiple Locations | AI/ML | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) |
+| Intuit | : Digital Procurement & AI Solutions Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-digital-procurement-ai-solutions-intern-at-intuit-4474144835) |
 | John Hancock | AI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-ai-at-john-hancock-4458675950) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498) |
 | JPMorganChase | 2027 Machine Learning Center of Excellence (NLP) - Summer Associate | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-nlp-summer-associate-at-jpmorganchase-4481592595) |
@@ -163,6 +165,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Motorola Solutions | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/genai-machine-learning-2027-summer-internship-chicago-hybrid-at-motorola-solutions-4476961950) |
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
 | Nationwide | Generative AI Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-generative-ai-internship-at-nationwide-4461428029) |
+| Nissan Motor Corporation | AI Autonomous Driving Verification & Validation Intern - Santa Clara, CA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-autonomous-driving-verification-validation-intern-summer-2027-santa-clara-ca-at-nissan-motor-corporation-4481591230) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
 | NXP Semiconductors | Embedded Machine Learning & Radar Processing Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/embedded-machine-learning-radar-processing-intern-summer-2027-at-nxp-semiconductors-4464090607) |
 | Pinterest | Machine Learning Intern 2027 (Zurich) | AI/ML | [Apply](https://www.pinterestcareers.com/jobs/8214757/machine-learning-intern-2027-zurich/) |
@@ -256,7 +259,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (610)
+### SWE (613)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -293,6 +296,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
 | Merck | Apply Now 2027 Future Talent Program – Bioanalytical Sciences – Intern | SWE | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply) |
 | Moderna | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-moderna-4463647945) |
+| Philips | Intern - System Test Automation Engineer – San Diego, CA | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-system-test-automation-engineer-%E2%80%93-san-diego-ca-%E2%80%93-summer-2027-at-philips-4472398757) |
 | Roche | 2027 Summer Intern - Quality, Regulatory, and External Affairs (QR&E) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quality-regulatory-and-external-affairs-qr-e-at-roche-4462792461) |
 | Stryker | Internship - Software Engineering - California | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
 | Stryker | Internship - Software Engineering - Florida | SWE | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) |
@@ -649,6 +653,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern- ADAS Software Engineer, ADPT | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202621820/2027-summer-intern-adas-software-engineer-adpt/) |
 | General Motors | Packaging Engineering Intern | SWE | [Apply](https://search-careers.gm.com/en/jobs/jr-202618311/summer-2027-packaging-engineering-intern/) |
 | GM Performance Power Units | Electrothermal Modeling Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/electrothermal-modeling-engineer-intern-summer-2027-at-gm-performance-power-units-4475043457) |
+| Google | Forward Deployed Engineering Intern, BS/MS | SWE | [Apply](https://www.linkedin.com/jobs/view/forward-deployed-engineering-intern-bs-ms-summer-2027-at-google-4477526373) |
 | Google | Forward Deployed Engineering Intern, Bsms Summer 2027 | SWE | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) |
 | Guardian Industries | Guardian Summer 2027 Engineering Intern - Richburg, SC | SWE | [Apply](https://www.linkedin.com/jobs/view/guardian-summer-2027-engineering-intern-richburg-sc-at-guardian-industries-4473403096) |
 | Gulfstream Aerospace | Flight Sciences - Propulsion Collegiate Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-flight-sciences-propulsion-collegiate-intern-at-gulfstream-aerospace-4475428680) |
@@ -808,6 +813,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
 | Salesforce | Intern - Solution Engineer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
 | Salesforce | Intern - UI/UX Designer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342) |
+| Sandisk | Intern, Memory Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-memory-technology-at-sandisk-4482080699) |
 | Seagate | Technical Writer Intern | SWE | [Apply](https://seagatecareers.com/job/Technical-Writer-Intern-Summer-2027/15017-en_US) |
 | Skydio | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-skydio-4479742277) |
 | Solar Turbines | 2027 Internship -Supplier Technical Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-internship-supplier-technical-engineer-at-solar-turbines-4452889007) |
@@ -905,7 +911,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (178)
+### Other (179)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1058,6 +1064,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Northern Trust | Data & Analytics Office Intern page is loaded | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) |
 | Northern Trust | Technology Intern – Information Security | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) |
 | Northern Trust | Technology Intern – Infrastructure and IT Management | Other | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
+| NVIDIA | Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial | Other | [Apply](https://www.linkedin.com/jobs/view/applied-research-intern-integrated-sensing-and-communications-isac-nvidia-aerial-summer-2027-at-nvidia-4481163851) |
 | NVIDIA | Differentiable Simulation Research Intern | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Other | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | NVIDIA | Research Intern, Robotics | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-robotics-summer-2027-at-nvidia-4468779408) |
