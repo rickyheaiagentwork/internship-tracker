@@ -11,9 +11,9 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1052)
+## Open — Apply now (1042)
 
-### AI/ML (161)
+### AI/ML (160)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -46,7 +46,6 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Graduate Intern, Data Scientist | AI/ML | [Apply](https://www.linkedin.com/jobs/view/graduate-intern-data-scientist-summer-2027-at-delta-air-lines-4461695519) |
 | Dev Technology | AI/Agentic Solution Engineer Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) |
 | DriveTime | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-drivetime-4461925539) |
-| Elire | AI Software Development Consulting Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-software-development-consulting-intern-at-elire-4467901602) |
 | Federal Express Corporation | Data Science Intern - Memphis, TN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-memphis-tn-at-federal-express-corporation-4481247209) |
 | Federal Express Corporation | Internship - Revenue Management (Data Science) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-revenue-management-data-science-at-federal-express-corporation-4477432530) |
 | Federal Reserve Board | Intern – Data and AI Analyst Intern – Division of Consumer & Community Affairs | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-data-and-ai-analyst-intern-%E2%80%93-division-of-consumer-community-affairs-at-federal-reserve-board-4479572834) |
@@ -179,7 +178,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (39)
+### Bio-AI (38)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -217,13 +216,12 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | PepsiCo | 2027 Summer Intern: Global Capabilities and Life Science | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-global-capabilities-and-life-science-at-pepsico-4463921397) |
 | Philips | Graduate Level Co-op – Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
 | Philips | Graduate Level Co-op – Medical Imaging Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-medical-imaging-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
-| Philips | Intern- AI Business Operations-Nashville, TN | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/intern-ai-business-operations-nashville-tn-summer-2027-at-philips-4466593447) |
 | Regeneron | 2027 Co-op Data Science & Computational Biology (Research) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-computational-biology-research-at-regeneron-4473351594) |
 | Regeneron | 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-regeneron-4473358304) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Stryker | Internship - Data Science - Remote | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-data-science-remote-at-stryker-4473349852) |
 
-### Finance (31)
+### Finance (30)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -250,7 +248,6 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Point72 | Quantitative Research Intern | Finance | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
 | Raymond James | 2027 Summer Internship – Equity Research – Multiple Locations | Finance | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Equity-Research---Multiple-Locations_R-0012914) |
 | Standard Chartered | Markets Intern US 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
-| UBS | 2027 Summer Internship - Global Research (HOLT) - New York | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-global-research-holt-new-york-at-ubs-4461548566) |
 | Vermeer Corporation | Data Analytics Internship Summer 2027 | Finance | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
@@ -259,7 +256,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (613)
+### SWE (609)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -710,8 +707,6 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Lowe's | Software Engineer – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
 | Lowe's | Store Optimization – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027) |
 | Lowe's Companies, Inc. | Software Engineer – Undergrad Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-undergrad-internship-%E2%80%93-summer-2027-at-lowe-s-companies-inc-4467485195) |
-| Lunar Outpost | Systems Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-lunar-outpost-4466583774) |
-| Lunar Outpost | Thermal Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/thermal-engineering-intern-summer-2027-at-lunar-outpost-4466582727) |
 | Lyft | Content Systems Intern Toronto, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817900002) |
 | Lyft | Industrialization Engineer Intern Longueuil, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817930002) |
 | Lyft | Software Engineer Intern, Backend (Summer 2027 - SF) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-backend-summer-2027-sf-at-lyft-4466352454) |
@@ -790,9 +785,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Qualcomm | Interim Engineering Intern_2027_HW Bangalore, India + 1 more Interim Engineering Intern - HW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719784824) |
 | Qualcomm | Interim Engineering Intern_2027_SW Hyderabad, Telangāna, India Interim Engineering Intern - SW | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719785836) |
 | Qualcomm | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-qualcomm-4468403144) |
-| Raytheon | Manufacturing Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineer-intern-summer-2027-at-raytheon-4467905024) |
 | Raytheon | Manufacturing Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2027-at-raytheon-4467790187) |
-| Raytheon | Production Test Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/production-test-engineer-intern-summer-2027-at-raytheon-4467784982) |
 | Raytheon | Production Test Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/production-test-engineering-intern-summer-2027-at-raytheon-4467786985) |
 | Raytheon | Receiver, Exciter, & Processing Architecture Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/receiver-exciter-processing-architecture-software-engineer-intern-summer-2027-at-raytheon-4468289701) |
 | Raytheon | RF/Microwave Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-microwave-engineering-intern-summer-2027-at-raytheon-4468281943) |
@@ -911,7 +904,7 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (179)
+### Other (176)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -959,12 +952,9 @@ Verified **2026-10-22**. Every role below was found by **active search** (Linked
 | Hasbro | 2027 Summer IT & Software Internships | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-it-software-internships-at-hasbro-4478702344) |
 | Intuit | : Software Engineering Intern - Cybersecurity Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | John Hancock | Data Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-data-engineering-at-john-hancock-4458677817) |
-| Lunar Outpost | Robotics Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/robotics-engineering-intern-summer-2027-at-lunar-outpost-4466587295) |
-| Lunar Outpost | Simulation Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/simulation-engineering-intern-summer-2027-at-lunar-outpost-4466587291) |
 | Lyft | Data Engineer Intern Toronto, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002) |
 | Lyft | Hardware Field Quality Engineer Intern Longueuil, Canada (Opens in a new tab) | Other | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002) |
 | McKesson | Software Installation & IT Support Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
-| Mercury Systems | 2027 Firmware, Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-firmware-software-engineering-intern-at-mercury-systems-4466579992) |
 | Michelin | Spring or Summer 2027 Internship: Central Electrical Engineering Co-op | Other | [Apply](https://www.linkedin.com/jobs/view/spring-or-summer-2027-internship-central-electrical-engineering-co-op-at-michelin-4463588749) |
 | Microsoft | Solution Engineering INTERN Netherlands, Noord-Holland, Schiphol | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557027235) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-software-and-electronics-engineering-group-07-76-at-mit-lincoln-laboratory-4469227159) |
