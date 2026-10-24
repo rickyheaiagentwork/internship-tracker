@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-23**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-24**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1054)
+## Open — Apply now (1053)
 
 ### AI/ML (161)
 
@@ -179,14 +179,13 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (38)
+### Bio-AI (37)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | Abbott | 2027 Winter Graduate Co-op - Clinical Affairs AI/ML | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-winter-graduate-co-op-clinical-affairs-ai-ml-at-abbott-4473966477) |
 | AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-business-technology-solutions-intern-data-software-engineering-undergraduate-at-abbvie-4448252180) |
 | Alcon | 2027 Summer Software, Data & AI Engineering Interns | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-summer-software-data-ai-engineering-interns-at-alcon-4463130392) |
-| Amgen | Grad Intern – Data Engineer – Technology, AI & Data | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/grad-intern-%E2%80%93-data-engineer-%E2%80%93-technology-ai-data-summer-2027-at-amgen-4466498672) |
 | Amgen | Grad Intern – Data Scientist – Amgen’s Technology & Medical Organizations | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/grad-intern-%E2%80%93-data-scientist-%E2%80%93-amgen%E2%80%99s-technology-medical-organizations-summer-2027-at-amgen-4466703621) |
 | Amgen | Undergrad Intern – Data Scientist – Amgen’s Technology & Medical Organizations | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-%E2%80%93-data-scientist-%E2%80%93-amgen%E2%80%99s-technology-medical-organizations-summer-2027-at-amgen-4466485814) |
 | Blue Cross and Blue Shield of Nebraska | Healthcare Analytics Intern: Starts Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/healthcare-analytics-intern-starts-summer-2027-at-blue-cross-and-blue-shield-of-nebraska-4467432582) |
@@ -591,7 +590,6 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 | Collins Aerospace | Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/head-up-guidance-systems-engineering-co-op-spring-summer-2027-onsite-at-collins-aerospace-4467289500) |
 | Collins Aerospace | Manufacturing Engineering Co-op (Spring/Summer 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-co-op-spring-summer-2027-at-collins-aerospace-4478588996) |
 | Collins Aerospace | Operations Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-software-engineering-intern-summer-2027-at-collins-aerospace-4470675518) |
-| Collins Aerospace | Project Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/project-engineering-intern-summer-2027-at-collins-aerospace-4467161848) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4477627335) |
 | Collins Aerospace | Software Project Engineer Intern Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/software-project-engineer-intern-summer-2027-onsite-at-collins-aerospace-4469525131) |
 | Collins Aerospace | Systems Engineer - Spring/Summer Co-op 2027 - (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineer-spring-summer-co-op-2027-onsite-at-collins-aerospace-4469599091) |
@@ -709,6 +707,7 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 | Leonardo DRS | Systems Engineering Intern \| Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-leonardo-drs-4466226893) |
 | Liberty Mutual Insurance | Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA | SWE | [Apply](https://www.linkedin.com/jobs/view/analyst-development-internship-program-boston-ma-plano-tx-seattle-wa-summer-2027-at-liberty-mutual-insurance-4464900568) |
 | Lockheed Martin | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-lockheed-martin-4476670295) |
+| Lowe's | Industrial Engineer Intern – Undergrad Internship - Field | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02681866/Industrial-Engineer-Intern-Undergrad-Internship-Summer-2027-Field) |
 | Lowe's | Services Technology & Enablement – Undergraduate Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02672664/Services-Technology-Enablement-Undergraduate-Internship-Summer-2027) |
 | Lowe's | Software Engineer – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
 | Lowe's | Store Optimization – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02651672/Store-Optimization-Undergrad-Internship-Summer-2027) |
