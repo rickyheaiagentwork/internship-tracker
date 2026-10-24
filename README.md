@@ -11,7 +11,7 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1055)
+## Open — Apply now (1054)
 
 ### AI/ML (161)
 
@@ -257,7 +257,7 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (619)
+### SWE (618)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -797,7 +797,6 @@ Verified **2026-10-23**. Every role below was found by **active search** (Linked
 | Qualcomm | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-qualcomm-4468403144) |
 | Raytheon | Manufacturing Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2027-at-raytheon-4467790187) |
 | Raytheon | Production Test Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/production-test-engineering-intern-summer-2027-at-raytheon-4467786985) |
-| Raytheon | Receiver, Exciter, & Processing Architecture Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/receiver-exciter-processing-architecture-software-engineer-intern-summer-2027-at-raytheon-4468289701) |
 | Raytheon | RF/Microwave Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-microwave-engineering-intern-summer-2027-at-raytheon-4468281943) |
 | Raytheon | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-raytheon-4482115627) |
 | Raytheon | Systems Engineering Intern 2027 - Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-2027-onsite-at-raytheon-4478781363) |
