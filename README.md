@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-24**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-25**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1061)
+## Open — Apply now (1060)
 
-### AI/ML (162)
+### AI/ML (161)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -72,7 +72,6 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Software Engineer/Data Scientist/Ontologist - Threat Analytic Systems | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-software-engineer-data-scientist-ontologist-threat-analytic-systems-at-johns-hopkins-applied-physics-laboratory-4463930404) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship – Artificial Intelligence and Machine Learning (AI/ML) Research Assistant | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-%E2%80%93-artificial-intelligence-and-machine-learning-ai-ml-research-assistant-at-johns-hopkins-applied-physics-laboratory-4470540552) |
 | Kensho Technologies | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-kensho-technologies-4465097575) |
-| Lazard | 2027 AI Engineer Summer Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-ai-engineer-summer-internship-at-lazard-4469909820) |
 | Lazard | 2027 Data Scientist Summer Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-scientist-summer-internship-at-lazard-4469981423) |
 | Lennox | AI & Analytics 2027 Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-analytics-2027-intern-at-lennox-4468821973) |
 | Lennox | AI Engineering Intern Summer 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-engineering-intern-summer-2027-at-lennox-4468835425) |
