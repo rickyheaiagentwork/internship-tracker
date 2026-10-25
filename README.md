@@ -11,7 +11,7 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1065)
+## Open — Apply now (1061)
 
 ### AI/ML (162)
 
@@ -257,7 +257,7 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (629)
+### SWE (625)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -321,7 +321,6 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-charlotte-nc-at-american-express-4454289563) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-phoenix-az-at-american-express-4454456120) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-salt-lake-city-ut-at-american-express-4469088015) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454770886) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-technology-new-york-ny-at-american-express-4454453119) |
 | Anduril | 2027 Software Engineer Intern | SWE | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Appian | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
@@ -448,6 +447,7 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 | Mastercard | Platform Engineering Intern – St. Louis, MO, US | SWE | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868) |
 | McKesson | Software Engineer Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469) |
 | Medline | Software Engineering Intern | SWE | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
+| Micron Technology | Intern - ATE Process Engineer, PCVD ID1 | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032) |
 | MiniMed | Software Engineering Intern Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-minimed-4463606124) |
 | Motorola Solutions | Android Platform Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/android-platform-software-engineering-intern-summer-2027-at-motorola-solutions-4463121058) |
 | Nationwide | Economics Internship | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) |
@@ -857,10 +857,6 @@ Verified **2026-10-24**. Every role below was found by **active search** (Linked
 | U.S. Bank | Apply now 2027 Quantitative Modeling Summer Intern | SWE | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558/apply) |
 | United Wholesale Mortgage | 2027 Technology Summer Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-technology-summer-internship-program-at-united-wholesale-mortgage-4467234311) |
 | Universal Orlando Resort | Internship – Engineering, Global Attractions Program | SWE | [Apply](https://www.linkedin.com/jobs/view/internship-%E2%80%93-engineering-global-attractions-program-summer-2027-at-universal-orlando-resort-4477514233) |
-| Visa | Software Engineer, Intern - 2027 Ashburn, VA | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-2027-ashburn-va-at-visa-4468682089) |
-| Visa | Software Engineer, Intern - 2027 Austin, TX | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-2027-austin-tx-at-visa-4468681101) |
-| Visa | Software Engineer, Intern - Foster City 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-foster-city-2027-at-visa-4468677154) |
-| Visa | Software Engineer, Intern, Bellevue - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-bellevue-2027-at-visa-4468677151) |
 | Walmart Global Tech | Intern:: Software Engineer II | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineer-ii-at-walmart-global-tech-4463957109) |
 | Waymo | 2027 Summer Intern, BS, Depot Automation | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-depot-automation-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineer-driver-refinement-foundations-mountain-view-california-united-states) |

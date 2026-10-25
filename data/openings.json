@@ -631,7 +631,7 @@
     "role_title": "Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-24",
     "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675",
     "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-new-york-ny-at-american-express-4460222675",
     "tier": 2,
@@ -673,7 +673,7 @@
     "role_title": "Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-24",
     "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-charlotte-nc-at-american-express-4460225589",
     "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-engineer-enterprise-technology-services-charlotte-nc-at-american-express-4460225589",
     "tier": 2,
@@ -2781,7 +2781,7 @@
     "role_title": "2027 Quantitative Research - Markets - Summer Internship - Associate- United States",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-24",
     "posting_url": "https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-associate-united-states-at-jpmorganchase-4449471175",
     "application_url": "https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-associate-united-states-at-jpmorganchase-4449471175",
     "tier": 2,
@@ -3054,7 +3054,7 @@
     "role_title": "2027 New York Life Investment Management - Investment Research & Analysis Internship",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-24",
     "posting_url": "https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-investment-research-analysis-internship-at-new-york-life-4459867790",
     "application_url": "https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-investment-research-analysis-internship-at-new-york-life-4459867790",
     "tier": 2,
@@ -9813,28 +9813,6 @@
     "source": "linkedin"
   },
   {
-    "id": "american-express-campus-undergraduate-summer-internship-p-s27-10",
-    "company": "American Express",
-    "role_title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-24",
-    "posting_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454770886",
-    "application_url": "https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-software-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454770886",
-    "tier": 2,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Sunrise, FL\n6 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-16. Re-verify before applying.",
-    "fit_score": 40,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "tokyo-electron-us-software-engineer-ai-research-summer-202-s27",
     "company": "Tokyo Electron US",
     "role_title": "Software Engineer, AI Research Summer 2027 Intern",
@@ -12651,28 +12629,6 @@
     "source": "linkedin"
   },
   {
-    "id": "visa-software-engineer-intern-2027-austin-tx-s27",
-    "company": "Visa",
-    "role_title": "Software Engineer, Intern - 2027 Austin, TX",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-24",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-2027-austin-tx-at-visa-4468681101",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-2027-austin-tx-at-visa-4468681101",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Austin, TX\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "jpmorganchase-code-for-good-hackathon-software-enginee-s27",
     "company": "JPMorganChase",
     "role_title": "Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship - United States",
@@ -12687,28 +12643,6 @@
       "BS"
     ],
     "location": "United States (Chicago, IL\n6 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "visa-software-engineer-intern-2027-ashburn-va-s27",
-    "company": "Visa",
-    "role_title": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-24",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-2027-ashburn-va-at-visa-4468682089",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-2027-ashburn-va-at-visa-4468682089",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Ashburn, VA\n4 days ago)",
     "work_model": "Onsite",
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
@@ -12779,28 +12713,6 @@
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
     "fit_score": 10,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "visa-software-engineer-intern-foster-city-202-s27",
-    "company": "Visa",
-    "role_title": "Software Engineer, Intern - Foster City 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-24",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-foster-city-2027-at-visa-4468677154",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-foster-city-2027-at-visa-4468677154",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Foster City, CA\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
   },
@@ -12911,28 +12823,6 @@
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
     "fit_score": 55,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "visa-software-engineer-intern-bellevue-2027-s27",
-    "company": "Visa",
-    "role_title": "Software Engineer, Intern, Bellevue - 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-24",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-bellevue-2027-at-visa-4468677151",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-bellevue-2027-at-visa-4468677151",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Bellevue, WA\n4 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
   },
@@ -23143,5 +23033,27 @@
     "fit_score": 0,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "micron-technology-intern-ate-process-engineer-pcvd-id1-s27",
+    "company": "Micron Technology",
+    "role_title": "Intern - ATE Process Engineer, PCVD ID1 (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-24",
+    "posting_url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032",
+    "application_url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032",
+    "tier": 2,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Micron Technology on 2026-10-24. Re-verify before applying. Season/degree not confirmed from the page (title-only) \u2014 check the listing.",
+    "fit_score": 40,
+    "verify_confidence": "low",
+    "source": "careers:Micron Technology"
   }
 ]
