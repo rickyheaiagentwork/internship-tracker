@@ -510,7 +510,6 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Vermeer Corporation | Embedded Software Engineer Internship Summer 2027 | SWE | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) |
 | Vermeer Corporation | IT Software Engineer Internship Summer 2027 | SWE | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
 | Virtu Financial | Quantitative Researcher Intern (2027, Undergrad) | SWE | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
-| Wells Fargo | 2027 Consumer Banking and Lending Summer Internship - Early Careers | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-consumer-banking-and-lending-summer-internship-early-careers-at-wells-fargo-4434203626) |
 | Wells Fargo | 2027 Human Resources Internship – Early Careers | SWE | [Apply](https://www.wellsfargojobs.com/en/jobs/r-555463/2027-human-resources-internship-early-careers/) |
 | Western Digital | Software Engineering Intern | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) |
 | Western Digital | Intern - Software Engineering | SWE | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering) |
@@ -809,6 +808,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Raytheon | Systems Engineering Intern 2027 - Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-2027-onsite-at-raytheon-4478781363) |
 | Raytheon | Systems Engineering Test Equipment Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-test-equipment-intern-summer-2027-at-raytheon-4475410102) |
 | Realtor.com | Internship - Software Engineering Tracks | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-software-engineering-tracks-at-realtor-com-4470276666) |
+| Riot Games | Software Engineering Intern (Remote) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-remote-at-riot-games-4472943992) |
 | Rivian | Software Engineering Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-2027-internships-at-rivian-4476867317) |
 | Robinhood | Brokerage Risk Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198223) |
 | Robinhood | Business Analyst Intern | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123238) |
