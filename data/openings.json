@@ -5458,28 +5458,6 @@
     "source": "linkedin"
   },
   {
-    "id": "northwestern-mutual-investment-analyst-intern-private-debt-e-s27",
-    "company": "Northwestern Mutual",
-    "role_title": "Investment Analyst Intern - Private Debt & Equity, Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-25",
-    "posting_url": "https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063",
-    "application_url": "https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Milwaukee, WI\n2 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-09. Re-verify before applying.",
-    "fit_score": 0,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "plexus-corp-intern-product-engineer-summer-2027-s27",
     "company": "Plexus Corp.",
     "role_title": "Intern - Product Engineer (Summer 2027)",
@@ -9555,7 +9533,7 @@
     "role_title": "Software Developer Intern, iOS (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-25",
     "posting_url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
     "application_url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
     "tier": 3,
@@ -9665,7 +9643,7 @@
     "role_title": "Software Engineering Intern, Web (Summer 2027)",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-21",
+    "verified_at": "2026-10-25",
     "posting_url": "https://boards.greenhouse.io/robinhood/jobs/8142963",
     "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963",
     "tier": 3,
@@ -12714,28 +12692,6 @@
     "application_status": "Not started",
     "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
     "fit_score": 135,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "cme-group-software-engineering-internship-summer-2-s27",
-    "company": "CME Group",
-    "role_title": "Software Engineering Internship - Summer 2027",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-10-25",
-    "posting_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-cme-group-4469202278",
-    "application_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-cme-group-4469202278",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Chicago, IL\n3 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-22. Re-verify before applying.",
-    "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
   },
@@ -23034,5 +22990,93 @@
     "fit_score": 30,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "bae-systems-manufacturing-engineering-intern-ii-summ-s27",
+    "company": "BAE Systems",
+    "role_title": "Manufacturing Engineering Intern II, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-25",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/131672BR/Manufacturing-Engineering-Intern-II-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/131672BR/Manufacturing-Engineering-Intern-II-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-10-25. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bae-systems-supply-chain-intern-ii-summer-2027-s27",
+    "company": "BAE Systems",
+    "role_title": "Supply Chain Intern II, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-25",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-10-25. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "huntington-ingalls-2027-engineering-summer-internship-engrg-s27",
+    "company": "Huntington Ingalls",
+    "role_title": "2027 ENGINEERING SUMMER INTERNSHIP - ENGRG INTERN",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-25",
+    "posting_url": "https://careers.huntingtoningalls.com/job/Newport-News-2027-ENGINEERING-SUMMER-INTERNSHIP-ENGRG-INTERN-Virg/1424488400/",
+    "application_url": "https://careers.huntingtoningalls.com/job/Newport-News-2027-ENGINEERING-SUMMER-INTERNSHIP-ENGRG-INTERN-Virg/1424488400/",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Huntington Ingalls on 2026-10-25. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Huntington Ingalls"
+  },
+  {
+    "id": "huntington-ingalls-2027-it-summer-internship-it-intern-s27",
+    "company": "Huntington Ingalls",
+    "role_title": "2027 IT SUMMER INTERNSHIP - IT INTERN",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-10-25",
+    "posting_url": "https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/",
+    "application_url": "https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/",
+    "tier": 3,
+    "category": "Security & IT",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Huntington Ingalls on 2026-10-25. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Huntington Ingalls"
   }
 ]

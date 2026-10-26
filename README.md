@@ -11,7 +11,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1060)
+## Open — Apply now (1062)
 
 ### AI/ML (161)
 
@@ -256,7 +256,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (625)
+### SWE (626)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -544,10 +544,12 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | BAE Systems | Engineering Intern III | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027) |
 | BAE Systems | Industrial Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130824BR/Industrial-Engineering-Intern-Summer-2027) |
 | BAE Systems | M&S Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131309BR/M-S-Engineering-Intern-Summer-2027) |
+| BAE Systems | Manufacturing Engineering Intern II | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131672BR/Manufacturing-Engineering-Intern-II-Summer-2027) |
 | BAE Systems | Mechanical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship - Summer, 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131346BR/Mechanical-Engineering-Internship-Summer-2027) |
 | BAE Systems | Programmer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130483BR/Programmer-Intern-Summer-2027) |
+| BAE Systems | Supply Chain Intern II | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027) |
 | BAE Systems | Supply Chain Intern III (Onsite) | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite) |
 | BAE Systems | System Engineer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129958BR/System-Engineer-Intern-Summer-2027) |
 | BAE Systems, Inc. | New Hampshire Systems Engineering Intern III, Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/new-hampshire-systems-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4448045400) |
@@ -586,7 +588,6 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
 | Citi | Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/technology-application-development-summer-analyst-new-york-or-new-jersey-usa-2027-at-citi-4482627401) |
 | Climactic | Industrial Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-summer-2027-at-climactic-4475518426) |
-| CME Group | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-cme-group-4469202278) |
 | CME Group | Year-Long Technology Internship (Summer 2027-Spring 2028) | SWE | [Apply](https://www.linkedin.com/jobs/view/year-long-technology-internship-summer-2027-spring-2028-at-cme-group-4469208200) |
 | Collins Aerospace | Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/head-up-guidance-systems-engineering-co-op-spring-summer-2027-onsite-at-collins-aerospace-4467289500) |
 | Collins Aerospace | Manufacturing Engineering Co-op (Spring/Summer 2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-co-op-spring-summer-2027-at-collins-aerospace-4478588996) |
@@ -669,6 +670,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Hermeus | Test and Operations Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/test-and-operations-engineering-intern-spring-summer-2027-at-hermeus-4467755582) |
 | Howmet Aerospace | Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-program-at-howmet-aerospace-4465934692) |
 | Humana | Humana Technology Internship | SWE | [Apply](https://careers.humana.com/us/en/job/R-424692/Humana-Technology-Internship-Summer-2027) |
+| Huntington Ingalls | 2027 ENGINEERING SUMMER INTERNSHIP - ENGRG INTERN | SWE | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-ENGINEERING-SUMMER-INTERNSHIP-ENGRG-INTERN-Virg/1424488400/) |
 | IBM | Co-Op Developer – Adobe 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/co-op-developer-%E2%80%93-adobe-2027-at-ibm-4451222613) |
 | IBM | Intern Application Developer – Salesforce - 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-application-developer-%E2%80%93-salesforce-2027-at-ibm-4450860194) |
 | IBM | Intern Developer – Adobe 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-developer-%E2%80%93-adobe-2027-at-ibm-4451254860) |
@@ -772,7 +774,6 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Northrop Grumman | 2027 Software Engineering Intern - Roy UT | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-software-engineering-intern-roy-ut-at-northrop-grumman-4482821750) |
 | Northrop Grumman | 2027 Systems Engineering Intern - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325) |
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
-| Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | SWE | [Apply](https://www.linkedin.com/jobs/view/investment-analyst-intern-private-debt-equity-summer-2027-at-northwestern-mutual-4445237063) |
 | Northwood | Mechanical Engineering Intern (2027 Summer Internship) | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-2027-summer-internship-at-northwood-4460588547) |
 | Nutanix | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-nutanix-4468324254) |
 | NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
@@ -920,7 +921,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (178)
+### Other (179)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1041,6 +1042,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Hill's Pet Nutrition | CS&L Data Analyst Co-Op (June 2027-May 2028) | Other | [Apply](https://www.linkedin.com/jobs/view/cs-l-data-analyst-co-op-june-2027-may-2028-at-hill-s-pet-nutrition-4466167174) |
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
+| Huntington Ingalls | 2027 IT SUMMER INTERNSHIP - IT INTERN | Other | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/) |
 | Hy-Vee, Inc. | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-hy-vee-inc-4476833881) |
 | Indiana Biosciences Research Institute (IBRI) | Computational Chemistry Intern (2027) | Other | [Apply](https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846) |
 | Intuit | : Business Data Analyst Intern, Strategy & Planning | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-data-analyst-intern-strategy-planning-at-intuit-4474720730) |
