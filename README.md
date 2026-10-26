@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-25**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-26**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1062)
+## Open — Apply now (1060)
 
 ### AI/ML (161)
 
@@ -256,7 +256,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (626)
+### SWE (625)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -474,7 +474,6 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Procter & Gamble | Engineering Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027) |
 | Procter & Gamble | Manufacturing Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027) |
 | Procter & Gamble | Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors) |
-| PwC | Data & Analytics Technology Consulting Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/data-analytics-technology-consulting-intern-summer-2027-at-pwc-4463184815) |
 | Qualcomm | Qualcomm Government Technologies (QGOV) Engineering Internship (San Diego or Boulder) \| US CITIZENSHIP REQUIRED | SWE | [Apply](https://www.linkedin.com/jobs/view/qualcomm-government-technologies-qgov-engineering-internship-%E2%80%93-summer-2027-san-diego-or-boulder-us-citizenship-required-at-qualcomm-4468091419) |
 | Raymond James | 2027 Clark Capital Mentoring/Internship Program | SWE | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-applications-summer-2027-at-rivian-and-volkswagen-group-technologies-4481644352) |
@@ -921,7 +920,7 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (179)
+### Other (178)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1086,7 +1085,6 @@ Verified **2026-10-25**. Every role below was found by **active search** (Linked
 | Qualcomm | Information Technology (IT) Internship | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-it-internship-%E2%80%93-summer-2027-at-qualcomm-4468098164) |
 | Quest Analytics®,LLC | Quest Analytics Internship Program in Kansas City | Other | [Apply](https://www.linkedin.com/jobs/view/quest-analytics-internship-program-summer-2027-in-kansas-city-at-quest-analytics%C2%AE-llc-4465552744) |
 | Raymond James | 2027 Summer Internship Program - Information Technology (St. Petersburg, FL) | Other | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Information-Technology--St-Petersburg--FL-_R-0012940) |
-| Robinhood | Offensive Security Intern | Other | [Apply](https://www.linkedin.com/jobs/view/offensive-security-intern-summer-2027-at-robinhood-4466951178) |
 | Robinhood | PeopleX Insights & Analytics Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255) |
 | Robinhood | Security Risk Management Intern | Other | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970) |
 | Salesforce | Intern - Tableau Research | Other | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) |
