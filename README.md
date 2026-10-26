@@ -11,9 +11,9 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1060)
+## Open — Apply now (1066)
 
-### AI/ML (161)
+### AI/ML (162)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -47,6 +47,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Graduate Intern, Data Scientist | AI/ML | [Apply](https://www.linkedin.com/jobs/view/graduate-intern-data-scientist-summer-2027-at-delta-air-lines-4461695519) |
 | Dev Technology | AI/Agentic Solution Engineer Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) |
 | DriveTime | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-drivetime-4461925539) |
+| DV Trading LLC | AI Engineer Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-engineer-intern-summer-2027-at-dv-trading-llc-4464144188) |
 | Federal Express Corporation | Data Science Intern - Memphis, TN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-memphis-tn-at-federal-express-corporation-4481247209) |
 | Federal Express Corporation | Internship - Revenue Management (Data Science) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-revenue-management-data-science-at-federal-express-corporation-4477432530) |
 | Federal Reserve Board | Intern – Data and AI Analyst Intern – Division of Consumer & Community Affairs | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-data-and-ai-analyst-intern-%E2%80%93-division-of-consumer-community-affairs-at-federal-reserve-board-4479572834) |
@@ -179,7 +180,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (37)
+### Bio-AI (36)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -219,7 +220,6 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Regeneron | 2027 Co-op Data Science & Computational Biology (Research) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-computational-biology-research-at-regeneron-4473351594) |
 | Regeneron | 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-regeneron-4473358304) |
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
-| Stryker | Internship - Data Science - Remote | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-data-science-remote-at-stryker-4473349852) |
 
 ### Finance (30)
 
@@ -256,7 +256,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (625)
+### SWE (627)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -360,6 +360,8 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Atlanta, GA | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
 | Booz Allen Hamilton | University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) |
 | Booz Allen Hamilton | University, 2027 Summer Games Data Scientist Intern | SWE | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) |
+| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-platform-2027-summer-at-bytedance-4475058356) |
+| ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/self-built-engineer-intern-cdn-platform-2027-summer-at-bytedance-4475042972) |
 | CACI | DevOps/Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466) |
 | CACI | Software Developer/Data Scientist Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) |
 | CACI | Software Engineering Intern | SWE | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) |
@@ -560,6 +562,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-jersey-city-nj-at-bny-4458198950) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-developer-new-york-ny-at-bny-4458216043) |
 | BWE | Internship - Digital Enablement | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-digital-enablement-at-bwe-4477848439) |
+| ByteDance | Software Engineer intern (Global Traffic Architecture) - 2027 Summer | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-global-traffic-architecture-2027-summer-at-bytedance-4474545813) |
 | CACI International Inc | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-caci-international-inc-4472196373) |
 | Cadence | Intern Digital Implementation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1) |
 | Cadence | Intern: Application Engineering - Formal Verification | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Formal-Verification_R54887) |
@@ -584,7 +587,6 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Charter Communications | Intern 2027 Summer Intern: Software Engineer INTERN Town and Country, MO VIEW JOB | SWE | [Apply](https://jobs.spectrum.com/job/town-and-country/2027-summer-intern-software-engineer/4673/100143762416) |
 | Citi | Functions - Risk Management, Summer Analyst, Irving - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-irving-usa-2027-at-citi-4461394491) |
 | Citi | Functions - Risk Management, Summer Analyst, Tampa - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-tampa-usa-2027-at-citi-4461397024) |
-| Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027-at-citi-4328719733) |
 | Citi | Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/technology-application-development-summer-analyst-new-york-or-new-jersey-usa-2027-at-citi-4482627401) |
 | Climactic | Industrial Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-summer-2027-at-climactic-4475518426) |
 | CME Group | Year-Long Technology Internship (Summer 2027-Spring 2028) | SWE | [Apply](https://www.linkedin.com/jobs/view/year-long-technology-internship-summer-2027-spring-2028-at-cme-group-4469208200) |
@@ -920,7 +922,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (178)
+### Other (182)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -955,6 +957,8 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, Software Development Engineer [PSET - Product Data - Document Management] | Other | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984) |
 | BAE Systems | Electrical Engineering Intern | Other | [Apply](https://jobs.baesystems.com/global/en/job/129188BR/Electrical-Engineering-Intern-Summer-2027) |
 | BAE Systems, Inc. | Hardware Engineering Intern III (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/hardware-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4465221784) |
+| ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-lake-infrastructure-data-analytics-research-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475058430) |
+| ByteDance | Site Reliability Engineer Intern (Data Infra) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/site-reliability-engineer-intern-data-infra-2027-summer-at-bytedance-4474564028) |
 | Cadence | Intern: Application Engineering - Digital Verification & Simulation/VIP | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Verification---Simulation-VIP_R54888) |
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
@@ -963,6 +967,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
 | Federal Reserve Board | Intern – Software Developer – IT | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-%E2%80%93-software-developer-%E2%80%93-it-at-federal-reserve-board-4477837993) |
 | Figma | Data Engineer Intern (2027) | Other | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004) |
+| FlightSafety International | Data Engineer Internship | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-internship-summer-2027-at-flightsafety-international-4481288834) |
 | GE Aerospace | Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US | Other | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-electrical-engineering-computer-engineering-science-electric-power-us-summer-2027-at-ge-aerospace-4455240598) |
 | General Dynamics Electric Boat | SSN Electrical Engineering and Design - 2027 Engineering Summer Internship | Other | [Apply](https://www.linkedin.com/jobs/view/ssn-electrical-engineering-and-design-2027-engineering-summer-internship-at-general-dynamics-electric-boat-4465792069) |
 | Hasbro | 2027 Summer IT & Software Internships | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-it-software-internships-at-hasbro-4478702344) |
@@ -990,6 +995,7 @@ Verified **2026-10-26**. Every role below was found by **active search** (Linked
 | Raytheon | FPGA Engineering Intern (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/fpga-engineering-intern-summer-2027-onsite-at-raytheon-4476385406) |
 | Raytheon | RF Electrical Engineer Intern (Onsite) | Other | [Apply](https://www.linkedin.com/jobs/view/rf-electrical-engineer-intern-summer-2027-onsite-at-raytheon-4463597406) |
 | Skydio | Embedded Software Engineer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/embedded-software-engineer-intern-summer-2027-at-skydio-4479068772) |
+| Skydio | Wireless Hardware Engineer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/wireless-hardware-engineer-intern-summer-2027-at-skydio-4482002943) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Core Engineering, & Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-wichita-summer-2027-internship-program-paid-core-engineering-research-technology-at-spirit-aerosystems-4462547551) |
 | Spirit AeroSystems | Spirit Defense Internship Program (Paid) - Core Engineering - Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/spirit-defense-summer-2027-internship-program-paid-core-engineering-research-technology-at-spirit-aerosystems-4462525805) |
 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-intern-e-commerce-2027-summer-at-tiktok-4456219203) |
