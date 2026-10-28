@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-27**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-28**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1071)
+## Open — Apply now (1069)
 
 ### AI/ML (165)
 
@@ -264,7 +264,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (622)
+### SWE (620)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -597,7 +597,6 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Citi | Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/technology-application-development-summer-analyst-new-york-or-new-jersey-usa-2027-at-citi-4482627401) |
 | CME Group | Year-Long Technology Internship (Summer 2027-Spring 2028) | SWE | [Apply](https://www.linkedin.com/jobs/view/year-long-technology-internship-summer-2027-spring-2028-at-cme-group-4469208200) |
 | Collins Aerospace | Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/head-up-guidance-systems-engineering-co-op-spring-summer-2027-onsite-at-collins-aerospace-4467289500) |
-| Collins Aerospace | Operations Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-software-engineering-intern-summer-2027-at-collins-aerospace-4470675518) |
 | Collins Aerospace | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4477627335) |
 | Collins Aerospace | Software Project Engineer Intern Onsite | SWE | [Apply](https://www.linkedin.com/jobs/view/software-project-engineer-intern-summer-2027-onsite-at-collins-aerospace-4469525131) |
 | Collins Aerospace | Systems Engineer - Spring/Summer Co-op 2027 - (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineer-spring-summer-co-op-2027-onsite-at-collins-aerospace-4469599091) |
@@ -632,7 +631,6 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Federal Reserve Bank of St. Louis | 2027 Summer Internship - Business Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-business-technology-at-federal-reserve-bank-of-st-louis-4469842487) |
 | Figma | Software Engineer Intern (London, United Kingdom) | SWE | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004) |
 | Firehawk | Design Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/design-engineering-internship-summer-2027-at-firehawk-4474843344) |
-| First Citizens Bank | 2027 Summer Intern - Quantitative Analysis (Raleigh, North Carolina) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-quantitative-analysis-raleigh-north-carolina-at-first-citizens-bank-4468167756) |
 | Fox Corporation | FOX Technology Internship Program - Los Angeles, CA | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-fox-technology-internship-program-los-angeles-ca-at-fox-corporation-4472488632) |
 | Fox Corporation | FOX Technology Internship Program - Tempe, AZ | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-fox-technology-internship-program-tempe-az-at-fox-corporation-4472494507) |
 | GE Aerospace | Edison Works Engineering Intern - Aero Design - US | SWE | [Apply](https://www.linkedin.com/jobs/view/edison-works-engineering-intern-aero-design-us-summer-2027-at-ge-aerospace-4455920586) |
