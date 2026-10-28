@@ -11,9 +11,9 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1070)
+## Open — Apply now (1071)
 
-### AI/ML (164)
+### AI/ML (165)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -95,6 +95,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Nissan Motor Corporation | Data Science Intern - Franklin, TN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-franklin-tn-at-nissan-motor-corporation-4479524813) |
 | Northern Trust | Technology Intern – Data Science and Analytics | AI/ML | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
 | NVIDIA | AI Developer Technology Intern - 2027 | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) |
+| NVIDIA | Software Engineering Intern, AI Agents and Backend Infrastructure – 2027 | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) |
 | Papa Johns | 2027 Summer Intern - Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-science-at-papa-johns-4476833572) |
 | PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
 | Peraton | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-science-intern-at-peraton-4464106103) |
@@ -263,7 +264,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (624)
+### SWE (622)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -277,7 +278,6 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Amgen | Undergrad Intern - Operations – Process Development | SWE | [Apply](https://www.linkedin.com/jobs/view/undergrad-intern-operations-%E2%80%93-process-development-summer-2027-at-amgen-4460829322) |
 | AstraZeneca | Internships in Mt. Vernon, IN (Undergraduates) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internships-in-mt-vernon-in-undergraduates-at-astrazeneca-4461330422) |
 | BD | BD 2027 Summer Internship - Supply Chain Development Program | SWE | [Apply](https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-supply-chain-development-program/159/100617062992) |
-| Boston Scientific | Process Development Co-op - Spring or Summer 2027 | SWE | [Apply](https://jobs.bostonscientific.com/job/Maple-Grove-Process-Development-Co-op-Spring-or-Summer-2027-MN/1429424800/) |
 | C3 AI | Software Engineer - Intern | SWE | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | Genentech | 2027 Spring Intern - Analytical Method Validation and Tech Transfer | SWE | [Apply](https://careers.gene.com/us/en/job/202609-124354/2027-Spring-Intern-Analytical-Method-Validation-and-Tech-Transfer) |
 | Genentech | 2027 Spring Intern - Cell Line Development Automation | SWE | [Apply](https://careers.gene.com/us/en/job/202609-123461/2027-Spring-Intern-Cell-Line-Development-Automation) |
@@ -595,7 +595,6 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Citi | Functions - Risk Management, Summer Analyst, Irving - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-irving-usa-2027-at-citi-4461394491) |
 | Citi | Functions - Risk Management, Summer Analyst, Tampa - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/functions-risk-management-summer-analyst-tampa-usa-2027-at-citi-4461397024) |
 | Citi | Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/technology-application-development-summer-analyst-new-york-or-new-jersey-usa-2027-at-citi-4482627401) |
-| Climactic | Industrial Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-intern-summer-2027-at-climactic-4475518426) |
 | CME Group | Year-Long Technology Internship (Summer 2027-Spring 2028) | SWE | [Apply](https://www.linkedin.com/jobs/view/year-long-technology-internship-summer-2027-spring-2028-at-cme-group-4469208200) |
 | Collins Aerospace | Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/head-up-guidance-systems-engineering-co-op-spring-summer-2027-onsite-at-collins-aerospace-4467289500) |
 | Collins Aerospace | Operations Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/operations-software-engineering-intern-summer-2027-at-collins-aerospace-4470675518) |
@@ -745,6 +744,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | McKesson | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-mckesson-4477423190) |
 | McKesson | System Design / QA Intern | SWE | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/System-Design---QA-Intern---Summer-2027_JR0152746) |
 | Medline | Quality Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/quality-engineer-intern-summer-2027-at-medline-4460789046) |
+| Meta | Technical Program Manager Intern, Reality Labs — 2027 Sunnyvale, CA ⋅ Seattle, WA University Grad - Engineering, Tech & Design Program Management | SWE | [Apply](https://www.metacareers.com/profile/job_details/1649069223327170) |
 | Micron Technology | Intern - SDR | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) |
 | Micron Technology | Intern- Technician, Process | SWE | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005) |
 | Microsoft | Cloud Solution Architecture Intern Belgium, Brussels Region, Brussels | SWE | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556998387) |
@@ -775,7 +775,6 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | North Atlantic Industries | Intern - Test Automation Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-automation-engineer-summer-2027-at-north-atlantic-industries-4465229705) |
 | Northrop Grumman | 2027 Fall Mechanical Engineering Co-op - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495) |
 | Northrop Grumman | 2027 Intern Systems Engineer - CA & ND | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236) |
-| Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-software-engineer-intern-san-diego-ca-at-northrop-grumman-4470679512) |
 | Northrop Grumman | 2027 Software Engineering Intern - Roy UT | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-software-engineering-intern-roy-ut-at-northrop-grumman-4482821750) |
 | Northrop Grumman | 2027 Systems Engineering Intern - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325) |
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
@@ -926,7 +925,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (182)
+### Other (184)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -982,6 +981,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | McKesson | Software Installation & IT Support Intern | Other | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
 | Meta | Enterprise Security Engineer, Intern | Other | [Apply](https://www.linkedin.com/jobs/view/enterprise-security-engineer-intern-summer-2027-at-meta-4479412980) |
 | Meta | Security Engineer Posture Management, Intern | Other | [Apply](https://www.linkedin.com/jobs/view/security-engineer-posture-management-intern-summer-2027-at-meta-4479425405) |
+| Meta | Security Engineer Posture Management, Intern New York, NY University Grad - Engineering, Tech & Design Security Technical Security | Other | [Apply](https://www.metacareers.com/profile/job_details/1359570553913180) |
 | Michelin | Spring or Summer 2027 Internship: Central Electrical Engineering Co-op | Other | [Apply](https://www.linkedin.com/jobs/view/spring-or-summer-2027-internship-central-electrical-engineering-co-op-at-michelin-4463588749) |
 | Microsoft | Solution Engineering INTERN Netherlands, Noord-Holland, Schiphol | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557027235) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-software-and-electronics-engineering-group-07-76-at-mit-lincoln-laboratory-4469227159) |
@@ -1069,6 +1069,7 @@ Verified **2026-10-27**. Every role below was found by **active search** (Linked
 | Medline | R&D Design Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-design-intern-summer-2027-at-medline-4460783076) |
 | Meijer | Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-intern-summer-2027-at-meijer-4462569306) |
 | Meijer | Store Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/store-analytics-intern-summer-2027-at-meijer-4462563337) |
+| Microsoft | Research Intern - Algorithms Group: Theory | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557045963) |
 | Microsoft | Research Sciences INTERN Switzerland, Zürich, Zürich | Other | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557026573) |
 | Milliman IntelliScript | Data Analytics Intern - IntelliScript | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-intelliscript-at-milliman-intelliscript-4458026897) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37) | Other | [Apply](https://www.linkedin.com/jobs/view/summer-research-program-intern-2027-advanced-undersea-systems-and-technology-group-03-37-at-mit-lincoln-laboratory-4472725886) |
