@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-10-28**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-10-29**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1069)
+## Open — Apply now (1067)
 
 ### AI/ML (165)
 
@@ -264,7 +264,7 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (620)
+### SWE (618)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -777,7 +777,6 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 | Northrop Grumman | 2027 Systems Engineering Intern - Chandler AZ | SWE | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325) |
 | Northwestern Memorial Hospital | Information Services Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/information-services-intern-summer-2027-at-northwestern-memorial-hospital-4460646549) |
 | Northwood | Mechanical Engineering Intern (2027 Summer Internship) | SWE | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-2027-summer-internship-at-northwood-4460588547) |
-| Nutanix | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-nutanix-4468324254) |
 | NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | SWE | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
 | NVIDIA | Systems Software Intern, Aerial PHY | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-software-intern-aerial-phy-summer-2027-at-nvidia-4481183062) |
 | Panthalassa | Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-engineering-internship-at-panthalassa-4476145235) |
@@ -796,7 +795,6 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 | Plexus Corp. | Intern - Test Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-test-engineer-summer-2027-at-plexus-corp-4462099630) |
 | Point72 | 2027 Summer Internship – Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-software-engineer-at-point72-4479546632) |
 | Pratt & Whitney | Software Engineering Intern (Onsite) | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-onsite-at-pratt-whitney-4470903752) |
-| PrizePicks | Software Engineering Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-summer-2027-at-prizepicks-4469964062) |
 | Q2 | 2027 Summer Internship - Software Engineer | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-software-engineer-at-q2-4465922823) |
 | Qualcomm | FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446719176184) |
 | Qualcomm | FY27 Intern - Engineering Internship 2027 - 6 months, Cork Cork, Ireland Interim Intern | SWE | [Apply](https://careers.qualcomm.com/careers/job/446718345493) |
@@ -824,6 +822,7 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 | Robinhood | Software Engineering Intern, iOS | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142959) |
 | Robinhood | Software Engineering Intern, Web | SWE | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963) |
 | Safran | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineering-summer-2027-at-safran-4467905197) |
+| Salesforce | Intern - Forward Deployed Engineer – Global Public Sector | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) |
 | Salesforce | Intern - Solution Engineer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
 | Salesforce | Intern - UI/UX Designer | SWE | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342) |
 | Sandisk | Intern, Memory Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-memory-technology-at-sandisk-4482080699) |
@@ -871,7 +870,6 @@ Verified **2026-10-28**. Every role below was found by **active search** (Linked
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-maneuvering-tech-san-francisco-california-united-states) |
 | Waymo | 2027 Summer Intern, MS, Software Engineering, Behavior Test | SWE | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states) |
 | WD | Intern - Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-software-engineering-at-wd-4450173981) |
-| WebstaurantStore | 2027 Full Stack Development Summer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-full-stack-development-summer-internship-at-webstaurantstore-4467604777) |
 | Wing | Execution & Topology Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/execution-topology-software-engineering-intern-summer-2027-at-wing-4478174497) |
 | Wing | Logistics Systems Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/logistics-systems-intern-summer-2027-at-wing-4478181093) |
 | Wing | Manufacturing Software Test Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-software-test-intern-summer-2027-at-wing-4478164836) |
