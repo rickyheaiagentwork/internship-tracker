@@ -11,9 +11,9 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1098)
+## Open — Apply now (1107)
 
-### AI/ML (167)
+### AI/ML (173)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460222695) |
 | American Express | Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY | AI/ML | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-ii-summer-internship-program-2027-data-science-finance-new-york-ny-at-american-express-4460209950) |
 | Amplify | : AI Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-ai-scientist-intern-at-amplify-4480279517) |
+| Applied Materials | Data Scientist Intern -Bachelor's (Austin, TX) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-scientist-intern-bachelor-s-austin-tx-at-applied-materials-4483064790) |
 | Atlassian | Data Scientist Intern, 2027 Summer U.S. | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-2027-summer-u-s-at-atlassian-4471188458) |
 | Autodesk | Intern, AI Data Developer (Winter) | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) |
 | Autodesk | Intern, AI Developer/ Stagiaire en développement IA | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
@@ -34,8 +35,10 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | BNP Paribas | 2027 – Summer Assistant Vice President Internship - Corporate Functions, Analytics Lab (Machine Learning Engineer) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-%E2%80%93-summer-assistant-vice-president-internship-corporate-functions-analytics-lab-machine-learning-engineer-at-bnp-paribas-4440487737) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-data-science-lake-mary-fl-at-bny-4458202918) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-engineering-data-science-pittsburgh-pa-at-bny-4458216058) |
+| Brain Co. | Machine Learning Engineer, Applied AI Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-intern-summer-2027-at-brain-co-4485608815) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-intern-compute-efficiency-scheduling-2027-summer-at-bytedance-4473511297) |
 | ByteDance | Software Engineer Intern, AI Platform | AI/ML | [Apply](https://jobs.bytedance.com/en/position/7668212952030841093/detail) |
+| CareSource | 2027 Summer Internship Program - Full Stack AI Development Intern-1 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-program-full-stack-ai-development-intern-1-at-caresource-4485115794) |
 | Charter Communications | Intern 2027 Summer Intern: Data Science INTERN Greenwood Village, CO VIEW JOB | AI/ML | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048) |
 | Charter Communications | Intern 2027 Summer Intern: Data Science INTERN Sandy Springs, GA VIEW JOB | AI/ML | [Apply](https://jobs.spectrum.com/job/sandy-springs/2027-summer-intern-data-science/4673/102214359056) |
 | Clarios | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-clarios-4468816572) |
@@ -66,6 +69,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | General Motors | 2027 Summer Intern, Data Scaling, Embodied AI | AI/ML | [Apply](https://search-careers.gm.com/en/jobs/jr-202622132/2027-summer-intern-data-scaling-embodied-ai/) |
 | Georgia-Pacific LLC | Georgia-Pacific Data Science Internship - Atlanta, GA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/georgia-pacific-data-science-internship-atlanta-ga-summer-2027-at-georgia-pacific-llc-4474843181) |
 | Highmark Health | Data Science R&D Graduate Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-science-r-d-graduate-intern-at-highmark-health-4481258471) |
+| Highmark Health | Predictive Modeling & Data Science Graduate Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-predictive-modeling-data-science-graduate-intern-at-highmark-health-4484012047) |
 | IBM | Co-Op Data Scientist - AI & Analytics 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/co-op-data-scientist-ai-analytics-2027-at-ibm-4451286703) |
 | ICF | 2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-scientist-reston-va-denver-co-remote-at-icf-4470727566) |
 | Indiana Biosciences Research Institute (IBRI) | AI Solutions Intern (2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-intern-2027-at-indiana-biosciences-research-institute-ibri-4481685642) |
@@ -147,10 +151,12 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, AI/ML Platform (Winter) | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) |
 | Blue Cross and Blue Shield of Nebraska | IS Intern: AI & Automation (Managed Services) Summer 2027 | AI/ML | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101411) |
 | C3 AI | Data Science - Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
+| CareSource | 2027 Summer Internship Program - AI Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-program-ai-intern-at-caresource-4485101863) |
 | Clarios | IT Digital/AI Intern | AI/ML | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | Corning | Artificial Intelligence and Machine Learning Intern | AI/ML | [Apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/) |
 | Dev Technology | AI/ML Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) |
 | Dev Technology | Microsoft Power Platform & AI Intern | AI/ML | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) |
+| enGen | Epic Systems Analyst / Epic AI enGen Undergraduate Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-epic-systems-analyst-epic-ai-engen-undergraduate-internship-at-engen-4483752338) |
 | Expedition Technology | Internship in AI/Machine Learning and Computer Vision - Secret Clearance Required | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-in-ai-machine-learning-and-computer-vision-secret-clearance-required-at-expedition-technology-4470190672) |
 | F.N.B. Corporation | AI and Innovation Intern - Pittsburgh, PA | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) |
 | F.N.B. Corporation | AI/ML Modeler Intern | AI/ML | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
@@ -170,10 +176,10 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Libris Innovations | AI Solutions Intern (2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-intern-2027-at-libris-innovations-4483282049) |
 | Motorola Solutions | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/genai-machine-learning-2027-summer-internship-chicago-hybrid-at-motorola-solutions-4476961950) |
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
+| Nissan Motor Corporation | AI Agent Architect Intern - Farmington Hills, MI | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-agent-architect-intern-summer-2027-farmington-hills-mi-at-nissan-motor-corporation-4477691884) |
 | Nissan Motor Corporation | AI Autonomous Driving Verification & Validation Intern - Santa Clara, CA | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-autonomous-driving-verification-validation-intern-summer-2027-santa-clara-ca-at-nissan-motor-corporation-4481591230) |
 | Nissan Motor Corporation | AI Intern - Dallas, TX or Franklin, TN | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-intern-summer-2027-dallas-tx-or-franklin-tn-at-nissan-motor-corporation-4484425960) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | AI/ML | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?q=intern+2027) |
-| NXP Semiconductors | Embedded Machine Learning & Radar Processing Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/embedded-machine-learning-radar-processing-intern-summer-2027-at-nxp-semiconductors-4464090607) |
 | Pinterest | Machine Learning Intern 2027 (Zurich) | AI/ML | [Apply](https://www.pinterestcareers.com/jobs/8214757/machine-learning-intern-2027-zurich/) |
 | Polaris Inc. | Digital & IT - Predictive Data Science Internship | AI/ML | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) |
 | Primient | AI Analyst Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-analyst-intern-summer-2027-at-primient-4473488898) |
@@ -185,7 +191,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (47)
+### Bio-AI (49)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -198,6 +204,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | BioSpace | 2027 Co-op Data Science & Computational Biology (Research) | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-computational-biology-research-at-biospace-4482416810) |
 | Blue Cross and Blue Shield of Nebraska | Healthcare Analytics Intern: Starts Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/healthcare-analytics-intern-starts-summer-2027-at-blue-cross-and-blue-shield-of-nebraska-4467432582) |
 | Blue Cross and Blue Shield of Nebraska | Healthcare Reimbursement Analytics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/healthcare-reimbursement-analytics-intern-summer-2027-at-blue-cross-and-blue-shield-of-nebraska-4464903108) |
+| Bristol Myers Squibb | Nonclinical Discovery & Development Sciences (NDDS)-2027 Summer Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/nonclinical-discovery-development-sciences-ndds-2027-summer-intern-at-bristol-myers-squibb-4485285664) |
 | Cigna | Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027 | Bio-AI | [Apply](https://jobs.thecignagroup.com/us/en/job/26009483/Healthcare-Analytics-Summer-Intern-Morris-Plains-NJ-Start-Date-May-24-2027) |
 | GE HealthCare | Software Engineering Summer Intern 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/software-engineering-summer-intern-2027-at-ge-healthcare-4470234030) |
 | Genentech | 2027 Spring Intern - Pharma Technical Development - Device Development | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202608-122145/2027-Spring-Intern-Pharma-Technical-Development-Device-Development) |
@@ -205,6 +212,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Genentech | 2027 Spring Intern - Pharma Technical Development - Global Clinical Manufacturing Network | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202609-122477/2027-Spring-Intern-Pharma-Technical-Development-Global-Clinical-Manufacturing-Network) |
 | Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Bioassay | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202609-124125/2027-Spring-Intern-Pharmaceutical-Technical-Development-Bioassay) |
 | Genentech | 2027 Spring Intern - Pharmaceutical Technical Development - Laboratory (Wet-Lab or Dry-Lab) | Bio-AI | [Apply](https://careers.gene.com/us/en/job/202609-122484/2027-Spring-Intern-Pharmaceutical-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab) |
+| Genesis Molecular AI | Software Engineer Intern - 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-2027-at-genesis-molecular-ai-4484151422) |
 | Johnson & Johnson MedTech | Data Science Co-Op | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/data-science-co-op-summer-2027-at-johnson-johnson-medtech-4462073075) |
 | Medpace | Clinical Informatics Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/clinical-informatics-intern-summer-2027-at-medpace-4463529097) |
 | Medpace | Feasibility Informatics Internship/Co-Op Summer 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/feasibility-informatics-internship-co-op-summer-2027-at-medpace-4463519962) |
@@ -237,14 +245,13 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, Process Engineering Data Analytics | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/spring-co-op-2027-process-engineering-data-analytics-at-vertex-pharmaceuticals-4471964896) |
 
-### Finance (33)
+### Finance (32)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
 | New York Life Investment Management | 2027 New York Life Investment Management - AI & Data Science Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-ai-data-science-internship-at-new-york-life-investment-management-4463131883) |
 | American Express | Campus Graduate I Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-global-decision-science-credit-fraud-risk-new-york-ny-at-american-express-4461676488) |
 | American Express | Campus Graduate II Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-ii-summer-internship-program-2027-global-decision-science-credit-fraud-risk-new-york-ny-at-american-express-4460617497) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-data-analytics-enterprise-technology-services-palo-alto-ca-at-american-express-4460213791) |
 | Arrowstreet Capital | Quantitative Developer Intern | Finance | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern | Finance | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976) |
 | Boeing | Data Analytics Intern | Finance | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
@@ -275,7 +282,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (623)
+### SWE (621)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -458,7 +465,6 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | IDEMIA Public Security | Software Engineer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2027-at-idemia-public-security-4474611927) |
 | John Hancock | Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-intern-2027-software-engineering-at-john-hancock-4458673956) |
 | K2 Space | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
-| K2 Space Corporation | Platform Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/platform-engineering-intern-%E2%80%93-summer-2027-at-k2-space-corporation-4474490158) |
 | Lyft | Business Systems Engineer Intern, Finance Technology Toronto, Canada (Opens in a new tab) | SWE | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802222002) |
 | Marathon Petroleum Corporation | Intern/Co-op - Digital/Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
 | Marathon Petroleum Corporation | Intern/Co-op - Information Technology | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-co-op-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634) |
@@ -728,7 +734,6 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-global-finance-business-management-summer-analyst-oh-il-de-tx-at-jpmorganchase-4437870736) |
 | JPMorganChase | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-operations-analyst-program-summer-analyst-az-de-fl-oh-tx-at-jpmorganchase-4437722609) |
 | JPMorganChase | Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship - United States | SWE | [Apply](https://www.linkedin.com/jobs/view/code-for-good-hackathon-software-engineer-program-2027-summer-internship-united-states-at-jpmorganchase-4448315225) |
-| K2 Space Corporation | Mission Operations Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/mission-operations-engineering-intern-%E2%80%93-summer-2027-at-k2-space-corporation-4474486635) |
 | KLA | Software Engineering Intern page is loaded | SWE | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1) |
 | Leonardo DRS | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-leonardo-drs-4466553730) |
 | Leonardo DRS | Systems Engineering Intern \| Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-summer-2027-at-leonardo-drs-4466226893) |
@@ -941,7 +946,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (195)
+### Other (199)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -949,7 +954,9 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Abbott | 2027 IT Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) |
 | Abbott | 2027 R&D Cancer Diagnostics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-r-d-cancer-diagnostics-intern-at-abbott-4475559422) |
 | Abbott | 2027 R&D Cancer Diagnostics Intern page is loaded | Other | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) |
+| AbbVie | 2027 Automation & Process Analytics Technology Co-Op (June - Dec) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-automation-process-analytics-technology-co-op-june-dec-at-abbvie-4483265760) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center | Other | [Apply](https://www.linkedin.com/jobs/view/manufacturing-scientist-technical-services-intern-%E2%80%93-elanco-technology-center-summer-2027-at-elanco-4454637886) |
+| Elanco | R&D Intern | Other | [Apply](https://www.linkedin.com/jobs/view/r-d-intern-summer-2027-at-elanco-4475229935) |
 | Genentech | 2027 Spring Intern - Prescient Frontier Research | Other | [Apply](https://careers.gene.com/us/en/job/202610-124986/2027-Spring-Intern-Prescient-Frontier-Research) |
 | Medpace | Business Intelligence Engineer Internship - Spring & Summer 2027 | Other | [Apply](https://www.linkedin.com/jobs/view/business-intelligence-engineer-internship-spring-summer-2027-at-medpace-4457174873) |
 | Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
@@ -961,6 +968,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Regeneron | 2027 Summer Intern IT & Systems (IOPS) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-it-systems-iops-at-regeneron-4483894737) |
 | Regeneron | 2027 Summer Intern IT, Digital Enablement & Information Security | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-it-digital-enablement-information-security-at-regeneron-4483890920) |
 | Regeneron | 2027 Summer Intern R&D Program, Portfolio & Business Operations | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-r-d-program-portfolio-business-operations-at-regeneron-4483890921) |
+| Sanofi | 2027 Summer Intern US Advanced Analytics Cambridge MA | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-us-advanced-analytics-cambridge-ma-at-sanofi-4485329716) |
 | Thermo Fisher Scientific | 2027 IT & Digital Internship | Other | [Apply](https://www.linkedin.com/jobs/view/2027-it-digital-internship-at-thermo-fisher-scientific-4463432010) |
 | Together AI | Research Intern, Frontier Agents | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948) |
 | Together AI | Research Intern, Model Shaping | Other | [Apply](https://www.linkedin.com/jobs/view/research-intern-model-shaping-summer-2027-at-together-ai-4468014291) |
@@ -1038,6 +1046,7 @@ Verified **2026-11-02**. Every role below was found by **active search** (Linked
 | Archer | 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program - Analytics Solutions | Other | [Apply](https://www.linkedin.com/jobs/view/2027-focused-analytics-solutions-team-fast-intern-associate-program-analytics-solutions-at-archer-4484809997) |
 | BioSpace | 2027 Co-op Data Analytics & Digital Tools (IOPS) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-analytics-digital-tools-iops-at-biospace-4482429477) |
 | BioSpace | 2027 Summer Intern Data Analytics, Dashboards & Business Process Automation | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-analytics-dashboards-business-process-automation-at-biospace-4485302495) |
+| BioSpace | 2027 Summer Intern US Advanced Analytics Cambridge MA | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-us-advanced-analytics-cambridge-ma-at-biospace-4485682039) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Research & Development (MR&D) | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-research-development-mr-d-at-boeing-4474076296) |
 | Capital Group | CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC | Other | [Apply](https://www.linkedin.com/jobs/view/campus-capital-group-rotational-program-data-technology-track-summer-associate-2027-charlotte-nc-at-capital-group-4469431132) |
 | Capital Group | CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA | Other | [Apply](https://www.linkedin.com/jobs/view/campus-capital-group-rotational-program-data-technology-track-summer-associate-2027-irvine-ca-at-capital-group-4469415994) |
