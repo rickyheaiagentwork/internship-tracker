@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-11-03**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-11-04**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1121)
+## Open — Apply now (1117)
 
-### AI/ML (172)
+### AI/ML (171)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -104,7 +104,6 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | PepsiCo | 2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-data-analytics-data-engineer-data-science-at-pepsico-4460423076) |
 | Peraton | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-science-intern-at-peraton-4464106103) |
 | Plexus Corp. | Intern - IT Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-it-data-science-summer-2027-at-plexus-corp-4462103694) |
-| Post Consumer Brands | Data Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-science-intern-summer-2027-at-post-consumer-brands-4461776369) |
 | Promega Corporation | Research Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/research-scientist-intern-summer-2027-at-promega-corporation-4473519065) |
 | Q2 | 2027 Summer Internship - Machine Learning Engineer | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-machine-learning-engineer-at-q2-4471752097) |
 | Qualcomm | Machine Learning & Artificial Intelligence Engineering Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-artificial-intelligence-engineering-internship-%E2%80%93-summer-2027-at-qualcomm-4468095267) |
@@ -243,7 +242,7 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, Process Engineering Data Analytics | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/spring-co-op-2027-process-engineering-data-analytics-at-vertex-pharmaceuticals-4471964896) |
 
-### Finance (32)
+### Finance (31)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -258,7 +257,6 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | Federal Reserve Bank of Dallas | 2027 Intern - System IT (Credit Risk Management) | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-intern-system-it-credit-risk-management-at-federal-reserve-bank-of-dallas-4479057952) |
 | Freddie Mac | Capital Markets Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/capital-markets-intern-summer-2027-at-freddie-mac-4457185668) |
 | Hubbell Incorporated | 2027 Summer Intern: Operations - SAP Data Analytics | Finance | [Apply](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Operations-SAP-Data-Analytics-MO-63146/1421642600/) |
-| Huntington National Bank | Data and Analytics Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/summer-2027-data-and-analytics-internship-at-huntington-national-bank-4460509438) |
 | Interactive Brokers | Quant Analyst Internships 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/quant-analyst-internships-2027-at-interactive-brokers-4456787959) |
 | JPMorganChase | 2027 Quantitative Research - Markets - Summer Internship - Analyst - United States | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-analyst-united-states-at-jpmorganchase-4449434828) |
 | JPMorganChase | 2027 Quantitative Research - Markets - Summer Internship - Associate- United States | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-quantitative-research-markets-summer-internship-associate-united-states-at-jpmorganchase-4449471175) |
@@ -280,7 +278,7 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (630)
+### SWE (628)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -420,7 +418,6 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
 | DraftKings | Software Engineer Intern | SWE | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) |
-| Duke Energy Corporation | Information Technology Internship Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/information-technology-internship-summer-2027-at-duke-energy-corporation-4461296706) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
 | Freddie Mac | Single-Family Software Developer Intern | SWE | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
@@ -496,7 +493,6 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | PepsiCo | 2027 Summer Intern: Technology Software Development & Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-technology-software-development-engineering-at-pepsico-4459971997) |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-design-engineer-autonomous-vehicle-platform-at-peterbilt-motors-company-4486499737) |
 | PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | SWE | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
-| Post Consumer Brands | Data Engineering Intern (2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-2027-at-post-consumer-brands-4461786148) |
 | Procter & Gamble | Engineering Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157841/Engineering-Internship-Summer-2027) |
 | Procter & Gamble | Manufacturing Internship | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157840/Manufacturing-Internship-Summer-2027) |
 | Procter & Gamble | Research & Development Scientist/Engineer Intern Summer 2027 - Freshmen, Sophomores, and Juniors | SWE | [Apply](https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors) |
@@ -554,7 +550,6 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | Amazon | Software Development Engineer Intern - Mobile(iOS/Android) (USA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-mobile-ios-android-summer-2027-usa-at-amazon-4476508529) |
 | Amazon | Software Development Engineer Intern (USA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-summer-2027-usa-at-amazon-4469152262) |
 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-internship-summer-2027-usa-at-amazon-4469152262) |
-| Amazon | Systems Development Engineer Intern, (US) 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-development-engineer-intern-us-2027-at-amazon-4477486750) |
 | Antares | Reactor Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/reactor-software-engineering-intern-summer-2027-at-antares-4467976307) |
 | Antares | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-antares-4467976307) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
@@ -741,6 +736,7 @@ Verified **2026-11-03**. Every role below was found by **active search** (Linked
 | LinkedIn | Software Engineer Intern, Undergraduate (Mountain View, CA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-undergraduate-summer-2027-mountain-view-ca-at-linkedin-4481726850) |
 | Lockheed Martin | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-lockheed-martin-4476670295) |
 | Lockheed Martin | Systems Engineering & Integration Software Testing Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-integration-software-testing-intern-summer-2027-at-lockheed-martin-4482516994) |
+| Lowe's | Flex Space Analyst – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02685752/Flex-Space-Analyst-Undergrad-Internship-Summer-2027) |
 | Lowe's | Industrial Engineer Intern – Undergrad Internship - Field | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02681866/Industrial-Engineer-Intern-Undergrad-Internship-Summer-2027-Field) |
 | Lowe's | Services Technology & Enablement – Undergraduate Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02672664/Services-Technology-Enablement-Undergraduate-Internship-Summer-2027) |
 | Lowe's | Software Engineer – Undergrad Internship | SWE | [Apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
