@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-11-04**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-11-05**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,9 +11,9 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1128)
+## Open — Apply now (1127)
 
-### AI/ML (177)
+### AI/ML (176)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -176,7 +176,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498) |
 | JPMorganChase | 2027 Machine Learning Center of Excellence (NLP) - Summer Associate | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-nlp-summer-associate-at-jpmorganchase-4481592595) |
 | JPMorganChase | 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-time-series-and-reinforcement-learning-tsrl-summer-associate-at-jpmorganchase-4484401926) |
-| JPMorganChase | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-for-good-hackathon-data-ai-program-2027-summer-internship-united-states-at-jpmorganchase-4451055616) |
 | Libris Innovations | AI Solutions Intern (2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-intern-2027-at-libris-innovations-4483282049) |
 | Motorola Solutions | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/genai-machine-learning-2027-summer-internship-chicago-hybrid-at-motorola-solutions-4476961950) |
 | National Futures Association | Centralized Data Science and Analytics Intern | AI/ML | [Apply](https://careers.nfa.org/job/Chicago-Summer-2027-Centralized-Data-Science-and-Analytics-Intern-IL-60606/1425871900/) |
@@ -284,7 +283,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (628)
+### SWE (626)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -425,7 +424,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
 | DraftKings | Software Engineer Intern | SWE | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) |
-| Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
 | Freddie Mac | Single-Family Software Developer Intern | SWE | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Freeform | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
 | GE Aerospace | Engines Engineering Intern – Computer or Software Engineering – US | SWE | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
@@ -482,7 +480,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Nationwide | Surety Underwriting Intern page is loaded | SWE | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043) |
 | New York Life | 2027 TDAV Summer Internship - Software Engineer Intern | SWE | [Apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&-Ventures-Summer-Internship-Program-Software-Engineer-Intern-NY-10001/1414420800/) |
 | Newrez LLC | 2027 Summer Internship - Software Developer | SWE | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) |
-| Nike | NIKE, Inc. Software Engineering Undergraduate Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/nike-inc-software-engineering-undergraduate-internship-at-nike-4461551447) |
 | Northern Trust | Technology Intern – Software Engineering | SWE | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) |
 | Northmarq | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5414475008) |
 | Notion | Software Engineer Intern | SWE | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
@@ -955,7 +952,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (211)
+### Other (213)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1062,6 +1059,8 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | BioSpace | 2027 Summer Intern Data Analytics, Dashboards & Business Process Automation | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-analytics-dashboards-business-process-automation-at-biospace-4485302495) |
 | BioSpace | 2027 Summer Intern US Advanced Analytics Cambridge MA | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-us-advanced-analytics-cambridge-ma-at-biospace-4485682039) |
 | Boeing | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Manufacturing Research & Development (MR&D) | Other | [Apply](https://www.linkedin.com/jobs/view/boeing-tulsa-summer-2027-internship-program-paid-manufacturing-research-development-mr-d-at-boeing-4474076296) |
+| Cadence | CST Application Engineer Intern - Silicon | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
+| Cadence | CST Intern - Data Center GTM Intern page is loaded | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-2) |
 | Capital Group | CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC | Other | [Apply](https://www.linkedin.com/jobs/view/campus-capital-group-rotational-program-data-technology-track-summer-associate-2027-charlotte-nc-at-capital-group-4469431132) |
 | Capital Group | CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA | Other | [Apply](https://www.linkedin.com/jobs/view/campus-capital-group-rotational-program-data-technology-track-summer-associate-2027-irvine-ca-at-capital-group-4469415994) |
 | Capital Group | CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Los Angeles, CA | Other | [Apply](https://www.linkedin.com/jobs/view/campus-capital-group-rotational-program-data-technology-track-summer-associate-2027-los-angeles-ca-at-capital-group-4469070814) |
