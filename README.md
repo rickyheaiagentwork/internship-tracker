@@ -11,7 +11,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1130)
+## Open — Apply now (1128)
 
 ### AI/ML (177)
 
@@ -284,7 +284,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (629)
+### SWE (628)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -425,7 +425,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
 | DraftKings | Software Engineer Intern | SWE | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) |
-| Federal Reserve Bank of New York | 2027 Summer Intern - Markets Group - New York - Junior Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-markets-group-new-york-junior-intern-at-federal-reserve-bank-of-new-york-4461555675) |
 | Federal Reserve Bank of New York | 2027 Summer Intern - People & Engagement Group - Junior | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-people-engagement-group-junior-at-federal-reserve-bank-of-new-york-4461556628) |
 | Freddie Mac | Single-Family Software Developer Intern | SWE | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Freeform | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
@@ -559,6 +558,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | SWE | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-internship-summer-2027-usa-at-amazon-4469152262) |
 | Antares | Reactor Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/reactor-software-engineering-intern-summer-2027-at-antares-4467976307) |
 | Antares | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-antares-4467976307) |
+| Applied Materials | 客户服务工程师实习岗（Customer Engineer Intern） | SWE | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/-Customer-Engineer-Intern-_R2625965) |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1) |
 | Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | SWE | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2) |
@@ -913,7 +913,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Zipline | Droid Autonomy Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/droid-autonomy-intern-summer-2027-at-zipline-4470981485) |
 | Zipline | Flight Test Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/flight-test-engineer-intern-summer-2027-at-zipline-4468173938) |
 | Zipline | Maintenance Tool Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/maintenance-tool-engineering-intern-summer-2027-at-zipline-4457079206) |
-| Zipline | Software Engineer Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-zipline-4457524965) |
 | Zipline | Software Systems Validation Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-systems-validation-intern-summer-2027-at-zipline-4456457380) |
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
@@ -956,7 +955,7 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (212)
+### Other (211)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1045,7 +1044,6 @@ Verified **2026-11-04**. Every role below was found by **active search** (Linked
 | Spirit AeroSystems | Spirit Defense Internship Program (Paid) - Core Engineering - Research & Technology | Other | [Apply](https://www.linkedin.com/jobs/view/spirit-defense-summer-2027-internship-program-paid-core-engineering-research-technology-at-spirit-aerosystems-4462525805) |
 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineer-intern-e-commerce-2027-summer-at-tiktok-4456219203) |
 | Tokio Marine HCC | Data Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-summer-2027-at-tokio-marine-hcc-4466127680) |
-| Tokyo Electron US | Data Platforms Engineer Summer 2027 Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-platforms-engineer-summer-2027-intern-at-tokyo-electron-us-4464307176) |
 | Waymo | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Other | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-embedded-software-engineer-mountain-view-california-united-states) |
 | Wing | Data Infra Software Engineering Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-infra-software-engineering-intern-summer-2027-at-wing-4478177308) |
 | Xcimer Energy | Internship - Computational and Software Engineering | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-computational-and-software-engineering-at-xcimer-energy-4466450084) |
