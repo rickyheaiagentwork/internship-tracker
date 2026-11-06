@@ -11,9 +11,9 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1137)
+## Open — Apply now (1140)
 
-### AI/ML (180)
+### AI/ML (181)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | Autodesk | Intern, AI Data Developer (Winter) | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) |
 | Autodesk | Intern, AI Developer/ Stagiaire en développement IA | AI/ML | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | AutoZone | AutoZone 2027 Summer Internship – Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/autozone-2027-summer-internship-%E2%80%93-data-science-at-autozone-4469916328) |
+| BAE Systems | AI/ML Engineer Intern | AI/ML | [Apply](https://jobs.baesystems.com/global/en/job/132319BR/AI-ML-Engineer-Intern-Summer-2027) |
 | BioSpace | 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-co-op-data-science-digital-innovation-preclinical-manufacturing-research-it-at-biospace-4482412932) |
 | BioSpace | 2027 Summer Intern AI/ML & Data Engineering | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-ai-ml-data-engineering-at-biospace-4485288904) |
 | BioSpace | 2027 Summer Intern Data Science & Digital Innovation (IOPS) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-data-science-digital-innovation-iops-at-biospace-4485293764) |
@@ -287,7 +288,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (628)
+### SWE (629)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -577,6 +578,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | BAE Systems | Mechanical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship - Summer, 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/128736BR/Mechanical-Engineering-Internship-Summer-2027) |
 | BAE Systems | Mechanical Engineering Internship Summer 2027 | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131346BR/Mechanical-Engineering-Internship-Summer-2027) |
+| BAE Systems | Optical Engineering Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/129626BR/Optical-Engineering-Intern-Summer-2027) |
 | BAE Systems | Programmer Intern | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130483BR/Programmer-Intern-Summer-2027) |
 | BAE Systems | Supply Chain Intern II | SWE | [Apply](https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027) |
 | BAE Systems | Supply Chain Intern III (Onsite) | SWE | [Apply](https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite) |
@@ -702,6 +704,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | Hermeus | Test and Operations Engineering Intern - Spring/Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/test-and-operations-engineering-intern-spring-summer-2027-at-hermeus-4467755582) |
 | Howmet Aerospace | Internship Program | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-program-at-howmet-aerospace-4465934692) |
 | Humana | Humana Technology Internship | SWE | [Apply](https://careers.humana.com/us/en/job/R-424692/Humana-Technology-Internship-Summer-2027) |
+| Huntington Ingalls | 2027 COLLEGE SUMMER INTERN- INDUSTRIAL ENGINEERING | SWE | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INDUSTRIAL-ENGINEERING-Miss/1437347600/) |
 | Huntington Ingalls | 2027 ENGINEERING SUMMER INTERNSHIP - ENGRG INTERN | SWE | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-ENGINEERING-SUMMER-INTERNSHIP-ENGRG-INTERN-Virg/1424488400/) |
 | Hyster-Yale Materials Handling | Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-engineering-intern-at-hyster-yale-materials-handling-4483482822) |
 | IBM | Co-Op Developer – Adobe 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/co-op-developer-%E2%80%93-adobe-2027-at-ibm-4451222613) |
@@ -714,7 +717,6 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | ICE | Summer Internship Program 2027 - Trading System Development Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-internship-program-2027-trading-system-development-intern-at-ice-4483177412) |
 | ICF | 2027 Summer Intern, Software Engineer (Reston, VA) | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-software-engineer-reston-va-at-icf-4478810595) |
 | Impulse Space | Manufacturing Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2027-at-impulse-space-4465800557) |
-| Impulse Space | RF Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/rf-engineering-intern-summer-2027-at-impulse-space-4465801583) |
 | Impulse Space | Space Operations Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/space-operations-engineering-intern-summer-2027-at-impulse-space-4465818477) |
 | Indiana Biosciences Research Institute (IBRI) | Bioinformatic Intern (2027) | SWE | [Apply](https://www.linkedin.com/jobs/view/bioinformatic-intern-2027-at-indiana-biosciences-research-institute-ibri-4472335904) |
 | Inmar Intelligence | Software Engineering Internships | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internships-summer-2027-at-inmar-intelligence-4465573540) |
@@ -920,7 +922,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (33)
+### PM (35)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -951,6 +953,8 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | Intuit | Product Manager Intern | PM | [Apply](https://www.linkedin.com/jobs/view/summer-2027-product-manager-intern-at-intuit-4484996890) |
 | Intuit | : Product Manager Intern Multiple Locations | PM | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Invesco | Early Career Intern - Digital Asset Product | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1) |
+| Invesco | Early Career Intern - Digital Product Management | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
+| Invesco | Early Career Intern - Global Product Innovation & Enablement | PM | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Global-Product-Innovation---Enablement-Summer-Intern_R-15939-1) |
 | Lowe's | Digital Product Management - Undergrad Internship | PM | [Apply](https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027) |
 | McKesson | Business Analyst Intern, Product Performance | PM | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111) |
 | Nationwide | State Product Analyst Intern - Personal Lines | PM | [Apply](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
@@ -958,7 +962,7 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (217)
+### Other (216)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1057,7 +1061,6 @@ Verified **2026-11-05**. Every role below was found by **active search** (Linked
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Other | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | ABB | Power BI Intern | Other | [Apply](https://www.linkedin.com/jobs/view/power-bi-intern-summer-2027-at-abb-4482149846) |
 | AIG | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City, NJ & New York, NY | Other | [Apply](https://www.linkedin.com/jobs/view/2027-early-careers-summer-intern-data-office-%E2%80%93-united-states-atlanta-ga-charlotte-nc-parsippany-nj-jersey-city-nj-new-york-ny-at-aig-4460653666) |
-| Ally | Internship – Insurance Data & Analytics | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531) |
 | American Honda Motor Company, Inc. | Information Technology/Data Analytics Co-op/Intern | Other | [Apply](https://www.linkedin.com/jobs/view/information-technology-data-analytics-co-op-intern-summer-2027-at-american-honda-motor-company-inc-4453631408) |
 | apexanalytix | Data Analyst Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analyst-intern-summer-2027-at-apexanalytix-4465565542) |
 | Applied Materials | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-data-analytics-business-operations-spring-co-op-or-summer-intern-bachelor-s-master-s-austin-tx-at-applied-materials-4484376774) |

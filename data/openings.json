@@ -5892,28 +5892,6 @@
     "source": "linkedin"
   },
   {
-    "id": "ally-summer-2027-internship-insurance-data-an-s27",
-    "company": "Ally",
-    "role_title": "Summer 2027 Internship \u2013 Insurance Data & Analytics",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-11-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531",
-    "application_url": "https://www.linkedin.com/jobs/view/summer-2027-internship-%E2%80%93-insurance-data-analytics-at-ally-4463246531",
-    "tier": 3,
-    "category": "Data",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Detroit, MI\n21 hours ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-10. Re-verify before applying.",
-    "fit_score": 25,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "jpmorganchase-2027-global-finance-business-management--s27",
     "company": "JPMorganChase",
     "role_title": "2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX)",
@@ -6645,7 +6623,7 @@
     "role_title": "Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-13",
+    "verified_at": "2026-11-05",
     "posting_url": "https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008",
     "application_url": "https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008",
     "tier": 2,
@@ -9860,28 +9838,6 @@
     "verified_at": "2026-11-05",
     "posting_url": "https://www.linkedin.com/jobs/view/space-operations-engineering-intern-summer-2027-at-impulse-space-4465818477",
     "application_url": "https://www.linkedin.com/jobs/view/space-operations-engineering-intern-summer-2027-at-impulse-space-4465818477",
-    "tier": 3,
-    "category": "SWE",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Redondo Beach, CA\n6 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-09-17. Re-verify before applying.",
-    "fit_score": 30,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
-    "id": "impulse-space-rf-engineering-intern-summer-2027-s27",
-    "company": "Impulse Space",
-    "role_title": "RF Engineering Intern (Summer 2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-11-05",
-    "posting_url": "https://www.linkedin.com/jobs/view/rf-engineering-intern-summer-2027-at-impulse-space-4465801583",
-    "application_url": "https://www.linkedin.com/jobs/view/rf-engineering-intern-summer-2027-at-impulse-space-4465801583",
     "tier": 3,
     "category": "SWE",
     "degree_level": [
@@ -24744,5 +24700,115 @@
     "fit_score": 105,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "invesco-early-career-intern-digital-product-mana-s27",
+    "company": "Invesco",
+    "role_title": "Early Career Intern - Digital Product Management (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-05",
+    "posting_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+    "application_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+    "tier": 3,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Invesco on 2026-11-05. Re-verify before applying.",
+    "fit_score": 10,
+    "verify_confidence": "high",
+    "source": "careers:Invesco"
+  },
+  {
+    "id": "invesco-early-career-intern-global-product-innov-s27",
+    "company": "Invesco",
+    "role_title": "Early Career Intern - Global Product Innovation & Enablement (Summer 2027)",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-05",
+    "posting_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Global-Product-Innovation---Enablement-Summer-Intern_R-15939-1",
+    "application_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Global-Product-Innovation---Enablement-Summer-Intern_R-15939-1",
+    "tier": 3,
+    "category": "PM",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Invesco on 2026-11-05. Re-verify before applying.",
+    "fit_score": 0,
+    "verify_confidence": "high",
+    "source": "careers:Invesco"
+  },
+  {
+    "id": "bae-systems-ai-ml-engineer-intern-summer-2027-s27",
+    "company": "BAE Systems",
+    "role_title": "AI/ML Engineer Intern, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-05",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/132319BR/AI-ML-Engineer-Intern-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/132319BR/AI-ML-Engineer-Intern-Summer-2027",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-11-05. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "bae-systems-optical-engineering-intern-summer-2027-s27",
+    "company": "BAE Systems",
+    "role_title": "Optical Engineering Intern, Summer 2027",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-05",
+    "posting_url": "https://jobs.baesystems.com/global/en/job/129626BR/Optical-Engineering-Intern-Summer-2027",
+    "application_url": "https://jobs.baesystems.com/global/en/job/129626BR/Optical-Engineering-Intern-Summer-2027",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:BAE Systems on 2026-11-05. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:BAE Systems"
+  },
+  {
+    "id": "huntington-ingalls-2027-college-summer-intern-industrial-en-s27",
+    "company": "Huntington Ingalls",
+    "role_title": "2027 COLLEGE SUMMER INTERN- INDUSTRIAL ENGINEERING",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-05",
+    "posting_url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INDUSTRIAL-ENGINEERING-Miss/1437347600/",
+    "application_url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INDUSTRIAL-ENGINEERING-Miss/1437347600/",
+    "tier": 3,
+    "category": "SWE",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Huntington Ingalls on 2026-11-05. Re-verify before applying.",
+    "fit_score": 30,
+    "verify_confidence": "high",
+    "source": "careers:Huntington Ingalls"
   }
 ]
