@@ -8273,7 +8273,7 @@
     "role_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-11-04",
+    "verified_at": "2026-11-06",
     "posting_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
     "application_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
     "tier": 3,
@@ -14978,28 +14978,6 @@
     "source": "careers:Autodesk"
   },
   {
-    "id": "indiana-biosciences-research-institute-ibri-computational-chemistry-intern-2027-s27",
-    "company": "Indiana Biosciences Research Institute (IBRI)",
-    "role_title": "Computational Chemistry Intern (2027)",
-    "season": "Summer 2027",
-    "listing_status": "open",
-    "verified_at": "2026-11-06",
-    "posting_url": "https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846",
-    "application_url": "https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846",
-    "tier": 3,
-    "category": "Research",
-    "degree_level": [
-      "BS"
-    ],
-    "location": "United States (Indianapolis, IN\nBe an early applicant\n3 days ago)",
-    "work_model": "Onsite",
-    "application_status": "Not started",
-    "notes": "Found via linkedin on 2026-10-04. Re-verify before applying.",
-    "fit_score": 20,
-    "verify_confidence": "high",
-    "source": "linkedin"
-  },
-  {
     "id": "indiana-biosciences-research-institute-ibri-bioinformatic-intern-2027-s27",
     "company": "Indiana Biosciences Research Institute (IBRI)",
     "role_title": "Bioinformatic Intern (2027)",
@@ -15709,7 +15687,7 @@
     "role_title": "Intern 2027 Summer Intern: Advanced Technology INTERN Greenwood Village, CO VIEW JOB",
     "season": "Summer 2027",
     "listing_status": "open",
-    "verified_at": "2026-10-19",
+    "verified_at": "2026-11-06",
     "posting_url": "https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-advanced-technology/4673/100143763584",
     "application_url": "https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-advanced-technology/4673/100143763584",
     "tier": 3,
@@ -25140,5 +25118,27 @@
     "fit_score": 45,
     "verify_confidence": "high",
     "source": "linkedin"
+  },
+  {
+    "id": "waymo-2027-summer-intern-bs-ms-phd-ai-driven-m-s27",
+    "company": "Waymo",
+    "role_title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
+    "season": "Summer 2027",
+    "listing_status": "open",
+    "verified_at": "2026-11-06",
+    "posting_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-phd-ai-driven-ml-performance-engineering-intern-mountain-view-california-united-states",
+    "application_url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-phd-ai-driven-ml-performance-engineering-intern-mountain-view-california-united-states",
+    "tier": 1,
+    "category": "AI/ML",
+    "degree_level": [
+      "BS"
+    ],
+    "location": "United States",
+    "work_model": "Onsite",
+    "application_status": "Not started",
+    "notes": "Found via careers:Waymo on 2026-11-06. Re-verify before applying.",
+    "fit_score": 110,
+    "verify_confidence": "high",
+    "source": "careers:Waymo"
   }
 ]

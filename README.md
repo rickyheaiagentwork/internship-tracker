@@ -13,7 +13,7 @@ Verified **2026-11-06**. Every role below was found by **active search** (Linked
 
 ## Open — Apply now (1155)
 
-### AI/ML (181)
+### AI/ML (182)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -144,6 +144,7 @@ Verified **2026-11-06**. Every role below was found by **active search** (Linked
 | Verizon | Verizon Consumer Group: Data Science Summer 2027 Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/verizon-consumer-group-data-science-summer-2027-internship-at-verizon-4481570723) |
 | Walmart | Intern: Intern: Sr Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-intern-sr-data-science-at-walmart-4463948185) |
 | Walmart | Intern:: Data Science III | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-data-science-iii-at-walmart-4463956115) |
+| Waymo | 2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-phd-ai-driven-ml-performance-engineering-intern-mountain-view-california-united-states) |
 | Wellabe | Data Analytics- AI Summer 2027 Internship- Hybrid -Des Moines, Iowa | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-summer-2027-internship-hybrid-des-moines-iowa-at-wellabe-4468802999) |
 | West Bend Insurance Company | Internship - Data Scientist | AI/ML | [Apply](https://www.linkedin.com/jobs/view/summer-2027-internship-data-scientist-at-west-bend-insurance-company-4469612390) |
 | Wing | Data Scientist Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-scientist-intern-summer-2027-at-wing-4475991790) |
@@ -973,7 +974,7 @@ Verified **2026-11-06**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (220)
+### Other (219)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1133,7 +1134,6 @@ Verified **2026-11-06**. Every role below was found by **active search** (Linked
 | Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
 | Huntington Ingalls | 2027 IT SUMMER INTERNSHIP - IT INTERN | Other | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/) |
 | Hy-Vee, Inc. | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-hy-vee-inc-4476833881) |
-| Indiana Biosciences Research Institute (IBRI) | Computational Chemistry Intern (2027) | Other | [Apply](https://www.linkedin.com/jobs/view/computational-chemistry-intern-2027-at-indiana-biosciences-research-institute-ibri-4472333846) |
 | Intuit | : Business Data Analyst Intern, Strategy & Planning | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-data-analyst-intern-strategy-planning-at-intuit-4474720730) |
 | Intuit | : Cybersecurity Compliance Intern Mountain View, California | Other | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192) |
 | Intuit | : Finance Transformation & Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-finance-transformation-analytics-intern-at-intuit-4475049192) |
