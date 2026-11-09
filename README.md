@@ -11,7 +11,7 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1162)
+## Open — Apply now (1163)
 
 ### AI/ML (180)
 
@@ -418,6 +418,7 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | Dedalus Labs | Systems Engineer / Product Manager Intern | SWE | [Apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) |
 | Delta Air Lines | Intern, IT - Digital and Technology - ATL | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-atl-summer-2027-at-delta-air-lines-4461997648) |
 | Delta Air Lines | Intern, IT - Digital and Technology - MSP | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-it-digital-and-technology-msp-summer-2027-at-delta-air-lines-4462308422) |
+| Disney | Product & Technology Software Engineering Intern The Walt Disney Company (Corporate) Glendale, California / San Francisco, California / New York, New York Oct. 23, 2026 | SWE | [Apply](https://www.disneycareers.com/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584) |
 | DraftKings | Software Engineer Intern | SWE | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) |
 | Freddie Mac | Single-Family Software Developer Intern | SWE | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Freeform | Software Engineering Intern | SWE | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
@@ -887,7 +888,6 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | State Farm | Intern - HR&D - Software Developer | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-intern-hr-d-software-developer-at-state-farm-4469611021) |
 | Stripe | High School Internship, Software Engineering | SWE | [Apply](https://www.linkedin.com/jobs/view/high-school-internship-software-engineering-summer-2027-at-stripe-4474105575) |
 | Sub-Zero Group, Inc. | 2027 Information & Technology Co-op | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-information-technology-co-op-at-sub-zero-group-inc-4459747730) |
-| Superhuman | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-superhuman-4465258325) |
 | Synopsys | Systems Engineering Internship Mississauga, Canada Category: Interns/Temp Posted: 10/05/2026 Job ID: 19018 | SWE | [Apply](https://careers.synopsys.com/job/mississauga/systems-engineering-internship-summer-2027/44408/101631905328) |
 | T-Mobile | Analyst, Supply Chain Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-analyst-supply-chain-internship-at-t-mobile-4485669838) |
 | T-Mobile | Software Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-t-mobile-4480341786) |
@@ -941,7 +941,7 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | Zipline | Supplier Industrialization Engineering Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/supplier-industrialization-engineering-intern-summer-2027-at-zipline-4455779401) |
 | Zipline | Technical Program Manager Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/technical-program-manager-intern-summer-2027-at-zipline-4457528081) |
 
-### PM (35)
+### PM (36)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -966,6 +966,7 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit | PM | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) |
 | Charter Communications | Intern 2027 Summer Intern: Mobile Product INTERN Greenwood Village, CO VIEW JOB | PM | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-mobile-product/4673/100149371488) |
 | Cigna | Product Analytics Summer Intern - Start Date: May 24, 2027 | PM | [Apply](https://jobs.thecignagroup.com/us/en/job/26010180/Product-Analytics-Summer-Intern-Start-Date-May-24-2027) |
+| Disney | Broadcast Architecture Intern Disney Entertainment and ESPN Product & Technology New York, New York / Glendale, California Nov. 05, 2026 | PM | [Apply](https://www.disneycareers.com/en/job/new-york/broadcast-architecture-intern-summer-2027/391/102912870432) |
 | EnviroLogix | New Product Development Intern | PM | [Apply](https://www.linkedin.com/jobs/view/new-product-development-intern-summer-2027-at-envirologix-4484989556) |
 | Figma | Early Career, Associate Product Manager (2027) | PM | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004) |
 | Immuta | Product Research Internship | PM | [Apply](https://www.linkedin.com/jobs/view/product-research-internship-summer-2027-at-immuta-4465314614) |
@@ -1027,6 +1028,7 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | Cadence | Intern: Software Engineering Jasper R&D | Other | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | Charter Communications | Intern 2027 Summer Intern: Data Developer INTERN Greenwood Village, CO VIEW JOB | Other | [Apply](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008) |
 | Cirrus Logic | 2027 Internship - Embedded Firmware Engineer | Other | [Apply](https://www.linkedin.com/jobs/view/2027-internship-embedded-firmware-engineer-at-cirrus-logic-4474628151) |
+| Disney | Enterprise Technology & Data Software Engineering Intern The Walt Disney Company (Corporate) Orlando, Florida Oct. 27, 2026 | Other | [Apply](https://www.disneycareers.com/en/job/orlando/enterprise-technology-and-data-software-engineering-intern-summer-2027/391/102524650928) |
 | Expedia Group | Security Engineering Intern - 2027 - Seattle | Other | [Apply](https://www.linkedin.com/jobs/view/security-engineering-intern-2027-seattle-at-expedia-group-4477977111) |
 | ExxonMobil | 2027 Campus Hire - Electrical / Mechanical / Instrumentation Engineer | Other | [Apply](https://jobs.exxonmobil.com/job/Singapore-2027-Campus-Hire-Electrical-Mechanical-Instrumentation-Engineer-627596/1421839200/) |
 | Federal Express Corporation | BI Developer Intern | Other | [Apply](https://www.linkedin.com/jobs/view/bi-developer-intern-summer-2027-at-federal-express-corporation-4487592052) |
@@ -1139,7 +1141,6 @@ Verified **2026-11-08**. Every role below was found by **active search** (Linked
 | Guardian Industries | Guardian Summer 2027 Digital Technology & Data Intern | Other | [Apply](https://www.linkedin.com/jobs/view/guardian-summer-2027-digital-technology-data-intern-at-guardian-industries-4476078358) |
 | Hilcorp | I-26135 - Information Technology Intern | Other | [Apply](https://www.linkedin.com/jobs/view/i-26135-information-technology-intern-summer-2027-at-hilcorp-4467260400) |
 | Hill's Pet Nutrition | CS&L Data Analyst Co-Op (June 2027-May 2028) | Other | [Apply](https://www.linkedin.com/jobs/view/cs-l-data-analyst-co-op-june-2027-may-2028-at-hill-s-pet-nutrition-4466167174) |
-| Humana | Graduate Analytics Internship | Other | [Apply](https://www.linkedin.com/jobs/view/graduate-analytics-internship-%E2%80%93-summer-2027-at-humana-4463958180) |
 | Huntington Ingalls | 2027 IT SUMMER INTERNSHIP - IT INTERN | Other | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/) |
 | Hy-Vee, Inc. | Data Analytics Intern | Other | [Apply](https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-hy-vee-inc-4476833881) |
 | Intuit | : Business Data Analyst Intern, Strategy & Planning | Other | [Apply](https://www.linkedin.com/jobs/view/summer-2027-business-data-analyst-intern-strategy-planning-at-intuit-4474720730) |
