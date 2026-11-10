@@ -13,7 +13,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 
 ## Open — Apply now (1166)
 
-### AI/ML (181)
+### AI/ML (180)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -79,7 +79,6 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Indiana Biosciences Research Institute (IBRI) | AI Solutions Intern (2027) | AI/ML | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-intern-2027-at-indiana-biosciences-research-institute-ibri-4481685642) |
 | Inmar Intelligence | Data, Analytics & AI Internships | AI/ML | [Apply](https://www.linkedin.com/jobs/view/data-analytics-ai-internships-summer-2027-at-inmar-intelligence-4465556643) |
 | Itron, Inc. | Intern - HR AI Data Science | AI/ML | [Apply](https://www.linkedin.com/jobs/view/intern-hr-ai-data-science-summer-2027-at-itron-inc-4478022511) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Software Engineer/Data Scientist/Ontologist - Threat Analytic Systems | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-software-engineer-data-scientist-ontologist-threat-analytic-systems-at-johns-hopkins-applied-physics-laboratory-4463930404) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship – Artificial Intelligence and Machine Learning (AI/ML) Research Assistant | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-internship-%E2%80%93-artificial-intelligence-and-machine-learning-ai-ml-research-assistant-at-johns-hopkins-applied-physics-laboratory-4470540552) |
 | Kensho Technologies | Machine Learning Engineer - Summer Intern 2027 | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-summer-intern-2027-at-kensho-technologies-4465097575) |
 | Lazard | 2027 Data Scientist Summer Internship | AI/ML | [Apply](https://www.linkedin.com/jobs/view/2027-data-scientist-summer-internship-at-lazard-4469981423) |
@@ -199,7 +198,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Wayfair | Machine Learning Science Intern | AI/ML | [Apply](https://www.linkedin.com/jobs/view/machine-learning-science-intern-summer-2027-at-wayfair-4468170828) |
 | Waymo | 2027 Summer Intern, BS, Waymo ML Ops & Automation | AI/ML | [Apply](https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states) |
 
-### Bio-AI (43)
+### Bio-AI (44)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -233,6 +232,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program – Modeling & Informatics - Intern | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-modeling-informatics-intern-at-merck-4465339815) |
 | Merck | Apply Now 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423/apply) |
 | Merck | Apply Now 2027 Future Talent Program – Discovery Pharmaceutical Sciences - Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Discovery-Pharmaceutical-Sciences---Intern_R413273/apply) |
+| Merck | Apply Now 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | Bio-AI | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062/apply) |
 | Moderna | 2027 Intern, Data Management | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-intern-data-management-at-moderna-4483816185) |
 | PepsiCo | 2027 Summer Intern: Global Capabilities and Life Science | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-global-capabilities-and-life-science-at-pepsico-4463921397) |
 | Philips | Graduate Level Co-op – Data Scientist – Plymouth, MN – January 2027 | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/graduate-level-co-op-%E2%80%93-data-scientist-%E2%80%93-plymouth-mn-%E2%80%93-january-2027-at-philips-4456020908) |
@@ -247,11 +247,10 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, Process Engineering Data Analytics | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/spring-co-op-2027-process-engineering-data-analytics-at-vertex-pharmaceuticals-4471964896) |
 
-### Finance (31)
+### Finance (30)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
-| New York Life Investment Management | 2027 New York Life Investment Management - AI & Data Science Internship | Finance | [Apply](https://www.linkedin.com/jobs/view/2027-new-york-life-investment-management-ai-data-science-internship-at-new-york-life-investment-management-4463131883) |
 | American Express | Campus Graduate I Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-i-summer-internship-program-2027-global-decision-science-credit-fraud-risk-new-york-ny-at-american-express-4461676488) |
 | American Express | Campus Graduate II Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY | Finance | [Apply](https://www.linkedin.com/jobs/view/campus-graduate-ii-summer-internship-program-2027-global-decision-science-credit-fraud-risk-new-york-ny-at-american-express-4460617497) |
 | Arrowstreet Capital | Quantitative Developer Intern | Finance | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
@@ -306,7 +305,6 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Johnson & Johnson MedTech | Software Engineering Co-Op. Summer 2027 | SWE | [Apply](https://www.linkedin.com/jobs/view/software-engineering-co-op-summer-2027-at-johnson-johnson-medtech-4462069611) |
 | Johnson & Johnson MedTech | Vision Q&C Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/summer-2027-vision-q-c-intern-at-johnson-johnson-medtech-4468244271) |
 | Medpace | Python Developer Internship | SWE | [Apply](https://www.linkedin.com/jobs/view/python-developer-internship-summer-2027-at-medpace-4478180378) |
-| Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | SWE | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-candidates-attending-2026-o4u-engineering-conference-at-medtronic-4459033181) |
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) |
 | Medtronic | Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) |
 | Medtronic | Engineering Intern | SWE | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1) |
@@ -315,6 +313,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Merck | 2027 Future Talent Program - Statistical Programmer - Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-statistical-programmer-intern-at-merck-4464690756) |
 | Merck | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-%E2%80%93-translational-sciences-and-outsourcing-%E2%80%93-intern-at-merck-4464416962) |
 | Merck | Apply Now 2027 Future Talent Program – Bioanalytical Sciences – Intern | SWE | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Bioanalytical-Sciences---Intern_R413180/apply) |
+| Merck | Apply Now 2027 Future Talent Program – Digital Transformation Conversion – Intern | SWE | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---Lower-Gwynedd-Township-Spring-House/XMLNAME-2027-Future-Talent-Program---Digital-Transformation-Conversion---Intern_R412942/apply) |
 | Moderna | Intern, Applied Technologies | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-applied-technologies-summer-2027-at-moderna-4463647945) |
 | Philips | Intern - System Test Automation Engineer – San Diego, CA | SWE | [Apply](https://www.linkedin.com/jobs/view/intern-system-test-automation-engineer-%E2%80%93-san-diego-ca-%E2%80%93-summer-2027-at-philips-4472398757) |
 | Regeneron | 2027 Summer Intern Bioanalytical, Analytical & Formulation Sciences | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-bioanalytical-analytical-formulation-sciences-at-regeneron-4484114125) |
@@ -985,7 +984,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | U.S. Bank | 2027 Product Management Summer Intern | PM | [Apply](https://careers.usbank.com/global/en/job/2026-0026766/2027-Product-Management-Summer-Intern) |
 | U.S. Bank | Apply now 2027 Product Management Summer Intern | PM | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766/apply) |
 
-### Other (219)
+### Other (220)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -1001,6 +1000,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Medtronic | IT Intern | Other | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | Merck | 2027 Future Talent Program - Epidemiology and RWE Capabilities & Analytics - Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-epidemiology-and-rwe-capabilities-analytics-intern-at-merck-4464437899) |
 | Merck | 2027 Future Talent Program - International Pricing Analytics - Intern | Other | [Apply](https://www.linkedin.com/jobs/view/2027-future-talent-program-international-pricing-analytics-intern-at-merck-4477480412) |
+| Merck | Apply Now 2027 Future Talent Program - Discovery Chemistry & Process Research - Intern | Other | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395/apply) |
 | Merck | Apply Now 2027 Future Talent Program – Biologics Process Research & Development Intern | Other | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Biologics-Process-Research---Development-Intern_R419589/apply) |
 | Regeneron | 2027 Summer Intern Disease Biology & Immunology Research | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-disease-biology-immunology-research-at-regeneron-4484104387) |
 | Regeneron | 2027 Summer Intern IT & Systems (IOPS) | Other | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-it-systems-iops-at-regeneron-4483894737) |
