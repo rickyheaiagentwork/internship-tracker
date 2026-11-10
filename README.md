@@ -2,7 +2,7 @@
 
 **Just use this README.** Click **Apply** — no server needed.
 
-Verified **2026-11-09**. Every role below was found by **active search** (LinkedIn + company career sites).
+Verified **2026-11-10**. Every role below was found by **active search** (LinkedIn + company career sites).
 
 **Filters:** Summer 2027 · United States · Undergraduate (BS)  
 **Focus:** AI/ML · biomedical / pharma data · financial & investment analytics  
@@ -11,7 +11,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 
 ---
 
-## Open — Apply now (1166)
+## Open — Apply now (1173)
 
 ### AI/ML (180)
 
@@ -247,7 +247,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Stryker | Internship - Data Analytics - Michigan | Bio-AI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, Process Engineering Data Analytics | Bio-AI | [Apply](https://www.linkedin.com/jobs/view/spring-co-op-2027-process-engineering-data-analytics-at-vertex-pharmaceuticals-4471964896) |
 
-### Finance (30)
+### Finance (36)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -270,6 +270,12 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Point72 | Quantitative Research Intern | Finance | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) |
 | Raymond James | 2027 Summer Internship – Equity Research – Multiple Locations | Finance | [Apply](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Equity-Research---Multiple-Locations_R-0012914) |
 | Standard Chartered | Markets Intern US 2027 | Finance | [Apply](https://www.linkedin.com/jobs/view/markets-intern-us-2027-at-standard-chartered-4460143654) |
+| State Street | Apply Now State Street Investment Management - Credit Research - 2027 Summer Internship | Finance | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Credit-Research---2027-Summer-Internship_R-800754/apply) |
+| State Street | Apply Now State Street Investment Management - Index Strategy Analyst - 2027 Summer Internship | Finance | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/State-Street-Investment-Management---Index-Strategy-Analyst---2027-Summer-Internship_R-800658/apply) |
+| State Street | Apply Now State Street Investment Management -Americas Strategy and Insights Analyst - 2027 Summer Internship | Finance | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Americas-Strategy-and-Insights-Analyst---2027-Summer-Internship_R-800657/apply) |
+| State Street | State Street Investment Management - Credit Research - 2027 Summer Internship | Finance | [Apply](https://careers.statestreet.com/global/en/job/R-800754/State-Street-Investment-Management-Credit-Research-2027-Summer-Internship) |
+| State Street | State Street Investment Management - Index Strategy Analyst - 2027 Summer Internship | Finance | [Apply](https://careers.statestreet.com/global/en/job/R-800658/State-Street-Investment-Management-Index-Strategy-Analyst-2027-Summer-Internship) |
+| State Street | State Street Investment Management -Americas Strategy and Insights Analyst - 2027 Summer Internship | Finance | [Apply](https://careers.statestreet.com/global/en/job/R-800657/State-Street-Investment-Management-Americas-Strategy-and-Insights-Analyst-2027-Summer-Internship) |
 | Vermeer Corporation | Data Analytics Internship Summer 2027 | Finance | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) |
 | Voloridge Investment Management | Quantitative Developer Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Voloridge Investment Management | Quantitative Research Intern (2027) | Finance | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
@@ -282,7 +288,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Northwestern Mutual | Public Investments Quantitative Analyst Intern | Finance | [Apply](https://www.linkedin.com/jobs/view/public-investments-quantitative-analyst-intern-summer-2027-at-northwestern-mutual-4453623371) |
 | Principal Financial Group | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate) | Finance | [Apply](https://www.linkedin.com/jobs/view/intern-quantitative-research-principal-asset-allocation-undergrad-or-graduate-summer-2027-at-principal-financial-group-4474566081) |
 
-### SWE (656)
+### SWE (657)
 
 | Company | Role | Category | Apply |
 |---|---|---|---|
@@ -599,6 +605,7 @@ Verified **2026-11-09**. Every role below was found by **active search** (Linked
 | Cadence | Intern Digital Implementation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/VELIZY-Paris/Intern-Digital-Implementation_R55239-1) |
 | Cadence | Intern: Application Engineering - Formal Verification | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Formal-Verification_R54887) |
 | Cadence | Intern: Application Engineering - System Verification: Emulation | SWE | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---System-Verification--Emulation_R54890) |
+| Capital One | 102767243856 11/02/2026 Technology Internship Program - Mexico - 2027 Mexico City, Mexico City | SWE | [Apply](https://www.capitalonecareers.com/job/mexico-city/technology-internship-program-mexico-2027/31238/102767243856) |
 | Capital One | 99109660512 08/12/2026 Business Analyst Intern McLean, VA | SWE | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
 | Catalent | 2027 Intern - Process Development, Upstream | SWE | [Apply](https://www.linkedin.com/jobs/view/2027-intern-process-development-upstream-at-catalent-4473559362) |
 | Caterpillar | Engineering Intern page is loaded | SWE | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Engineering-Intern_R0000385248) |
